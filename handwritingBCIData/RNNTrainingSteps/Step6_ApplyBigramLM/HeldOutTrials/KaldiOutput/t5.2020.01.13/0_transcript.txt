@@ -1,0 +1,13 @@
+0-1  i <space> r e f u s e 
+0-2  i <space> r e f u s e . 
+0-3 , <space> i <space> r e f u s e 
+0-4 , <space> i <space> r e f u s e . 
+0-5  i i <space> r e f u s e 
+0-6 ' <space> i <space> r e f u s e 
+0-7  i <space> r e f u s e d 
+0-8  i <space> d e f u s e 
+0-9 ' <space> i <space> r e f u s e . 
+0-10 , <space> i <space> r e f u s e d 
+0-11 , <space> i <space> d e f u s e 
+0-12 ' <space> i <space> r e f u s e d 
+0-13 ' <space> i <space> d e f u s e 

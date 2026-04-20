@@ -1,0 +1,10 @@
+86-1  n o t <space> t o <space> w o r r y 
+86-2 , <space> n o t <space> t o <space> w o r r y 
+86-3 ' <space> n o t <space> t o <space> w o r r y 
+86-4  p o t <space> t o <space> w o r r y 
+86-5  n o t <space> t o o <space> w o r r y 
+86-6  h o t <space> t o <space> w o r r y 
+86-7 ' m <space> n o t <space> t o <space> w o r r y 
+86-8 , <space> n o t <space> t o o <space> w o r r y 
+86-9 ' <space> n o t <space> t o o <space> w o r r y 
+86-10 ' m <space> n o t <space> t o o <space> w o r r y 

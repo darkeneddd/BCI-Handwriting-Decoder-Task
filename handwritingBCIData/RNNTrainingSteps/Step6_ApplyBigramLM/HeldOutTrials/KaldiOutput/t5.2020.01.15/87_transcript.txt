@@ -1,0 +1,128 @@
+87-1  l o n g <space> t i m e <space> o o o <space> s e e 
+87-2  l o n g <space> t i m e <space> t o <space> s e e 
+87-3  l o n g <space> t i m e <space> o o o <space> s e e . 
+87-4  l o n g <space> t i m e <space> o o <space> s e e 
+87-5  l o n g <space> t i m e <space> r o o <space> s e e 
+87-6  l o n g <space> t i m e <space> t o <space> s e e . 
+87-7  l o n g <space> t i m e <space> n o <space> s e e 
+87-8  l o n g <space> t i m e <space> o o <space> s e e . 
+87-9  l o n g <space> t i m e <space> t o o <space> s e e 
+87-10  l o n g <space> t i m e <space> r o o <space> s e e . 
+87-11  l o n g <space> t i m e <space> n o <space> s e e . 
+87-12  l o n g <space> t i m e <space> t o o <space> s e e . 
+87-13 , <space> l o n g <space> t i m e <space> o o o <space> s e e 
+87-14  l o n g <space> t i m e <space> o o <space> s e . 
+87-15  l o n g <space> t i m e <space> n o <space> s e . 
+87-16  l o n g <space> t i m e <space> o <space> s e e 
+87-17  l o n g <space> t i m e <space> r o o <space> s e . 
+87-18  k o n g <space> t i m e <space> o o o <space> s e e 
+87-19  l o n g <space> t i m e <space> o o o <space> s e . 
+87-20 , <space> l o n g <space> t i m e <space> t o <space> s e e 
+87-21 , <space> l o n g <space> t i m e <space> o o o <space> s e e . 
+87-22  l o n g <space> t i m e <space> h o o <space> s e e 
+87-23  l o n g <space> t i m e <space> n o w <space> s e e 
+87-24 , <space> l o n g <space> t i m e <space> o o <space> s e e 
+87-25  l o n g <space> t i m e <space> o <space> s e e . 
+87-26  k o n g <space> t i m e <space> t o <space> s e e 
+87-27 , <space> l o n g <space> t i m e <space> r o o <space> s e e 
+87-28  k o n g <space> t i m e <space> o o o <space> s e e . 
+87-29  l o n g <space> t i m e <space> n o t <space> s e e 
+87-30 , <space> l o n g <space> t i m e <space> t o <space> s e e . 
+87-31  l o n g <space> t i m e <space> o o <space> s s e . 
+87-32  l o n g <space> t i m e <space> o r <space> s e e 
+87-33  l o n g <space> t i m e <space> o o <space> s e a . 
+87-34  k o n g <space> t i m e <space> o o <space> s e e 
+87-35  l o n g <space> t i m e <space> s o o n <space> s e e 
+87-36  l o n g <space> t i m e <space> h o o <space> s e e . 
+87-37  l o n g <space> t i m e <space> n o w <space> s e e . 
+87-38 , <space> l o n g <space> t i m e <space> n o <space> s e e 
+87-39 , <space> l o n g <space> t i m e <space> o o <space> s e e . 
+87-40  l o n g <space> t i m e <space> r o o <space> s s e . 
+87-41 , <space> l o n g <space> t i m e <space> t o o <space> s e e 
+87-42 ' <space> l o n g <space> t i m e <space> o o o <space> s e e 
+87-43  l o n g <space> t i m e <space> t o o <space> s e . 
+87-44  l o n g <space> t i m e <space> r o o <space> s e a . 
+87-45  k o n g <space> t i m e <space> r o o <space> s e e 
+87-46  k o n g <space> t i m e <space> t o <space> s e e . 
+87-47  l o n g <space> t i m e <space> o o o <space> s s e . 
+87-48 , <space> l o n g <space> t i m e <space> r o o <space> s e e . 
+87-49  l o n g <space> t i m e <space> n o t <space> s e e . 
+87-50  l o n g <space> t i m e <space> n o o n <space> s e e 
+87-51  l o n g <space> t i m e <space> n o <space> s e a . 
+87-52  l o n g <space> t i m e <space> o o o <space> s e a . 
+87-53  l o n g <space> t i m e <space> o r <space> s e e . 
+87-54  k o n g <space> t i m e <space> n o <space> s e e 
+87-55  k o n g <space> t i m e <space> o o <space> s e e . 
+87-56  l o n g <space> t i m e <space> s o o n <space> s e e . 
+87-57 , <space> l o n g <space> t i m e <space> n o <space> s e e . 
+87-58  k o n g <space> t i m e <space> t o o <space> s e e 
+87-59  l o n g <space> t i m e <space> o r o <space> s e . 
+87-60 ' <space> l o n g <space> t i m e <space> t o <space> s e e 
+87-61  l o n g <space> t i m e <space> o o <space> s e a 
+87-62 , <space> l o n g <space> t i m e <space> t o o <space> s e e . 
+87-63  l o n g <space> t i m e <space> o <space> s e . 
+87-64 ' <space> l o n g <space> t i m e <space> o o o <space> s e e . 
+87-65  k o n g <space> t i m e <space> r o o <space> s e e . 
+87-66 ' <space> l o n g <space> t i m e <space> o o <space> s e e 
+87-67  l o n g <space> t i m e <space> r o o <space> s e a 
+87-68 , <space> l o n g <space> t i m e <space> o o <space> s e . 
+87-69 , <space> l o n g <space> t i m e <space> n o <space> s e . 
+87-70  k o n g <space> t i m e <space> n o <space> s e e . 
+87-71  l o n g <space> t i m e <space> n o <space> s e a 
+87-72  l o n g <space> t i m e <space> o o o <space> s e a 
+87-73  k o n g <space> t i m e <space> t o o <space> s e e . 
+87-74 ' <space> l o n g <space> t i m e <space> r o o <space> s e e 
+87-75 , <space> l o n g <space> t i m e <space> o <space> s e e 
+87-76 ' <space> l o n g <space> t i m e <space> t o <space> s e e . 
+87-77 , <space> l o n g <space> t i m e <space> r o o <space> s e . 
+87-78 ' <space> l o n g <space> t i m e <space> n o <space> s e e 
+87-79 ' <space> l o n g <space> t i m e <space> o o <space> s e e . 
+87-80  k o n g <space> t i m e <space> o o <space> s e . 
+87-81 , <space> l o n g <space> t i m e <space> o o o <space> s e . 
+87-82  k o n g <space> t i m e <space> n o <space> s e . 
+87-83 ' <space> l o n g <space> t i m e <space> t o o <space> s e e 
+87-84 , <space> l o n g <space> t i m e <space> h o o <space> s e e 
+87-85 , <space> l o n g <space> t i m e <space> n o w <space> s e e 
+87-86  k o n g <space> t i m e <space> o <space> s e e 
+87-87 ' <space> l o n g <space> t i m e <space> r o o <space> s e e . 
+87-88  k o n g <space> t i m e <space> r o o <space> s e . 
+87-89 , <space> l o n g <space> t i m e <space> o <space> s e e . 
+87-90  k o n g <space> t i m e <space> o o o <space> s e . 
+87-91 ' <space> l o n g <space> t i m e <space> n o <space> s e e . 
+87-92 , <space> l o n g <space> t i m e <space> n o t <space> s e e 
+87-93 , <space> l o n g <space> t i m e <space> o o <space> s s e . 
+87-94 ' <space> l o n g <space> t i m e <space> t o o <space> s e e . 
+87-95  k o n g <space> t i m e <space> h o o <space> s e e 
+87-96  k o n g <space> t i m e <space> n o w <space> s e e 
+87-97 , <space> l o n g <space> t i m e <space> o r <space> s e e 
+87-98 , <space> l o n g <space> t i m e <space> o o <space> s e a . 
+87-99 , <space> l o n g <space> t i m e <space> s o o n <space> s e e 
+87-100 , <space> l o n g <space> t i m e <space> h o o <space> s e e . 
+87-101 , <space> l o n g <space> t i m e <space> n o w <space> s e e . 
+87-102  k o n g <space> t i m e <space> o <space> s e e . 
+87-103 , <space> l o n g <space> t i m e <space> r o o <space> s s e . 
+87-104 ' <space> l o n g <space> t i m e <space> o o <space> s e . 
+87-105 ' <space> l o n g <space> t i m e <space> n o <space> s e . 
+87-106 , <space> l o n g <space> t i m e <space> t o o <space> s e . 
+87-107 , <space> l o n g <space> t i m e <space> r o o <space> s e a . 
+87-108  k o n g <space> t i m e <space> n o t <space> s e e 
+87-109  k o n g <space> t i m e <space> o o <space> s s e . 
+87-110 , <space> l o n g <space> t i m e <space> o o o <space> s s e . 
+87-111 , <space> l o n g <space> t i m e <space> n o t <space> s e e . 
+87-112 ' <space> l o n g <space> t i m e <space> o <space> s e e 
+87-113 , <space> l o n g <space> t i m e <space> n o o n <space> s e e 
+87-114 , <space> l o n g <space> t i m e <space> n o <space> s e a . 
+87-115  k o n g <space> t i m e <space> o r <space> s e e 
+87-116 ' <space> l o n g <space> t i m e <space> r o o <space> s e . 
+87-117  k o n g <space> t i m e <space> o o <space> s e a . 
+87-118 , <space> l o n g <space> t i m e <space> o o o <space> s e a . 
+87-119  k o n g <space> t i m e <space> s o o n <space> s e e 
+87-120  k o n g <space> t i m e <space> h o o <space> s e e . 
+87-121  k o n g <space> t i m e <space> n o w <space> s e e . 
+87-122 , <space> l o n g <space> t i m e <space> o r <space> s e e . 
+87-123 , <space> l o n g <space> t i m e <space> s o o n <space> s e e . 
+87-124  k o n g <space> t i m e <space> r o o <space> s s e . 
+87-125 ' <space> l o n g <space> t i m e <space> o o o <space> s e . 
+87-126 , <space> l o n g <space> t i m e <space> o r o <space> s e . 
+87-127 , <space> l o n g <space> t i m e <space> o o <space> s e a 
+87-128  k o n g <space> t i m e <space> t o o <space> s e . 

@@ -1,0 +1,20 @@
+32-1  h o w <space> a r e <space> y o u . 
+32-2  h o w <space> a r e <space> y o u 
+32-3 , <space> h o w <space> a r e <space> y o u . 
+32-4 , <space> h o w <space> a r e <space> y o u 
+32-5  s h o w <space> a r e <space> y o u . 
+32-6  s h o w <space> a r e <space> y o u 
+32-7  n o w <space> a r e <space> y o u . 
+32-8  n o w <space> a r e <space> y o u 
+32-9 ' <space> h o w <space> a r e <space> y o u . 
+32-10  h o w <space> a r e <space> y o . 
+32-11  h o w <space> a r e <space> y o u . . 
+32-12 ' <space> h o w <space> a r e <space> y o u 
+32-13 , <space> h o w <space> a r e <space> y o . 
+32-14 , <space> h o w <space> a r e <space> y o u . . 
+32-15  s h o w <space> a r e <space> y o . 
+32-16  s h o w <space> a r e <space> y o u . . 
+32-17  n o w <space> a r e <space> y o . 
+32-18  n o w <space> a r e <space> y o u . . 
+32-19 ' <space> h o w <space> a r e <space> y o . 
+32-20 ' <space> h o w <space> a r e <space> y o u . . 

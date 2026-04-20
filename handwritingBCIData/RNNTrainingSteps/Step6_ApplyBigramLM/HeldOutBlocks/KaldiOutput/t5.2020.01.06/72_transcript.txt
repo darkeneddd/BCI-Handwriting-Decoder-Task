@@ -1,0 +1,128 @@
+72-1  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-2  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-3 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-4  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? 
+72-5  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-6  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-7  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-8  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? 
+72-9 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-10  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g . 
+72-11  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? . 
+72-12  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-13  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-14 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-15 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? 
+72-16 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-17  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-18  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g . 
+72-19  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g . 
+72-20 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-21 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-22  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g 
+72-23  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? ? 
+72-24 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? 
+72-25  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? ? 
+72-26  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-27  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-28 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-29 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g . 
+72-30  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g 
+72-31 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? . 
+72-32 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-33  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? . 
+72-34  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? 
+72-35  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-36 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-37  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-38 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? 
+72-39 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-40 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-41 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g . 
+72-42 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g . 
+72-43  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-44  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? . 
+72-45  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-46  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-47 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-48  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-49  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? . 
+72-50 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-51  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? 
+72-52  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? 
+72-53 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g 
+72-54 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? 
+72-55 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? ? 
+72-56 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? ? 
+72-57 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-58  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g . 
+72-59 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-60 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g . 
+72-61  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? . 
+72-62  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? . 
+72-63 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? . 
+72-64  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-65 ' <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-66 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g 
+72-67 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-68 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? . 
+72-69 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? 
+72-70 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-71  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-72  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g . 
+72-73 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-74 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-75  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g . 
+72-76 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g . 
+72-77  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g . 
+72-78  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g . 
+72-79 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g . 
+72-80 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-81 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? . 
+72-82 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-83  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g 
+72-84  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? ? 
+72-85 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-86 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-87 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? . 
+72-88 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g 
+72-89 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? 
+72-90  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? ? 
+72-91 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? ? 
+72-92  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? ? 
+72-93 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? 
+72-94  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? ? 
+72-95 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? ? 
+72-96  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-97 ' <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-98 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g . 
+72-99 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g . 
+72-100  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g 
+72-101 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? . 
+72-102  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? . 
+72-103  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g 
+72-104 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g 
+72-105 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? . 
+72-106 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? 
+72-107 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? . 
+72-108  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-109 ' <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? 
+72-110 ' <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-111 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-112 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o n e <space> f o r <space> v e r y <space> l o n g ? ? 
+72-113 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g . 
+72-114 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g . 
+72-115 , <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g . 
+72-116  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? . 
+72-117 , <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g . 
+72-118  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-119  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? . 
+72-120 ' <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-121 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? . 
+72-122  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-123  h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? . 
+72-124 ' <space> h a s <space> t h <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-125 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> v e r y <space> l o n g 
+72-126  h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? . 
+72-127 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n n <space> s t o r e <space> f o r <space> e v e r y <space> l o n g ? 
+72-128 ' <space> h a s <space> t h e <space> f u r n i t u r e <space> b e e n <space> i n <space> s t o r e <space> f o r <space> a <space> v e r y <space> l o n g ? . 

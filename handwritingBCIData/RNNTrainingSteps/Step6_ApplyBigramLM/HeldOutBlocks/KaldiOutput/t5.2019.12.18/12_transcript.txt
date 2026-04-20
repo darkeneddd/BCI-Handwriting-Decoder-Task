@@ -1,0 +1,6 @@
+12-1  t h e <space> o t h e r <space> p a p e r s <space> h a d <space> a p p a r e n t l y <space> s a t i s f i e d <space> t h e <space> e x a m i n e r s . 
+12-2 , <space> t h e <space> o t h e r <space> p a p e r s <space> h a d <space> a p p a r e n t l y <space> s a t i s f i e d <space> t h e <space> e x a m i n e r s . 
+12-3 ' <space> t h e <space> o t h e r <space> p a p e r s <space> h a d <space> a p p a r e n t l y <space> s a t i s f i e d <space> t h e <space> e x a m i n e r s . 
+12-4  t h e <space> o t h e r <space> p a p e r s <space> h a d <space> a p p a r e n t l y <space> s a t i s f i e d <space> t h e <space> e x a m i n e r ' s . 
+12-5 , <space> t h e <space> o t h e r <space> p a p e r s <space> h a d <space> a p p a r e n t l y <space> s a t i s f i e d <space> t h e <space> e x a m i n e r ' s . 
+12-6 ' <space> t h e <space> o t h e r <space> p a p e r s <space> h a d <space> a p p a r e n t l y <space> s a t i s f i e d <space> t h e <space> e x a m i n e r ' s . 

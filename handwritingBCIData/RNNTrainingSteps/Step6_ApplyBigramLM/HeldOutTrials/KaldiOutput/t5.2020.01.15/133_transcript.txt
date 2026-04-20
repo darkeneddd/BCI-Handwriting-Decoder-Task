@@ -1,0 +1,128 @@
+133-1  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-2  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-3  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-4  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-5  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-6  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-7  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-8  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-9 , <space> o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-10  o n c e , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-11 , <space> o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-12 , <space> o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-13 , <space> o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-14 , <space> o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-15  o n c e , , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-16  o n c e , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-17  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-18 , <space> o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-19 , <space> o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-20  o n c e <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-21  o n c e , , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-22  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-23 , <space> o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-24  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-25  o n c e , , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-26  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-27  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-28  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-29  o n c e <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-30  o n c e , , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-31  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-32  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-33  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-34  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-35  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-36  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-37  o n c e <space> i t <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-38  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-39  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-40  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-41  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-42  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-43  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-44  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-45  o n c e , <space> i t <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-46  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-47  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-48  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-49  o n c e <space> i <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-50  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-51  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-52 ' <space> o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-53  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-54  o n c e <space> i t <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-55 , <space> o n c e , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-56  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-57  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-58  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-59  o n c e , <space> i <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-60  o n c e <space> i t <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-61  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-62  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-63  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-64  o n c e <space> i t <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-65 ' <space> o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-66  o n c e , <space> i t <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-67  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h e a d <space> s a v e d <space> h i s <space> l i f e . 
+133-68  o n c e , <space> i f <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-69  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-70  o n c e <space> t f <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-71 ' <space> o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-72  o n c e <space> i <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-73  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-74  o n c e , <space> i t <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-75  o n c e , <space> t t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-76  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-77  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-78  o n c e , , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-79  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-80  o n c e <space> i <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-81  o n c e , <space> i t <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-82  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-83  o n c e <space> t t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-84 ' <space> o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-85 ' <space> o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-86  o n c e , <space> i <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-87  o n c e <space> i t <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-88 , <space> o n c e , , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-89 , <space> o n c e , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-90  o n c e <space> i <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-91 , <space> o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-92  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l s <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-93  o n c e , <space> i <space> h a d <space> a <space> m a n n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-94  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-95  o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-96 , <space> o n c e <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-97  o n c e , <space> i <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-98  o n c e , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-99  o n c e <space> i t <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-100 ' <space> o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-101  o n c e , <space> i t <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-102  o n c e , <space> i f <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-103 , <space> o n c e , , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-104  o n c e <space> t f <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-105 , <space> o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-106 ' <space> o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-107  o n c e <space> i <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-108 , <space> o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-109  o n c e , <space> t t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-110  o n c e , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-111  o n c e , , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-112  o n c e , <space> i t <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-113  o n c e <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-114  o n c e <space> t t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-115 ' <space> o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-116  o n c e , <space> i <space> h a d <space> a <space> m e n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-117 , <space> o n c e , , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-118 , <space> o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-119  o n c e <space> i <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-120 , <space> o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-121 , <space> o n c e <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-122  o n c e , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s h a r e d <space> h i s <space> l i f e . 
+133-123  o n c e , , <space> i t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-124  o n c e , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i <space> h a d <space> s a e e d <space> h i s <space> l i f e . 
+133-125 , <space> o n c e <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-126  o n c e , <space> i <space> h a d <space> a <space> m e a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 
+133-127  o n c e , <space> t <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . . 
+133-128 , <space> o n c e , , <space> i <space> h a d <space> a <space> m a n <space> t e l l <space> m e <space> t h a t <space> i t <space> h a d <space> s a v e d <space> h i s <space> l i f e . 

@@ -1,0 +1,24 @@
+117-1  l i t t l e <space> s t a r 
+117-2  l i t t l e <space> s t a r . 
+117-3  l i t t l e <space> s t a . 
+117-4  l i t t l e <space> s t a n 
+117-5  l i t t l e <space> s t a n . 
+117-6 , <space> l i t t l e <space> s t a r 
+117-7 , <space> l i t t l e <space> s t a r . 
+117-8 , <space> l i t t l e <space> s t a . 
+117-9 , <space> l i t t l e <space> s t a n 
+117-10  l i t t l e <space> s t a r r . 
+117-11  l i t t l e <space> s t a n d 
+117-12  l i t t l e <space> s t a t . 
+117-13 , <space> l i t t l e <space> s t a n . 
+117-14  a <space> l i t t l e <space> s t a r 
+117-15  a <space> l i t t l e <space> s t a r . 
+117-16  a <space> l i t t l e <space> s t a . 
+117-17  a <space> l i t t l e <space> s t a n 
+117-18  a <space> l i t t l e <space> s t a n . 
+117-19 , <space> l i t t l e <space> s t a r r . 
+117-20 , <space> l i t t l e <space> s t a n d 
+117-21 , <space> l i t t l e <space> s t a t . 
+117-22  a <space> l i t t l e <space> s t a r r . 
+117-23  a <space> l i t t l e <space> s t a n d 
+117-24  a <space> l i t t l e <space> s t a t . 

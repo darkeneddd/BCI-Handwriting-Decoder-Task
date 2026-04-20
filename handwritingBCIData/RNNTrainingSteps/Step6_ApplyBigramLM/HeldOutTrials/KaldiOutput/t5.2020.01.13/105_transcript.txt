@@ -1,0 +1,6 @@
+105-1  n o <space> w a y 
+105-2 , <space> n o <space> w a y 
+105-3  n o <space> w a y . 
+105-4 ' <space> n o <space> w a y 
+105-5 , <space> n o <space> w a y . 
+105-6 ' <space> n o <space> w a y . 

@@ -1,0 +1,52 @@
+81-1  i s <space> i t <space> t r u e . 
+81-2  i s <space> i t <space> t r u e 
+81-3 , <space> i s <space> i t <space> t r u e . 
+81-4  i s <space> i t <space> t h u s 
+81-5 , <space> i s <space> i t <space> t r u e 
+81-6  i s <space> i t <space> t r u e ? 
+81-7  i s <space> i t <space> t r u . 
+81-8  i s <space> i t <space> t h r u . 
+81-9  i s <space> i t <space> t r u 
+81-10  m i s s <space> i t <space> t r u e . 
+81-11  i s <space> i t <space> t h u . 
+81-12  i s <space> i t <space> t r i e d 
+81-13  i s <space> i t <space> t h o u . 
+81-14 ' <space> i s <space> i t <space> t r u e . 
+81-15  i s <space> i t <space> t h u s . 
+81-16  i s <space> i t <space> t r i e d . 
+81-17  i s <space> i t <space> t r e e . 
+81-18  m i s s <space> i t <space> t r u e 
+81-19 ' <space> i s <space> i t <space> t r u e 
+81-20 , <space> i s <space> i t <space> t h u s 
+81-21 , <space> i s <space> i t <space> t r u e ? 
+81-22 , <space> i s <space> i t <space> t r u . 
+81-23 , <space> i s <space> i t <space> t h r u . 
+81-24 , <space> i s <space> i t <space> t r u 
+81-25 , <space> i s <space> i t <space> t h u . 
+81-26 , <space> i s <space> i t <space> t r i e d 
+81-27 , <space> i s <space> i t <space> t h o u . 
+81-28 , <space> i s <space> i t <space> t h u s . 
+81-29 , <space> i s <space> i t <space> t r i e d . 
+81-30  m i s s <space> i t <space> t h u s 
+81-31 , <space> i s <space> i t <space> t r e e . 
+81-32  m i s s <space> i t <space> t r u e ? 
+81-33 ' <space> i s <space> i t <space> t h u s 
+81-34  m i s s <space> i t <space> t r u . 
+81-35 ' <space> i s <space> i t <space> t r u e ? 
+81-36  m i s s <space> i t <space> t h r u . 
+81-37  m i s s <space> i t <space> t r u 
+81-38  m i s s <space> i t <space> t h u . 
+81-39 ' <space> i s <space> i t <space> t r u . 
+81-40 ' <space> i s <space> i t <space> t h r u . 
+81-41  m i s s <space> i t <space> t r i e d 
+81-42  m i s s <space> i t <space> t h o u . 
+81-43 ' <space> i s <space> i t <space> t r u 
+81-44  m i s s <space> i t <space> t h u s . 
+81-45  m i s s <space> i t <space> t r i e d . 
+81-46 ' <space> i s <space> i t <space> t h u . 
+81-47  m i s s <space> i t <space> t r e e . 
+81-48 ' <space> i s <space> i t <space> t r i e d 
+81-49 ' <space> i s <space> i t <space> t h o u . 
+81-50 ' <space> i s <space> i t <space> t h u s . 
+81-51 ' <space> i s <space> i t <space> t r i e d . 
+81-52 ' <space> i s <space> i t <space> t r e e . 

@@ -1,0 +1,16 @@
+35-1  i <space> o w e <space> y o u 
+35-2 , <space> i <space> o w e <space> y o u 
+35-3  i <space> o w e <space> y o 
+35-4  i <space> o w e <space> y o o 
+35-5 , <space> i <space> o w e <space> y o 
+35-6  i <space> o w e <space> y o u . 
+35-7 ' <space> i <space> o w e <space> y o u 
+35-8 , <space> i <space> o w e <space> y o o 
+35-9  i i <space> o w e <space> y o u 
+35-10 , <space> i <space> o w e <space> y o u . 
+35-11 ' <space> i <space> o w e <space> y o 
+35-12  i i <space> o w e <space> y o 
+35-13 ' <space> i <space> o w e <space> y o o 
+35-14 ' <space> i <space> o w e <space> y o u . 
+35-15  i i <space> o w e <space> y o o 
+35-16  i i <space> o w e <space> y o u . 

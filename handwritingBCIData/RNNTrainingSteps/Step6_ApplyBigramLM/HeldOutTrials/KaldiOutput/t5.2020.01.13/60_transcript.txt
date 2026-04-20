@@ -1,0 +1,16 @@
+60-1  l o t s <space> o f <space> q u e s t i o n s 
+60-2 , <space> l o t s <space> o f <space> q u e s t i o n s 
+60-3  l o t s <space> o f <space> q u e s t i o n s . 
+60-4 , <space> l o t s <space> o f <space> q u e s t i o n s . 
+60-5  l o t s <space> o f <space> q u e s t i o n . 
+60-6  p l o t s <space> o f <space> q u e s t i o n s 
+60-7 ' <space> l o t s <space> o f <space> q u e s t i o n s 
+60-8  l o t s <space> o f <space> q u e s t i o n s ? 
+60-9 , <space> l o t s <space> o f <space> q u e s t i o n . 
+60-10  p l o t s <space> o f <space> q u e s t i o n s . 
+60-11 ' <space> l o t s <space> o f <space> q u e s t i o n s . 
+60-12 , <space> l o t s <space> o f <space> q u e s t i o n s ? 
+60-13  p l o t s <space> o f <space> q u e s t i o n . 
+60-14 ' <space> l o t s <space> o f <space> q u e s t i o n . 
+60-15  p l o t s <space> o f <space> q u e s t i o n s ? 
+60-16 ' <space> l o t s <space> o f <space> q u e s t i o n s ? 

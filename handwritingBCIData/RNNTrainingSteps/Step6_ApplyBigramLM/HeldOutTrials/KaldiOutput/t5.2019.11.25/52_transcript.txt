@@ -1,0 +1,75 @@
+52-1  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-2  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-3 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-4  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-5  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-6 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-7  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . 
+52-8  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+52-9  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-10  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-11  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-12  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-13  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u 
+52-14  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+52-15  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . 
+52-16  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-17  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u 
+52-18 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . 
+52-19 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+52-20  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . 
+52-21  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+52-22  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . 
+52-23  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+52-24 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-25 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u 
+52-26 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+52-27 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . 
+52-28  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-29  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . . 
+52-30  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u 
+52-31  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+52-32  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-33  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . 
+52-34  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+52-35  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . 
+52-36  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u 
+52-37  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+52-38  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . 
+52-39  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u ? 
+52-40 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u 
+52-41  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-42  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o . 
+52-43  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . . 
+52-44  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u 
+52-45  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u 
+52-46  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+52-47  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . 
+52-48  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u 
+52-49  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u ? 
+52-50 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . . 
+52-51  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o . 
+52-52  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u 
+52-53  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . . 
+52-54  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . . 
+52-55 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u ? 
+52-56 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o . 
+52-57 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . . 
+52-58  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u ? 
+52-59  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o . 
+52-60  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u ? 
+52-61  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u . . 
+52-62  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . . 
+52-63  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o . 
+52-64  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . . 
+52-65 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u ? 
+52-66 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o . 
+52-67  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o u ? 
+52-68  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u ? 
+52-69  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o , <space> f o r <space> y o . 
+52-70  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o . 
+52-71  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u ? 
+52-72  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u . . 
+52-73  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o . 
+52-74  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o u ? 
+52-75  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o n <space> f o r <space> y o . 

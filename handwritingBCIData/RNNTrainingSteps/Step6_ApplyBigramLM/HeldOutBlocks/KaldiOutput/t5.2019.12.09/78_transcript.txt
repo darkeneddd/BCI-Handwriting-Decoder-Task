@@ -1,0 +1,36 @@
+78-1  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e 
+78-2  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e . 
+78-3 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e 
+78-4 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e . 
+78-5 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e 
+78-6  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e 
+78-7  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e s 
+78-8  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e 
+78-9 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e . 
+78-10  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e . 
+78-11  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e . 
+78-12 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e 
+78-13 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e s 
+78-14 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e 
+78-15 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e . 
+78-16 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e . 
+78-17 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e 
+78-18 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a <space> p i t c h e d <space> b a t t l e s 
+78-19 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e 
+78-20  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e s 
+78-21  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e 
+78-22  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e s 
+78-23 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e . 
+78-24 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e . 
+78-25  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e . 
+78-26 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e s 
+78-27 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e 
+78-28 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e s 
+78-29 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e . 
+78-30 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a <space> p i t c h e d <space> b a t t l e s 
+78-31 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e 
+78-32 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e s 
+78-33  t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e s 
+78-34 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e . 
+78-35 , <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e s 
+78-36 ' <space> t h e <space> s c e n e <space> w a s <space> a l l <space> s e t s <space> f o r <space> a a <space> p i t c h e d <space> b a t t l e s 

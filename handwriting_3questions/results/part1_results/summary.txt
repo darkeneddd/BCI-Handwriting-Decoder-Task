@@ -1,0 +1,186 @@
+======================================================================
+SECTION 1 — Config
+======================================================================
+Dataset root   : /Users/yang/Desktop/py/3803/handwritingBCIData/Datasets
+Sessions       : 10
+Characters     : 31
+T_fixed        : 100 bins  (1000 ms)
+n_channels     : 192
+Smoothing σ    : 20.0 ms  → 2.0 bins
+Movement window: [51, 151)  (go-cue at bin 51)
+
+======================================================================
+SECTION 2 — Load preprocessed trials
+======================================================================
+trials shape   : (3627, 100, 192)  (N × T × C)
+dtype          : float32
+value range    : [-2.263, 16.669]
+mean / std     : 0.0576 / 0.4421
+unique labels  : ['a', 'apostrophe', 'b', 'c', 'comma', 'd', 'e', 'f', 'g', 'greaterThan', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'questionMark', 'r', 's', 't', 'tilde', 'u', 'v', 'w', 'x', 'y', 'z']
+unique sessions: ['t5.2019.05.08', 't5.2019.11.25', 't5.2019.12.09', 't5.2019.12.11', 't5.2019.12.18', 't5.2019.12.20', 't5.2020.01.06', 't5.2020.01.08', 't5.2020.01.13', 't5.2020.01.15']
+
+======================================================================
+SECTION 3 — Class distribution
+======================================================================
+  [figure] fig01_class_distribution.png
+label
+a               117
+apostrophe      117
+b               117
+c               117
+comma           117
+d               117
+e               117
+f               117
+g               117
+greaterThan     117
+h               117
+i               117
+j               117
+k               117
+l               117
+m               117
+n               117
+o               117
+p               117
+q               117
+questionMark    117
+r               117
+s               117
+t               117
+tilde           117
+u               117
+v               117
+w               117
+x               117
+y               117
+z               117
+
+======================================================================
+SECTION 4 — Session & block structure
+======================================================================
+      session  n_trials  n_blocks  n_classes
+t5.2019.05.08       837         9         31
+t5.2019.11.25       310         2         31
+t5.2019.12.09       310         2         31
+t5.2019.12.11       310         2         31
+t5.2019.12.18       310         2         31
+t5.2019.12.20       310         2         31
+t5.2020.01.06       310         2         31
+t5.2020.01.08       310         2         31
+t5.2020.01.13       310         2         31
+t5.2020.01.15       310         2         31
+
+======================================================================
+SECTION 5 — Train / val / test splits
+======================================================================
+[block_aware         ]  train= 1860 (51%)  val= 186 (5%)  test=1581 (44%)  total=3627
+[random_trial        ]  train= 1813 (50%)  val= 907 (25%)  test= 907 (25%)  total=3627
+
+======================================================================
+SECTION 6 — Mean neural activity heatmaps
+======================================================================
+  [figure] fig02_mean_neural_activity_heatmaps.png
+
+======================================================================
+SECTION 7 — Single-trial vs mean channel traces
+======================================================================
+Top-5 most discriminative channels: [189, 13, 185, 127, 180]
+  [figure] fig03_single_trial_traces.png
+
+======================================================================
+SECTION 8 — Feature representations
+======================================================================
+Flat feature shape    : (3627, 19200)   (100 bins × 192 channels)
+Temporal feature shape: (3627, 576)  (3 windows × 192 channels)
+  window 'early': bins [0, 33)  → 330 ms
+  window 'middle': bins [33, 66)  → 330 ms
+  window 'late': bins [66, 100)  → 340 ms
+
+======================================================================
+SECTION 9 — PCA of flat features
+======================================================================
+Explained variance (top 10 PCs): 8.1%
+  PC1:1.4%  PC2:1.2%  PC3:1.0%  PC4:0.8%  PC5:0.8%  PC6:0.7%  PC7:0.6%  PC8:0.6%  PC9:0.5%  PC10:0.5%
+  [figure] fig04_pca_scatter.png
+  [figure] fig05_pca_scree.png
+
+======================================================================
+SECTION 10 — Pre-computed feature NPZ inspection
+======================================================================
+  features_flat_block_aware.npz                  train=(1860, 19200)  val=(186, 19200)  test=(1581, 19200)
+  features_flat_random_trial.npz                 train=(1813, 19200)  val=(907, 19200)  test=(907, 19200)
+  features_temporal_block_aware.npz              train=(1860, 576)  val=(186, 576)  test=(1581, 576)
+  features_temporal_random_trial.npz             train=(1813, 576)  val=(907, 576)  test=(907, 576)
+
+======================================================================
+SECTION 11 — Saved model-results tables
+======================================================================
+
+all_models_summary.csv  (20 rows, cols: ['model', 'features', 'split', 'best_hparams', 'val_accuracy', 'val_macro_f1', 'test_accuracy', 'test_macro_f1', 'n_train', 'n_val', 'n_test', 'feature_dim'])
+   model features        split                                                                                                                                                             best_hparams  val_accuracy  val_macro_f1  test_accuracy  test_macro_f1  n_train  n_val  n_test  feature_dim
+     SVM temporal  block_aware                                                                                                                                            {'C': 10.0, 'gamma': 'scale'}      0.854839      0.851099       0.855787       0.852950     1860    186    1581          576
+     SVM temporal random_trial                                                                                                                                            {'C': 10.0, 'gamma': 'scale'}      0.863286      0.861066       0.844542       0.843566     1813    907     907          576
+Logistic     flat random_trial                                                                                                                         {'max_iter': 2000, 'solver': 'lbfgs', 'C': 10.0}      0.854465      0.847411       0.840132       0.838917     1813    907     907        19200
+     SVM     flat random_trial                                                                                                                                            {'C': 10.0, 'gamma': 'scale'}      0.852260      0.850535       0.833517       0.834301     1813    907     907        19200
+     SVM     flat  block_aware                                                                                                                                            {'C': 10.0, 'gamma': 'scale'}      0.844086      0.838843       0.829222       0.825812     1860    186    1581        19200
+Logistic     flat  block_aware                                                                                                                          {'max_iter': 2000, 'solver': 'lbfgs', 'C': 0.1}      0.822581      0.807928       0.822897       0.818190     1860    186    1581        19200
+Logistic temporal random_trial                                                                                                                         {'max_iter': 2000, 'solver': 'lbfgs', 'C': 0.01}      0.850055      0.845425       0.818082       0.815480     1813    907     907          576
+Logistic temporal  block_aware                                                                                                                          {'max_iter': 2000, 'solver': 'lbfgs', 'C': 1.0}      0.801075      0.791077       0.805187       0.801340     1860    186    1581          576
+     MLP temporal  block_aware {'hidden_layer_sizes': [256], 'alpha': 0.0001, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.709677      0.705225       0.746996       0.743892     1860    186    1581          576
+   Ridge temporal random_trial                                                                                                                                                          {'alpha': 10.0}      0.737596      0.729941       0.727674       0.724352     1813    907     907          576
+
+linear_metrics.csv  (12 rows, cols: ['model', 'features', 'split', 'best_hparams', 'val_accuracy', 'val_macro_f1', 'test_accuracy', 'test_macro_f1', 'n_train', 'n_val', 'n_test', 'feature_dim'])
+    model features        split                                     best_hparams  val_accuracy  val_macro_f1  test_accuracy  test_macro_f1  n_train  n_val  n_test  feature_dim
+ Logistic     flat random_trial {'max_iter': 2000, 'solver': 'lbfgs', 'C': 10.0}      0.854465      0.847411       0.840132       0.838917     1813    907     907        19200
+ Logistic     flat  block_aware  {'max_iter': 2000, 'solver': 'lbfgs', 'C': 0.1}      0.822581      0.807928       0.822897       0.818190     1860    186    1581        19200
+ Logistic temporal random_trial {'max_iter': 2000, 'solver': 'lbfgs', 'C': 0.01}      0.850055      0.845425       0.818082       0.815480     1813    907     907          576
+ Logistic temporal  block_aware  {'max_iter': 2000, 'solver': 'lbfgs', 'C': 1.0}      0.801075      0.791077       0.805187       0.801340     1860    186    1581          576
+    Ridge temporal random_trial                                  {'alpha': 10.0}      0.737596      0.729941       0.727674       0.724352     1813    907     907          576
+LinearSVM temporal random_trial                    {'max_iter': 3000, 'C': 0.01}      0.736494      0.732764       0.703418       0.701696     1813    907     907          576
+    Ridge temporal  block_aware                                  {'alpha': 10.0}      0.661290      0.642305       0.703352       0.695170     1860    186    1581          576
+LinearSVM temporal  block_aware                    {'max_iter': 3000, 'C': 0.01}      0.629032      0.630388       0.677419       0.671665     1860    186    1581          576
+    Ridge     flat random_trial                                   {'alpha': 0.1}      0.637266      0.632302       0.638368       0.634018     1813    907     907        19200
+LinearSVM     flat random_trial                    {'max_iter': 3000, 'C': 0.01}      0.638368      0.624251       0.613010       0.601259     1813    907     907        19200
+
+nonlinear_metrics.csv  (8 rows, cols: ['model', 'features', 'split', 'best_hparams', 'val_accuracy', 'val_macro_f1', 'test_accuracy', 'test_macro_f1', 'n_train', 'n_val', 'n_test', 'feature_dim'])
+model features        split                                                                                                                                                                 best_hparams  val_accuracy  val_macro_f1  test_accuracy  test_macro_f1  n_train  n_val  n_test  feature_dim
+  SVM temporal  block_aware                                                                                                                                                {'C': 10.0, 'gamma': 'scale'}      0.854839      0.851099       0.855787       0.852950     1860    186    1581          576
+  SVM temporal random_trial                                                                                                                                                {'C': 10.0, 'gamma': 'scale'}      0.863286      0.861066       0.844542       0.843566     1813    907     907          576
+  SVM     flat random_trial                                                                                                                                                {'C': 10.0, 'gamma': 'scale'}      0.852260      0.850535       0.833517       0.834301     1813    907     907        19200
+  SVM     flat  block_aware                                                                                                                                                {'C': 10.0, 'gamma': 'scale'}      0.844086      0.838843       0.829222       0.825812     1860    186    1581        19200
+  MLP temporal  block_aware     {'hidden_layer_sizes': [256], 'alpha': 0.0001, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.709677      0.705225       0.746996       0.743892     1860    186    1581          576
+  MLP temporal random_trial {'hidden_layer_sizes': [256, 128], 'alpha': 0.001, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.753032      0.749609       0.722161       0.720462     1813    907     907          576
+  MLP     flat random_trial       {'hidden_layer_sizes': [256], 'alpha': 0.01, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.725469      0.721638       0.710033       0.706916     1813    907     907        19200
+  MLP     flat  block_aware {'hidden_layer_sizes': [256, 128], 'alpha': 0.001, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.715054      0.696939       0.671727       0.668753     1860    186    1581        19200
+
+pca_metrics.csv  (50 rows, cols: ['model', 'features', 'n_components', 'split', 'best_hparams', 'val_accuracy', 'val_macro_f1', 'test_accuracy', 'test_macro_f1'])
+             model features  n_components        split                                                                                                                                                                  best_hparams  val_accuracy  val_macro_f1  test_accuracy  test_macro_f1
+LogisticRegression     flat           NaN random_trial                                                                                                                              {'max_iter': 2000, 'solver': 'lbfgs', 'C': 10.0}      0.850109      0.845610       0.849015       0.850201
+LogisticRegression     flat           NaN  block_aware                                                                                                                              {'max_iter': 2000, 'solver': 'lbfgs', 'C': 0.01}      0.822917      0.815540       0.824197       0.817238
+               MLP flat_pca          50.0 random_trial      {'hidden_layer_sizes': [128], 'alpha': 0.0001, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.812910      0.810041       0.812910       0.815904
+LogisticRegression flat_pca         100.0 random_trial                                                                                                                               {'max_iter': 2000, 'solver': 'lbfgs', 'C': 0.1}      0.806346      0.805510       0.812910       0.817054
+LogisticRegression flat_pca         200.0 random_trial                                                                                                                               {'max_iter': 2000, 'solver': 'lbfgs', 'C': 0.1}      0.809628      0.809010       0.804158       0.806383
+         LinearSVC flat_pca         100.0 random_trial                                                                                                                                                  {'max_iter': 3000, 'C': 0.1}      0.793217      0.789525       0.803063       0.803344
+               MLP flat_pca         100.0 random_trial {'hidden_layer_sizes': [256, 128], 'alpha': 0.0001, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.818381      0.815615       0.797593       0.801813
+               MLP flat_pca          20.0 random_trial   {'hidden_layer_sizes': [256, 128], 'alpha': 0.01, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.800875      0.802296       0.794311       0.797941
+               MLP flat_pca          50.0  block_aware {'hidden_layer_sizes': [256, 128], 'alpha': 0.0001, 'learning_rate_init': 0.001, 'max_iter': 500, 'early_stopping': True, 'validation_fraction': 0.1, 'n_iter_no_change': 15}      0.802083      0.798232       0.792060       0.793029
+         LinearSVC flat_pca         200.0 random_trial                                                                                                                                                 {'max_iter': 3000, 'C': 0.01}      0.796499      0.793574       0.785558       0.786507
+
+======================================================================
+SECTION 12 — Preprocessing summary
+======================================================================
+Sessions processed : 10
+Total trials       : 3627
+Excluded doNothing : 27
+T_fixed / channels : 100 bins / 192 ch
+N classes          : 31
+Preprocessing steps:
+  A2: block-mean subtraction (meansPerBlock from MATLAB dataset)
+  A3: global channel normalization (stdAcrossAllData from MATLAB dataset)
+  A4: Gaussian temporal smoothing (sigma_ms=20.0, dt_ms=10.0, sigma_bins=2.0)
+  A6: movement-window extraction (bins [51, 151) → T_fixed=100)
+
+======================================================================
+All outputs written to: /Users/yang/Desktop/py/3803/handwriting_3questions/results/part1_results
+======================================================================

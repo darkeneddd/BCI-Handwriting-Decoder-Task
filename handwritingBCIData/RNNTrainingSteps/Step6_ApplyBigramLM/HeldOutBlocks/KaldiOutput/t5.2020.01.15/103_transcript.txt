@@ -1,0 +1,18 @@
+103-1  e a g l e <space> n e s t 
+103-2 , <space> e a g l e <space> n e s t 
+103-3  e a g l e <space> e s t 
+103-4  e a g l e <space> r e s t 
+103-5  e a g l e <space> e a s t 
+103-6 ' <space> e a g l e <space> n e s t 
+103-7  e a g l e <space> n e s s . 
+103-8  e a g l e <space> c r e s t 
+103-9 , <space> e a g l e <space> e s t 
+103-10 , <space> e a g l e <space> r e s t 
+103-11 , <space> e a g l e <space> e a s t 
+103-12 ' <space> e a g l e <space> e s t 
+103-13 , <space> e a g l e <space> n e s s . 
+103-14 ' <space> e a g l e <space> r e s t 
+103-15 , <space> e a g l e <space> c r e s t 
+103-16 ' <space> e a g l e <space> e a s t 
+103-17 ' <space> e a g l e <space> n e s s . 
+103-18 ' <space> e a g l e <space> c r e s t 

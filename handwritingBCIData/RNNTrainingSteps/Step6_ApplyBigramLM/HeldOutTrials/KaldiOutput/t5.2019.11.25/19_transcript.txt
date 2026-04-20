@@ -1,0 +1,18 @@
+19-1  s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h e <space> r e a d <space> t h e <space> p a p e r . 
+19-2 , <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h e <space> r e a d <space> t h e <space> p a p e r . 
+19-3  s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h <space> r e a d <space> t h e <space> p a p e r . 
+19-4 , <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h <space> r e a d <space> t h e <space> p a p e r . 
+19-5 ' <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h e <space> r e a d <space> t h e <space> p a p e r . 
+19-6  s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h h <space> r e a d <space> t h e <space> p a p e r . 
+19-7  s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h e <space> r e a d <space> t h e <space> p a p e r . 
+19-8 , <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h h <space> r e a d <space> t h e <space> p a p e r . 
+19-9 , <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h e <space> r e a d <space> t h e <space> p a p e r . 
+19-10 ' <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h <space> r e a d <space> t h e <space> p a p e r . 
+19-11  s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h <space> r e a d <space> t h e <space> p a p e r . 
+19-12 ' <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r <space> w h i l e <space> h h <space> r e a d <space> t h e <space> p a p e r . 
+19-13 , <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h <space> r e a d <space> t h e <space> p a p e r . 
+19-14 ' <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h e <space> r e a d <space> t h e <space> p a p e r . 
+19-15  s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h h <space> r e a d <space> t h e <space> p a p e r . 
+19-16 , <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h h <space> r e a d <space> t h e <space> p a p e r . 
+19-17 ' <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h <space> r e a d <space> t h e <space> p a p e r . 
+19-18 ' <space> s o <space> t h e y <space> a t e <space> b r e a d <space> t o g e t h e r , <space> w h i l e <space> h h <space> r e a d <space> t h e <space> p a p e r . 

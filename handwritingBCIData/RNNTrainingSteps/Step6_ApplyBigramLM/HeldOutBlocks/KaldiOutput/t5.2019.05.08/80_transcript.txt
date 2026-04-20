@@ -1,0 +1,30 @@
+80-1  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n s <space> c o u r s e . 
+80-2 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n s <space> c o u r s e . 
+80-3  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n s <space> c o u r s e s . 
+80-4 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n s <space> c o u r s e s . 
+80-5 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n s <space> c o u r s e . 
+80-6  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w e n s <space> c o u r s e . 
+80-7  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n ' s <space> c o u r s e . 
+80-8  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> h i t s <space> o w n s <space> c o u r s e . 
+80-9  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n <space> s <space> c o u r s e . 
+80-10  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t ' s <space> o w n s <space> c o u r s e . 
+80-11  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> t o w n s <space> c o u r s e . 
+80-12 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w e n s <space> c o u r s e . 
+80-13 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n ' s <space> c o u r s e . 
+80-14 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> h i t s <space> o w n s <space> c o u r s e . 
+80-15 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n <space> s <space> c o u r s e . 
+80-16 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t ' s <space> o w n s <space> c o u r s e . 
+80-17 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> t o w n s <space> c o u r s e . 
+80-18 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n s <space> c o u r s e s . 
+80-19  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> h i t s <space> o w n s <space> c o u r s e s . 
+80-20  p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t ' s <space> o w n s <space> c o u r s e s . 
+80-21 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w e n s <space> c o u r s e . 
+80-22 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n ' s <space> c o u r s e . 
+80-23 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> h i t s <space> o w n s <space> c o u r s e s . 
+80-24 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> h i t s <space> o w n s <space> c o u r s e . 
+80-25 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> o w n <space> s <space> c o u r s e . 
+80-26 , <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t ' s <space> o w n s <space> c o u r s e s . 
+80-27 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t ' s <space> o w n s <space> c o u r s e . 
+80-28 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t s <space> t o w n s <space> c o u r s e . 
+80-29 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> h i t s <space> o w n s <space> c o u r s e s . 
+80-30 ' <space> p e r h a p s <space> t h e <space> c o u r t <space> w i l l <space> c h a r t <space> i t ' s <space> o w n s <space> c o u r s e s . 

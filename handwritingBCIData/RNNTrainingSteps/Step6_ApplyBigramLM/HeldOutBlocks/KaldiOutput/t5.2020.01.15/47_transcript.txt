@@ -1,0 +1,11 @@
+47-1  w h a t ' s <space> w r o n g 
+47-2 , <space> w h a t ' s <space> w r o n g 
+47-3  w h a t s <space> w r o n g 
+47-4  w h a t ' s <space> w o n g 
+47-5  w h a t <space> i s <space> w r o n g 
+47-6  w h a t ' s <space> w r o n g . 
+47-7 ' <space> w h a t ' s <space> w r o n g 
+47-8 , <space> w h a t ' s <space> w o n g 
+47-9 , <space> w h a t ' s <space> w r o n g . 
+47-10 ' <space> w h a t ' s <space> w o n g 
+47-11 ' <space> w h a t ' s <space> w r o n g . 

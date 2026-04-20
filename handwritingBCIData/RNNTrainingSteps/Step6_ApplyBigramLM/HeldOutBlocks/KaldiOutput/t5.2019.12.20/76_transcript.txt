@@ -1,0 +1,28 @@
+76-1 , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t . 
+76-2  a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t . 
+76-3 ' <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t . 
+76-4 , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t 
+76-5 ' s <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t . 
+76-6 ' m <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t . 
+76-7 , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t ? 
+76-8 , <space> a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t . 
+76-9 , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a g g e r <space> o s s <space> e l e p h a n t . 
+76-10 , , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t . 
+76-11  a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t 
+76-12 ' <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t 
+76-13  a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t ? 
+76-14 ' s <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t 
+76-15 ' m <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t 
+76-16  a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a g g e r <space> o s s <space> e l e p h a n t . 
+76-17 ' <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t ? 
+76-18 ' s <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t ? 
+76-19 ' m <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t ? 
+76-20 ' <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a g g e r <space> o s s <space> e l e p h a n t . 
+76-21 , <space> a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t 
+76-22 , , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t 
+76-23 ' s <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a g g e r <space> o s s <space> e l e p h a n t . 
+76-24 ' m <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a g g e r <space> o s s <space> e l e p h a n t . 
+76-25 , <space> a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t ? 
+76-26 , , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a n g e r o u s <space> e l e p h a n t ? 
+76-27 , <space> a <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a g g e r <space> o s s <space> e l e p h a n t . 
+76-28 , , <space> w o u n d e d <space> e l e p h a n t <space> i s <space> a <space> d a g g e r <space> o s s <space> e l e p h a n t . 

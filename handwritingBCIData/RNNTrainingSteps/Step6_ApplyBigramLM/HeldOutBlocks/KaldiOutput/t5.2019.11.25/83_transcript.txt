@@ -1,0 +1,128 @@
+83-1  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-2  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-3  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-4  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-5 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-6  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-7  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-8 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-9 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-10 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-11  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-12 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-13 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-14  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-15 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-16 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-17 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-18  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-19 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-20  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-21 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-22 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-23  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r , 
+83-24  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-25 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-26  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e 
+83-27 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-28  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-29 ' m <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-30 ' <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-31  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r , 
+83-32 ' s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-33 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-34  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ' 
+83-35  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-36 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-37  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e 
+83-38 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-39 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-40  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-41 ' m <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-42 ' d <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-43 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-44  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-45  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-46 ' <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-47  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-48  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m y <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-49  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e . 
+83-50 ' s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-51 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-52  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-53  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ' 
+83-54  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-55  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-56 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-57 ' m <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-58 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r , 
+83-59  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e ? 
+83-60 ' m <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-61  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> h m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-62  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e r e a d <space> t h e <space> p a p e r 
+83-63 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-64  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-65  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> n m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-66 ' d <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-67 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-68 ' <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-69 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e 
+83-70 ' <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-71 ' s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-72 ' s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-73  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-74  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e . 
+83-75  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-76  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-77  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-78 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r , 
+83-79 ' m <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-80 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r , 
+83-81  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e ? 
+83-82 ' m <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-83 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-84  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e r e a d <space> t h e <space> p a p e r 
+83-85 ' d <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-86 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-87  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-88 ' d <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-89 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-90 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ' 
+83-91  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-92 ' <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-93 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e 
+83-94  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-95 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e 
+83-96 ' <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-97  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m y <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-98  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m y <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-99 ' s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-100 ' s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-101  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-102  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-103  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> h m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-104  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e r e a d <space> t h e <space> p a p e r ? 
+83-105 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-106 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m m <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-107  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-108  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> h m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-109  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e r e a d <space> t h e <space> p a p e r . 
+83-110 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r , 
+83-111  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-112 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-113  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-114  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> n m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-115 ' d <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-116 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+83-117  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> n m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-118  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-119 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m y <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+83-120 ' d <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-121 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e . 
+83-122 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+83-123 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e r ' 
+83-124 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a p e r ' 
+83-125  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e . 
+83-126 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m m <space> a n d <space> r e a d <space> t h e <space> p a g e 
+83-127  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a g e ? 
+83-128 , <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m <space> a n d <space> r e a d <space> t h e <space> p a p e ? 

@@ -1,0 +1,6 @@
+68-1  t h e <space> p l a n e <space> l a n d e d . 
+68-2  t h e <space> p l a n e <space> l a n d e d 
+68-3 , <space> t h e <space> p l a n e <space> l a n d e d . 
+68-4 , <space> t h e <space> p l a n e <space> l a n d e d 
+68-5 ' <space> t h e <space> p l a n e <space> l a n d e d . 
+68-6 ' <space> t h e <space> p l a n e <space> l a n d e d 

@@ -1,0 +1,84 @@
+41-1  t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-2 , <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-3  t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-4  t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-5  t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-6  t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-7  t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-8  t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-9 , <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-10  t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-11 ' <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-12  t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-13 , <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-14 , <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-15 , <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-16  t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-17  t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-18 , <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-19 , <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-20  t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-21 , <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-22 , <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-23  t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-24  t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-25  t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-26 ' <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-27  t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-28  t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-29  t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-30 , <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-31 , <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-32 ' <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-33  t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-34 ' <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-35 , <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-36 ' <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-37  t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-38 , <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-39 , <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-40  t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-41 ' <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-42 ' <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-43  t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-44 , <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-45 , <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-46 ' <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-47 ' <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-48 , <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-49 , <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-50 , <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-51  t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-52  t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-53 , <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-54 ' <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-55  t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-56 ' <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-57 , <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-58 , <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-59 ' <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-60  t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-61  t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-62 ' <space> t h e r e ' s <space> a <space> r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-63 ' <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-64  t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-65 ' <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-66 ' <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a r e <space> c o r r e c t . 
+41-67 , <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-68 , <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-69 ' <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-70 ' <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-71 , <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-72 ' <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-73 , <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-74 ' <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-75 , <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-76 , <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-77 ' <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-78 ' <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-79 ' <space> t h e r e ' s <space> a <space> d r i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-80 ' <space> t h e r e ' s <space> a <space> r i d e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-81 ' <space> t h e r e ' s <space> a <space> r i v e r , <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-82 ' <space> t h e r e ' s <space> a <space> d i v e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-83 ' <space> t h e r e ' s <space> a <space> v e e r <space> n o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 
+41-84 ' <space> t h e r e ' s <space> a <space> r i v e r <space> r o o t <space> f a r <space> a w a y , , <space> i f <space> m y <space> c a l c u l a t i o n s <space> a e <space> c o r r e c t . 

@@ -1,0 +1,15 @@
+56-1  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+56-2  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+56-3 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+56-4 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+56-5  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+56-6  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+56-7 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+56-8  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+56-9 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+56-10  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+56-11  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+56-12 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+56-13  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+56-14 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+56-15  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 

@@ -1,0 +1,12 @@
+110-1  a i m <space> h i g h 
+110-2  a i m <space> h i g h . 
+110-3  a i m <space> h i g h ? 
+110-4 , <space> a i m <space> h i g h 
+110-5  a <space> m m <space> h i g h 
+110-6 , <space> a i m <space> h i g h . 
+110-7  h a m m <space> h i g h 
+110-8  a <space> m m <space> h i g h . 
+110-9 ' <space> a i m <space> h i g h 
+110-10 , <space> a i m <space> h i g h ? 
+110-11 ' <space> a i m <space> h i g h . 
+110-12 ' <space> a i m <space> h i g h ? 

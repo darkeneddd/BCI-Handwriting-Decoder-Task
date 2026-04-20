@@ -1,0 +1,37 @@
+101-1  d o n t <space> w a 
+101-2  d o n t <space> w a n 
+101-3  d o n t <space> w a r 
+101-4 , <space> d o n t <space> w a 
+101-5  d o n t <space> w a s 
+101-6  d o n t <space> w a l 
+101-7  d o n t <space> w a y 
+101-8 , <space> d o n t <space> w a n 
+101-9  d o n t <space> w a . 
+101-10  d o n t <space> w a n t 
+101-11  d o n t <space> w a i 
+101-12  d o n ' t <space> w a 
+101-13  d o n t <space> w a n . 
+101-14 , <space> d o n t <space> w a r 
+101-15  d o n t <space> w a d 
+101-16  i <space> d o n t <space> w a 
+101-17  d o n t <space> w a r . 
+101-18 , <space> d o n t <space> w a s 
+101-19 , <space> d o n t <space> w a l 
+101-20  i <space> d o n t <space> w a n 
+101-21 , <space> d o n t <space> w a y 
+101-22 , <space> d o n t <space> w a . 
+101-23 , <space> d o n t <space> w a n t 
+101-24 , <space> d o n t <space> w a i 
+101-25 , <space> d o n t <space> w a n . 
+101-26  i <space> d o n t <space> w a r 
+101-27 , <space> d o n t <space> w a d 
+101-28 , <space> d o n t <space> w a r . 
+101-29  i <space> d o n t <space> w a s 
+101-30  i <space> d o n t <space> w a l 
+101-31  i <space> d o n t <space> w a y 
+101-32  i <space> d o n t <space> w a . 
+101-33  i <space> d o n t <space> w a n t 
+101-34  i <space> d o n t <space> w a i 
+101-35  i <space> d o n t <space> w a n . 
+101-36  i <space> d o n t <space> w a d 
+101-37  i <space> d o n t <space> w a r . 

@@ -1,0 +1,6 @@
+16-1  d o n ' t <space> s p e a k 
+16-2 , <space> d o n ' t <space> s p e a k 
+16-3  d o n ' t <space> s p e a k . 
+16-4  d o n ' t <space> s p e a k ? 
+16-5 , <space> d o n ' t <space> s p e a k . 
+16-6 , <space> d o n ' t <space> s p e a k ? 

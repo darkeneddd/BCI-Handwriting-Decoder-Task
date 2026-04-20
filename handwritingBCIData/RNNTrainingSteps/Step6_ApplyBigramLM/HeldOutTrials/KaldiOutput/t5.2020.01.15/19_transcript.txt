@@ -1,0 +1,15 @@
+19-1  i t ' s <space> g o i n g <space> t o <space> s h o w 
+19-2  i t ' s <space> g o i n g <space> t o <space> s n o w 
+19-3  i t ' s <space> g o i n g <space> t o <space> s h o w . 
+19-4 , <space> i t ' s <space> g o i n g <space> t o <space> s h o w 
+19-5  i t ' s <space> g o i n g <space> t o <space> s n o w . 
+19-6 , <space> i t ' s <space> g o i n g <space> t o <space> s n o w 
+19-7 , <space> i t ' s <space> g o i n g <space> t o <space> s h o w . 
+19-8 , <space> i t ' s <space> g o i n g <space> t o <space> s n o w . 
+19-9 ' <space> i t ' s <space> g o i n g <space> t o <space> s h o w 
+19-10  i t ' s <space> g o i n g <space> t o o <space> s n o w 
+19-11 ' <space> i t ' s <space> g o i n g <space> t o <space> s n o w 
+19-12 ' <space> i t ' s <space> g o i n g <space> t o <space> s h o w . 
+19-13 ' <space> i t ' s <space> g o i n g <space> t o <space> s n o w . 
+19-14 , <space> i t ' s <space> g o i n g <space> t o o <space> s n o w 
+19-15 ' <space> i t ' s <space> g o i n g <space> t o o <space> s n o w 

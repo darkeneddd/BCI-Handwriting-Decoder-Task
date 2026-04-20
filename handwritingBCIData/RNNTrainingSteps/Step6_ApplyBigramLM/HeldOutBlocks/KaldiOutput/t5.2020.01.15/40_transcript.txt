@@ -1,0 +1,9 @@
+40-1  c a r r y <space> o n 
+40-2  c a r r y <space> o n . 
+40-3 , <space> c a r r y <space> o n 
+40-4  c a r r y <space> o n ? 
+40-5 , <space> c a r r y <space> o n . 
+40-6 ' <space> c a r r y <space> o n 
+40-7 ' <space> c a r r y <space> o n . 
+40-8 , <space> c a r r y <space> o n ? 
+40-9 ' <space> c a r r y <space> o n ? 

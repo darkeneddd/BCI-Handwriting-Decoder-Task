@@ -1,0 +1,3 @@
+7-1  i t <space> m a r k s <space> t h e <space> m o m e n t <space> w h e n <space> s p a c e <space> i t s e l f <space> w a s <space> c r e a t e d . 
+7-2 , <space> i t <space> m a r k s <space> t h e <space> m o m e n t <space> w h e n <space> s p a c e <space> i t s e l f <space> w a s <space> c r e a t e d . 
+7-3 ' <space> i t <space> m a r k s <space> t h e <space> m o m e n t <space> w h e n <space> s p a c e <space> i t s e l f <space> w a s <space> c r e a t e d . 

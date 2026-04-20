@@ -1,0 +1,15 @@
+20-1  t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e <space> c h a n n e l . 
+20-2  t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t e e <space> c h a n n e l . 
+20-3 , <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e <space> c h a n n e l . 
+20-4 , <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t e e <space> c h a n n e l . 
+20-5  t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e e <space> c h a n n e l . 
+20-6 ' <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e <space> c h a n n e l . 
+20-7  t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h r e e <space> c h a n n e l . 
+20-8  t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e <space> c h a n n e l s . 
+20-9 , <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e e <space> c h a n n e l . 
+20-10 ' <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t e e <space> c h a n n e l . 
+20-11 , <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h r e e <space> c h a n n e l . 
+20-12 , <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e <space> c h a n n e l s . 
+20-13 ' <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e e <space> c h a n n e l . 
+20-14 ' <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h r e e <space> c h a n n e l . 
+20-15 ' <space> t h e <space> r i s i n g <space> t i d e <space> h a d <space> b e g u n <space> t o <space> f i l l <space> u p <space> t h e <space> c h a n n e l s . 

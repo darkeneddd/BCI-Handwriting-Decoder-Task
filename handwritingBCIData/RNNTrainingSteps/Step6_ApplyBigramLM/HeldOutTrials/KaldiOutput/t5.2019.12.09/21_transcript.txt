@@ -1,0 +1,6 @@
+21-1  i <space> t h o u g h t <space> t h e y <space> w e r e <space> s t a y i n g <space> t h e <space> n i g h t . 
+21-2 , <space> i <space> t h o u g h t <space> t h e y <space> w e r e <space> s t a y i n g <space> t h e <space> n i g h t . 
+21-3  i <space> t h o u g h t <space> t h e y <space> w e r e <space> s t a y i n g <space> t h e <space> r i g h t . 
+21-4 ' <space> i <space> t h o u g h t <space> t h e y <space> w e r e <space> s t a y i n g <space> t h e <space> n i g h t . 
+21-5 , <space> i <space> t h o u g h t <space> t h e y <space> w e r e <space> s t a y i n g <space> t h e <space> r i g h t . 
+21-6 ' <space> i <space> t h o u g h t <space> t h e y <space> w e r e <space> s t a y i n g <space> t h e <space> r i g h t . 

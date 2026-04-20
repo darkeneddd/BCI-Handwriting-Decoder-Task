@@ -1,0 +1,6 @@
+76-1  t h e n <space> i <space> s a w <space> a <space> s h o e <space> o n <space> t h e <space> g r o u n d . 
+76-2 , <space> t h e n <space> i <space> s a w <space> a <space> s h o e <space> o n <space> t h e <space> g r o u n d . 
+76-3  t e e n <space> i <space> s a w <space> a <space> s h o e <space> o n <space> t h e <space> g r o u n d . 
+76-4 ' <space> t h e n <space> i <space> s a w <space> a <space> s h o e <space> o n <space> t h e <space> g r o u n d . 
+76-5  t h e r e <space> i <space> s a w <space> a <space> s h o e <space> o n <space> t h e <space> g r o u n d . 
+76-6  t h e n , <space> i <space> s a w <space> a <space> s h o e <space> o n <space> t h e <space> g r o u n d . 

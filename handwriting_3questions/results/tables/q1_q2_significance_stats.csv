@@ -1,0 +1,16 @@
+figure,split,model,group_a,group_b,metric,value_a,value_b,delta_a_minus_b,n_a,n_b,p_value,p_value_bonferroni,significance,test
+q1_flat_vs_temporal,block_aware,Logistic,flat,temporal,test_accuracy,0.8228969006957622,0.8051865907653384,0.017710309930423773,1581,1581,0.20061141607082023,1.0,n.s.,two_proportion_z_approx
+q1_flat_vs_temporal,block_aware,LinearSVM,flat,temporal,test_accuracy,0.6097406704617331,0.6774193548387096,-0.06767868437697655,1581,1581,7.096764846101388e-05,0.00035483824230506935,***,two_proportion_z_approx
+q1_flat_vs_temporal,block_aware,Ridge,flat,temporal,test_accuracy,0.6027830487033523,0.7033523086654017,-0.10056925996204935,1581,1581,2.843505666774795e-09,1.4217528333873975e-08,***,two_proportion_z_approx
+q1_flat_vs_temporal,block_aware,SVM,flat,temporal,test_accuracy,0.8292220113851992,0.855787476280835,-0.026565464895635715,1581,1581,0.040320879772324916,0.20160439886162457,n.s.,two_proportion_z_approx
+q1_flat_vs_temporal,block_aware,MLP,flat,temporal,test_accuracy,0.6717267552182163,0.7469955724225174,-0.07526881720430101,1581,1581,3.150642555031248e-06,1.575321277515624e-05,***,two_proportion_z_approx
+q1_flat_vs_temporal,random_trial,Logistic,flat,temporal,test_accuracy,0.8401323042998897,0.8180815876515987,0.022050716648291058,907,907,0.21221072808283517,1.0,n.s.,two_proportion_z_approx
+q1_flat_vs_temporal,random_trial,LinearSVM,flat,temporal,test_accuracy,0.6130099228224918,0.7034178610804851,-0.09040793825799331,907,907,4.925288121597605e-05,0.0002462644060798803,***,two_proportion_z_approx
+q1_flat_vs_temporal,random_trial,Ridge,flat,temporal,test_accuracy,0.6383682469680264,0.7276736493936052,-0.08930540242557883,907,907,4.3646564101389964e-05,0.00021823282050694983,***,two_proportion_z_approx
+q1_flat_vs_temporal,random_trial,SVM,flat,temporal,test_accuracy,0.8335170893054025,0.844542447629548,-0.011025358324145529,907,907,0.5229004287742509,1.0,n.s.,two_proportion_z_approx
+q1_flat_vs_temporal,random_trial,MLP,flat,temporal,test_accuracy,0.7100330760749725,0.7221609702315325,-0.012127894156560015,907,907,0.5667800055171162,1.0,n.s.,two_proportion_z_approx
+q2_block_vs_random,flat_only,Logistic,block_aware,random_trial,test_accuracy,0.8228969006957622,0.8401323042998897,-0.017235403604127564,1581,907,0.2715755162356691,1.0,n.s.,two_proportion_z_approx
+q2_block_vs_random,flat_only,LinearSVM,block_aware,random_trial,test_accuracy,0.6097406704617331,0.6130099228224918,-0.003269252360758701,1581,907,0.8721057029639553,1.0,n.s.,two_proportion_z_approx
+q2_block_vs_random,flat_only,Ridge,block_aware,random_trial,test_accuracy,0.6027830487033523,0.6383682469680264,-0.0355851982646741,1581,907,0.07903227917826408,0.3951613958913204,n.s.,two_proportion_z_approx
+q2_block_vs_random,flat_only,SVM,block_aware,random_trial,test_accuracy,0.8292220113851992,0.8335170893054025,-0.004295077920203227,1581,907,0.7833056164375931,1.0,n.s.,two_proportion_z_approx
+q2_block_vs_random,flat_only,MLP,block_aware,random_trial,test_accuracy,0.6717267552182163,0.7100330760749725,-0.038306320856756115,1581,907,0.047597492557042466,0.23798746278521232,n.s.,two_proportion_z_approx

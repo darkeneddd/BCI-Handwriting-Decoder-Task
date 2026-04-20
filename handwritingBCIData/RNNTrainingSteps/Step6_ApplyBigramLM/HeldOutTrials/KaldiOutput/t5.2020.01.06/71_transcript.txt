@@ -1,0 +1,18 @@
+71-1  i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a n d <space> a l a r m e d . 
+71-2 , <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a n d <space> a l a r m e d . 
+71-3  i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a n d <space> a l a r m e d 
+71-4 , <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a n d <space> a l a r m e d 
+71-5 ' <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a n d <space> a l a r m e d . 
+71-6  i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> p e e t <space> a n d <space> a l a r m e d . 
+71-7  i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a <space> a n d <space> a l a r m e d . 
+71-8 , <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> p e e t <space> a n d <space> a l a r m e d . 
+71-9 , <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a <space> a n d <space> a l a r m e d . 
+71-10 ' <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a n d <space> a l a r m e d 
+71-11  i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> p e e t <space> a n d <space> a l a r m e d 
+71-12  i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a <space> a n d <space> a l a r m e d 
+71-13 , <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> p e e t <space> a n d <space> a l a r m e d 
+71-14 , <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a <space> a n d <space> a l a r m e d 
+71-15 ' <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> p e e t <space> a n d <space> a l a r m e d . 
+71-16 ' <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a <space> a n d <space> a l a r m e d . 
+71-17 ' <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> p e e t <space> a n d <space> a l a r m e d 
+71-18 ' <space> i t <space> w a s <space> o b v i o u s <space> t h a t <space> s h e <space> w a s <space> v e r y <space> u p s e t <space> a <space> a n d <space> a l a r m e d 

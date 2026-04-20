@@ -1,0 +1,6 @@
+98-1  h e a r t <space> a t t a c k 
+98-2 , <space> h e a r t <space> a t t a c k 
+98-3 ' <space> h e a r t <space> a t t a c k 
+98-4  h e a r t <space> a t t a c k . 
+98-5 , <space> h e a r t <space> a t t a c k . 
+98-6 ' <space> h e a r t <space> a t t a c k . 

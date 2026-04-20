@@ -1,0 +1,9 @@
+55-1  c u p <space> o f <space> c o f f e e 
+55-2  c u p <space> o f <space> c o f f e e . 
+55-3 , <space> c u p <space> o f <space> c o f f e e 
+55-4 ' <space> c u p <space> o f <space> c o f f e e 
+55-5  c u p <space> o f f <space> c o f f e e 
+55-6 , <space> c u p <space> o f <space> c o f f e e . 
+55-7 ' <space> c u p <space> o f <space> c o f f e e . 
+55-8 , <space> c u p <space> o f f <space> c o f f e e 
+55-9 ' <space> c u p <space> o f f <space> c o f f e e 

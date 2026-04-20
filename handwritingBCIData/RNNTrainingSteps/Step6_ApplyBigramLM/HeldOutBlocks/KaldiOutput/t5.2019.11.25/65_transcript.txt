@@ -1,0 +1,54 @@
+65-1  t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-2 , <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-3  t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-4  t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-5  t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-6 ' <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-7 , <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-8  t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-9  t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-10 , <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-11 , <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-12  t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-13  t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-14 , <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-15 ' <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-16 , <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-17  t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-18  t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-19 ' <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-20 ' <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-21 , <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-22  t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-23  t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-24  t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-25  t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-26 , <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-27 ' <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-28 ' <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-29 , <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-30 , <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-31 , <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-32 , <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-33 ' <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-34 , <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-35 , <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-36  t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-37  t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-38 ' <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> h a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-39  t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-40 ' <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-41  t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-42 ' <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-43 ' <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-44 ' <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-45 ' <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h r o u g h <space> t o g e t h e r . 
+65-46 ' <space> t h a t <space> h u r t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-47 , <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-48 , <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-49 , <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-50 , <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-51 ' <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-52 ' <space> t h a t <space> h u r t , , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-53 ' <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n a d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 
+65-54 ' <space> t h a t <space> h u n t , <space> e s p e c i a l l y <space> a f t e r <space> a l l <space> t h e y <space> n o d <space> b e e n <space> t h o u g h <space> t o g e t h e r . 

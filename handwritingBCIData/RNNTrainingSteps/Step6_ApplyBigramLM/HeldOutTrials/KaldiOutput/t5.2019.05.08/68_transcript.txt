@@ -1,0 +1,6 @@
+68-1  t h e <space> c o a c h i n g <space> s t a f f <space> r e a l l y <space> c a r e s <space> a b o u t <space> y o u . 
+68-2 , <space> t h e <space> c o a c h i n g <space> s t a f f <space> r e a l l y <space> c a r e s <space> a b o u t <space> y o u . 
+68-3  t h e <space> c o a c h i n g <space> s t a f f <space> r e a l l y <space> c a r e s <space> a b o u t <space> y o u . . 
+68-4 , <space> t h e <space> c o a c h i n g <space> s t a f f <space> r e a l l y <space> c a r e s <space> a b o u t <space> y o u . . 
+68-5 ' <space> t h e <space> c o a c h i n g <space> s t a f f <space> r e a l l y <space> c a r e s <space> a b o u t <space> y o u . 
+68-6 ' <space> t h e <space> c o a c h i n g <space> s t a f f <space> r e a l l y <space> c a r e s <space> a b o u t <space> y o u . . 

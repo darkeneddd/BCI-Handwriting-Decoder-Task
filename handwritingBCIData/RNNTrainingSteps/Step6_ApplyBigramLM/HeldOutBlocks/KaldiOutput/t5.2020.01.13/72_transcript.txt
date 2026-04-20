@@ -1,0 +1,9 @@
+72-1  t h i s <space> p l a c e <space> s m e l l e d <space> o f <space> s t o n e <space> a n d <space> p o l i s h . 
+72-2 , <space> t h i s <space> p l a c e <space> s m e l l e d <space> o f <space> s t o n e <space> a n d <space> p o l i s h . 
+72-3 ' <space> t h i s <space> p l a c e <space> s m e l l e d <space> o f <space> s t o n e <space> a n d <space> p o l i s h . 
+72-4  t h i s <space> p l a c e <space> s m e l l e d <space> o f <space> s t o r e <space> a n d <space> p o l i s h . 
+72-5  t h i s <space> p l a c e <space> s m e l l e d <space> o f f <space> s t o n e <space> a n d <space> p o l i s h . 
+72-6 , <space> t h i s <space> p l a c e <space> s m e l l e d <space> o f <space> s t o r e <space> a n d <space> p o l i s h . 
+72-7 , <space> t h i s <space> p l a c e <space> s m e l l e d <space> o f f <space> s t o n e <space> a n d <space> p o l i s h . 
+72-8 ' <space> t h i s <space> p l a c e <space> s m e l l e d <space> o f <space> s t o r e <space> a n d <space> p o l i s h . 
+72-9 ' <space> t h i s <space> p l a c e <space> s m e l l e d <space> o f f <space> s t o n e <space> a n d <space> p o l i s h . 

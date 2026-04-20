@@ -1,0 +1,30 @@
+65-1  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u n 
+65-2  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k 
+65-3  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u e 
+65-4  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u m p 
+65-5 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u n 
+65-6  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u 
+65-7  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u n . 
+65-8  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u e . 
+65-9 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k 
+65-10  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u . 
+65-11 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u e 
+65-12 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u m p 
+65-13 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u 
+65-14  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r o n 
+65-15 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u n . 
+65-16 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u n 
+65-17 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u e . 
+65-18  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u m 
+65-19 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k 
+65-20 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u . 
+65-21 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u e 
+65-22 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u m p 
+65-23 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r o n 
+65-24 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u 
+65-25 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u n . 
+65-26 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u m 
+65-27 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u e . 
+65-28 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u . 
+65-29 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r o n 
+65-30 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> r u m 

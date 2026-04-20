@@ -1,0 +1,128 @@
+62-1  d o <space> m e <space> a <space> f a r e . 
+62-2  d o <space> m e <space> a <space> f r e e 
+62-3  d o <space> m e <space> a <space> f a v e 
+62-4  d o <space> m e <space> a <space> f a r e 
+62-5  d o <space> m e <space> a <space> f r e e . 
+62-6  d o <space> m e <space> a <space> f a v e . 
+62-7  d o <space> m e <space> a <space> f a r c e . 
+62-8  d o <space> m e <space> a <space> f a r e ? 
+62-9  d o <space> m e <space> a <space> f a v r e . 
+62-10  d o <space> m e <space> a <space> f a v r e 
+62-11  d o <space> m e <space> a <space> f r e e ? 
+62-12  d o <space> m e <space> a <space> f a c e . 
+62-13  d o <space> m e <space> a <space> f a c e 
+62-14  d o <space> m e <space> a <space> f a v e ? 
+62-15  d o <space> m e <space> a <space> f a r c e 
+62-16  d o <space> m e <space> a <space> f a v r e ? 
+62-17  d o <space> m e <space> a <space> f a r e e d 
+62-18  d o <space> m e <space> a <space> f a r c e ? 
+62-19 , <space> d o <space> m e <space> a <space> f a r e . 
+62-20 , <space> d o <space> m e <space> a <space> f r e e 
+62-21  d o <space> m e <space> a <space> f a c e ? 
+62-22  d o <space> m e <space> a <space> f a r m e r 
+62-23 , <space> d o <space> m e <space> a <space> f a v e 
+62-24  d o <space> m e <space> a <space> f r e e r 
+62-25 , <space> d o <space> m e <space> a <space> f a r e 
+62-26  d o <space> m e <space> a <space> f a d e . 
+62-27 , <space> d o <space> m e <space> a <space> f r e e . 
+62-28 , <space> d o <space> m e <space> a <space> f a v e . 
+62-29  d o <space> m e <space> a a <space> f a v e 
+62-30  d o <space> m e <space> a <space> f a e 
+62-31  d o <space> m e <space> a <space> f a v e ' 
+62-32  d o <space> m e <space> a <space> f r e e ' 
+62-33  d o <space> m e <space> a <space> f a e . 
+62-34 , <space> d o <space> m e <space> a <space> f a r c e . 
+62-35 , <space> d o <space> m e <space> a <space> f a r e ? 
+62-36 , <space> d o <space> m e <space> a <space> f a v r e . 
+62-37 , <space> d o <space> m e <space> a <space> f a v r e 
+62-38  d o <space> m e <space> a <space> f a i r e r 
+62-39  d o <space> m e <space> a <space> f a r e ' 
+62-40  d o <space> m e <space> a <space> f a d e 
+62-41  d o <space> m e <space> a <space> f e v e r 
+62-42 , <space> d o <space> m e <space> a <space> f r e e ? 
+62-43  d o <space> m e <space> a a <space> f a v e . 
+62-44 , <space> d o <space> m e <space> a <space> f a c e . 
+62-45  d o o <space> m e <space> a <space> f a r e . 
+62-46 , <space> d o <space> m e <space> a <space> f a c e 
+62-47  d o <space> m e <space> a <space> f a t e . 
+62-48  d o o <space> m e <space> a <space> f r e e 
+62-49  d o <space> m e <space> a <space> f a l s e 
+62-50  d o <space> m e <space> a <space> f a i r e 
+62-51  d o <space> m e <space> a <space> f a r e , 
+62-52  d o <space> m e <space> a <space> f a v r e ' 
+62-53  d o <space> m e <space> a <space> f a c e ' 
+62-54  d o o <space> m e <space> a <space> f a v e 
+62-55  d o <space> m e <space> a a a <space> f a v e 
+62-56 , <space> d o <space> m e <space> a <space> f a v e ? 
+62-57  d o <space> m e <space> a <space> f a d e ? 
+62-58  d o <space> m e <space> a <space> f a l s e . 
+62-59  d o <space> m e <space> a <space> f a k e . 
+62-60  d o <space> m e <space> a <space> f i v e 
+62-61 , <space> d o <space> m e <space> a <space> f a r c e 
+62-62 , <space> d o <space> m e <space> a <space> f a v r e ? 
+62-63  d o <space> m e <space> a <space> f a e r i e 
+62-64  d o <space> m e <space> a a <space> f a r e . 
+62-65  d o o <space> m e <space> a <space> f a r e 
+62-66  d o o <space> m e <space> a <space> f r e e . 
+62-67 , <space> d o <space> m e <space> a <space> f a r e e d 
+62-68  d o o <space> m e <space> a <space> f a v e . 
+62-69  d o <space> m e <space> a a a <space> f a v e . 
+62-70  d o <space> m e <space> a a <space> f a v e ? 
+62-71 , <space> d o <space> m e <space> a <space> f a r c e ? 
+62-72  d o o <space> m e <space> a <space> f a r c e . 
+62-73  d o o <space> m e <space> a <space> f a r e ? 
+62-74 , <space> d o <space> m e <space> a <space> f a c e ? 
+62-75  d o o <space> m e <space> a <space> f a v r e . 
+62-76  d o o <space> m e <space> a <space> f a v r e 
+62-77 , <space> d o <space> m e <space> a <space> f a r m e r 
+62-78  d o o <space> m e <space> a <space> f r e e ? 
+62-79  d o o <space> m e <space> a <space> f a c e . 
+62-80  d o o <space> m e <space> a <space> f a c e 
+62-81 , <space> d o <space> m e <space> a <space> f r e e r 
+62-82 , <space> d o <space> m e <space> a <space> f a d e . 
+62-83  d o o <space> m e <space> a <space> f a v e ? 
+62-84  d o <space> m e <space> a a a <space> f a v e ? 
+62-85 , <space> d o <space> m e <space> a a <space> f a v e 
+62-86 , <space> d o <space> m e <space> a <space> f a e 
+62-87 , <space> d o <space> m e <space> a <space> f a v e ' 
+62-88 , <space> d o <space> m e <space> a <space> f r e e ' 
+62-89 , <space> d o <space> m e <space> a <space> f a e . 
+62-90  d o o <space> m e <space> a <space> f a r c e 
+62-91  d o o <space> m e <space> a <space> f a v r e ? 
+62-92 , <space> d o <space> m e <space> a <space> f a i r e r 
+62-93 , <space> d o <space> m e <space> a <space> f a r e ' 
+62-94  d o o <space> m e <space> a <space> f a r e e d 
+62-95 , <space> d o <space> m e <space> a <space> f a d e 
+62-96 , <space> d o <space> m e <space> a <space> f e v e r 
+62-97  d o o <space> m e <space> a <space> f a r c e ? 
+62-98 , <space> d o <space> m e <space> a a <space> f a v e . 
+62-99  d o <space> m e <space> a a <space> f a v e ' 
+62-100 , <space> d o <space> m e <space> a <space> f a t e . 
+62-101  d o o <space> m e <space> a <space> f a c e ? 
+62-102 , <space> d o <space> m e <space> a <space> f a l s e 
+62-103 , <space> d o <space> m e <space> a <space> f a i r e 
+62-104 , <space> d o <space> m e <space> a <space> f a r e , 
+62-105 , <space> d o <space> m e <space> a <space> f a v r e ' 
+62-106  d o o <space> m e <space> a <space> f a r m e r 
+62-107 , <space> d o <space> m e <space> a <space> f a c e ' 
+62-108 , <space> d o <space> m e <space> a a a <space> f a v e 
+62-109 , <space> d o <space> m e <space> a <space> f a d e ? 
+62-110 , <space> d o <space> m e <space> a <space> f a l s e . 
+62-111 , <space> d o <space> m e <space> a <space> f a k e . 
+62-112 , <space> d o <space> m e <space> a <space> f i v e 
+62-113 , <space> d o <space> m e <space> a <space> f a e r i e 
+62-114 , <space> d o <space> m e <space> a a <space> f a r e . 
+62-115  d o o <space> m e <space> a <space> f r e e r 
+62-116  d o o <space> m e <space> a <space> f a d e . 
+62-117  d o o <space> m e <space> a a <space> f a v e 
+62-118  d o o <space> m e <space> a <space> f a e 
+62-119 , <space> d o <space> m e <space> a a a <space> f a v e . 
+62-120  d o o <space> m e <space> a <space> f a v e ' 
+62-121  d o <space> m e <space> a a a <space> f a v e ' 
+62-122 , <space> d o <space> m e <space> a a <space> f a v e ? 
+62-123  d o o <space> m e <space> a <space> f r e e ' 
+62-124  d o o <space> m e <space> a <space> f a e . 
+62-125  d o o <space> m e <space> a <space> f a i r e r 
+62-126  d o o <space> m e <space> a <space> f a r e ' 
+62-127  d o o <space> m e <space> a <space> f a d e 
+62-128  d o o <space> m e <space> a <space> f e v e r 

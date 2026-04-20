@@ -1,0 +1,128 @@
+78-1  l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-2  l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-3  l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-4 , <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-5  l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-6 , <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-7  l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-8  l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-9  l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-10  l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-11 , <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-12  l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-13 ' <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-14  l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-15  l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-16  l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-17 , <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-18  l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-19  l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-20 , <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-21 ' <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-22 , <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-23 , <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-24  l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-25 , <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-26  l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-27 , <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-28 ' <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-29  l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-30 , <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-31 , <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-32  l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-33  l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-34 , <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-35  l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-36  l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-37  l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-38 ' <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-39 , <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-40 , <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-41 ' <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-42  l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-43  l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-44  l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-45 ' <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-46  l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-47 , <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-48  l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-49  l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-50 ' <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-51 , <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-52 ' <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-53 ' <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-54 , <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-55  l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-56 ' <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-57  l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-58  l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-59  l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-60 ' <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o r t e d . 
+78-61 , <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-62  l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-63 , <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-64 ' <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-65 , <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-66  l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-67 , <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-68 , <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-69  l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-70 ' <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-71 ' <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-72 , <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-73 , <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-74 , <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-75 , <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-76  l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-77  l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-78 , <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-79 , <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-80 ' <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-81 ' <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-82 ' <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-83 , <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-84 , <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-85 , <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-86 , <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-87  l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-88 , <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-89 ' <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-90  l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-91 ' <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-92 , <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-93 ' <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-94 ' <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-95 ' <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-96 , <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-97  l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-98  l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-99  l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-100 ' <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-101  l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-102 ' <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o r t e d . 
+78-103 ' <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-104 , <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-105 , <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-106 ' <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-107 ' <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-108 ' <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-109  l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-110  l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-111 ' <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-112  l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-113  l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-114 ' <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o r t e d . 
+78-115 ' <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-116 , <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-117 ' <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-118 ' <space> l i g h t n i n g <space> c r a c k e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-119 , <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-120 ' <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-121  l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-122 ' <space> l i g h t n i n g <space> c r a c k l e ' d <space> o v e r h e a d <space> a s <space> c a b l e s <space> s h o u t e d . 
+78-123 , <space> l i g h t n i n g <space> c r a c k l e <space> e d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-124 , <space> l i g h t n i n g <space> c r a c k l e <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-125 , <space> l i g h t n i n g <space> c r a c k <space> l e e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 
+78-126 , <space> l i g h t n i n g <space> c r a c k l e <space> d d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-127 ' <space> l i g h t n i n g <space> c r a c k l e <space> d <space> o v e r h e a d <space> a s s <space> c a b l e s <space> s h o u t e d . 
+78-128 ' <space> l i g h t n i n g <space> c r a c k <space> l e d <space> o v e r h e a d <space> a a s <space> c a b l e s <space> s h o u t e d . 

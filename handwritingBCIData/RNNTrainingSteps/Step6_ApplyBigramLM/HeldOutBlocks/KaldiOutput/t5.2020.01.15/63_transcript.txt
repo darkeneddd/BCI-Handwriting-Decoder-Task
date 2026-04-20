@@ -1,0 +1,14 @@
+63-1  s i x <space> c a t s 
+63-2 , <space> s i x <space> c a t s 
+63-3  s i x <space> c a t . 
+63-4  s i x <space> c a t s . 
+63-5 ' <space> s i x <space> c a t s 
+63-6  s i x <space> c a t 
+63-7  f i x <space> c a t s 
+63-8 , <space> s i x <space> c a t . 
+63-9 , <space> s i x <space> c a t s . 
+63-10 , <space> s i x <space> c a t 
+63-11 ' <space> s i x <space> c a t . 
+63-12 ' <space> s i x <space> c a t s . 
+63-13  f i x <space> c a t s . 
+63-14 ' <space> s i x <space> c a t 

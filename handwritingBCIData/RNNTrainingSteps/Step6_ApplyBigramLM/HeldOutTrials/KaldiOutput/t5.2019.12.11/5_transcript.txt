@@ -1,0 +1,24 @@
+5-1 , <space> b u t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-2  b u t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-3  p u t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-4 , <space> b u t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-5  b u t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-6 ' <space> b u t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-7  p u t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-8 , <space> p u t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-9  p u t t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-10 , <space> b u t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-11  b u t t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-12  b u t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-13  p o t <space> i <space> h a v e <space> t o <space> h e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-14 ' <space> b u t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-15 , <space> p u t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-16  p u t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-17  p u t t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-18  b u t t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-19  p o t <space> i <space> h a v e <space> t o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-20 ' <space> b u t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-21 , <space> p u t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-22  p u t t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-23  b u t t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 
+5-24  p o t <space> i <space> h a v e <space> t o o <space> n e a r <space> t h e <space> w h o l e <space> t a l e . 

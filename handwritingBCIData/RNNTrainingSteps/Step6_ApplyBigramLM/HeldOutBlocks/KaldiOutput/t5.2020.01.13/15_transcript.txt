@@ -1,0 +1,24 @@
+15-1  m o v e <space> i n 
+15-2  m o v e <space> i n . 
+15-3 , <space> m o v e <space> i n 
+15-4 , <space> m o v e <space> i n . 
+15-5  m o v e <space> i . 
+15-6  m o v e <space> i i . 
+15-7  m o v e <space> i n ? 
+15-8 ' <space> m o v e <space> i n 
+15-9  m o v e <space> i s 
+15-10 ' <space> m o v e <space> i n . 
+15-11  m o v e <space> i s . 
+15-12  m o v e <space> i 
+15-13 , <space> m o v e <space> i . 
+15-14 , <space> m o v e <space> i i . 
+15-15 , <space> m o v e <space> i n ? 
+15-16 , <space> m o v e <space> i s 
+15-17 ' <space> m o v e <space> i . 
+15-18 ' <space> m o v e <space> i i . 
+15-19 , <space> m o v e <space> i s . 
+15-20 ' <space> m o v e <space> i n ? 
+15-21 , <space> m o v e <space> i 
+15-22 ' <space> m o v e <space> i s 
+15-23 ' <space> m o v e <space> i s . 
+15-24 ' <space> m o v e <space> i 

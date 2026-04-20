@@ -1,0 +1,20 @@
+40-1  h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d 
+40-2  h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d . 
+40-3 , <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d 
+40-4 , <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d . 
+40-5  t h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d 
+40-6 ' <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d 
+40-7  h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e a d 
+40-8  t h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d . 
+40-9  h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e . 
+40-10  h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e 
+40-11 ' <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e d . 
+40-12 , <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e a d 
+40-13 , <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e . 
+40-14 , <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e 
+40-15  t h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e a d 
+40-16  t h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e . 
+40-17  t h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e 
+40-18 ' <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e a d 
+40-19 ' <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e . 
+40-20 ' <space> h i s <space> b a g s <space> w e r e <space> p a c k e d <space> a n d <space> w a i t i n g <space> o n <space> t h e <space> b e e 

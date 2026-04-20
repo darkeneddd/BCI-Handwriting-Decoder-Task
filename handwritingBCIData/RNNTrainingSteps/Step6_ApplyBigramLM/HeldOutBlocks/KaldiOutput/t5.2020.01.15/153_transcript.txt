@@ -1,0 +1,12 @@
+153-1  b i g g e r . 
+153-2 , <space> b i g g e r . 
+153-3  b i g g e r 
+153-4 ' <space> b i g g e r . 
+153-5  b i g g e r ? 
+153-6  a <space> b i g g e r . 
+153-7 , <space> b i g g e r 
+153-8 , <space> b i g g e r ? 
+153-9 ' <space> b i g g e r 
+153-10  a <space> b i g g e r 
+153-11 ' <space> b i g g e r ? 
+153-12  a <space> b i g g e r ? 

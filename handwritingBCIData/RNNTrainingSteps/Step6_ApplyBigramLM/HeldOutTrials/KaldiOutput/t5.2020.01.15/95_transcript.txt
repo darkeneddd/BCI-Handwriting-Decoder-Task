@@ -1,0 +1,18 @@
+95-1  e x i t <space> s i g n 
+95-2  e x i t <space> s i g n . 
+95-3 , <space> e x i t <space> s i g n 
+95-4 , <space> e x i t <space> s i g n . 
+95-5  e x i t <space> s i g . 
+95-6  e x i t <space> s i g n ? 
+95-7 ' <space> e x i t <space> s i g n 
+95-8 ' <space> e x i t <space> s i g n . 
+95-9  e x i t <space> s i g h . 
+95-10 , <space> e x i t <space> s i g . 
+95-11  e x i t <space> s i g h 
+95-12 , <space> e x i t <space> s i g n ? 
+95-13 , <space> e x i t <space> s i g h . 
+95-14 ' <space> e x i t <space> s i g . 
+95-15 ' <space> e x i t <space> s i g n ? 
+95-16 , <space> e x i t <space> s i g h 
+95-17 ' <space> e x i t <space> s i g h . 
+95-18 ' <space> e x i t <space> s i g h 

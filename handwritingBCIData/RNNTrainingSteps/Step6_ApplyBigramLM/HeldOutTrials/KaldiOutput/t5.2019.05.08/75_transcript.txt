@@ -1,0 +1,16 @@
+75-1  b o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-2 , <space> b o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-3  b o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 
+75-4  b o o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-5  b o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-6 ' <space> b o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-7 , <space> b o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 
+75-8 , <space> b o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-9  b o o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 
+75-10  b o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 
+75-11 ' <space> b o t h <space> y o u n g <space> m e n <space> a r e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 
+75-12  b o o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-13 ' <space> b o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r ' s <space> d e a t h . 
+75-14 , <space> b o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 
+75-15  b o o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 
+75-16 ' <space> b o t h <space> y o u n g <space> m e n <space> a e <space> a n g r y <space> o v e r <space> t h e i r <space> f a t h e r s <space> d e a t h . 

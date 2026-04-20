@@ -1,0 +1,6 @@
+14-1  i t <space> d i d n ' t <space> t a k e <space> l o n g <space> t o <space> t e l l <space> h i m <space> m y <space> s t o r y . 
+14-2 , <space> i t <space> d i d n ' t <space> t a k e <space> l o n g <space> t o <space> t e l l <space> h i m <space> m y <space> s t o r y . 
+14-3  i t <space> d i d n ' t <space> t a k e <space> l o n g <space> t o <space> t e l l <space> h i m <space> m y <space> s t o r y . . 
+14-4 ' <space> i t <space> d i d n ' t <space> t a k e <space> l o n g <space> t o <space> t e l l <space> h i m <space> m y <space> s t o r y . 
+14-5 , <space> i t <space> d i d n ' t <space> t a k e <space> l o n g <space> t o <space> t e l l <space> h i m <space> m y <space> s t o r y . . 
+14-6 ' <space> i t <space> d i d n ' t <space> t a k e <space> l o n g <space> t o <space> t e l l <space> h i m <space> m y <space> s t o r y . . 

@@ -1,0 +1,3 @@
+16-1  m y <space> f a m i l y <space> h a s <space> o w n e d <space> t h e <space> p l a c e <space> f o r <space> c l o s e <space> t o <space> f i f t y <space> y e a r s . 
+16-2 , <space> m y <space> f a m i l y <space> h a s <space> o w n e d <space> t h e <space> p l a c e <space> f o r <space> c l o s e <space> t o <space> f i f t y <space> y e a r s . 
+16-3 ' <space> m y <space> f a m i l y <space> h a s <space> o w n e d <space> t h e <space> p l a c e <space> f o r <space> c l o s e <space> t o <space> f i f t y <space> y e a r s . 

@@ -1,0 +1,6 @@
+18-1  i n <space> f a c t <space> t h e y <space> g o <space> a <space> l i t t l e <space> b i t <space> p a s t <space> t h e <space> s t a r t . 
+18-2 , <space> i n <space> f a c t <space> t h e y <space> g o <space> a <space> l i t t l e <space> b i t <space> p a s t <space> t h e <space> s t a r t . 
+18-3 ' <space> i n <space> f a c t <space> t h e y <space> g o <space> a <space> l i t t l e <space> b i t <space> p a s t <space> t h e <space> s t a r t . 
+18-4  i n <space> f a c t <space> t h e y <space> g o t <space> a <space> l i t t l e <space> b i t <space> p a s t <space> t h e <space> s t a r t . 
+18-5 , <space> i n <space> f a c t <space> t h e y <space> g o t <space> a <space> l i t t l e <space> b i t <space> p a s t <space> t h e <space> s t a r t . 
+18-6 ' <space> i n <space> f a c t <space> t h e y <space> g o t <space> a <space> l i t t l e <space> b i t <space> p a s t <space> t h e <space> s t a r t . 

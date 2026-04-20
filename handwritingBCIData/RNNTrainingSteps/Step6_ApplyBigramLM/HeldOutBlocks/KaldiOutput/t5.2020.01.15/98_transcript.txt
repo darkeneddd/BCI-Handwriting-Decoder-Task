@@ -1,0 +1,6 @@
+98-1  t h r o w <space> a <space> p a r t y 
+98-2 , <space> t h r o w <space> a <space> p a r t y 
+98-3 ' <space> t h r o w <space> a <space> p a r t y 
+98-4  t h r o w <space> a <space> p a r t 
+98-5 , <space> t h r o w <space> a <space> p a r t 
+98-6 ' <space> t h r o w <space> a <space> p a r t 

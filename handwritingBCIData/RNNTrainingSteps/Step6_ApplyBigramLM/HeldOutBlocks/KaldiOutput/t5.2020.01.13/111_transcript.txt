@@ -1,0 +1,12 @@
+111-1  a <space> l o t <space> o f <space> f r i e n d s 
+111-2 , <space> a <space> l o t <space> o f <space> f r i e n d s 
+111-3  a <space> l o t <space> o f f <space> f r i e n d s 
+111-4  a <space> l o t <space> o f <space> f r i e n d s . 
+111-5 , <space> a <space> l o t <space> o f f <space> f r i e n d s 
+111-6 ' <space> a <space> l o t <space> o f <space> f r i e n d s 
+111-7 , <space> a <space> l o t <space> o f <space> f r i e n d s . 
+111-8  a <space> l o t <space> o f f <space> f r i e n d s . 
+111-9 ' <space> a <space> l o t <space> o f f <space> f r i e n d s 
+111-10 , <space> a <space> l o t <space> o f f <space> f r i e n d s . 
+111-11 ' <space> a <space> l o t <space> o f <space> f r i e n d s . 
+111-12 ' <space> a <space> l o t <space> o f f <space> f r i e n d s . 

@@ -1,0 +1,24 @@
+80-1  i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-2 , <space> i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-3  i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-4  i <space> h e a r d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-5 , <space> i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-6 ' <space> i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-7  i <space> h e a d e d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-8 , <space> i <space> h e a r d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-9 , <space> i <space> h e a d e d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-10  i <space> h e a r d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-11 ' <space> i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-12  i <space> h e a d e d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-13 , <space> i <space> h e a r d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-14 ' <space> i <space> h e a r d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-15  i <space> h e a d e d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-16 , <space> i <space> h e a d e d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-17 ' <space> i <space> h e a d e d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-18 , <space> i <space> h e a d e d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-19 ' <space> i <space> h e a r d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-20  i <space> h e a d e d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-21 ' <space> i <space> h e a d e d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-22 , <space> i <space> h e a d e d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 
+80-23 ' <space> i <space> h e a d e d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-24 ' <space> i <space> h e a d e d <space> m y <space> f i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y . 

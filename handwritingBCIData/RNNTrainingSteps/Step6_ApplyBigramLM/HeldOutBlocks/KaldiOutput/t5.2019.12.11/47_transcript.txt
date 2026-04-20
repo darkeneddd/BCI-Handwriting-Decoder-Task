@@ -1,0 +1,15 @@
+47-1  i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-2 , <space> i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-3  i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-4  i i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-5 ' <space> i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-6  i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-7  i i i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-8 , <space> i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-9 , <space> i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-10  i i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-11 ' <space> i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-12  i i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-13  i i i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f <space> i i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-14 ' <space> i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 
+47-15  i i i <space> m a n a g e d <space> t o <space> g e t <space> a <space> c o p y <space> o f f <space> i t <space> b e f o r e <space> i t <space> h i t s <space> t h e <space> s h o p s . 

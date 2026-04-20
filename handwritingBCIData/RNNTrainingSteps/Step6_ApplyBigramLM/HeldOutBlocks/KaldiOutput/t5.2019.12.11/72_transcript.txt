@@ -1,0 +1,48 @@
+72-1  t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-2 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-3  t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t 
+72-4  t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-5 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-6 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t 
+72-7  t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-8  t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-9  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-10 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-11 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-12 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-13 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-14 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t 
+72-15  t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t 
+72-16  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t 
+72-17 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-18  t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-19  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-20 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-21 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t 
+72-22 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-23  t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-24 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-25 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t 
+72-26  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-27  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-28 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-29 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-30 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-31 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-32 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-33 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t 
+72-34 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t 
+72-35  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t 
+72-36 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-37 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-38  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-39 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-40 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-41 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t 
+72-42 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-43  t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-44 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-45 , <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> b u t . . 
+72-46 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t 
+72-47 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-48 ' <space> t h e <space> r u g b y <space> i n <space> h e r <space> b e l l <space> b u t t o n <space> s t a y e d <space> b u t . . 

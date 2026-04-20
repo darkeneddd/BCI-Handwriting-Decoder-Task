@@ -1,0 +1,9 @@
+30-1  f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> i t . 
+30-2  f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> i t . . 
+30-3 , <space> f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> i t . 
+30-4 , <space> f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> i t . . 
+30-5 ' <space> f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> i t . 
+30-6  f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> t . 
+30-7 ' <space> f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> i t . . 
+30-8 , <space> f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> t . 
+30-9 ' <space> f o r <space> q u i t e <space> l o n g <space> p e r i o d s <space> o f <space> t i m e <space> i t <space> w e n t <space> a w a y <space> a n d <space> h e <space> f o r g o t <space> t . 

@@ -1,0 +1,26 @@
+148-1  w w i i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-2  w w i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-3 , <space> w w i i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-4  w w <space> i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-5  w i l l <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-6  w w <space> i i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-7 , <space> w w i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-8  w w e <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-9  w i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-10 ' <space> w w i i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-11  w i i <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-12  w w <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-13  w w i i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-14  o w l <space> w a s <space> a <space> p i v o t a l <space> p e r i o d . 
+148-15  w w i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-16 , <space> w w i i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-17  w w <space> i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-18  w i l l <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-19  w w <space> i i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-20 , <space> w w i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-21  w w e <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-22  w i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-23 ' <space> w w i i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-24  w i i <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-25  w w <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 
+148-26  o w l <space> w a s <space> a <space> p i <space> v i t a l <space> p e r i o d . 

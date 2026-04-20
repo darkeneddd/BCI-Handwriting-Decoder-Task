@@ -1,0 +1,114 @@
+35-1  o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-2  o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-3 , <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-4  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-5  o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-6  o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-7 , <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-8 ' <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-9  o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-10  o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-11  m o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-12  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-13  o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-14  o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-15 ' <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-16  o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-17  m o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-18 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-19 , <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-20 , <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-21 , <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-22 , <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-23 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-24  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-25  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-26  o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-27 , <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-28 , <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-29 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-30  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-31  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-32 ' <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-33  o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-34  o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-35  m o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-36 ' <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-37  o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-38  m o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-39  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-40  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-41 , <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-42 ' <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-43 ' <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-44  o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-45  m o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-46 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-47  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-48  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-49  o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-50 ' <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-51  o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-52  m o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-53 ' <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-54  m o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-55 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-56 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-57 , <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-58 ' <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-59  m o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-60 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-61 , <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-62 , <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-63 , <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-64 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-65 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-66  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-67 , <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-68 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-69 , <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-70 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-71  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-72  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-73 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-74  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-75 ' <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-76  o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-77  m o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-78  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-79 , <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-80 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-81  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-82 ' <space> o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-83 ' <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-84  o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-85  m o t h e r <space> p e o p l e ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-86 ' <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-87 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-88  o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-89  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> n e e d s <space> e x p l a n a t i o n . 
+35-90 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-91  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-92 ' <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-93 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-94  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-95 ' <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-96  m o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-97 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-98 ' <space> o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-99  m o t h e r <space> p e o p l e ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-100 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-101 , <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-102 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-103 , <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-104 , <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-105 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-106  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-107 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-108  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-109 ' <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-110 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-111  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> r e e d s <space> e x p l a n a t i o n . 
+35-112 ' <space> o t h e r <space> p e o p l e s ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-113 ' <space> o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 
+35-114  m o t h e r <space> p e o p l e ' ' ' s <space> r e a c t i o n <space> t o o <space> b a c k g r o u n d <space> s o u n d s <space> s e e d s <space> e x p l a n a t i o n . 

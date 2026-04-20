@@ -1,0 +1,119 @@
+144-1  b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-2 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-3  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-4  e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-5  b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-6  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-7 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-8  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-9  o n e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-10  b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-11  b e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-12  m e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-13 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-14 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-15 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-16  b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-17 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-18  e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-19  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-20  e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-21  t h e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-22 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-23  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-24 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-25 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-26 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-27  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-28 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-29  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-30  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-31 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-32  o n e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-33  e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-34  e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-35 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-36  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-37  e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-38  b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-39  m e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-40 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-41 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-42 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-43  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-44  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-45  e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-46  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-47 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-48 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-49 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-50  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-51  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-52  o n e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-53  o n e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-54  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-55  o n e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-56  t h e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-57  m e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-58 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-59  m e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-60 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-61 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-62 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-63 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-64 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-65 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-66  b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-67  m e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-68 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-69 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-70 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-71 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-72  e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-73  e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-74  e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-75  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-76 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-77  e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-78 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r 
+144-79  t h e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-80  t h e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-81  t h e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-82 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-83 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-84  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-85 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-86 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-87  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-88 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-89 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-90 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-91  o n e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-92 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r . 
+144-93 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-94  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-95 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-96  e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-97 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r ? 
+144-98  m e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-99 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-100 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-101 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-102  e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-103  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-104 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-105  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-106  o n e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-107  t h e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-108 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-109  m e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-110 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-111 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-112 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-113  e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-114 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-115 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r 
+144-116  t h e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-117 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-118 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 
+144-119 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g e t <space> b e t t e r ? 

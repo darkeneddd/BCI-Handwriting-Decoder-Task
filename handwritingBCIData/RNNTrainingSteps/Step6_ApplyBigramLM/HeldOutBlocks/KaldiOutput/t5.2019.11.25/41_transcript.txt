@@ -1,0 +1,15 @@
+41-1  i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-2 , <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-3  i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-4  i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-5 ' <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-6  i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e e <space> c a r . 
+41-7  i i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-8 , <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-9 , <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e e <space> c a r . 
+41-10  i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-11 ' <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-12  i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e e <space> c a r . 
+41-13 ' <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e e <space> c a r . 
+41-14  i i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-15  i i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e e <space> c a r . 

@@ -1,0 +1,21 @@
+7-1  i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-2 , <space> i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-3  i i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-4  i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-5  i i i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-6 ' <space> i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-7  a i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-8  i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r , <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-9  u i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-10 , <space> i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-11 , <space> i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r , <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-12  i i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-13  i i i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-14 ' <space> i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-15  i i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r , <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-16  a i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-17  i i i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r , <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-18 ' <space> i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r , <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-19  u i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r <space> t o o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-20  a i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r , <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 
+7-21  u i <space> w i l l <space> i n s t r u c t <space> t h e <space> d o c k i n g <space> s u p e r v i s o r , <space> t o <space> d i s c i p l i n e <space> t h o s e <space> f o o l s . 

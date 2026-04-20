@@ -1,0 +1,8 @@
+64-1  h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d 
+64-2  h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d ? 
+64-3  h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d . 
+64-4  h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d ? ? 
+64-5 , <space> h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d 
+64-6 , <space> h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d ? 
+64-7 , <space> h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d . 
+64-8 , <space> h a d <space> a <space> f i n a l <space> d r a f t <space> b e e n <space> p o s t e d ? ? 

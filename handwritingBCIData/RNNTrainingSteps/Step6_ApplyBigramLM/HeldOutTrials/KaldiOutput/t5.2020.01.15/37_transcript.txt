@@ -1,0 +1,30 @@
+37-1  a g a i n s t <space> t h e <space> l a w 
+37-2  a g a i n s t <space> t h e <space> l a w . 
+37-3  a g a i n s t <space> t h e e <space> l a w 
+37-4 , <space> a g a i n s t <space> t h e <space> l a w 
+37-5  a g a i n s t <space> t h e e <space> l a w . 
+37-6  a g a i n s t <space> t h e <space> l a . 
+37-7 , <space> a g a i n s t <space> t h e <space> l a w . 
+37-8  a g a i n s t <space> t h e e <space> l a . 
+37-9 ' <space> a g a i n s t <space> t h e <space> l a w 
+37-10  a g a i n s t <space> t e e <space> l a w 
+37-11 , <space> a g a i n s t <space> t h e e <space> l a w 
+37-12 ' <space> a g a i n s t <space> t h e <space> l a w . 
+37-13  a g a i n s t <space> t h r e e <space> l a w 
+37-14  a g a i n s t <space> t e e <space> l a w . 
+37-15 , <space> a g a i n s t <space> t h e e <space> l a w . 
+37-16  a g a i n s t <space> t h e e <space> l e w 
+37-17 , <space> a g a i n s t <space> t h e <space> l a . 
+37-18 ' <space> a g a i n s t <space> t h e e <space> l a w 
+37-19 , <space> a g a i n s t <space> t h e e <space> l a . 
+37-20 , <space> a g a i n s t <space> t e e <space> l a w 
+37-21 ' <space> a g a i n s t <space> t h e e <space> l a w . 
+37-22 ' <space> a g a i n s t <space> t h e <space> l a . 
+37-23 , <space> a g a i n s t <space> t h r e e <space> l a w 
+37-24 , <space> a g a i n s t <space> t e e <space> l a w . 
+37-25 , <space> a g a i n s t <space> t h e e <space> l e w 
+37-26 ' <space> a g a i n s t <space> t h e e <space> l a . 
+37-27 ' <space> a g a i n s t <space> t e e <space> l a w 
+37-28 ' <space> a g a i n s t <space> t h r e e <space> l a w 
+37-29 ' <space> a g a i n s t <space> t e e <space> l a w . 
+37-30 ' <space> a g a i n s t <space> t h e e <space> l e w 

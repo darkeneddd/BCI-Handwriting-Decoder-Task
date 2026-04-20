@@ -1,0 +1,40 @@
+80-1  s h o w <space> i s <space> c o l d 
+80-2  s h o w <space> i s <space> c o l d . 
+80-3  s h o w <space> i s <space> c o o l . 
+80-4  s n o w <space> i s <space> c o l d 
+80-5  s h o w <space> i s <space> c o u l d 
+80-6 , <space> s h o w <space> i s <space> c o l d 
+80-7  s h o w <space> i s <space> c o o l 
+80-8  s h o w <space> i s <space> c o l . 
+80-9  s n o w <space> i s <space> c o l d . 
+80-10 ' <space> s h o w <space> i s <space> c o l d 
+80-11 , <space> s n o w <space> i s <space> c o l d 
+80-12  s n o w <space> i s <space> c o o l . 
+80-13  s n o w <space> i s <space> c o u l d 
+80-14  s h o w <space> i s <space> c o o l e d 
+80-15  s h o w <space> i s <space> c o l d ? 
+80-16 , <space> s h o w <space> i s <space> c o l d . 
+80-17 , <space> s h o w <space> i s <space> c o o l . 
+80-18 , <space> s h o w <space> i s <space> c o u l d 
+80-19  s n o w <space> i s <space> c o o l 
+80-20 ' <space> s h o w <space> i s <space> c o l d . 
+80-21 , <space> s n o w <space> i s <space> c o l d . 
+80-22 ' <space> s h o w <space> i s <space> c o o l . 
+80-23 , <space> s n o w <space> i s <space> c o o l . 
+80-24  s n o w <space> i s <space> c o l . 
+80-25 , <space> s h o w <space> i s <space> c o o l 
+80-26 ' <space> s h o w <space> i s <space> c o u l d 
+80-27 , <space> s n o w <space> i s <space> c o u l d 
+80-28  s n o w <space> i s <space> c o o l e d 
+80-29  s n o w <space> i s <space> c o l d ? 
+80-30 , <space> s h o w <space> i s <space> c o l . 
+80-31 , <space> s h o w <space> i s <space> c o o l e d 
+80-32 , <space> s h o w <space> i s <space> c o l d ? 
+80-33 ' <space> s h o w <space> i s <space> c o o l 
+80-34 , <space> s n o w <space> i s <space> c o o l 
+80-35 ' <space> s h o w <space> i s <space> c o l . 
+80-36 , <space> s n o w <space> i s <space> c o l . 
+80-37 ' <space> s h o w <space> i s <space> c o o l e d 
+80-38 ' <space> s h o w <space> i s <space> c o l d ? 
+80-39 , <space> s n o w <space> i s <space> c o o l e d 
+80-40 , <space> s n o w <space> i s <space> c o l d ? 

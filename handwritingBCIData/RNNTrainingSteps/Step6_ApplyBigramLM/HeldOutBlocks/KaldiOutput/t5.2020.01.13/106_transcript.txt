@@ -1,0 +1,128 @@
+106-1  c u p <space> o f <space> t e a . 
+106-2  c u p <space> o f <space> t e . 
+106-3  c u p <space> o f f <space> t e a . 
+106-4  c u p <space> o f f <space> t e . 
+106-5  c u p <space> o f f <space> t e e . 
+106-6  c u p <space> o f <space> t e e . 
+106-7  c u p <space> o f <space> t h e . 
+106-8  c u p <space> o f f <space> t h e . 
+106-9  c u p <space> o f <space> t e a 
+106-10  c p p <space> o f f <space> t e a . 
+106-11  c p p <space> o f f <space> t e . 
+106-12  c p p <space> o f f <space> t e e . 
+106-13  c u p <space> o f <space> t e d . 
+106-14  c p p <space> o f <space> t e a . 
+106-15 , <space> c u p <space> o f <space> t e a . 
+106-16  c u p <space> f f <space> t e . 
+106-17  c p p <space> o f <space> t e . 
+106-18 , <space> c u p <space> o f <space> t e . 
+106-19  c u p <space> o f f <space> t e d . 
+106-20  c u p <space> f f <space> t e e . 
+106-21  c u p <space> o f f <space> t e a 
+106-22  c p p <space> f f <space> t e . 
+106-23  c p p <space> o f f <space> t h e . 
+106-24  c u p <space> o f <space> t h e . . 
+106-25  c p p <space> f f <space> t e e . 
+106-26  c u p <space> o f f <space> t o e . 
+106-27  c u p <space> f f <space> t e a . 
+106-28 ' <space> c u p <space> o f <space> t e a . 
+106-29  c u p <space> o f <space> l t e . 
+106-30 , <space> c u p <space> o f f <space> t e a . 
+106-31 , <space> c u p <space> o f f <space> t e . 
+106-32 ' <space> c u p <space> o f <space> t e . 
+106-33 , <space> c u p <space> o f f <space> t e e . 
+106-34  c u p <space> o f f <space> l t e . 
+106-35  c u p <space> o f f <space> t e c . 
+106-36  c u p <space> f f f <space> t e . 
+106-37  c p p <space> f f <space> t e a . 
+106-38  c p p <space> o f <space> t e e . 
+106-39 , <space> c u p <space> o f <space> t e e . 
+106-40  c u p <space> o f <space> t e l . 
+106-41  c p p <space> o f f <space> t e d . 
+106-42  c u p <space> f f f <space> t e e . 
+106-43  c u p <space> o f f <space> t h e . . 
+106-44  c u p <space> o f <space> t e d 
+106-45  c u p <space> o f <space> t e n . 
+106-46  c u p <space> o f <space> t o e . 
+106-47  c p p <space> o f f <space> t e a 
+106-48  c p p <space> f f f <space> t e . 
+106-49  c u p <space> o f f <space> t e d 
+106-50  c p p <space> f f f <space> t e e . 
+106-51  c u p <space> o f <space> t e c . 
+106-52  c u p <space> o f <space> t r e e . 
+106-53  c p p <space> o f f <space> t o e . 
+106-54  c p p <space> o f <space> t h e . 
+106-55 , <space> c u p <space> o f <space> t h e . 
+106-56 ' <space> c u p <space> o f f <space> t e a . 
+106-57 ' <space> c u p <space> o f f <space> t e . 
+106-58 , <space> c u p <space> o f f <space> t h e . 
+106-59  c u p <space> f f f <space> t e a . 
+106-60 ' <space> c u p <space> o f f <space> t e e . 
+106-61  c u p <space> o f <space> t e 
+106-62  c p p <space> o f <space> t e a 
+106-63 , <space> c u p <space> o f <space> t e a 
+106-64 ' <space> c u p <space> o f <space> t e e . 
+106-65  c u p <space> o f <space> t h e e . 
+106-66  c p p <space> o f f <space> l t e . 
+106-67  c p p <space> o f f <space> t e c . 
+106-68  c p p <space> f f f <space> t e a . 
+106-69  c p p <space> o f <space> t e d . 
+106-70 , <space> c u p <space> o f <space> t e d . 
+106-71  c p p <space> o f f <space> t h e . . 
+106-72 ' <space> c u p <space> o f <space> t h e . 
+106-73 , <space> c u p <space> f f <space> t e . 
+106-74 , <space> c u p <space> o f f <space> t e d . 
+106-75  c p p <space> o f f <space> t e d 
+106-76 , <space> c u p <space> f f <space> t e e . 
+106-77 ' <space> c u p <space> o f f <space> t h e . 
+106-78  c u p <space> o f f <space> t e 
+106-79 ' <space> c u p <space> o f <space> t e a 
+106-80 , <space> c u p <space> o f f <space> t e a 
+106-81  c p p <space> o f <space> t h e . . 
+106-82 , <space> c u p <space> o f <space> t h e . . 
+106-83 , <space> c u p <space> o f f <space> t o e . 
+106-84 ' <space> c u p <space> o f <space> t e d . 
+106-85 , <space> c u p <space> f f <space> t e a . 
+106-86  c p p <space> o f <space> l t e . 
+106-87 , <space> c u p <space> o f <space> l t e . 
+106-88 ' <space> c u p <space> f f <space> t e . 
+106-89 ' <space> c u p <space> o f f <space> t e d . 
+106-90 ' <space> c u p <space> f f <space> t e e . 
+106-91 , <space> c u p <space> o f f <space> l t e . 
+106-92 , <space> c u p <space> o f f <space> t e c . 
+106-93 , <space> c u p <space> f f f <space> t e . 
+106-94 ' <space> c u p <space> o f f <space> t e a 
+106-95  c p p <space> o f <space> t e l . 
+106-96 , <space> c u p <space> o f <space> t e l . 
+106-97 , <space> c u p <space> f f f <space> t e e . 
+106-98 , <space> c u p <space> o f f <space> t h e . . 
+106-99  c p p <space> o f <space> t e d 
+106-100 , <space> c u p <space> o f <space> t e d 
+106-101 ' <space> c u p <space> o f <space> t h e . . 
+106-102  c p p <space> o f <space> t e n . 
+106-103 , <space> c u p <space> o f <space> t e n . 
+106-104  c p p <space> o f f <space> t e 
+106-105  c p p <space> o f <space> t o e . 
+106-106 , <space> c u p <space> o f <space> t o e . 
+106-107 ' <space> c u p <space> o f f <space> t o e . 
+106-108 , <space> c u p <space> o f f <space> t e d 
+106-109  c p p <space> o f <space> t e c . 
+106-110 , <space> c u p <space> o f <space> t e c . 
+106-111  c p p <space> o f <space> t r e e . 
+106-112 ' <space> c u p <space> f f <space> t e a . 
+106-113 , <space> c u p <space> o f <space> t r e e . 
+106-114 ' <space> c u p <space> o f <space> l t e . 
+106-115  c u p <space> f f <space> t e 
+106-116 , <space> c u p <space> f f f <space> t e a . 
+106-117  c p p <space> o f <space> t e 
+106-118 , <space> c u p <space> o f <space> t e 
+106-119 ' <space> c u p <space> o f f <space> l t e . 
+106-120 ' <space> c u p <space> o f f <space> t e c . 
+106-121 ' <space> c u p <space> f f f <space> t e . 
+106-122 ' <space> c u p <space> o f <space> t e l . 
+106-123 ' <space> c u p <space> f f f <space> t e e . 
+106-124  c p p <space> o f <space> t h e e . 
+106-125 , <space> c u p <space> o f <space> t h e e . 
+106-126 ' <space> c u p <space> o f f <space> t h e . . 
+106-127 ' <space> c u p <space> o f <space> t e d 
+106-128 ' <space> c u p <space> o f <space> t e n . 

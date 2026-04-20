@@ -1,0 +1,24 @@
+32-1  n e w <space> c a r . 
+32-2  n e w <space> c a r 
+32-3 , <space> n e w <space> c a r . 
+32-4  n e w <space> c a r ? 
+32-5  n e w <space> c a n . 
+32-6  n e w <space> c a . 
+32-7 ' <space> n e w <space> c a r . 
+32-8 , <space> n e w <space> c a r 
+32-9  n e w <space> c c a . 
+32-10  n e w <space> c a n 
+32-11  n e w <space> c a a . 
+32-12 , <space> n e w <space> c a r ? 
+32-13 , <space> n e w <space> c a n . 
+32-14 , <space> n e w <space> c a . 
+32-15 ' <space> n e w <space> c a r 
+32-16 , <space> n e w <space> c c a . 
+32-17 ' <space> n e w <space> c a r ? 
+32-18 , <space> n e w <space> c a n 
+32-19 , <space> n e w <space> c a a . 
+32-20 ' <space> n e w <space> c a n . 
+32-21 ' <space> n e w <space> c a . 
+32-22 ' <space> n e w <space> c c a . 
+32-23 ' <space> n e w <space> c a n 
+32-24 ' <space> n e w <space> c a a . 

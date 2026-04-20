@@ -1,0 +1,12 @@
+107-1  m y <space> w o r d 
+107-2 , <space> m y <space> w o r d 
+107-3  m y <space> w o r d . 
+107-4  m y <space> w o r l d 
+107-5 , <space> m y <space> w o r d . 
+107-6 ' <space> m y <space> w o r d 
+107-7  m y <space> w o r d ? 
+107-8 , <space> m y <space> w o r l d 
+107-9 ' <space> m y <space> w o r d . 
+107-10 , <space> m y <space> w o r d ? 
+107-11 ' <space> m y <space> w o r l d 
+107-12 ' <space> m y <space> w o r d ? 

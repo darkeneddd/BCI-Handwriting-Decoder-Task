@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/fwillett/handwritingDatasetsForRelease/Step4_RNNTraining/HeldOutTrials/model.ckpt-100000"
+all_model_checkpoint_paths: "/home/fwillett/handwritingDatasetsForRelease/Step4_RNNTraining/HeldOutTrials/model.ckpt-100000"

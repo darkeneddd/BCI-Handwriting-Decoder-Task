@@ -1,0 +1,88 @@
+31-1  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-2  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-3 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-4  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-5  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-6  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-7  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-8  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-9 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-10  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-11 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-12  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-13  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-14  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-15  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-16  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-17 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-18 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-19 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-20  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-21  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-22  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-23  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-24  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-25  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-26 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-27  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-28 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-29 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-30 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-31  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-32  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-33  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-34  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-35  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-36  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-37 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-38 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-39  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-40  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-41  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-42  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-43 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-44 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-45 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-46 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-47  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-48  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-49  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-50 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-51  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-52  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-53  i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-54  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-55  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-56 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-57 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-58 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-59 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-60 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-61  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-62  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-63  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-64  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . 
+31-65  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-66  t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-67  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-68 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-69  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-70 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-71 , <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-72  a t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-73  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-74  o t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-75 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-76 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-77  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-78  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . 
+31-79 , <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-80 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-81 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-82  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-83  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o . . 
+31-84  i t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-85 ' <space> i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-86 ' <space> t t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-87  t i t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 
+31-88  t f t <space> s e e m e d <space> a <space> p o o r <space> t h i n g <space> t o o <space> h a v e <space> d e s c e n d e d <space> t o o . . 

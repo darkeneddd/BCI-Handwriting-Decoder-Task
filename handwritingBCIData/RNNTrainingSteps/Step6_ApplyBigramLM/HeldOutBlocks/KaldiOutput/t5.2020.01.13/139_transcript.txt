@@ -1,0 +1,36 @@
+139-1 , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-2  i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-3 ' s <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-4 ' m <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-5 ' <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-6 ' d <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-7 , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-8 , <space> i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-9 , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-10 , , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-11  i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-12  i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-13  a <space> l i k e <space> l o u d <space> r o c k <space> m u s i c . 
+139-14 , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-15 ' s <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-16 ' m <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-17 ' <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-18 ' d <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-19 ' s <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-20 ' m <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-21  i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-22 , <space> i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-23 ' <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-24 ' d <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-25 , <space> i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-26 , , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-27 ' s <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-28 , , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-29 ' m <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-30  a <space> l i k e <space> l o u d <space> r o c k <space> m u s i c 
+139-31 ' <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-32 ' d <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-33  a <space> l i k e <space> l o u d <space> r o c k <space> m u s i c ? 
+139-34 , <space> i <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-35 , , <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 
+139-36  a <space> l i k e <space> l o u d <space> r o c k <space> m u s i c , 

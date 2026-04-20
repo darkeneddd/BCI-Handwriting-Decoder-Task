@@ -1,0 +1,128 @@
+52-1  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-2  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-3  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u 
+52-4 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-5  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-6  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-7  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u r 
+52-8  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u 
+52-9  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u 
+52-10  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-11  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u 
+52-12  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u . 
+52-13 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-14  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-15  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-16  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y u 
+52-17  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o <space> f o r <space> y o u 
+52-18  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u r 
+52-19  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n d <space> d o <space> f o r <space> y o u 
+52-20  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-21  s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-22  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u . 
+52-23  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> i <space> d o <space> f o r <space> y o u 
+52-24 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u 
+52-25  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-26  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u . 
+52-27  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u 
+52-28  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-29  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u 
+52-30  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u 
+52-31  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o o <space> f o r <space> y o u 
+52-32  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n o n <space> d o <space> f o r <space> y o u 
+52-33  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o e <space> f o r <space> y o u 
+52-34  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u r 
+52-35  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c n n <space> d o <space> f o r <space> y o u 
+52-36  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o <space> f o r <space> y o u . 
+52-37 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u r 
+52-38 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u 
+52-39  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n d <space> d o <space> f o r <space> y o u . 
+52-40  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u r 
+52-41  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u r 
+52-42  s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-43  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u 
+52-44  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u 
+52-45  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u 
+52-46 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u 
+52-47  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> i <space> d o <space> f o r <space> y o u . 
+52-48  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u r 
+52-49  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u 
+52-50  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u 
+52-51 , <space> a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-52 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u 
+52-53 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u . 
+52-54  m a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-55  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u r 
+52-56  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u 
+52-57  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u . 
+52-58  t a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+52-59  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u 
+52-60  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u . 
+52-61  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y u 
+52-62  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o o <space> f o r <space> y o u . 
+52-63  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n o n <space> d o <space> f o r <space> y o u . 
+52-64  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o e <space> f o r <space> y o u . 
+52-65  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u r 
+52-66  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u r 
+52-67  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c n n <space> d o <space> f o r <space> y o u . 
+52-68  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u 
+52-69  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> o u r 
+52-70  s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u 
+52-71 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y u 
+52-72 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o <space> f o r <space> y o u 
+52-73  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u 
+52-74 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u r 
+52-75  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y u 
+52-76 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n d <space> d o <space> f o r <space> y o u 
+52-77 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-78  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o <space> f o r <space> y o u 
+52-79  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y u 
+52-80  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o <space> f o r <space> y o u 
+52-81  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u r 
+52-82  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n d <space> d o <space> f o r <space> y o u 
+52-83  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o o <space> f o r <space> y o u 
+52-84  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-85  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o e <space> f o r <space> y o u 
+52-86  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u 
+52-87  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u r 
+52-88  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n d <space> d o <space> f o r <space> y o u 
+52-89  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u . 
+52-90  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-91  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> a n n <space> d o <space> f o r <space> y o u r 
+52-92 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u . 
+52-93 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> i <space> d o <space> f o r <space> y o u 
+52-94  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y u 
+52-95  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u ? 
+52-96  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n d <space> d o <space> f o r <space> y o u r 
+52-97  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u . 
+52-98  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> o u 
+52-99  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> o u r 
+52-100  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> i <space> d o <space> f o r <space> y o u 
+52-101  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u . 
+52-102 , <space> a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-103  s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u r 
+52-104  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> i <space> d o <space> f o r <space> y o u 
+52-105 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u . 
+52-106  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y u 
+52-107  s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c a n <space> d o <space> f o r <space> y o u 
+52-108  m a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-109 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-110  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u . 
+52-111  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> i <space> d o <space> f o r <space> y o u r 
+52-112  t a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+52-113  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> o u r 
+52-114  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y o u . 
+52-115 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u 
+52-116  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y u 
+52-117 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o o <space> f o r <space> y o u 
+52-118 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n o n <space> d o <space> f o r <space> y o u 
+52-119  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c o n n <space> d o <space> f o r <space> y u 
+52-120  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t y <space> a n n <space> d o <space> f o r <space> y o u 
+52-121 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o e <space> f o r <space> y o u 
+52-122  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-123  s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c n n <space> d o <space> f o r <space> y o u 
+52-124 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> a n n <space> d o <space> f o r <space> y o u r 
+52-125 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t y <space> c n n <space> d o <space> f o r <space> y o u 
+52-126  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+52-127  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u 
+52-128  a s k <space> n o t <space> w a n t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> o u r 

@@ -1,0 +1,16 @@
+45-1 , <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . 
+45-2  b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . 
+45-3 ' <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . 
+45-4 , <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . . 
+45-5 , <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . 
+45-6  b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . . 
+45-7  b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . 
+45-8  b u t t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . 
+45-9 ' <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . . 
+45-10 ' <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . 
+45-11 , <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . . 
+45-12  b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . . 
+45-13  b u t t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e <space> t o <space> s t a y <space> o n . . 
+45-14  b u t t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . 
+45-15 ' <space> b u t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . . 
+45-16  b u t t <space> i <space> h o p e <space> y o u ' l l <space> f o r g i v e <space> m e <space> a n d <space> d e c i d e d <space> t o <space> s t a y <space> o n . . 

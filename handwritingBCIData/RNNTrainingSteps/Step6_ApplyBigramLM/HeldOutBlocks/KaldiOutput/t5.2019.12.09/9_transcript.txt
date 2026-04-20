@@ -1,0 +1,3 @@
+9-1  t h e r e <space> w a s n ' t <space> m u c h <space> c h o i c e <space> i n <space> a n y <space> c a s e . 
+9-2 , <space> t h e r e <space> w a s n ' t <space> m u c h <space> c h o i c e <space> i n <space> a n y <space> c a s e . 
+9-3 ' <space> t h e r e <space> w a s n ' t <space> m u c h <space> c h o i c e <space> i n <space> a n y <space> c a s e . 

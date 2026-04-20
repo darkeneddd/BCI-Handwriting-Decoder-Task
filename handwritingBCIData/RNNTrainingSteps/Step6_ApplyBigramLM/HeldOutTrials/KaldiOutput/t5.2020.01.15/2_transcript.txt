@@ -1,0 +1,28 @@
+2-1  g o <space> l e f t 
+2-2  g o <space> e f f . 
+2-3 , <space> g o <space> l e f t 
+2-4  a g o <space> l e f t 
+2-5  e g o <space> l e f t 
+2-6  g o o <space> l e f t 
+2-7  g o <space> l e f t . 
+2-8  g o <space> o f f . 
+2-9  g o <space> e f f ? 
+2-10 , <space> g o <space> e f f . 
+2-11  e g o <space> e f f . 
+2-12  n g o <space> l e f t 
+2-13  g o o <space> e f f . 
+2-14  a g o <space> e f f . 
+2-15 ' <space> g o <space> l e f t 
+2-16  n g o <space> e f f . 
+2-17  g o t <space> l e f t 
+2-18 , <space> g o <space> l e f t . 
+2-19 , <space> g o <space> o f f . 
+2-20 , <space> g o <space> e f f ? 
+2-21  e g o <space> e f f ? 
+2-22  g o o <space> e f f ? 
+2-23  a g o <space> e f f ? 
+2-24 ' <space> g o <space> e f f . 
+2-25  n g o <space> e f f ? 
+2-26 ' <space> g o <space> l e f t . 
+2-27 ' <space> g o <space> o f f . 
+2-28 ' <space> g o <space> e f f ? 

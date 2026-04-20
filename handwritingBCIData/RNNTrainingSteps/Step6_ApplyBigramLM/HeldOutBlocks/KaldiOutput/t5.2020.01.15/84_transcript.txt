@@ -1,0 +1,15 @@
+84-1  s i x <space> h o u r s . 
+84-2 , <space> s i x <space> h o u r s . 
+84-3  s i x <space> h o u r s 
+84-4  s i x <space> h o u r . 
+84-5  s i x <space> h o u r s ? 
+84-6 ' <space> s i x <space> h o u r s . 
+84-7 , <space> s i x <space> h o u r s 
+84-8  s i x <space> h o u r s , 
+84-9 , <space> s i x <space> h o u r . 
+84-10 , <space> s i x <space> h o u r s ? 
+84-11 ' <space> s i x <space> h o u r s 
+84-12 , <space> s i x <space> h o u r s , 
+84-13 ' <space> s i x <space> h o u r . 
+84-14 ' <space> s i x <space> h o u r s ? 
+84-15 ' <space> s i x <space> h o u r s , 

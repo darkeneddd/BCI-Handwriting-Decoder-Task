@@ -1,0 +1,128 @@
+34-1  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-2  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-3  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-4  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-5 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-6 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-7  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-8  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-9 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-10  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-11  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-12  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-13 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-14  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-15  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-16  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-17 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-18  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-19 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-20  i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-21  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-22  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-23 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-24  i i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-25  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-26  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-27 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-28 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-29  i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-30  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-31  i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-32 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-33  i i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-34  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-35  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-36 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-37  i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-38  i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-39 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-40 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-41  i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-42 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-43 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-44  i i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-45  i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-46  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-47 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-48  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-49 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-50  i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-51 , <space> i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-52  i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-53  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-54 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-55 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-56  i i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-57  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s , <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-58 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-59  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-60 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-61  i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-62  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-63 , <space> i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-64  i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-65 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-66 , <space> i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-67 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-68 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-69 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-70 ' <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-71  i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-72 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-73  i i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-74  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-75 , <space> i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-76  i i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-77  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-78  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-79  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-80 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-81 , <space> i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-82  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-83 ' <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-84 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-85  i i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-86  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-87 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-88  i i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-89  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-90  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-91 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-92  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-93  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-94 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-95  i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-96 , <space> i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-97  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-98 , <space> i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-99 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-100  i i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-101 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-102 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e e n <space> o r a n g e s , <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-103 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-104 ' <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-105 , <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-106  i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-107 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-108  i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-109  i i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-110 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-111  i i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-112  i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-113 , <space> i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-114  i i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-115  i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-116  i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-117 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-118 ' <space> i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-119 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-120 ' <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-121  i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e e n <space> b a n a n a s . 
+34-122 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-123  i <space> h a v e <space> s e v e n <space> a p p e a r s , <space> s e v e n <space> o r a n g e s <space> a d d <space> s e v e n <space> b a n a n a s . 
+34-124  i i <space> h a v e <space> s e v e n <space> a p p l e s , , <space> s e e n <space> o r a n g e s <space> a n d <space> s e v e n <space> b a n a n a s . 
+34-125  i i <space> h a v e <space> s e v e n <space> a p p e a l s , <space> s e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-126 , <space> i <space> h a v e <space> s e v e r e <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 
+34-127 ' <space> i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s e v e n <space> o r a n g e s , <space> a n d <space> s e e n <space> b a n a n a s . 
+34-128  i i <space> h a v e <space> s e v e n <space> a p p l e s , <space> s t e v e n <space> o r a n g e s <space> a n d <space> s e e n <space> b a n a n a s . 

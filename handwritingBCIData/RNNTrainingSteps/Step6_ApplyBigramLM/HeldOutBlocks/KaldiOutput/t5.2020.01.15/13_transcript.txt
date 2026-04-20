@@ -1,0 +1,7 @@
+13-1  i <space> w a s 
+13-2 , <space> i <space> w a s 
+13-3  i t <space> w a s 
+13-4  i i <space> w a s 
+13-5 ' <space> i <space> w a s 
+13-6  i i i <space> w a s 
+13-7 , <space> i t <space> w a s 

@@ -1,0 +1,15 @@
+34-1  p a c k <space> m y <space> b o x <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-2  p a c k <space> m y <space> b o y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-3 , <space> p a c k <space> m y <space> b o x <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-4 , <space> p a c k <space> m y <space> b o y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-5 ' <space> p a c k <space> m y <space> b o x <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-6  p a c k <space> m y <space> b o d y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-7  p a c k <space> m y <space> b o y s <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-8  p a c k <space> m y <space> b o x y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-9 ' <space> p a c k <space> m y <space> b o y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-10 , <space> p a c k <space> m y <space> b o d y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-11 , <space> p a c k <space> m y <space> b o y s <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-12 , <space> p a c k <space> m y <space> b o x y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-13 ' <space> p a c k <space> m y <space> b o d y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-14 ' <space> p a c k <space> m y <space> b o y s <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 
+34-15 ' <space> p a c k <space> m y <space> b o x y <space> w i t h <space> f i v e <space> d o z e n <space> l i q u o r <space> j u g s . 

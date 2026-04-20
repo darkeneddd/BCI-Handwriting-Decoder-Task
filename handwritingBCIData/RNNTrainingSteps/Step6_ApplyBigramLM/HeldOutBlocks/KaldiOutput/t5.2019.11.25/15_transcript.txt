@@ -1,0 +1,12 @@
+15-1  p e r h a p s <space> t h e <space> s i g h t <space> o f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> d o <space> h i m <space> g o o d . 
+15-2 , <space> p e r h a p s <space> t h e <space> s i g h t <space> o f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> d o <space> h i m <space> g o o d . 
+15-3  p e r h a p s <space> t h e <space> s i g h t <space> o f f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> d o <space> h i m <space> g o o d . 
+15-4 ' <space> p e r h a p s <space> t h e <space> s i g h t <space> o f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> d o <space> h i m <space> g o o d . 
+15-5  p e r h a p s <space> t h e <space> s i g h t <space> o f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> i <space> d o <space> h i m <space> g o o d . 
+15-6 , <space> p e r h a p s <space> t h e <space> s i g h t <space> o f f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> d o <space> h i m <space> g o o d . 
+15-7 , <space> p e r h a p s <space> t h e <space> s i g h t <space> o f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> i <space> d o <space> h i m <space> g o o d . 
+15-8 ' <space> p e r h a p s <space> t h e <space> s i g h t <space> o f f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> d o <space> h i m <space> g o o d . 
+15-9  p e r h a p s <space> t h e <space> s i g h t <space> o f f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> i <space> d o <space> h i m <space> g o o d . 
+15-10 ' <space> p e r h a p s <space> t h e <space> s i g h t <space> o f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> i <space> d o <space> h i m <space> g o o d . 
+15-11 , <space> p e r h a p s <space> t h e <space> s i g h t <space> o f f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> i <space> d o <space> h i m <space> g o o d . 
+15-12 ' <space> p e r h a p s <space> t h e <space> s i g h t <space> o f f <space> a <space> f r i e n d l y <space> f a c e <space> w i l l <space> i <space> d o <space> h i m <space> g o o d . 

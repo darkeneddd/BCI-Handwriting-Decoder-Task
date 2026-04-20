@@ -1,0 +1,10 @@
+2-1  h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . 
+2-2 , <space> h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . 
+2-3  s h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . 
+2-4 ' <space> h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . 
+2-5  h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . . 
+2-6  t h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . 
+2-7 , <space> h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . . 
+2-8  s h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . . 
+2-9 ' <space> h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . . 
+2-10  t h e <space> h a d <space> k n o w n <space> m y <space> f a t h e r <space> f o r <space> m a n y <space> y e a r s . . 

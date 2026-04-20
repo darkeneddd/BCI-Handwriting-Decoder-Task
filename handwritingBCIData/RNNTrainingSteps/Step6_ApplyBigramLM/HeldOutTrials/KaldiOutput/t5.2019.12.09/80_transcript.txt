@@ -1,0 +1,9 @@
+80-1  i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e ? 
+80-2  i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e ? ? 
+80-3  i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e . 
+80-4 , <space> i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e ? 
+80-5 ' <space> i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e ? 
+80-6 , <space> i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e ? ? 
+80-7 , <space> i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e . 
+80-8 ' <space> i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e ? ? 
+80-9 ' <space> i s <space> t h a t <space> s t a n d a r d <space> o p e r a t i n g <space> p r o c e d u r e . 

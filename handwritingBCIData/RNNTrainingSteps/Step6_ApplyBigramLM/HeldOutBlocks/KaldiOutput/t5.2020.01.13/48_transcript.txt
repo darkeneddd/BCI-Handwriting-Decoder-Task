@@ -1,0 +1,9 @@
+48-1  f e e l <space> b e t t e r . 
+48-2  f e e l <space> b e t t e r 
+48-3  f e e l <space> b e t t e r ? 
+48-4 , <space> f e e l <space> b e t t e r . 
+48-5 , <space> f e e l <space> b e t t e r 
+48-6 , <space> f e e l <space> b e t t e r ? 
+48-7 ' <space> f e e l <space> b e t t e r . 
+48-8 ' <space> f e e l <space> b e t t e r 
+48-9 ' <space> f e e l <space> b e t t e r ? 

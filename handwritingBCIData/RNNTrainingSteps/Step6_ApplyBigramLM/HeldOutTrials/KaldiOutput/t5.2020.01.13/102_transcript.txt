@@ -1,0 +1,36 @@
+102-1  t h e <space> t e e . 
+102-2  t h e <space> t e . 
+102-3  t h e <space> t e a . 
+102-4  t h e <space> t e a 
+102-5 , <space> t h e <space> t e e . 
+102-6 , <space> t h e <space> t e . 
+102-7 , <space> t h e <space> t e a . 
+102-8 , <space> t h e <space> t e a 
+102-9  t h e <space> t o e . 
+102-10  t h e <space> t r e e . 
+102-11  t h e <space> t e n 
+102-12  t h e <space> t e l . 
+102-13  t h e <space> t e e 
+102-14 ' <space> t h e <space> t e e . 
+102-15  t h e <space> t e e n 
+102-16  t h e <space> t e c . 
+102-17  t h e <space> t e n . 
+102-18 ' <space> t h e <space> t e . 
+102-19 ' <space> t h e <space> t e a . 
+102-20 , <space> t h e <space> t o e . 
+102-21 , <space> t h e <space> t r e e . 
+102-22 ' <space> t h e <space> t e a 
+102-23 , <space> t h e <space> t e n 
+102-24 , <space> t h e <space> t e l . 
+102-25 , <space> t h e <space> t e e 
+102-26 , <space> t h e <space> t e e n 
+102-27 , <space> t h e <space> t e c . 
+102-28 , <space> t h e <space> t e n . 
+102-29 ' <space> t h e <space> t o e . 
+102-30 ' <space> t h e <space> t r e e . 
+102-31 ' <space> t h e <space> t e n 
+102-32 ' <space> t h e <space> t e l . 
+102-33 ' <space> t h e <space> t e e 
+102-34 ' <space> t h e <space> t e e n 
+102-35 ' <space> t h e <space> t e c . 
+102-36 ' <space> t h e <space> t e n . 

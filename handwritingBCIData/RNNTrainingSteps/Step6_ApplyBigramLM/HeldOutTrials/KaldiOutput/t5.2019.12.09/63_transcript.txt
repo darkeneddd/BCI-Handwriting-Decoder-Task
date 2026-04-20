@@ -1,0 +1,18 @@
+63-1  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+63-2  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+63-3 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+63-4 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+63-5  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+63-6 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+63-7  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+63-8  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+63-9  i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+63-10 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+63-11  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+63-12  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r 
+63-13  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r . 
+63-14 , <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+63-15  i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+63-16 ' <space> i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+63-17  i s <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 
+63-18  i i i <space> l i k e <space> w h e n <space> y o u <space> s i t <space> w i t h <space> m e <space> a n d <space> r e a d <space> t h e <space> p a p e r ? 

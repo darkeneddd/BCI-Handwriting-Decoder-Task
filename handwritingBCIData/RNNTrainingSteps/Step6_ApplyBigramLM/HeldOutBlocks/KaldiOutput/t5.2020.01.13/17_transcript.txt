@@ -1,0 +1,12 @@
+17-1  b r o k e n <space> p r o m i s e 
+17-2  b r o k e n <space> p r o m i s e . 
+17-3 , <space> b r o k e n <space> p r o m i s e 
+17-4 , <space> b r o k e n <space> p r o m i s e . 
+17-5  b r o k e n <space> p r o m i s e s 
+17-6  b r o k e n <space> p r o m i s e s . 
+17-7 ' <space> b r o k e n <space> p r o m i s e 
+17-8 ' <space> b r o k e n <space> p r o m i s e . 
+17-9 , <space> b r o k e n <space> p r o m i s e s 
+17-10 , <space> b r o k e n <space> p r o m i s e s . 
+17-11 ' <space> b r o k e n <space> p r o m i s e s 
+17-12 ' <space> b r o k e n <space> p r o m i s e s . 

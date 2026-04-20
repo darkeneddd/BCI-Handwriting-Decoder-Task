@@ -1,0 +1,45 @@
+111-1  a <space> l o t <space> o f f <space> f r i e n d s 
+111-2  a <space> l o t <space> o f <space> f r i e n d s 
+111-3 , <space> a <space> l o t <space> o f f <space> f r i e n d s 
+111-4  a <space> l o t <space> o f f <space> f r i e n d s . 
+111-5  a <space> l o t <space> f f <space> f r i e n d s 
+111-6  a <space> l o t <space> o f f <space> f r i e n d . 
+111-7 , <space> a <space> l o t <space> o f <space> f r i e n d s 
+111-8  a <space> l o t <space> f f f <space> f r i e n d s 
+111-9  a <space> l o t <space> o f <space> f r i e n d s . 
+111-10 , <space> a <space> l o t <space> o f f <space> f r i e n d s . 
+111-11  a <space> l o t <space> e f f <space> f r i e n d s 
+111-12  a <space> l o t <space> f f f f f f <space> f r i e n d s 
+111-13 , <space> a <space> l o t <space> f f <space> f r i e n d s 
+111-14  a <space> l o o t <space> o f f <space> f r i e n d s 
+111-15  a <space> l o t <space> f f <space> f r i e n d . 
+111-16  a <space> l o t <space> f f <space> f r i e n d s . 
+111-17 ' <space> a <space> l o t <space> o f f <space> f r i e n d s 
+111-18 , <space> a <space> l o t <space> o f f <space> f r i e n d . 
+111-19 , <space> a <space> l o t <space> f f f <space> f r i e n d s 
+111-20 , <space> a <space> l o t <space> o f <space> f r i e n d s . 
+111-21  a <space> l o t <space> f f f <space> f r i e n d s . 
+111-22 ' <space> a <space> l o t <space> o f <space> f r i e n d s 
+111-23 , <space> a <space> l o t <space> e f f <space> f r i e n d s 
+111-24 , <space> a <space> l o t <space> f f f f f f <space> f r i e n d s 
+111-25 , <space> a <space> l o o t <space> o f f <space> f r i e n d s 
+111-26 , <space> a <space> l o t <space> f f <space> f r i e n d . 
+111-27 , <space> a <space> l o t <space> f f <space> f r i e n d s . 
+111-28  a <space> l o o t <space> o f f <space> f r i e n d s . 
+111-29 ' <space> a <space> l o t <space> o f f <space> f r i e n d s . 
+111-30 ' <space> a <space> l o t <space> f f <space> f r i e n d s 
+111-31  a <space> l o o t <space> o f f <space> f r i e n d . 
+111-32 , <space> a <space> l o t <space> f f f <space> f r i e n d s . 
+111-33 ' <space> a <space> l o t <space> o f f <space> f r i e n d . 
+111-34 ' <space> a <space> l o t <space> f f f <space> f r i e n d s 
+111-35 ' <space> a <space> l o t <space> o f <space> f r i e n d s . 
+111-36 , <space> a <space> l o o t <space> o f f <space> f r i e n d s . 
+111-37 ' <space> a <space> l o t <space> e f f <space> f r i e n d s 
+111-38 ' <space> a <space> l o t <space> f f f f f f <space> f r i e n d s 
+111-39 ' <space> a <space> l o o t <space> o f f <space> f r i e n d s 
+111-40 ' <space> a <space> l o t <space> f f <space> f r i e n d . 
+111-41 ' <space> a <space> l o t <space> f f <space> f r i e n d s . 
+111-42 , <space> a <space> l o o t <space> o f f <space> f r i e n d . 
+111-43 ' <space> a <space> l o t <space> f f f <space> f r i e n d s . 
+111-44 ' <space> a <space> l o o t <space> o f f <space> f r i e n d s . 
+111-45 ' <space> a <space> l o o t <space> o f f <space> f r i e n d . 

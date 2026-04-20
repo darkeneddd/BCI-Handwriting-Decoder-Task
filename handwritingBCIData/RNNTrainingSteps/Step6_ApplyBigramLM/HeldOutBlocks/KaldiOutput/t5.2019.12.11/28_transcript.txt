@@ -1,0 +1,20 @@
+28-1  h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-2 , <space> h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-3  h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-4  s h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-5 ' <space> h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-6 , <space> h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-7  h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-8  t h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-9  s h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-10 , <space> h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-11 ' <space> h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-12  h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-13  t h e <space> w a l k e d <space> o u t <space> o f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-14  s h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-15 ' <space> h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-16 , <space> h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-17  t h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , <space> g r i n n i n g <space> b r o a d l y . 
+28-18  s h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-19 ' <space> h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 
+28-20  t h e <space> w a l k e d <space> o u t <space> o f f <space> t h e <space> p o o l , , <space> g r i n n i n g <space> b r o a d l y . 

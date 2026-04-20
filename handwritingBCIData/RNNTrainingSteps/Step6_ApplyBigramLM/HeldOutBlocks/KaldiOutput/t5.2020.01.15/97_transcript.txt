@@ -1,0 +1,10 @@
+97-1  e l e c t i o n . 
+97-2  e l e c t i o n 
+97-3  e l e c t i o n ? 
+97-4 , <space> e l e c t i o n . 
+97-5 , <space> e l e c t i o n 
+97-6  s e l e c t i o n 
+97-7  s e l e c t i o n . 
+97-8 ' <space> e l e c t i o n . 
+97-9 ' <space> e l e c t i o n 
+97-10  e l e c t i o n s 

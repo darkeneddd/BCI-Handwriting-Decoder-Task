@@ -1,0 +1,27 @@
+5-1  t h e n <space> i t <space> w o b b l e <space> e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-2  t h e n <space> i t <space> w o b b l e <space> d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-3  t h e n <space> i t <space> w o b b l e <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-4 , <space> t h e n <space> i t <space> w o b b l e <space> e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-5  t h e n <space> i t <space> w o b b l e <space> d d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-6 , <space> t h e n <space> i t <space> w o b b l e <space> d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-7 , <space> t h e n <space> i t <space> w o b b l e <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-8  t h e n <space> i t <space> w o <space> b l e e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-9  t h e n <space> i t <space> r o b b e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-10  t h e n <space> i t <space> c o b b l e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-11  t h e n <space> i t <space> w o b b l e <space> d d d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-12  t h e n <space> i t <space> m o b b e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-13 ' <space> t h e n <space> i t <space> w o b b l e <space> e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-14 , <space> t h e n <space> i t <space> w o b b l e <space> d d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-15 , <space> t h e n <space> i t <space> w o <space> b l e e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-16 ' <space> t h e n <space> i t <space> w o b b l e <space> d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-17 , <space> t h e n <space> i t <space> r o b b e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-18 , <space> t h e n <space> i t <space> c o b b l e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-19 ' <space> t h e n <space> i t <space> w o b b l e <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-20 , <space> t h e n <space> i t <space> w o b b l e <space> d d d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-21 , <space> t h e n <space> i t <space> m o b b e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-22 ' <space> t h e n <space> i t <space> w o b b l e <space> d d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-23 ' <space> t h e n <space> i t <space> w o <space> b l e e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-24 ' <space> t h e n <space> i t <space> r o b b e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-25 ' <space> t h e n <space> i t <space> c o b b l e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-26 ' <space> t h e n <space> i t <space> w o b b l e <space> d d d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 
+5-27 ' <space> t h e n <space> i t <space> m o b b e d <space> u n d e r <space> h e r <space> w e i g h t <space> a n d <space> t i l t e d <space> f o r w a r d s . 

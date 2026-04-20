@@ -1,0 +1,6 @@
+21-1  s h e <space> h a d <space> m a d e <space> a <space> f o o l <space> o f <space> h e r <space> s e l f . 
+21-2 , <space> s h e <space> h a d <space> m a d e <space> a <space> f o o l <space> o f <space> h e r <space> s e l f . 
+21-3  s h e <space> h a d <space> m a d e <space> a <space> f o o l <space> o f f <space> h e r <space> s e l f . 
+21-4 ' <space> s h e <space> h a d <space> m a d e <space> a <space> f o o l <space> o f <space> h e r <space> s e l f . 
+21-5 , <space> s h e <space> h a d <space> m a d e <space> a <space> f o o l <space> o f f <space> h e r <space> s e l f . 
+21-6 ' <space> s h e <space> h a d <space> m a d e <space> a <space> f o o l <space> o f f <space> h e r <space> s e l f . 

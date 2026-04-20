@@ -1,0 +1,11 @@
+89-1  e x a c t 
+89-2  e x a c t . 
+89-3  e x p e c t . 
+89-4  e x p e c t 
+89-5  e n a c t 
+89-6 , <space> e x a c t 
+89-7  e n a c t . 
+89-8 , <space> e x a c t . 
+89-9  e x i s t . 
+89-10  e x a c t ? 
+89-11  e x i s t 

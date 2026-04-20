@@ -1,0 +1,18 @@
+143-1  i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m a l l <space> f a m i l i e s . 
+143-2  i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o o <space> s m a l l <space> f a m i l i e s . 
+143-3 , <space> i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m a l l <space> f a m i l i e s . 
+143-4 , <space> i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o o <space> s m a l l <space> f a m i l i e s . 
+143-5  i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m e l l <space> f a m i l i e s . 
+143-6  i i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m a l l <space> f a m i l i e s . 
+143-7  i i i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m a l l <space> f a m i l i e s . 
+143-8 ' <space> i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m a l l <space> f a m i l i e s . 
+143-9  a i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m a l l <space> f a m i l i e s . 
+143-10  i i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o o <space> s m a l l <space> f a m i l i e s . 
+143-11 , <space> i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m e l l <space> f a m i l i e s . 
+143-12  i i i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o o <space> s m a l l <space> f a m i l i e s . 
+143-13 ' <space> i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o o <space> s m a l l <space> f a m i l i e s . 
+143-14  a i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o o <space> s m a l l <space> f a m i l i e s . 
+143-15  i i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m e l l <space> f a m i l i e s . 
+143-16  i i i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m e l l <space> f a m i l i e s . 
+143-17 ' <space> i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m e l l <space> f a m i l i e s . 
+143-18  a i <space> w o u l d <space> p r o v i d e <space> f u n d i n g <space> t o <space> s m e l l <space> f a m i l i e s . 

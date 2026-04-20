@@ -1,0 +1,24 @@
+32-1  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? 
+32-2  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d 
+32-3  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d . 
+32-4 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? 
+32-5 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d 
+32-6 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d . 
+32-7  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? ? 
+32-8  y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? 
+32-9 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? 
+32-10  y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d 
+32-11 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? ? 
+32-12  y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d . 
+32-13 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d 
+32-14 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d . 
+32-15 , <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? 
+32-16 , <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d 
+32-17 , <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d . 
+32-18  y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? ? 
+32-19 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? ? 
+32-20 ' <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? 
+32-21 , <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? ? 
+32-22 ' <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d 
+32-23 ' <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d . 
+32-24 ' <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? ? 

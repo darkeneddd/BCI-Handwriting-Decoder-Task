@@ -1,0 +1,21 @@
+47-1  i <space> l o s t <space> m y <space> w a l l e t 
+47-2  i <space> l o s t <space> m y <space> w a l l e t . 
+47-3 , <space> i <space> l o s t <space> m y <space> w a l l e t 
+47-4 , <space> i <space> l o s t <space> m y <space> w a l l e t . 
+47-5  i <space> l o s t <space> m y <space> w a l l e t ? 
+47-6  i i <space> l o s t <space> m y <space> w a l l e t 
+47-7  i t <space> l o s t <space> m y <space> w a l l e t 
+47-8 ' <space> i <space> l o s t <space> m y <space> w a l l e t 
+47-9  i i <space> l o s t <space> m y <space> w a l l e t . 
+47-10  i t <space> l o s t <space> m y <space> w a l l e t . 
+47-11  i s <space> l o s t <space> m y <space> w a l l e t 
+47-12 ' <space> i <space> l o s t <space> m y <space> w a l l e t . 
+47-13  i s <space> l o s t <space> m y <space> w a l l e t . 
+47-14 , <space> i <space> l o s t <space> m y <space> w a l l e t ? 
+47-15  i l <space> l o s t <space> m y <space> w a l l e t 
+47-16  i l <space> l o s t <space> m y <space> w a l l e t . 
+47-17  i i <space> l o s t <space> m y <space> w a l l e t ? 
+47-18  i t <space> l o s t <space> m y <space> w a l l e t ? 
+47-19 ' <space> i <space> l o s t <space> m y <space> w a l l e t ? 
+47-20  i s <space> l o s t <space> m y <space> w a l l e t ? 
+47-21  i l <space> l o s t <space> m y <space> w a l l e t ? 

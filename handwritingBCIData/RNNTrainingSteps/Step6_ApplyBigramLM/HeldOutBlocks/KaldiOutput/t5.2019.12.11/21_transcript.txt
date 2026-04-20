@@ -1,0 +1,18 @@
+21-1  t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . 
+21-2 , <space> t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . 
+21-3  t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . 
+21-4  t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . . 
+21-5 ' <space> t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . 
+21-6 , <space> t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . 
+21-7  t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n c e . 
+21-8 , <space> t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . . 
+21-9  t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . . 
+21-10 , <space> t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n c e . 
+21-11 ' <space> t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . 
+21-12  t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n c e . 
+21-13 ' <space> t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . . 
+21-14 , <space> t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . . 
+21-15 ' <space> t h i s <space> f u z z y , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n c e . 
+21-16 , <space> t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n c e . 
+21-17 ' <space> t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n e . . 
+21-18 ' <space> t h i s <space> f u z z y , , <space> p r o b a b i l i s t i c <space> a p p r o a c h <space> i s <space> a <space> s e n s i b l e <space> o n c e . 

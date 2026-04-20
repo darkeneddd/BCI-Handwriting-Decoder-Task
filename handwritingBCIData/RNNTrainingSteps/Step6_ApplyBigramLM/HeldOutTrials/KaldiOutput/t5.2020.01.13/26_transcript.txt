@@ -1,0 +1,24 @@
+26-1  p l e a s e <space> t r y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t . 
+26-2 , <space> p l e a s e <space> t r y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t . 
+26-3  p l e a s e <space> t r y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t 
+26-4 , <space> p l e a s e <space> t r y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t 
+26-5  p l e a s e <space> t r y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t . 
+26-6 ' <space> p l e a s e <space> t r y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t . 
+26-7  p l e a s e <space> t y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t . 
+26-8 , <space> p l e a s e <space> t r y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t . 
+26-9 , <space> p l e a s e <space> t y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t . 
+26-10  p l e a s e <space> t r y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t 
+26-11 ' <space> p l e a s e <space> t r y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t 
+26-12  p l e a s e <space> t y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t 
+26-13 , <space> p l e a s e <space> t r y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t 
+26-14 , <space> p l e a s e <space> t y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t 
+26-15 ' <space> p l e a s e <space> t r y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t . 
+26-16  p l e a s e <space> t y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t . 
+26-17 ' <space> p l e a s e <space> t y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t . 
+26-18 , <space> p l e a s e <space> t y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t . 
+26-19 ' <space> p l e a s e <space> t r y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t 
+26-20  p l e a s e <space> t y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t 
+26-21 ' <space> p l e a s e <space> t y <space> n o t <space> t o <space> b e <space> t o o <space> u p s e t 
+26-22 , <space> p l e a s e <space> t y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t 
+26-23 ' <space> p l e a s e <space> t y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t . 
+26-24 ' <space> p l e a s e <space> t y <space> n o t <space> t o o <space> b e <space> t o o <space> u p s e t 

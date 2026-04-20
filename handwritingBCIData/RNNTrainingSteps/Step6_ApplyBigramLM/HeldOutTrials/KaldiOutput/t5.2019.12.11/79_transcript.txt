@@ -1,0 +1,100 @@
+79-1  a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-2  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-3  a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-4  a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-5 , <space> a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-6  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-7  m a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-8  a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-9  t a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-10  m a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-11 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-12  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-13  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-14  a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-15  m a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-16  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-17  r a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-18  a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-19 , <space> a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-20  a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-21  a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-22 , <space> a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-23  m a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-24  a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-25  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-26  a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-27  t a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-28  m a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-29 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-30  a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-31  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-32 , <space> a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-33  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-34  a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-35  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-36  m a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-37  a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-38 , <space> a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-39  m a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-40  a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-41  t a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-42  r a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-43  m a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-44 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-45  a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-46 , <space> a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-47  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-48 , <space> a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-49  a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-50  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-51  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-52 , <space> a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-53  m a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-54  a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-55  a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-56 , <space> a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-57  m a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-58 , <space> a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-59 , <space> a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . 
+79-60  a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-61  t a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-62  m a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-63  m a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-64 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-65  a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-66  t a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-67  m a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-68 , <space> a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-69  r a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-70  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-71  a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-72  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-73  m a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-74  m a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-75 , <space> a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-76  t a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-77  m a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-78  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-79  a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-80 , <space> a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-81  r a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-82 , <space> a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-83  a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-84  r a s k <space> n o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-85 , <space> a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-86  a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-87 , <space> a s k <space> h o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-88  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-89 , <space> a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u 
+79-90  a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-91  r a s k <space> n o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-92 , <space> a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-93  a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-94 , <space> a s k <space> h o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-95 , <space> a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-96 , <space> a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o . 
+79-97 , <space> a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-98 , <space> a s k <space> h o o t <space> w h a t <space> o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 
+79-99 , <space> a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u ? 
+79-100 , <space> a s k <space> h o o t <space> w h a t <space> y o u r <space> c o u n t r y <space> c a n <space> d o <space> f o r <space> y o u . . 

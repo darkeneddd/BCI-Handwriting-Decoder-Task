@@ -1,0 +1,15 @@
+75-1  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-2 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-3 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-4  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-5  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-6  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-7  i i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-8 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-9 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-10 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-11 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-12  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-13  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-14  i i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-15  i i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 

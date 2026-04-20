@@ -1,0 +1,15 @@
+69-1  w h o <space> a r e <space> y o u . 
+69-2  w h o <space> a r e <space> y o u 
+69-3 , <space> w h o <space> a r e <space> y o u . 
+69-4 , <space> w h o <space> a r e <space> y o u 
+69-5  w h o <space> a r e <space> y o . 
+69-6 ' <space> w h o <space> a r e <space> y o u . 
+69-7  w h o <space> a r e <space> y o u . . 
+69-8 ' <space> w h o <space> a r e <space> y o u 
+69-9 , <space> w h o <space> a r e <space> y o . 
+69-10  w h o <space> a r e <space> y o u ? 
+69-11 , <space> w h o <space> a r e <space> y o u . . 
+69-12 , <space> w h o <space> a r e <space> y o u ? 
+69-13 ' <space> w h o <space> a r e <space> y o . 
+69-14 ' <space> w h o <space> a r e <space> y o u . . 
+69-15 ' <space> w h o <space> a r e <space> y o u ? 

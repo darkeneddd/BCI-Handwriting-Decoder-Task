@@ -1,0 +1,48 @@
+68-1  d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k ? 
+68-2  d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-3 , <space> d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k ? 
+68-4  d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t i c k ? 
+68-5  d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k . 
+68-6  d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k ? 
+68-7  d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k 
+68-8  d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k ? 
+68-9  d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k ? 
+68-10  d i d <space> y o u <space> w i n <space> y o u r <space> t h a t <space> t i c k ? 
+68-11 , <space> d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-12 , <space> d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t i c k ? 
+68-13  d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-14 , <space> d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k . 
+68-15  d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-16  d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-17 , <space> d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k ? 
+68-18 , <space> d i d <space> y o u <space> w i n <space> y o u r <space> h a t <space> t r i c k 
+68-19 , <space> d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k ? 
+68-20  d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t i c k ? 
+68-21  d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k . 
+68-22 , <space> d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k ? 
+68-23  d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t i c k ? 
+68-24  d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k . 
+68-25  d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t i c k ? 
+68-26  d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k . 
+68-27  d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k 
+68-28  d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k 
+68-29 , <space> d i d <space> y o u <space> w i n <space> y o u r <space> t h a t <space> t i c k ? 
+68-30  d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k 
+68-31  d i d <space> y o u <space> w i n n <space> y o u r <space> t h a t <space> t i c k ? 
+68-32  d i d <space> y o u r <space> w i n <space> y o u r <space> t h a t <space> t i c k ? 
+68-33  d i d <space> y o u <space> a <space> w i n <space> y o u r <space> t h a t <space> t i c k ? 
+68-34 , <space> d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-35 , <space> d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-36 , <space> d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k ? ? 
+68-37 , <space> d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t i c k ? 
+68-38 , <space> d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k . 
+68-39 , <space> d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t i c k ? 
+68-40 , <space> d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k . 
+68-41 , <space> d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t i c k ? 
+68-42 , <space> d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k . 
+68-43 , <space> d i d <space> y o u <space> w i n n <space> y o u r <space> h a t <space> t r i c k 
+68-44 , <space> d i d <space> y o u r <space> w i n <space> y o u r <space> h a t <space> t r i c k 
+68-45 , <space> d i d <space> y o u <space> a <space> w i n <space> y o u r <space> h a t <space> t r i c k 
+68-46 , <space> d i d <space> y o u <space> w i n n <space> y o u r <space> t h a t <space> t i c k ? 
+68-47 , <space> d i d <space> y o u r <space> w i n <space> y o u r <space> t h a t <space> t i c k ? 
+68-48 , <space> d i d <space> y o u <space> a <space> w i n <space> y o u r <space> t h a t <space> t i c k ? 

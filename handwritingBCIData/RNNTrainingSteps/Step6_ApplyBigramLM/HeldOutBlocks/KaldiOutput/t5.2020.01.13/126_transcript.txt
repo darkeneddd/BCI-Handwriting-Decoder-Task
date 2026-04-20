@@ -1,0 +1,120 @@
+126-1  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-2  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-3 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-4  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-5 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-6  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-7  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-8  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-9  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a d d <space> i m p e r s o n a l . 
+126-10  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-11  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-12  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a n d <space> i m p e r s o n a l . 
+126-13  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a n d <space> i m p e r s o n a l . 
+126-14  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a n d <space> i m p e r s o n a l . 
+126-15  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-16 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-17  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a d d <space> i m p e r s o n a l . 
+126-18  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a d d <space> i m p e r s o n a l . 
+126-19  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-20  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-21 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-22 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-23  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-24  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-25 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-26  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-27  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-28 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-29 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a d d <space> i m p e r s o n a l . 
+126-30 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-31  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-32  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-33  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-34  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-35  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-36  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-37  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-38  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-39  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 
+126-40  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-41  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-42 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a n d <space> i m p e r s o n a l . 
+126-43 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a n d <space> i m p e r s o n a l . 
+126-44  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-45 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a n d <space> i m p e r s o n a l . 
+126-46  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a d d <space> i m p e r s o n a l . 
+126-47  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-48 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-49 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a d d <space> i m p e r s o n a l . 
+126-50 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a d d <space> i m p e r s o n a l . 
+126-51 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-52  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a n d <space> i m p e r s o n a l . 
+126-53 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-54  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a n d <space> i m p e r s o n a l . 
+126-55  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a n d <space> i m p e r s o n a l . 
+126-56 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-57 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-58 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-59 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-60 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-61  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-62 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-63 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-64 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-65  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a d d <space> i m p e r s o n a l . 
+126-66 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-67 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-68  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a d d <space> i m p e r s o n a l . 
+126-69 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-70 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-71  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-72 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-73  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-74  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-75 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-76 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 
+126-77 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-78 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a d d <space> i m p e r s o n a l . 
+126-79  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-80 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-81  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-82  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-83  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-84  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-85  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-86  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-87  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-88  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-89  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-90 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a n d <space> i m p e r s o n a l . 
+126-91  h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 
+126-92  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-93 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a n d <space> i m p e r s o n a l . 
+126-94 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f r <space> m <space> a n d <space> i m p e r s o n a l . 
+126-95  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 
+126-96  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-97 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-98 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f o r m <space> a d d <space> i m p e r s o n a l . 
+126-99 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f a r m <space> a d d <space> i m p e r s o n a l . 
+126-100 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-101 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a n d <space> i m p e r s o n a l . 
+126-102 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-103 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-104 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-105 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a d d <space> i m p e r s o n a l . 
+126-106 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-107 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-108 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a f f i r m <space> a d d <space> i m p e r s o n a l . 
+126-109 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-110 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a n d <space> i m p e r s o n a l . 
+126-111 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-112 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> a <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-113 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s <space> f <space> f i r m <space> a d d <space> i m p e r s o n a l . 
+126-114 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 
+126-115 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f r o m <space> a n d <space> i m p e r s o n a l . 
+126-116 , <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 
+126-117  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-118  t h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 
+126-119 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a d d <space> i m p e r s o n a l . 
+126-120 ' <space> h i s <space> t o u c h <space> w a s <space> l i k e <space> a <space> d o c t o r ' s , , <space> f i r m <space> m <space> a n d <space> i m p e r s o n a l . 

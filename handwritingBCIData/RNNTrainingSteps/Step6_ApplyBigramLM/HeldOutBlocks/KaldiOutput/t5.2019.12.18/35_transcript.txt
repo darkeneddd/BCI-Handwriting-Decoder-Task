@@ -1,0 +1,9 @@
+35-1  t o <space> b e <space> t r u t h f u l , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-2 , <space> t o <space> b e <space> t r u t h f u l , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-3  t o <space> b e <space> t r u t h f u l , , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-4  t o <space> b e <space> t r u t h f u l l y , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-5 ' <space> t o <space> b e <space> t r u t h f u l , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-6 , <space> t o <space> b e <space> t r u t h f u l , , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-7 , <space> t o <space> b e <space> t r u t h f u l l y , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-8 ' <space> t o <space> b e <space> t r u t h f u l , , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 
+35-9 ' <space> t o <space> b e <space> t r u t h f u l l y , <space> s h e <space> h a d n ' t <space> a <space> c l u e <space> w h a t <space> s h e <space> w a s <space> d o i n g . 

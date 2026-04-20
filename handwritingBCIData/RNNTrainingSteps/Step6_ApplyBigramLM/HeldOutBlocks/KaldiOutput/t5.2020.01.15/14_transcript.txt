@@ -1,0 +1,12 @@
+14-1  f a m o u s <space> a c t o r 
+14-2  f a m o u s <space> a c t o r . 
+14-3  f a m o u s <space> a c t o r ? 
+14-4 , <space> f a m o u s <space> a c t o r 
+14-5 , <space> f a m o u s <space> a c t o r . 
+14-6 ' <space> f a m o u s <space> a c t o r 
+14-7 ' <space> f a m o u s <space> a c t o r . 
+14-8 , <space> f a m o u s <space> a c t o r ? 
+14-9  f a m o u s <space> a c t o r , 
+14-10 ' <space> f a m o u s <space> a c t o r ? 
+14-11 , <space> f a m o u s <space> a c t o r , 
+14-12 ' <space> f a m o u s <space> a c t o r , 

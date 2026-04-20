@@ -1,0 +1,42 @@
+68-1  o t h e r w i s e <space> y o u <space> e n d <space> u p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-2  o t h e r w i s e <space> y o u <space> e n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-3 , <space> o t h e r w i s e <space> y o u <space> e n d <space> u p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-4 , <space> o t h e r w i s e <space> y o u <space> e n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-5  o t h e r w i s e <space> y o u <space> e n d <space> c o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-6  o t h e r w i s e <space> y o u <space> e n d <space> o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-7  o t h e r w i s e <space> y o u <space> e n d <space> c a p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-8  o t h e r w i s e <space> y o u <space> e n d <space> o <space> p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-9  o t h e r w i s e <space> y o u <space> e n d <space> o p p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-10  o t h e r w i s e <space> y o u <space> e n d <space> c o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-11  o t h e r w i s e <space> y o u <space> e n d <space> l o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-12 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> u p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-13 , <space> o t h e r w i s e <space> y o u <space> e n d <space> c o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-14  o t h e r w i s e <space> y o u <space> a n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-15  o t h e r w i s e <space> y o u <space> e n d <space> c p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-16  o t h e r w i s e <space> y o u <space> e n d <space> c u p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-17 , <space> o t h e r w i s e <space> y o u <space> e n d <space> o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-18 , <space> o t h e r w i s e <space> y o u <space> e n d <space> c a p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-19 , <space> o t h e r w i s e <space> y o u <space> e n d <space> o <space> p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-20  o t h e r w i s e <space> y o u <space> e n d <space> t o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-21  o t h e r w i s e <space> y o u <space> s e n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-22 , <space> o t h e r w i s e <space> y o u <space> e n d <space> o p p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-23 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-24 , <space> o t h e r w i s e <space> y o u <space> e n d <space> c o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-25 , <space> o t h e r w i s e <space> y o u <space> e n d <space> l o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-26 , <space> o t h e r w i s e <space> y o u <space> a n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-27 , <space> o t h e r w i s e <space> y o u <space> e n d <space> c p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-28 , <space> o t h e r w i s e <space> y o u <space> e n d <space> c u p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-29 , <space> o t h e r w i s e <space> y o u <space> e n d <space> t o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-30 , <space> o t h e r w i s e <space> y o u <space> s e n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-31 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> c o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-32 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-33 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> c a p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-34 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> o <space> p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-35 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> o p p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-36 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> c o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-37 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> l o o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-38 ' <space> o t h e r w i s e <space> y o u <space> a n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-39 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> c p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-40 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> c u p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-41 ' <space> o t h e r w i s e <space> y o u <space> e n d <space> t o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 
+68-42 ' <space> o t h e r w i s e <space> y o u <space> s e n d <space> o p <space> w i t h <space> s o m e <space> v e r y <space> v e r y <space> s t r a n g e <space> r e s u l t s . 

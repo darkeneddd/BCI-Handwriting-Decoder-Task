@@ -1,0 +1,9 @@
+5-1  g o o d <space> i d e a . 
+5-2  g o o d <space> i d e a 
+5-3 , <space> g o o d <space> i d e a . 
+5-4 , <space> g o o d <space> i d e a 
+5-5  g o o d <space> i d e . 
+5-6 ' <space> g o o d <space> i d e a . 
+5-7 ' <space> g o o d <space> i d e a 
+5-8 , <space> g o o d <space> i d e . 
+5-9 ' <space> g o o d <space> i d e . 

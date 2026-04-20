@@ -1,0 +1,10 @@
+12-1  l o n g <space> j o u r n e y 
+12-2  l o n g <space> j o u r n e y . 
+12-3 , <space> l o n g <space> j o u r n e y 
+12-4  l o g <space> j o u r n e y 
+12-5 ' <space> l o n g <space> j o u r n e y 
+12-6 , <space> l o n g <space> j o u r n e y . 
+12-7  a <space> l o n g <space> j o u r n e y 
+12-8  l o g <space> j o u r n e y . 
+12-9 ' <space> l o n g <space> j o u r n e y . 
+12-10  a <space> l o n g <space> j o u r n e y . 

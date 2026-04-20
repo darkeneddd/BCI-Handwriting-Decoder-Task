@@ -1,0 +1,57 @@
+34-1  s p a r k l i n g <space> s e a 
+34-2  s p a r k l i n g <space> s e a . 
+34-3 , <space> s p a r k l i n g <space> s e a 
+34-4 , <space> s p a r k l i n g <space> s e a . 
+34-5  s p a r k l i n g <space> s e . 
+34-6  s p a r k l i n g <space> s e e . 
+34-7  s p a r k l i n g <space> s s e . 
+34-8 , <space> s p a r k l i n g <space> s e . 
+34-9  s p a r k l i n g <space> s e a s 
+34-10  s p a r k l i n g <space> s e e 
+34-11 , <space> s p a r k l i n g <space> s e e . 
+34-12  s p a r k l i n g <space> s e q 
+34-13  s p a r k l i n g <space> s e n . 
+34-14  s p a r k l i n g <space> s e e m 
+34-15 ' <space> s p a r k l i n g <space> s e a 
+34-16 , <space> s p a r k l i n g <space> s s e . 
+34-17  s p a r k l i n g <space> s e 
+34-18 ' <space> s p a r k l i n g <space> s e a . 
+34-19  s p a r k l i n g <space> s e q . 
+34-20  s p a r k l i n g <space> s e x 
+34-21 , <space> s p a r k l i n g <space> s e a s 
+34-22 , <space> s p a r k l i n g <space> s e e 
+34-23  s p a r k l i n g <space> s e c 
+34-24  s p a r k l i n g <space> s e m 
+34-25  s p a r k l i n g <space> s e e n 
+34-26  s p a r k l i n g <space> s e x . 
+34-27  s p a r k l i n g <space> s e a ? 
+34-28  s p a r k l i n g <space> s e e d 
+34-29 , <space> s p a r k l i n g <space> s e q 
+34-30 , <space> s p a r k l i n g <space> s e n . 
+34-31 , <space> s p a r k l i n g <space> s e e m 
+34-32 , <space> s p a r k l i n g <space> s e 
+34-33 , <space> s p a r k l i n g <space> s e q . 
+34-34 , <space> s p a r k l i n g <space> s e x 
+34-35 ' <space> s p a r k l i n g <space> s e . 
+34-36 ' <space> s p a r k l i n g <space> s e e . 
+34-37 , <space> s p a r k l i n g <space> s e c 
+34-38 , <space> s p a r k l i n g <space> s e m 
+34-39 , <space> s p a r k l i n g <space> s e e n 
+34-40 , <space> s p a r k l i n g <space> s e x . 
+34-41 , <space> s p a r k l i n g <space> s e a ? 
+34-42 , <space> s p a r k l i n g <space> s e e d 
+34-43 ' <space> s p a r k l i n g <space> s s e . 
+34-44 ' <space> s p a r k l i n g <space> s e a s 
+34-45 ' <space> s p a r k l i n g <space> s e e 
+34-46 ' <space> s p a r k l i n g <space> s e q 
+34-47 ' <space> s p a r k l i n g <space> s e n . 
+34-48 ' <space> s p a r k l i n g <space> s e e m 
+34-49 ' <space> s p a r k l i n g <space> s e 
+34-50 ' <space> s p a r k l i n g <space> s e q . 
+34-51 ' <space> s p a r k l i n g <space> s e x 
+34-52 ' <space> s p a r k l i n g <space> s e c 
+34-53 ' <space> s p a r k l i n g <space> s e m 
+34-54 ' <space> s p a r k l i n g <space> s e e n 
+34-55 ' <space> s p a r k l i n g <space> s e x . 
+34-56 ' <space> s p a r k l i n g <space> s e a ? 
+34-57 ' <space> s p a r k l i n g <space> s e e d 

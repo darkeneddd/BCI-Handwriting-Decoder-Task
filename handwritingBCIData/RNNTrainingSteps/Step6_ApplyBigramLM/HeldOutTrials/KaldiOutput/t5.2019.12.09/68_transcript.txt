@@ -1,0 +1,10 @@
+68-1  a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-2 , <space> a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-3  a t t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-4  e a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-5  h a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-6 ' <space> a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-7  r a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-8  m a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-9  b a t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 
+68-10 , <space> a t t <space> t h a t <space> m o m e n t <space> s h e <space> h e a r d <space> r a p i d <space> f o o t s t e p s . 

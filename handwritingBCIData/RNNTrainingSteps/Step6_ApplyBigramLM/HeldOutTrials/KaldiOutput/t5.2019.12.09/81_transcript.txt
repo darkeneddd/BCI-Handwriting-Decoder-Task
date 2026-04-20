@@ -1,0 +1,6 @@
+81-1  t h e <space> a i m <space> w a s <space> t o <space> b u i l d <space> a <space> c l a s s i c <space> b i k e . 
+81-2 , <space> t h e <space> a i m <space> w a s <space> t o <space> b u i l d <space> a <space> c l a s s i c <space> b i k e . 
+81-3  t h e <space> a i m <space> w a s <space> t o o <space> b u i l d <space> a <space> c l a s s i c <space> b i k e . 
+81-4 ' <space> t h e <space> a i m <space> w a s <space> t o <space> b u i l d <space> a <space> c l a s s i c <space> b i k e . 
+81-5 , <space> t h e <space> a i m <space> w a s <space> t o o <space> b u i l d <space> a <space> c l a s s i c <space> b i k e . 
+81-6 ' <space> t h e <space> a i m <space> w a s <space> t o o <space> b u i l d <space> a <space> c l a s s i c <space> b i k e . 

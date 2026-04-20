@@ -1,0 +1,11 @@
+87-1  f i n i s h <space> i t 
+87-2  f i n n i s h <space> i t 
+87-3 , <space> f i n i s h <space> i t 
+87-4 , <space> f i n n i s h <space> i t 
+87-5  f i n i s h <space> i t . 
+87-6 ' <space> f i n i s h <space> i t 
+87-7  f i n i s h <space> i t ? 
+87-8 , <space> f i n i s h <space> i t . 
+87-9 , <space> f i n i s h <space> i t ? 
+87-10 ' <space> f i n i s h <space> i t . 
+87-11 ' <space> f i n i s h <space> i t ? 

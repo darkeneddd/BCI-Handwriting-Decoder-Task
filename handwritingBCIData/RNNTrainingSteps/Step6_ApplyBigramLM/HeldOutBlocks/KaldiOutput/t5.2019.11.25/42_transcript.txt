@@ -1,0 +1,9 @@
+42-1  i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t ? 
+42-2 , <space> i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t ? 
+42-3  i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t ? ? 
+42-4 , <space> i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t ? ? 
+42-5 ' <space> i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t ? 
+42-6  i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t . 
+42-7 , <space> i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t . 
+42-8 ' <space> i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t ? ? 
+42-9 ' <space> i t ' s <space> h a l f <space> t e r m <space> i s n ' t <space> i t . 

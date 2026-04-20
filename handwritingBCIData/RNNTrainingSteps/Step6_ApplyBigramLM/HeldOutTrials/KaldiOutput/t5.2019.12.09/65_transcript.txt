@@ -1,0 +1,6 @@
+65-1  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k 
+65-2 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k 
+65-3  t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k . 
+65-4 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k 
+65-5 , <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k . 
+65-6 ' <space> t h i s <space> p r o d u c e s <space> a n n u a l <space> r i n g s <space> i n <space> t h e <space> t r u n k . 

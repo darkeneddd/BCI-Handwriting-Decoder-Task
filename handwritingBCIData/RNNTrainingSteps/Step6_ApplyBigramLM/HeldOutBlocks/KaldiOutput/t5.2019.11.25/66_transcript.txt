@@ -1,0 +1,18 @@
+66-1  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y . 
+66-2  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f <space> a c t u a l l y . 
+66-3 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y . 
+66-4 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f <space> a c t u a l l y . 
+66-5  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y . 
+66-6 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y . 
+66-7 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y . 
+66-8 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f <space> a c t u a l l y . 
+66-9  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y 
+66-10  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f <space> a c t u a l l y 
+66-11 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y 
+66-12 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f <space> a c t u a l l y 
+66-13 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y . 
+66-14  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y 
+66-15 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y 
+66-16 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y 
+66-17 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f <space> a c t u a l l y 
+66-18 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y 

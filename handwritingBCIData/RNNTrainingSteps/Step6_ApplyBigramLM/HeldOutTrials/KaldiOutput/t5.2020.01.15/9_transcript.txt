@@ -1,0 +1,9 @@
+9-1  h o t <space> w e a t h e r . 
+9-2  h o t <space> w e a t h e r 
+9-3 , <space> h o t <space> w e a t h e r . 
+9-4 , <space> h o t <space> w e a t h e r 
+9-5 ' <space> h o t <space> w e a t h e r . 
+9-6  h o t <space> w e a t h e r ? 
+9-7 ' <space> h o t <space> w e a t h e r 
+9-8 , <space> h o t <space> w e a t h e r ? 
+9-9 ' <space> h o t <space> w e a t h e r ? 

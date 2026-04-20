@@ -1,0 +1,3 @@
+60-1  s t r a w b e r r y <space> p l a n t s <space> s h o u l d <space> b e <space> o n <space> s a l e <space> n e x t <space> m o n t h 
+60-2 , <space> s t r a w b e r r y <space> p l a n t s <space> s h o u l d <space> b e <space> o n <space> s a l e <space> n e x t <space> m o n t h 
+60-3 ' <space> s t r a w b e r r y <space> p l a n t s <space> s h o u l d <space> b e <space> o n <space> s a l e <space> n e x t <space> m o n t h 

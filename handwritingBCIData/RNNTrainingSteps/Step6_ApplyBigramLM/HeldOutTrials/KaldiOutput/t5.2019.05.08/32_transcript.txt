@@ -1,0 +1,9 @@
+32-1  i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g , <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-2  i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-3 , <space> i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g , <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-4  i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g , , <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-5 , <space> i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-6 ' <space> i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g , <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-7 ' <space> i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-8 , <space> i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g , , <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 
+32-9 ' <space> i n s i d e <space> j a k e ' s <space> d u f f e l <space> b a g , , <space> a <space> k n i f e <space> a n d <space> a <space> l a r g e <space> s l e d g e h a m m e r . 

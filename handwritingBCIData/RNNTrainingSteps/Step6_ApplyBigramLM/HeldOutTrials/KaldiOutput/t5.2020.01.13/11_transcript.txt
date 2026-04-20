@@ -1,0 +1,24 @@
+11-1  r e a d <space> i t <space> f o r <space> m e <space> p l e a s e . 
+11-2  r e a d <space> i t <space> f o r <space> m e <space> p l e a s e 
+11-3 , <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s e . 
+11-4  r e a d <space> i t <space> f o r <space> m e <space> p l e a s . 
+11-5 ' <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s e . 
+11-6  r e a d <space> i t <space> f o r <space> m e <space> p l e a s e s . 
+11-7  r e a d <space> i t <space> f r <space> m e <space> p l e a s e . 
+11-8 , <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s e 
+11-9 , <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s . 
+11-10 ' <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s e 
+11-11 , <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s e s . 
+11-12  r e a d <space> i t <space> f r <space> m e <space> p l e a s e 
+11-13 , <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s e . 
+11-14 ' <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s . 
+11-15 ' <space> r e a d <space> i t <space> f o r <space> m e <space> p l e a s e s . 
+11-16  r e a d <space> i t <space> f r <space> m e <space> p l e a s . 
+11-17 ' <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s e . 
+11-18  r e a d <space> i t <space> f r <space> m e <space> p l e a s e s . 
+11-19 , <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s e 
+11-20 , <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s . 
+11-21 ' <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s e 
+11-22 , <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s e s . 
+11-23 ' <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s . 
+11-24 ' <space> r e a d <space> i t <space> f r <space> m e <space> p l e a s e s . 

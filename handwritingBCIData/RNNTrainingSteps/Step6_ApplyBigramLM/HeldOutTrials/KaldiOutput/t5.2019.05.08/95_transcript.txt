@@ -1,0 +1,32 @@
+95-1  a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s ? 
+95-2  a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s . 
+95-3  a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s ? ? 
+95-4 , <space> a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s ? 
+95-5  a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s ? 
+95-6  a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s 
+95-7  a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s ? 
+95-8  a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s ? 
+95-9 , <space> a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s . 
+95-10  a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s . 
+95-11  a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s . 
+95-12 , <space> a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s ? ? 
+95-13  a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s ? ? 
+95-14  a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s . 
+95-15 , <space> a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s ? 
+95-16 , <space> a r e <space> t h r e e <space> o t h e r <space> s u c h <space> r i t u a l s 
+95-17  a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s 
+95-18  a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s ? ? 
+95-19 , <space> a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s ? 
+95-20  a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s 
+95-21  a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s ? ? 
+95-22 , <space> a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s ? 
+95-23  a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s 
+95-24 , <space> a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s . 
+95-25 , <space> a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s . 
+95-26 , <space> a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s ? ? 
+95-27 , <space> a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s . 
+95-28 , <space> a r e <space> t h e r e <space> o t h e r <space> s u c h <space> r i t u a l s 
+95-29 , <space> a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s ? ? 
+95-30 , <space> a r e <space> t h r e e <space> o t h e r , <space> s u c h <space> r i t u a l s 
+95-31 , <space> a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s ? ? 
+95-32 , <space> a r e <space> t h r e e <space> o t h e r s <space> s u c h <space> r i t u a l s 

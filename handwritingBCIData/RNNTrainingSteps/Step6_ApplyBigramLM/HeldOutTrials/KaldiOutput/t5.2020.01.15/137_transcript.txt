@@ -1,0 +1,24 @@
+137-1  i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-2  i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-3 , <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-4 , <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-5  i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-6 , <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-7 ' <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-8  d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-9  i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-10  i <space> d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-11 , <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-12 , <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-13 ' <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-14  d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-15 , <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-16 , <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-17 ' <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-18  i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-19 , <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-20 ' <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-21 ' <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-22  d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-23 , <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-24 ' <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s 

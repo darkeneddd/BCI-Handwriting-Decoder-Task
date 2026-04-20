@@ -1,0 +1,54 @@
+50-1  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-2 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-3  t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-4  t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-5  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-6 , <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-7  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-8 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-9  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-10 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-11 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-12 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-13  t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-14  t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-15 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-16 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-17  t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-18  t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-19  t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-20 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+50-21 , <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-22  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-23  t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-24 , <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-25 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-26 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-27  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-28 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-29 , <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-30 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-31 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-32 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-33 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-34  t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-35 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-36 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-37 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-38  t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-39  t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-40 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o 
+50-41 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-42 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o g 
+50-43  t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-44 , <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-45 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-46 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o g 
+50-47 , <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-48 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-49 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-50 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-51 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-52 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 
+50-53 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e r <space> t h e <space> l a z y <space> d o 
+50-54 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x y <space> j u m p s <space> v e e r <space> t h e <space> l a z y <space> d o 

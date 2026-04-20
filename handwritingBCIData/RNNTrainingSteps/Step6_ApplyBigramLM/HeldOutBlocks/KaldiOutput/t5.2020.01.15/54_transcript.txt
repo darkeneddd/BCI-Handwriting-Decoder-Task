@@ -1,0 +1,9 @@
+54-1  l i n d a <space> c a m e <space> h o m e 
+54-2  l i n d a <space> c a m e <space> h o m e . 
+54-3 , <space> l i n d a <space> c a m e <space> h o m e 
+54-4 , <space> l i n d a <space> c a m e <space> h o m e . 
+54-5 ' <space> l i n d a <space> c a m e <space> h o m e 
+54-6  l i n d a <space> c a m e <space> h o m e ? 
+54-7 ' <space> l i n d a <space> c a m e <space> h o m e . 
+54-8 , <space> l i n d a <space> c a m e <space> h o m e ? 
+54-9 ' <space> l i n d a <space> c a m e <space> h o m e ? 

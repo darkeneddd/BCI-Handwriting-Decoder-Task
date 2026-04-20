@@ -1,0 +1,12 @@
+26-1  a l l <space> t h e s e <space> y e a r s <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . 
+26-2 , <space> a l l <space> t h e s e <space> y e a r s <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . 
+26-3  a l l <space> t h e s e <space> y e a r s <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . . 
+26-4  a l l <space> t h e s e <space> y e a r s , <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . 
+26-5 ' <space> a l l <space> t h e s e <space> y e a r s <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . 
+26-6 , <space> a l l <space> t h e s e <space> y e a r s <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . . 
+26-7 , <space> a l l <space> t h e s e <space> y e a r s , <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . 
+26-8  a l l <space> t h e s e <space> y e a r s , <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . . 
+26-9 ' <space> a l l <space> t h e s e <space> y e a r s <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . . 
+26-10 ' <space> a l l <space> t h e s e <space> y e a r s , <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . 
+26-11 , <space> a l l <space> t h e s e <space> y e a r s , <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . . 
+26-12 ' <space> a l l <space> t h e s e <space> y e a r s , <space> i <space> t r i e d <space> t o <space> k i l l <space> i t . . 

@@ -1,0 +1,27 @@
+5-1  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i n e . 
+5-2 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i n e . 
+5-3  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i e . 
+5-4 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i n e . 
+5-5  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i n e . 
+5-6  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i n e . 
+5-7  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i n e s . 
+5-8 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i e . 
+5-9 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i n e . 
+5-10 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i n e . 
+5-11 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i n e s . 
+5-12 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i e . 
+5-13  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i e . 
+5-14  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i e . 
+5-15 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i n e . 
+5-16 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i n e . 
+5-17 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t o e <space> t h e <space> l i n e s . 
+5-18  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i n e s . 
+5-19  i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i n e s . 
+5-20 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i e . 
+5-21 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i e . 
+5-22 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i n e s . 
+5-23 , <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i n e s . 
+5-24 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i e . 
+5-25 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i e . 
+5-26 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t e e <space> t h e <space> l i n e s . 
+5-27 ' <space> i ' m <space> n o t <space> t o u g h <space> e n o u g h <space> t o <space> t r e e <space> t h e <space> l i n e s . 

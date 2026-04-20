@@ -1,0 +1,31 @@
+81-1  i s <space> i t <space> t r u e . 
+81-2  i s <space> i t <space> t r u e 
+81-3 , <space> i s <space> i t <space> t r u e . 
+81-4  i s <space> i t <space> t r e e . 
+81-5  i s <space> i t <space> t r u e ? 
+81-6  i s <space> i t <space> t r i e d 
+81-7 ' <space> i s <space> i t <space> t r u e . 
+81-8  i s <space> i t <space> t r i e d . 
+81-9  i s <space> f i t <space> t r u e . 
+81-10  m i s s <space> i t <space> t r u e . 
+81-11  i s <space> i t <space> t r u c e . 
+81-12 , <space> i s <space> i t <space> t r u e 
+81-13 ' <space> i s <space> i t <space> t r u e 
+81-14  m i s s <space> i t <space> t r u e 
+81-15 , <space> i s <space> i t <space> t r e e . 
+81-16 , <space> i s <space> i t <space> t r u e ? 
+81-17 , <space> i s <space> i t <space> t r i e d 
+81-18 , <space> i s <space> i t <space> t r i e d . 
+81-19 , <space> i s <space> f i t <space> t r u e . 
+81-20 , <space> i s <space> i t <space> t r u c e . 
+81-21 ' <space> i s <space> i t <space> t r e e . 
+81-22  m i s s <space> i t <space> t r e e . 
+81-23 ' <space> i s <space> i t <space> t r u e ? 
+81-24 ' <space> i s <space> i t <space> t r i e d 
+81-25  m i s s <space> i t <space> t r u e ? 
+81-26  m i s s <space> i t <space> t r i e d 
+81-27 ' <space> i s <space> i t <space> t r i e d . 
+81-28 ' <space> i s <space> f i t <space> t r u e . 
+81-29  m i s s <space> i t <space> t r i e d . 
+81-30 ' <space> i s <space> i t <space> t r u c e . 
+81-31  m i s s <space> i t <space> t r u c e . 

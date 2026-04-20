@@ -1,0 +1,48 @@
+57-1  l i v e <space> i n <space> n e w <space> y o r k 
+57-2  l i v e <space> i n <space> n e w <space> y o r k . 
+57-3  l i v e <space> i n <space> n e w <space> y o r k ? 
+57-4 , <space> l i v e <space> i n <space> n e w <space> y o r k 
+57-5  f i v e <space> i n <space> n e w <space> y o r k 
+57-6  i <space> l i v e <space> i n <space> n e w <space> y o r k 
+57-7  j u v e <space> i n <space> n e w <space> y o r k 
+57-8  g i v e <space> i n <space> n e w <space> y o r k 
+57-9 , <space> l i v e <space> i n <space> n e w <space> y o r k . 
+57-10  d i v e <space> i n <space> n e w <space> y o r k 
+57-11 ' <space> l i v e <space> i n <space> n e w <space> y o r k 
+57-12  f i v e <space> i n <space> n e w <space> y o r k . 
+57-13 , <space> l i v e <space> i n <space> n e w <space> y o r k ? 
+57-14  i <space> l i v e <space> i n <space> n e w <space> y o r k . 
+57-15  l i v e <space> i n n <space> n e w <space> y o r k 
+57-16 , <space> i <space> l i v e <space> i n <space> n e w <space> y o r k 
+57-17  d r i v e <space> i n <space> n e w <space> y o r k 
+57-18  j u v e <space> i n <space> n e w <space> y o r k . 
+57-19 , <space> f i v e <space> i n <space> n e w <space> y o r k 
+57-20  f i v e <space> i n <space> n e w <space> y o r k ? 
+57-21  g i v e <space> i n <space> n e w <space> y o r k . 
+57-22  i <space> l i v e <space> i n <space> n e w <space> y o r k ? 
+57-23  j u v e <space> i n <space> n e w <space> y o r k ? 
+57-24  d i v e <space> i n <space> n e w <space> y o r k . 
+57-25 ' <space> l i v e <space> i n <space> n e w <space> y o r k . 
+57-26  g i v e <space> i n <space> n e w <space> y o r k ? 
+57-27  l i v e <space> i n n <space> n e w <space> y o r k . 
+57-28 , <space> i <space> l i v e <space> i n <space> n e w <space> y o r k . 
+57-29  d i v e <space> i n <space> n e w <space> y o r k ? 
+57-30  d r i v e <space> i n <space> n e w <space> y o r k . 
+57-31 ' <space> l i v e <space> i n <space> n e w <space> y o r k ? 
+57-32 , <space> f i v e <space> i n <space> n e w <space> y o r k . 
+57-33  l i v e <space> i n n <space> n e w <space> y o r k ? 
+57-34 , <space> i <space> l i v e <space> i n <space> n e w <space> y o r k ? 
+57-35 , <space> l i v e <space> i n n <space> n e w <space> y o r k 
+57-36  d r i v e <space> i n <space> n e w <space> y o r k ? 
+57-37 , <space> f i v e <space> i n <space> n e w <space> y o r k ? 
+57-38  i <space> l i v e <space> i n n <space> n e w <space> y o r k 
+57-39 , <space> l i v e <space> i n n <space> n e w <space> y o r k . 
+57-40 ' <space> l i v e <space> i n n <space> n e w <space> y o r k 
+57-41 , <space> l i v e <space> i n n <space> n e w <space> y o r k ? 
+57-42  i <space> l i v e <space> i n n <space> n e w <space> y o r k . 
+57-43 , <space> i <space> l i v e <space> i n n <space> n e w <space> y o r k 
+57-44  i <space> l i v e <space> i n n <space> n e w <space> y o r k ? 
+57-45 ' <space> l i v e <space> i n n <space> n e w <space> y o r k . 
+57-46 , <space> i <space> l i v e <space> i n n <space> n e w <space> y o r k . 
+57-47 ' <space> l i v e <space> i n n <space> n e w <space> y o r k ? 
+57-48 , <space> i <space> l i v e <space> i n n <space> n e w <space> y o r k ? 

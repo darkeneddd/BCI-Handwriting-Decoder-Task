@@ -1,0 +1,24 @@
+58-1  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s 
+58-2  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s . 
+58-3 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s 
+58-4 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s . 
+58-5 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s 
+58-6  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g . 
+58-7  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s 
+58-8  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s ? 
+58-9 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s . 
+58-10  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s . 
+58-11 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g . 
+58-12 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s 
+58-13 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s ? 
+58-14 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s . 
+58-15 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g . 
+58-16 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s 
+58-17 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f <space> m a n y <space> t h i n g s ? 
+58-18  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g . 
+58-19  s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s ? 
+58-20 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s . 
+58-21 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g . 
+58-22 , <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s ? 
+58-23 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g . 
+58-24 ' <space> s h e <space> i s <space> p r o u d <space> a n d <space> w i s e <space> a n d <space> s p e a k s <space> w i t h <space> a u t h o r i t y <space> o f f <space> m a n y <space> t h i n g s ? 

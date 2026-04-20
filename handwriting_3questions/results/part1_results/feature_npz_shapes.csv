@@ -1,0 +1,5 @@
+file,feat_type,split,train_shape,val_shape,test_shape
+features_flat_block_aware.npz,flat,block_aware,"(1860, 19200)","(186, 19200)","(1581, 19200)"
+features_flat_random_trial.npz,flat,random_trial,"(1813, 19200)","(907, 19200)","(907, 19200)"
+features_temporal_block_aware.npz,temporal,block_aware,"(1860, 576)","(186, 576)","(1581, 576)"
+features_temporal_random_trial.npz,temporal,random_trial,"(1813, 576)","(907, 576)","(907, 576)"

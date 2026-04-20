@@ -1,0 +1,15 @@
+43-1  n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-2 , <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-3  n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-4  k n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-5  n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-6 ' <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-7  s n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-8 , <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-9  k n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-10 , <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-11  k n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-12 ' <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-13  s n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-14 ' <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-15  s n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 

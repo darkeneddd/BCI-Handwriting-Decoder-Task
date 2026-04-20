@@ -1,0 +1,12 @@
+64-1  m a k e <space> m i s t a k e s . 
+64-2  m a k e <space> m i s t a k e s 
+64-3 , <space> m a k e <space> m i s t a k e s . 
+64-4 , <space> m a k e <space> m i s t a k e s 
+64-5  m a k e <space> m i s t a k e s ? 
+64-6  m a k e <space> m i s t a k e . 
+64-7 ' <space> m a k e <space> m i s t a k e s . 
+64-8 ' <space> m a k e <space> m i s t a k e s 
+64-9 , <space> m a k e <space> m i s t a k e s ? 
+64-10 , <space> m a k e <space> m i s t a k e . 
+64-11 ' <space> m a k e <space> m i s t a k e s ? 
+64-12 ' <space> m a k e <space> m i s t a k e . 

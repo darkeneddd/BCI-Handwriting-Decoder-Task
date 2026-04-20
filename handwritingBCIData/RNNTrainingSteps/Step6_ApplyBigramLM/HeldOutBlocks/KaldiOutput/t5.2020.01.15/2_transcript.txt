@@ -1,0 +1,10 @@
+2-1  g o <space> l e f t 
+2-2 , <space> g o <space> l e f t 
+2-3  a g o <space> l e f t 
+2-4  g o <space> l e f t . 
+2-5  g o o <space> l e f t 
+2-6 ' <space> g o <space> l e f t 
+2-7  e g o <space> l e f t 
+2-8 , <space> g o <space> l e f t . 
+2-9  n g o <space> l e f t 
+2-10 ' <space> g o <space> l e f t . 

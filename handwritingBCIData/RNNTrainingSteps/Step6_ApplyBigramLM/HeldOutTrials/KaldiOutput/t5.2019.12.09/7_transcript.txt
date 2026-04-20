@@ -1,0 +1,24 @@
+7-1  a <space> f e w <space> m o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-2 , <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-3  a <space> f e w <space> m o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-4  a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-5  a <space> f e w <space> m o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-6 ' <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-7 , <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-8 , <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-9 , <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-10  a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-11  a <space> f e w <space> m o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-12 ' <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-13  a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-14 ' <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-15 ' <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-16 , <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-17 , <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-18 , <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-19  a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-20 ' <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l <space> w a s <space> l o s t . 
+7-21 ' <space> a <space> f e w <space> m o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-22 ' <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-23 , <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 
+7-24 ' <space> a <space> f e w <space> m o o r e <space> s e c o n d s <space> o f f <space> h e s i t a t i o n <space> a n d <space> a l l y <space> w a s <space> l o s t . 

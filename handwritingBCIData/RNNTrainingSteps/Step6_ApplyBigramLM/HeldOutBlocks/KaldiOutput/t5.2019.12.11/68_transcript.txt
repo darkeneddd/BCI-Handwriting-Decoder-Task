@@ -1,0 +1,128 @@
+68-1  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-2  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-3  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-4  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-5 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-6  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-7  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-8 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-9  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-10  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-11  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-12  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-13  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-14  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-15  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-16 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-17  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-18  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-19  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-20  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b u r r o w 
+68-21  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o u p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-22  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c r o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-23  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-24  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b u r r o w 
+68-25 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-26  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-27  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a m p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-28 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-29  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> s c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-30  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b e l o w 
+68-31  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o o m 
+68-32 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-33 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-34 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-35 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-36  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b e l o w 
+68-37  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o r p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-38  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b u r r o w 
+68-39  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o o m 
+68-40  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o w . 
+68-41 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-42 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-43 ' <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-44  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-45  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-46 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-47  t h e <space> f o r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-48  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-49  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o r r o w 
+68-50  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o w . 
+68-51  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b l o w 
+68-52  t h e <space> f a r m e r <space> t o o k <space> o f f <space> t h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-53 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-54 ' <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-55  t h e <space> f a r m e r , <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-56  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p s <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-57  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b i o . 
+68-58 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-59  t h e <space> f o r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-60  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o r r o w 
+68-61  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b e l o w 
+68-62  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-63  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o o m 
+68-64  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-65  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b l o w 
+68-66  t h e <space> f a r m e r , <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-67  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b i o . 
+68-68 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-69 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-70  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b o w . 
+68-71 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b u r r o w 
+68-72 ' <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-73  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o u p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-74 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o u p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-75  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o u p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-76  t h e <space> f o r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-77  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c r o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-78  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-79  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b o r r o w 
+68-80 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c r o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-81  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c r o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-82 , <space> t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-83  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-84 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b u r r o w 
+68-85  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b l o w 
+68-86  t h e <space> f a r m e r , <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-87  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b i o . 
+68-88  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-89  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a m p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-90  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> s c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-91  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o u p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-92 , <space> t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-93 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a m p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-94  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-95  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o u p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-96  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a m p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-97 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> s c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-98  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> s c o o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-99  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c r o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-100  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-101  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c r o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-102  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-103 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b e l o w 
+68-104 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o o m 
+68-105  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b u r r o w 
+68-106  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-107  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a m p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-108  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o r p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-109  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-110  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> s c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o . 
+68-111  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a m p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-112 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b e l o w 
+68-113  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> s c o o p <space> a n d <space> w i p e d <space> h i s <space> b o o . 
+68-114 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o r p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-115 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b u r r o w 
+68-116 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c a p <space> a n d <space> w i p e d <space> h i s <space> b r o o m 
+68-117  t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o r p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-118  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-119 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o w . 
+68-120 ' <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-121  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-122 , <space> t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-123 ' <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-124  t h e <space> f a r m e r s <space> t o o k <space> o f f <space> h i s <space> c o o p <space> a n d <space> w i p e d <space> h i s <space> b o w 
+68-125 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-126  t h e <space> f o r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w . 
+68-127 , <space> t h e <space> f o r m e r <space> t o o k <space> o f f <space> h i s <space> c o p <space> a n d <space> w i p e d <space> h i s <space> b r o w 
+68-128 , <space> t h e <space> f a r m e r <space> t o o k <space> o f f <space> h i s <space> c o <space> o p <space> a n d <space> w i p e d <space> h i s <space> b o w 

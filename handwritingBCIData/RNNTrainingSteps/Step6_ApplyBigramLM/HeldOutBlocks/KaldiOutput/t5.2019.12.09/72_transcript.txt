@@ -1,0 +1,81 @@
+72-1  w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-2 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-3  w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-4  w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-5 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-6  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-7 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-8 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-9  w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-10  w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-11  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-12  w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-13 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-14  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-15 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-16 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-17 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-18 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-19 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-20  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-21 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-22  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-23  w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-24 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-25  w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-26  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-27 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-28 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-29  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-30 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-31 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-32 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-33  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-34 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-35 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-36  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-37 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-38 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-39 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-40  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-41  w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-42 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-43  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-44 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-45 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-46  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-47 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-48 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-49  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-50 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-51 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-52 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-53 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-54  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-55 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-56 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-57 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-58 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-59  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-60  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-61 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-62 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-63 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-64 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-65 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-66  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-67 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-68 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-69 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-70 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-71 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-72 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-73  w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-74 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-75 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-76 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-77 , <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-78 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e 
+72-79 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-80 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 
+72-81 ' <space> w i t h <space> a <space> t y p i c a l <space> b a d <space> g r a c e , <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e ? 

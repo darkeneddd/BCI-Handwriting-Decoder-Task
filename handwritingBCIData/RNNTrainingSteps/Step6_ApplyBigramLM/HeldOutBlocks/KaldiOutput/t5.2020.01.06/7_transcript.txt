@@ -1,0 +1,39 @@
+7-1  k n o w l e d g e <space> c a u s e s <space> c o n f u s i o n . 
+7-2  k n o w l e d g e <space> c a u s e s <space> c o n f u s i o n 
+7-3 , <space> k n o w l e d g e <space> c a u s e s <space> c o n f u s i o n . 
+7-4  k n o w l e d g e <space> c a u s e s <space> c o n f e s s i o n . 
+7-5  k n o w l e d g e <space> c a s e s <space> c o n f e s s i o n . 
+7-6  k n o w l e d g e <space> c l a s s e s <space> c o n f e s s i o n . 
+7-7  k n o w l e d g e <space> c a s e s <space> c o n f u s i o n . 
+7-8 ' <space> k n o w l e d g e <space> c a u s e s <space> c o n f u s i o n . 
+7-9  k n o w l e d g e <space> c l a s s e s <space> c o n f u s i o n . 
+7-10 , <space> k n o w l e d g e <space> c a u s e s <space> c o n f u s i o n 
+7-11 , <space> k n o w l e d g e <space> c a u s e s <space> c o n f e s s i o n . 
+7-12  k n o w l e d g e <space> c a u s e s <space> c o n f e s s i o n 
+7-13 , <space> k n o w l e d g e <space> c a s e s <space> c o n f e s s i o n . 
+7-14 , <space> k n o w l e d g e <space> c l a s s e s <space> c o n f e s s i o n . 
+7-15  k n o w l e d g e <space> c a s e s <space> c o n f e s s i o n 
+7-16  k n o w l e d g e <space> c l a s s e s <space> c o n f e s s i o n 
+7-17  k n o w l e d g e <space> c <space> a s s e s s <space> c o n f e s s i o n . 
+7-18  k n o w l e d g e <space> c a s e s <space> c o n f u s i o n 
+7-19 ' <space> k n o w l e d g e <space> c a u s e s <space> c o n f u s i o n 
+7-20  k n o w l e d g e <space> c l a s s e s <space> c o n f u s i o n 
+7-21 , <space> k n o w l e d g e <space> c a s e s <space> c o n f u s i o n . 
+7-22 , <space> k n o w l e d g e <space> c l a s s e s <space> c o n f u s i o n . 
+7-23 ' <space> k n o w l e d g e <space> c a u s e s <space> c o n f e s s i o n . 
+7-24 ' <space> k n o w l e d g e <space> c a s e s <space> c o n f e s s i o n . 
+7-25 ' <space> k n o w l e d g e <space> c l a s s e s <space> c o n f e s s i o n . 
+7-26 , <space> k n o w l e d g e <space> c a u s e s <space> c o n f e s s i o n 
+7-27 ' <space> k n o w l e d g e <space> c a s e s <space> c o n f u s i o n . 
+7-28 ' <space> k n o w l e d g e <space> c l a s s e s <space> c o n f u s i o n . 
+7-29 , <space> k n o w l e d g e <space> c a s e s <space> c o n f e s s i o n 
+7-30 , <space> k n o w l e d g e <space> c l a s s e s <space> c o n f e s s i o n 
+7-31 , <space> k n o w l e d g e <space> c <space> a s s e s s <space> c o n f e s s i o n . 
+7-32 , <space> k n o w l e d g e <space> c a s e s <space> c o n f u s i o n 
+7-33 , <space> k n o w l e d g e <space> c l a s s e s <space> c o n f u s i o n 
+7-34 ' <space> k n o w l e d g e <space> c a u s e s <space> c o n f e s s i o n 
+7-35 ' <space> k n o w l e d g e <space> c a s e s <space> c o n f e s s i o n 
+7-36 ' <space> k n o w l e d g e <space> c l a s s e s <space> c o n f e s s i o n 
+7-37 ' <space> k n o w l e d g e <space> c <space> a s s e s s <space> c o n f e s s i o n . 
+7-38 ' <space> k n o w l e d g e <space> c a s e s <space> c o n f u s i o n 
+7-39 ' <space> k n o w l e d g e <space> c l a s s e s <space> c o n f u s i o n 

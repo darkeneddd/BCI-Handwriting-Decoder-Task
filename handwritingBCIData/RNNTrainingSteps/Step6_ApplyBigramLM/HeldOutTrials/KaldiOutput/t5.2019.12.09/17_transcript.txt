@@ -1,0 +1,10 @@
+17-1  i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> o v e r . 
+17-2 , <space> i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> o v e r . 
+17-3  i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> c o v e r . 
+17-4 ' <space> i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> o v e r . 
+17-5  i i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> o v e r . 
+17-6  i i i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> o v e r . 
+17-7 , <space> i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> c o v e r . 
+17-8 ' <space> i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> c o v e r . 
+17-9  i i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> c o v e r . 
+17-10  i i i <space> t o o k <space> a t <space> l e a s t <space> t w o <space> h o u r s <space> b e f o r e <space> r e l u c t a n t l y <space> p a s s i n g <space> i t <space> c o v e r . 

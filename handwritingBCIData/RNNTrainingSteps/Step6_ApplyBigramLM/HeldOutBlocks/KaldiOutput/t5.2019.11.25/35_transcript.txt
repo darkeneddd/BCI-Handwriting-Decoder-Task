@@ -1,0 +1,24 @@
+35-1  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-2 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-3 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-4  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> s t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-5  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-6  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-7 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> s t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-8 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-9 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-10 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> s t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-11 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-12 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-13  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> s t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-14  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> s t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-15  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-16 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> s t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-17 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> s t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-18 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-19 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' s <space> s t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-20 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> s t a b l e <space> a n d <space> i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-21 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-22  b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> s t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-23 , <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> s t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 
+35-24 ' <space> b u s h <space> w a s <space> s i t t i n g <space> a t <space> t h e <space> b o s s ' ' s <space> s t a b l e <space> a n d <space> i i <space> s a t <space> d o w n <space> o p p o s i t e . 

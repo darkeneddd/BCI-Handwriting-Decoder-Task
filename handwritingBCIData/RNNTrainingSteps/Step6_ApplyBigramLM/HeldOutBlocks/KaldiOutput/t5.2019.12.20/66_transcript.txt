@@ -1,0 +1,70 @@
+66-1  t h e r e <space> a r e <space> o n l y <space> o n e <space> o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-2  t h e r e <space> a r e <space> o n l y <space> o n e <space> o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-3 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-4 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-5  t h e r e <space> a r e <space> o n l y <space> o n e <space> o n <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-6  t h e s e <space> a r e <space> o n l y <space> o n e <space> o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-7  t h e r e <space> a r e <space> o n l y <space> o n e <space> n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-8  t h e r e <space> a r e <space> o n l y <space> o n e <space> o n e <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-9  t h e r e <space> a r e <space> o n l y <space> o n e <space> n o <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-10  t h e s e <space> a r e <space> o n l y <space> o n e <space> o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-11  t h e r e <space> a r e <space> o n l y <space> o n e <space> n o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-12  t h e r e <space> a r e <space> o n l y <space> o n e <space> c n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-13  t h e r e <space> a r e <space> o n l y <space> o n e <space> n r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-14  t h e r e <space> a r e <space> o n l y <space> o n e <space> o r <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-15  t h e e <space> a r e <space> o n l y <space> o n e <space> o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-16 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-17  t h e r e <space> a r e <space> o n l y <space> o n e <space> o f <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-18  t h e r e <space> a r e <space> o n l y <space> o n e <space> a n d <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-19  t h e r e <space> a r e <space> o n l y <space> o n e <space> f o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-20  t h e r e <space> a r e <space> o n l y <space> o n e <space> r u n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-21  t h e e <space> a r e <space> o n l y <space> o n e <space> o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-22 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o n <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-23 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-24 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-25 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o n e <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-26 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n o <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-27 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-28 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> c n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-29 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-30 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o r <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-31 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o f <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-32 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> a n d <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-33 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> f o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-34 , <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> r u n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-35  t h e s e <space> a r e <space> o n l y <space> o n e <space> o n <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-36  t h e s e <space> a r e <space> o n l y <space> o n e <space> n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-37  t h e s e <space> a r e <space> o n l y <space> o n e <space> o n e <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-38  t h e s e <space> a r e <space> o n l y <space> o n e <space> n o <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-39  t h e s e <space> a r e <space> o n l y <space> o n e <space> n o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-40  t h e s e <space> a r e <space> o n l y <space> o n e <space> c n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-41  t h e s e <space> a r e <space> o n l y <space> o n e <space> n r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-42  t h e s e <space> a r e <space> o n l y <space> o n e <space> o r <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-43  t h e e <space> a r e <space> o n l y <space> o n e <space> o n <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-44 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o n <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-45  t h e e <space> a r e <space> o n l y <space> o n e <space> n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-46  t h e s e <space> a r e <space> o n l y <space> o n e <space> o f <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-47  t h e e <space> a r e <space> o n l y <space> o n e <space> o n e <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-48  t h e s e <space> a r e <space> o n l y <space> o n e <space> a n d <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-49 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-50  t h e s e <space> a r e <space> o n l y <space> o n e <space> f o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-51 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o n e <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-52  t h e s e <space> a r e <space> o n l y <space> o n e <space> r u n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-53  t h e e <space> a r e <space> o n l y <space> o n e <space> n o <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-54  t h e e <space> a r e <space> o n l y <space> o n e <space> n o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-55  t h e e <space> a r e <space> o n l y <space> o n e <space> c n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-56  t h e e <space> a r e <space> o n l y <space> o n e <space> n r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-57 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n o <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-58 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n o n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-59  t h e e <space> a r e <space> o n l y <space> o n e <space> o r <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-60 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> c n n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-61 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> n r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-62 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o r <space> a <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-63  t h e e <space> a r e <space> o n l y <space> o n e <space> o f <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-64  t h e e <space> a r e <space> o n l y <space> o n e <space> a n d <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-65 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> o f <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-66  t h e e <space> a r e <space> o n l y <space> o n e <space> f o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-67  t h e e <space> a r e <space> o n l y <space> o n e <space> r u n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-68 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> a n d <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-69 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> f o r <space> t w o <space> m i n o r <space> c a s u a l t i e s . 
+66-70 ' <space> t h e r e <space> a r e <space> o n l y <space> o n e <space> r u n <space> t w o <space> m i n o r <space> c a s u a l t i e s . 

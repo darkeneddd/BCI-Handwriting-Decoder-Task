@@ -1,0 +1,12 @@
+19-1  t h e r e <space> w e r e <space> s i x <space> o f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f <space> t h e <space> c o m p a r t m e n t . 
+19-2 , <space> t h e r e <space> w e r e <space> s i x <space> o f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f <space> t h e <space> c o m p a r t m e n t . 
+19-3  t h e r e <space> w e r e <space> s i x <space> o f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f f <space> t h e <space> c o m p a r t m e n t . 
+19-4  t h e r e <space> w e r e <space> s i x <space> o f f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f <space> t h e <space> c o m p a r t m e n t . 
+19-5 ' <space> t h e r e <space> w e r e <space> s i x <space> o f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f <space> t h e <space> c o m p a r t m e n t . 
+19-6 , <space> t h e r e <space> w e r e <space> s i x <space> o f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f f <space> t h e <space> c o m p a r t m e n t . 
+19-7 , <space> t h e r e <space> w e r e <space> s i x <space> o f f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f <space> t h e <space> c o m p a r t m e n t . 
+19-8  t h e r e <space> w e r e <space> s i x <space> o f f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f f <space> t h e <space> c o m p a r t m e n t . 
+19-9 ' <space> t h e r e <space> w e r e <space> s i x <space> o f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f f <space> t h e <space> c o m p a r t m e n t . 
+19-10 ' <space> t h e r e <space> w e r e <space> s i x <space> o f f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f <space> t h e <space> c o m p a r t m e n t . 
+19-11 , <space> t h e r e <space> w e r e <space> s i x <space> o f f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f f <space> t h e <space> c o m p a r t m e n t . 
+19-12 ' <space> t h e r e <space> w e r e <space> s i x <space> o f f <space> t h o s e <space> i n <space> t h e <space> f i r s t <space> s e c t i o n <space> o f f <space> t h e <space> c o m p a r t m e n t . 

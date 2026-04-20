@@ -1,0 +1,128 @@
+64-1  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-2  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-3 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-4 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-5  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-6  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-7 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-8  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-9  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-10 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-11  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-12  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-13  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-14  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-15 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-16 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-17 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-18 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-19  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-20  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-21  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-22 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-23 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-24  b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-25 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-26  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-27  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-28  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-29  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-30 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-31  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-32  b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-33  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-34  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a s t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-35 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-36  p u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-37 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-38  p u t <space> a <space> s o <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-39  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a c e t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-40  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-41  p u t <space> a s s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-42 ' <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-43  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-44 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-45  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> a a d . 
+64-46  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-47 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-48 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-49 , <space> b u t <space> w a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-50  p u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-51 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-52  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-53  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-54 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-55  p u t <space> a <space> s o <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-56  p u t <space> a s s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-57 ' <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-58 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a s t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-59 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-60  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> a a d . 
+64-61  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-62 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-63 , <space> b u t <space> w a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-64 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a c e t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-65 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-66  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-67  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-68  b u t <space> w a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-69  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-70 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-71 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> a a d . 
+64-72 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-73  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a s t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-74  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-75 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-76  b u t <space> w a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-77  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a c e t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-78  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-79 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-80 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> a a d . 
+64-81  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-82 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-83  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> a a d . 
+64-84  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-85  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-86 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-87 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-88  b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-89  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-90  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-91 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-92 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-93  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-94 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-95 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-96 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-97  b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> a a d . 
+64-98  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-99 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-100  b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-101  b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-102 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a s t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-103  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-104  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-105 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-106 , <space> p u t <space> a <space> s o <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-107 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a c e t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-108  b u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-109  p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-110 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d 
+64-111 , <space> p u t <space> a s s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-112  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a s t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-113 ' <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-114  p u t t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-115  b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f o r t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-116  p u t <space> a <space> s o <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-117  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a c e t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-118 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-119  p u t <space> a s s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-120 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> a a d . 
+64-121 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-122 , <space> b u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h e a d . 
+64-123 ' <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-124  p u t t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 
+64-125  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a t e d <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-126  p u t <space> a s <space> o f t e n <space> h a p p e n e d , <space> f a s t e r <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a r d . 
+64-127 , <space> p u t <space> a s <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a d . 
+64-128  p u t <space> a <space> s o <space> o f t e n <space> h a p p e n e d , , <space> f a t e <space> d e a l t <space> o u t <space> a <space> d i f f e r e n t <space> h a n d . 

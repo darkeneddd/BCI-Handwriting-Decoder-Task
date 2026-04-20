@@ -1,0 +1,72 @@
+71-1  a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-2  c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-3  i c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-4  r a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-5  m a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-6  a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-7  c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-8 , <space> c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-9 , <space> a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-10  f a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-11  p a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-12  i c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-13  r a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-14  m a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-15 ' <space> a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-16  l a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-17  c e o <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-18 , <space> c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-19 , <space> a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-20  f a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-21  b c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-22  j a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-23  p a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-24  e c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-25 ' <space> c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-26  o n c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-27  a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-28  c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-29  m i c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-30 ' <space> a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-31  l a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-32  c e o <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-33  b c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-34  i c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-35  j a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-36  e c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-37 ' <space> c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-38  r a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-39  o n c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-40  m a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-41  a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-42  c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-43  m i c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r <space> d u e l . 
+71-44 , <space> c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-45 , <space> a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-46  f a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-47  p a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-48  i c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-49  r a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-50  m a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-51 ' <space> a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-52  l a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-53  c e o <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-54 , <space> c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-55 , <space> a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-56  f a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-57  b c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-58  j a c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-59  p a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-60  e c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-61 ' <space> c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-62  o n c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-63  m i c e <space> w a s <space> g e t t i n g <space> b o r e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-64 ' <space> a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-65  l a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-66  c e o <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-67  b c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-68  j a c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-69  e c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-70 ' <space> c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-71  o n c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 
+71-72  m i c e <space> w a s <space> g e t t i n g <space> b o o e d <space> w i t h <space> h e r <space> l a s e r s <space> d u e l . 

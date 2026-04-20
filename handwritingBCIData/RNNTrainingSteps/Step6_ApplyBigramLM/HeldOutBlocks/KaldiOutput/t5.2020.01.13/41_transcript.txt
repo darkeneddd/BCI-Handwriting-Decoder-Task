@@ -1,0 +1,12 @@
+41-1  w a t e r <space> b o t t l e . 
+41-2  w a t e r <space> b o t t l e 
+41-3 , <space> w a t e r <space> b o t t l e . 
+41-4 , <space> w a t e r <space> b o t t l e 
+41-5  w a t e r <space> b o t t l e ? 
+41-6 ' <space> w a t e r <space> b o t t l e . 
+41-7  w a t e r <space> b o t t l e s . 
+41-8 ' <space> w a t e r <space> b o t t l e 
+41-9 , <space> w a t e r <space> b o t t l e ? 
+41-10 , <space> w a t e r <space> b o t t l e s . 
+41-11 ' <space> w a t e r <space> b o t t l e ? 
+41-12 ' <space> w a t e r <space> b o t t l e s . 

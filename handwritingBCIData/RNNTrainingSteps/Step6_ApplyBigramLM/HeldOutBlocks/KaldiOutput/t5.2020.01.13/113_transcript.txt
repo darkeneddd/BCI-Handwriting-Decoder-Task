@@ -1,0 +1,10 @@
+113-1  l o o k <space> h e r e 
+113-2 , <space> l o o k <space> h e r e 
+113-3  b o o k <space> h e r e 
+113-4  l o o k <space> h e r e . 
+113-5  t o o k <space> h e r e 
+113-6  c o o k <space> h e r e 
+113-7  h o o k <space> h e r e 
+113-8 ' <space> l o o k <space> h e r e 
+113-9 , <space> l o o k <space> h e r e . 
+113-10 ' <space> l o o k <space> h e r e . 

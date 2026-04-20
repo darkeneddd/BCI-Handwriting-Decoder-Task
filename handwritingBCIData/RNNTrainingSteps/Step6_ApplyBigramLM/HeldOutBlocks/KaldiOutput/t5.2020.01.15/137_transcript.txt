@@ -1,0 +1,42 @@
+137-1  i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-2 , <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-3  d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-4 , <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-5  i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-6 , <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-7 ' <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-8 , <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-9  d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-10  i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-11  i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-12 ' <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-13 ' s <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-14 ' d <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-15  a <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-16 , <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-17 , <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-18  d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-19  d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-20 , <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-21 , <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-22  i <space> d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-23  i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-24 ' <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s . 
+137-25 , <space> d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-26 , <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-27 ' <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-28 , <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-29 ' <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-30 , <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-31  d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-32  d o n t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-33 ' <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-34 ' <space> i <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-35 ' s <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-36 ' s <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-37 ' d <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-38 ' d <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-39  a <space> d o n ' t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-40  a <space> d o n ' t <space> l i k e <space> c h i c k <space> f l i c k s 
+137-41 ' <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l o c k s . 
+137-42 ' <space> i <space> d o n t <space> l i k e <space> c h i c k <space> f l i c k s 

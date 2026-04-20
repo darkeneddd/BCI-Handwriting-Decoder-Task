@@ -1,0 +1,128 @@
+77-1  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-2  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-3  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-4  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-5 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-6 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-7  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-8 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-9  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-10 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-11  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-12 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-13  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-14 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-15  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-16  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-17  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-18  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-19  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-20  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-21  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-22  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-23  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-24 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-25  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-26 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-27  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-28  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-29 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-30  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-31  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-32  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-33 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-34 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-35 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-36  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-37 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-38 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-39  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-40  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-41 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-42  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-43  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-44 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-45  w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-46 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-47  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a t <space> c h a t t e r . 
+77-48  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c h o o s e s <space> a <space> c h a t t e r . 
+77-49  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-50  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-51 , <space> w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-52  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-53 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-54  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-55 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-56  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-57 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-58  w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-59  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-60  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-61  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c h o o s e s <space> a <space> c h e a t e r . 
+77-62 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-63  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-64 , <space> w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-65  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-66 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-67  w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-68  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a t <space> c h a t t e r . 
+77-69  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c h o o s e s <space> a <space> c h a t t e r . 
+77-70  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-71  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-72 , <space> w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-73 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-74 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-75  w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-76 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-77  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c h o o s e s <space> a <space> c h e a t e r . 
+77-78 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-79  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-80 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-81 , <space> w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-82 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-83 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-84 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-85 , <space> w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-86 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a t <space> c h a t t e r . 
+77-87  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-88 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c h o o s e s <space> a <space> c h a t t e r . 
+77-89 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-90 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-91 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-92 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-93 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-94 , <space> w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-95  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-96 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-97 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-98 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c h o o s e s <space> a <space> c h e a t e r . 
+77-99 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-100 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-101  w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-102  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-103 , <space> w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-104  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-105  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a t <space> c h a t t e r . 
+77-106  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-107  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c h o o s e s <space> a <space> c h a t t e r . 
+77-108 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a t <space> c h a t t e r . 
+77-109  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-110 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c h o o s e s <space> a <space> c h a t t e r . 
+77-111  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-112  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-113 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e s <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-114 , <space> w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 
+77-115 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-116  w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-117 , <space> w h i l e <space> t h i s <space> i s <space> m o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-118  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c h o o s e s <space> a <space> c h e a t e r . 
+77-119 , <space> w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c h o o s e s <space> a <space> c h e a t e r . 
+77-120 , <space> w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , , <space> i t <space> c l o s e s <space> a <space> c h e a t e r . 
+77-121  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-122  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a a a <space> c h a t t e r . 
+77-123  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-124  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-125  w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l <space> i t <space> c l o s e s <space> a <space> c h a r t e r . 
+77-126  w h i l e <space> t h i s <space> i s <space> n o t <space> c l o s u r e <space> a t <space> a l , <space> i t <space> c l o s e s <space> a a <space> c h a t t e r . 
+77-127  w h i l e <space> t h i s <space> i s <space> r o o t <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a p t e r . 
+77-128 ' <space> w h i l e <space> t h i s <space> i s <space> n o t <space> a <space> c l o s u r e <space> a t <space> a l l , <space> i t <space> c l o s e s <space> a <space> c h a t t e r . 

@@ -1,0 +1,16 @@
+41-1  w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-2  w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-3 , <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-4 , <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-5 ' <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-6  w e l l <space> e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-7  w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-8 ' <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-9  w e l l <space> e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-10  w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-11 , <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-12 , <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-13 ' <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-14  w e l l <space> e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-15 ' <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-16  w e l l <space> e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 

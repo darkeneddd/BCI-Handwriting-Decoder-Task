@@ -1,0 +1,30 @@
+46-1  w a l k <space> i n <space> t h e <space> p a r k 
+46-2  w a l k <space> i n <space> t h e <space> p a c k 
+46-3 , <space> w a l k <space> i n <space> t h e <space> p a r k 
+46-4  w a l k <space> i n <space> t h e <space> p a r k . 
+46-5 ' <space> w a l k <space> i n <space> t h e <space> p a r k 
+46-6 , <space> w a l k <space> i n <space> t h e <space> p a c k 
+46-7  w a l k <space> i n <space> t h e <space> p a k 
+46-8  w a l k <space> i n <space> t h e <space> p a r k ? 
+46-9  w a l k <space> i n n <space> t h e <space> p a r k 
+46-10 ' <space> w a l k <space> i n <space> t h e <space> p a c k 
+46-11 , <space> w a l k <space> i n <space> t h e <space> p a r k . 
+46-12 , <space> w a l k <space> i n <space> t h e <space> p a k 
+46-13 , <space> w a l k <space> i n <space> t h e <space> p a r k ? 
+46-14  w a l k <space> i n n <space> t h e <space> p a c k 
+46-15 , <space> w a l k <space> i n n <space> t h e <space> p a r k 
+46-16 ' <space> w a l k <space> i n <space> t h e <space> p a r k . 
+46-17 ' <space> w a l k <space> i n <space> t h e <space> p a k 
+46-18 ' <space> w a l k <space> i n <space> t h e <space> p a r k ? 
+46-19  w a l k <space> i n n <space> t h e <space> p a r k . 
+46-20 ' <space> w a l k <space> i n n <space> t h e <space> p a r k 
+46-21 , <space> w a l k <space> i n n <space> t h e <space> p a c k 
+46-22  w a l k <space> i n n <space> t h e <space> p a k 
+46-23  w a l k <space> i n n <space> t h e <space> p a r k ? 
+46-24 ' <space> w a l k <space> i n n <space> t h e <space> p a c k 
+46-25 , <space> w a l k <space> i n n <space> t h e <space> p a r k . 
+46-26 , <space> w a l k <space> i n n <space> t h e <space> p a k 
+46-27 , <space> w a l k <space> i n n <space> t h e <space> p a r k ? 
+46-28 ' <space> w a l k <space> i n n <space> t h e <space> p a r k . 
+46-29 ' <space> w a l k <space> i n n <space> t h e <space> p a k 
+46-30 ' <space> w a l k <space> i n n <space> t h e <space> p a r k ? 

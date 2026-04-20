@@ -1,0 +1,9 @@
+1-1  l o o k <space> o u t 
+1-2  l o o k <space> o u t . 
+1-3 , <space> l o o k <space> o u t 
+1-4 , <space> l o o k <space> o u t . 
+1-5  l o o k <space> o u t ? 
+1-6 ' <space> l o o k <space> o u t 
+1-7 ' <space> l o o k <space> o u t . 
+1-8 , <space> l o o k <space> o u t ? 
+1-9 ' <space> l o o k <space> o u t ? 

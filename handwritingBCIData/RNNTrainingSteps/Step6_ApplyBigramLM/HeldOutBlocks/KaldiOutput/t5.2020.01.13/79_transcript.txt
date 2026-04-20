@@ -1,0 +1,6 @@
+79-1  t h e <space> e n t i r e <space> c o u n t r y <space> w a s <space> s t r i c t l y <space> c o n t r o l l e d <space> b y <space> h i s <space> f a t h e r . 
+79-2 , <space> t h e <space> e n t i r e <space> c o u n t r y <space> w a s <space> s t r i c t l y <space> c o n t r o l l e d <space> b y <space> h i s <space> f a t h e r . 
+79-3  t h e <space> e n t i r e <space> c o u n t r y <space> w a s <space> s t r i c t l y <space> c o n t r o l l e d <space> b y <space> h i s <space> f a t h e r 
+79-4 ' <space> t h e <space> e n t i r e <space> c o u n t r y <space> w a s <space> s t r i c t l y <space> c o n t r o l l e d <space> b y <space> h i s <space> f a t h e r . 
+79-5 , <space> t h e <space> e n t i r e <space> c o u n t r y <space> w a s <space> s t r i c t l y <space> c o n t r o l l e d <space> b y <space> h i s <space> f a t h e r 
+79-6 ' <space> t h e <space> e n t i r e <space> c o u n t r y <space> w a s <space> s t r i c t l y <space> c o n t r o l l e d <space> b y <space> h i s <space> f a t h e r 

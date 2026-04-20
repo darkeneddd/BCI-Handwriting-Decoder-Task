@@ -1,0 +1,18 @@
+80-1  s h o w <space> i s <space> c o l d 
+80-2  s h o w <space> i s <space> c o u l d 
+80-3 , <space> s h o w <space> i s <space> c o l d 
+80-4  s h o w <space> i s <space> c o o l . 
+80-5  s h o w <space> i s <space> c o l d . 
+80-6  s h o w <space> i s <space> c o o l 
+80-7 ' <space> s h o w <space> i s <space> c o l d 
+80-8  s h o w <space> i s <space> c o o l e d 
+80-9 , <space> s h o w <space> i s <space> c o u l d 
+80-10 , <space> s h o w <space> i s <space> c o o l . 
+80-11 , <space> s h o w <space> i s <space> c o l d . 
+80-12 , <space> s h o w <space> i s <space> c o o l 
+80-13 ' <space> s h o w <space> i s <space> c o u l d 
+80-14 , <space> s h o w <space> i s <space> c o o l e d 
+80-15 ' <space> s h o w <space> i s <space> c o o l . 
+80-16 ' <space> s h o w <space> i s <space> c o l d . 
+80-17 ' <space> s h o w <space> i s <space> c o o l 
+80-18 ' <space> s h o w <space> i s <space> c o o l e d 

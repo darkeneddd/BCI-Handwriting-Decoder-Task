@@ -1,0 +1,38 @@
+7-1  i t s <space> h u r t . 
+7-2  i t s <space> h u r t ? 
+7-3  i t s <space> h u r t s 
+7-4 , <space> i t s <space> h u r t . 
+7-5  i t s <space> h u n t . 
+7-6  i t s <space> h u r t s . 
+7-7  i t s <space> h u r t , 
+7-8 , <space> i t s <space> h u r t ? 
+7-9  i t s <space> h u r t 
+7-10 , <space> i t s <space> h u r t s 
+7-11  i t s <space> h u r t ' 
+7-12  i t ' s <space> h u r t . 
+7-13 , <space> i t s <space> h u n t . 
+7-14  i t s <space> h u t t . 
+7-15  s i t s <space> h u r t . 
+7-16  i t s <space> h u n t ? 
+7-17  b i t s <space> h u r t . 
+7-18  h i t s <space> h u r t . 
+7-19 ' <space> i t s <space> h u r t . 
+7-20  i t s <space> h e a r t . 
+7-21  m i t t s <space> h u r t . 
+7-22 , <space> i t s <space> h u r t s . 
+7-23 , <space> i t s <space> h u r t , 
+7-24 , <space> i t s <space> h u r t 
+7-25 , <space> i t s <space> h u r t ' 
+7-26 , <space> i t s <space> h u t t . 
+7-27 , <space> i t s <space> h u n t ? 
+7-28 ' <space> i t s <space> h u r t ? 
+7-29 ' <space> i t s <space> h u r t s 
+7-30 , <space> i t s <space> h e a r t . 
+7-31 ' <space> i t s <space> h u n t . 
+7-32 ' <space> i t s <space> h u r t s . 
+7-33 ' <space> i t s <space> h u r t , 
+7-34 ' <space> i t s <space> h u r t 
+7-35 ' <space> i t s <space> h u r t ' 
+7-36 ' <space> i t s <space> h u t t . 
+7-37 ' <space> i t s <space> h u n t ? 
+7-38 ' <space> i t s <space> h e a r t . 

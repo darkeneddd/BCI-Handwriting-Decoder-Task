@@ -1,0 +1,6 @@
+60-1  h e r <space> h u s b a n d <space> b o b <space> w a s <space> b e s i d e 
+60-2 , <space> h e r <space> h u s b a n d <space> b o b <space> w a s <space> b e s i d e 
+60-3  h e r <space> h u s b a n d <space> b o o b <space> w a s <space> b e s i d e 
+60-4 ' <space> h e r <space> h u s b a n d <space> b o b <space> w a s <space> b e s i d e 
+60-5 , <space> h e r <space> h u s b a n d <space> b o o b <space> w a s <space> b e s i d e 
+60-6 ' <space> h e r <space> h u s b a n d <space> b o o b <space> w a s <space> b e s i d e 

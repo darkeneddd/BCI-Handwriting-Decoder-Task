@@ -1,0 +1,72 @@
+149-1  i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-2  i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-3 , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-4 , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-5 , <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-6 , <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-7 ' <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-8 ' <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-9 ' s <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-10 ' s <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-11  a <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-12  a <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-13  i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-14 , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-15  i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-16 , , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-17 , , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-18 ' d <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-19 ' d <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-20 ' m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-21 ' m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-22 , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-23  i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-24 ' <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-25 ' <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-26 , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-27 ? <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-28 ? <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-29  i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-30  m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l 
+149-31  m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . 
+149-32 , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-33 , <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-34 , <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-35 , <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-36 ' <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-37 ' <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-38 , <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-39 ' <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-40 ' s <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-41 ' s <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-42 ' s <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-43 ' <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-44  a <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-45  a <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-46 , , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-47 ' d <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-48 ' m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-49  a <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-50 , , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-51 ' <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-52 ' d <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-53 ' m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-54 ' s <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-55 ' <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-56 , , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-57 ' d <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-58 ' m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-59 ? <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-60 ' <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-61 ? <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-62  a <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-63 ? <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-64  m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l 
+149-65 , , <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-66  m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w a l l . 
+149-67 ' d <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-68 ' m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-69 ' <space> i <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-70  m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l . . 
+149-71 ? <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 
+149-72  m <space> d o n ' t <space> s u f f e r <space> f o o l s <space> w e l l ? 

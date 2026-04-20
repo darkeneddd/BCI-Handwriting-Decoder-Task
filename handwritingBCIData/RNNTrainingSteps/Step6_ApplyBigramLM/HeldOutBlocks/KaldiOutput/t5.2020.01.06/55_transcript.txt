@@ -1,0 +1,128 @@
+55-1  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i r 
+55-2  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a n n 
+55-3  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i r 
+55-4  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i n 
+55-5  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> m a i n 
+55-6 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i r 
+55-7  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> w i n 
+55-8  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a n n 
+55-9 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a n n 
+55-10  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i n 
+55-11  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> m a i n 
+55-12  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c n n 
+55-13 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i r 
+55-14 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i n 
+55-15  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> w i n 
+55-16  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i 
+55-17 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> m a i n 
+55-18  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i r 
+55-19  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> i n 
+55-20  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c a i n 
+55-21  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c o i n 
+55-22  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> r a i n 
+55-23 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> w i n 
+55-24 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a n n 
+55-25  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> g a i n 
+55-26  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> i n n 
+55-27 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i r 
+55-28  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c n n 
+55-29  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i d 
+55-30  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a n n 
+55-31 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i r 
+55-32 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i n 
+55-33  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i 
+55-34  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> d i n 
+55-35 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> m a i n 
+55-36  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i r 
+55-37  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> i n 
+55-38  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c a i n 
+55-39 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c n n 
+55-40  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c o i n 
+55-41  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> v e n d o r s <space> i n <space> t h e <space> a i r 
+55-42  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i n 
+55-43  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c h a i n 
+55-44  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a s i a n 
+55-45  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> m i n 
+55-46 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a n n 
+55-47  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> m a i n 
+55-48  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> r a i n 
+55-49 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> w i n 
+55-50 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i 
+55-51  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> s i n 
+55-52  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a n d 
+55-53  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c a i r n 
+55-54 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> i n 
+55-55 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c a i n 
+55-56  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> g a i n 
+55-57 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a n n 
+55-58  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> i n n 
+55-59  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> t i n 
+55-60  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> v a i n 
+55-61  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> p a i n 
+55-62 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c o i n 
+55-63  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a a n 
+55-64  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> w i n 
+55-65 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i r 
+55-66 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i n 
+55-67  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> s k i n 
+55-68  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i d 
+55-69  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a n n 
+55-70 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> r a i n 
+55-71  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> v e n d o r s <space> i n <space> t h e <space> a n n 
+55-72 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> m a i n 
+55-73 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i r 
+55-74 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> g a i n 
+55-75 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> i n n 
+55-76 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i n 
+55-77  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> d i n 
+55-78 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> m a i n 
+55-79 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c n n 
+55-80 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i d 
+55-81 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> w i n 
+55-82  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i n 
+55-83  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c h a i n 
+55-84  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a s i a n 
+55-85  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> m i n 
+55-86  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> v e n d o r s <space> i n <space> t h e <space> a i n 
+55-87 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a n n 
+55-88  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> m a i n 
+55-89 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i 
+55-90  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> s i n 
+55-91  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> v e n d o r s <space> i n <space> t h e <space> m a i n 
+55-92  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c n n 
+55-93 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> w i n 
+55-94 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> d i n 
+55-95  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a n d 
+55-96  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c a i r n 
+55-97 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> i n 
+55-98 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c a i n 
+55-99 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a n n 
+55-100  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> t i n 
+55-101  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> v a i n 
+55-102  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> p a i n 
+55-103 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> c o i n 
+55-104 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> v e n d o r s <space> i n <space> t h e <space> a i r 
+55-105  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a a n 
+55-106 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c h a i n 
+55-107  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> w i n 
+55-108  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a i 
+55-109 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a s i a n 
+55-110 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> m i n 
+55-111  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> v e n d o r s <space> i n <space> t h e <space> w i n 
+55-112 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i n 
+55-113  w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> s k i n 
+55-114  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> i n 
+55-115  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c a i n 
+55-116 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> r a i n 
+55-117 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> s i n 
+55-118  w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c o i n 
+55-119 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> a n d 
+55-120 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c a i r n 
+55-121 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> m a i n 
+55-122 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> g a i n 
+55-123 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> i n n 
+55-124 , <space> w h e r e <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> c n n 
+55-125 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> t i n 
+55-126 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> v a i n 
+55-127 , <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a i n d r o p s <space> i n <space> t h e <space> p a i n 
+55-128 ' <space> w h e n <space> t h e <space> s u n l i g h t <space> s t r i k e s <space> r a n d o m n e s s <space> i n <space> t h e <space> a i n 

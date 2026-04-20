@@ -1,0 +1,36 @@
+121-1  y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . 
+121-2  y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . 
+121-3  y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . 
+121-4 , <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . 
+121-5  y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . . 
+121-6  y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . 
+121-7 , <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . 
+121-8 , <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . 
+121-9  y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . 
+121-10 ' <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . 
+121-11  y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . . 
+121-12  y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . . 
+121-13 , <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . . 
+121-14 , <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . 
+121-15  y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . 
+121-16 , <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . 
+121-17 ' <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . 
+121-18 ' <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . 
+121-19  y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . . 
+121-20 , <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . . 
+121-21 , <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . . 
+121-22  y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . . 
+121-23 , <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . 
+121-24 ' <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . . 
+121-25 ' <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . 
+121-26 ' <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . 
+121-27 , <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . . 
+121-28  y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . . 
+121-29 , <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . . 
+121-30 ' <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . . 
+121-31 ' <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , <space> y o u <space> k n o w . . 
+121-32 ' <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . 
+121-33 , <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . . 
+121-34 ' <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , <space> y o u <space> k n o w . . 
+121-35 ' <space> y o u <space> e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . . 
+121-36 ' <space> y o u <space> n e v e r <space> u s e d <space> t o <space> s w e a r , , , <space> y o u <space> k n o w . . 

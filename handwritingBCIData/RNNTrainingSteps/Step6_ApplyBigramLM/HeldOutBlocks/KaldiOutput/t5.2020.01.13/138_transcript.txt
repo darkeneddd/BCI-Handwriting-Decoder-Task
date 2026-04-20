@@ -1,0 +1,41 @@
+138-1  l o t s <space> a n d <space> l o t s . 
+138-2  l o t s <space> a n d <space> l o t s 
+138-3 , <space> l o t s <space> a n d <space> l o t s . 
+138-4  p l o t s <space> a n d <space> l o t s . 
+138-5  s l o t s <space> a n d <space> l o t s . 
+138-6 , <space> l o t s <space> a n d <space> l o t s 
+138-7  l o t s <space> a d d <space> l o t s . 
+138-8  p l o t s <space> a n d <space> l o t s 
+138-9  s l o t s <space> a n d <space> l o t s 
+138-10  b o o t s <space> a n d <space> l o t s . 
+138-11  l o t s <space> a d d <space> l o t s 
+138-12  b o t s <space> a n d <space> l o t s . 
+138-13  p o t s <space> a n d <space> l o t s . 
+138-14  d o t s <space> a n d <space> l o t s . 
+138-15  l o t s <space> a n d <space> l o t s ? 
+138-16  r o o t s <space> a n d <space> l o t s . 
+138-17  l e t s <space> a d d <space> l o t s . 
+138-18  b o o t s <space> a n d <space> l o t s 
+138-19  o a t s <space> a n d <space> l o t s . 
+138-20 ' <space> l o t s <space> a n d <space> l o t s . 
+138-21 , <space> l o t s <space> a d d <space> l o t s . 
+138-22  b o t s <space> a n d <space> l o t s 
+138-23  p o t s <space> a n d <space> l o t s 
+138-24  d o t s <space> a n d <space> l o t s 
+138-25  r o o t s <space> a n d <space> l o t s 
+138-26  l e t s <space> a d d <space> l o t s 
+138-27  o a t s <space> a n d <space> l o t s 
+138-28 ' <space> l o t s <space> a n d <space> l o t s 
+138-29 , <space> l o t s <space> a d d <space> l o t s 
+138-30 , <space> l o t s <space> a n d <space> l o t s ? 
+138-31  p l o t s <space> a n d <space> l o t s ? 
+138-32  s l o t s <space> a n d <space> l o t s ? 
+138-33 ' <space> l o t s <space> a d d <space> l o t s . 
+138-34  b o o t s <space> a n d <space> l o t s ? 
+138-35  b o t s <space> a n d <space> l o t s ? 
+138-36  p o t s <space> a n d <space> l o t s ? 
+138-37  d o t s <space> a n d <space> l o t s ? 
+138-38  r o o t s <space> a n d <space> l o t s ? 
+138-39 ' <space> l o t s <space> a d d <space> l o t s 
+138-40  o a t s <space> a n d <space> l o t s ? 
+138-41 ' <space> l o t s <space> a n d <space> l o t s ? 

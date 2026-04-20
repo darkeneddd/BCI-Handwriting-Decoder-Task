@@ -1,0 +1,21 @@
+3-1  a s <space> i t <space> a p p r o a c h e d , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-2 , <space> a s <space> i t <space> a p p r o a c h e d , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-3  w a s <space> i t <space> a p p r o a c h e d , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-4  a s <space> i t <space> a p p r o a c h e d , , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-5  h a s <space> i t <space> a p p r o a c h e d , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-6 ' <space> a s <space> i t <space> a p p r o a c h e d , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-7 , <space> a s <space> i t <space> a p p r o a c h e d , , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-8  a s s <space> i t <space> a p p r o a c h e d , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-9  a s <space> i t <space> a p p r o a c h e d , <space> a a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-10  w a s <space> i t <space> a p p r o a c h e d , , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-11  p a s s <space> i t <space> a p p r o a c h e d , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-12 , <space> a s <space> i t <space> a p p r o a c h e d , <space> a a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-13  h a s <space> i t <space> a p p r o a c h e d , , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-14 ' <space> a s <space> i t <space> a p p r o a c h e d , , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-15  a s s <space> i t <space> a p p r o a c h e d , , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-16  w a s <space> i t <space> a p p r o a c h e d , <space> a a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-17  p a s s <space> i t <space> a p p r o a c h e d , , <space> a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-18  h a s <space> i t <space> a p p r o a c h e d , <space> a a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-19 ' <space> a s <space> i t <space> a p p r o a c h e d , <space> a a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-20  a s s <space> i t <space> a p p r o a c h e d , <space> a a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 
+3-21  p a s s <space> i t <space> a p p r o a c h e d , <space> a a <space> g u a r d <space> s t e p p e d <space> f o r w a r d <space> a n d <space> h i t <space> a <space> s w i t c h . 

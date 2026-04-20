@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 593.76 367.5">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: #55a868;
+      }
+
+      .st4 {
+        fill: url(#h31c60da1ef1);
+      }
+
+      .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16 {
+        stroke: #fff;
+      }
+
+      .st4, .st5, .st6, .st7, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16 {
+        stroke-width: .5px;
+      }
+
+      .st4, .st7, .st9, .st17, .st12, .st16 {
+        opacity: .6;
+      }
+
+      .st18 {
+        opacity: .8;
+        stroke: #ccc;
+      }
+
+      .st18, .st19, .st20, .st21, .st22 {
+        isolation: isolate;
+      }
+
+      .st18, .st8 {
+        fill: #fff;
+      }
+
+      .st5 {
+        fill: url(#h1118e695371);
+      }
+
+      .st6 {
+        fill: url(#he711ab0094);
+      }
+
+      .st7 {
+        fill: url(#h1118e69537);
+      }
+
+      .st19 {
+        font-size: 13.65px;
+      }
+
+      .st19, .st21, .st22 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st23 {
+        fill: #c44e52;
+      }
+
+      .st24 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st25 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st26 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st27 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st28 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st9 {
+        fill: url(#he6286a7c141);
+      }
+
+      .st29 {
+        fill: #8172b3;
+      }
+
+      .st10 {
+        fill: url(#h31c60da1ef);
+      }
+
+      .st11 {
+        fill: url(#uuid-6ec0e6f0-ed38-4897-aa1e-8d36c8f4367c);
+      }
+
+      .st1 {
+        stroke: #b0b0b0;
+        stroke-opacity: .3;
+      }
+
+      .st1, .st30 {
+        stroke-linejoin: round;
+      }
+
+      .st1, .st30, .st2 {
+        stroke-width: .8px;
+      }
+
+      .st1, .st2 {
+        stroke-linecap: square;
+      }
+
+      .st31 {
+        fill: #4c72b0;
+      }
+
+      .st12 {
+        fill: url(#h8db2e021291);
+      }
+
+      .st32 {
+        fill: #dd8452;
+      }
+
+      .st13 {
+        fill: url(#he6286a7c14);
+      }
+
+      .st21 {
+        font-size: 17.3px;
+      }
+
+      .st30, .st2 {
+        stroke: #000;
+      }
+
+      .st14 {
+        fill: url(#h8db2e02129);
+      }
+
+      .st15 {
+        fill: url(#uuid-a19c3146-b1b0-4d8c-b359-52a06296bae1);
+      }
+
+      .st22 {
+        font-size: 16.39px;
+      }
+
+      .st33 {
+        clip-path: url(#clippath);
+      }
+
+      .st16 {
+        fill: url(#he711ab00941);
+      }
+    </style>
+    <pattern id="h8db2e02129" x="0" y="0" width="72" height="72" patternTransform="translate(-4861.02 -5224.68) scale(.56)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <g>
+        <rect class="st0" width="72" height="72"/>
+        <g>
+          <rect class="st0" width="72" height="72"/>
+          <rect class="st29" width="73" height="73"/>
+          <path class="st8" d="M-36,36L36-36M-30,42L42-30M-24,48L48-24M-18,54L54-18M-12,60L60-12M-6,66L66-6M0,72L72,0M6,78L78,6M12,84L84,12M18,90L90,18M24,96L96,24M30,102L102,30M36,108L108,36"/>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="h8db2e021291" data-name="h8db2e02129" patternTransform="translate(-4868.05 -5098.28) scale(.56 .59)" xlink:href="#h8db2e02129"/>
+    <pattern id="he711ab0094" x="0" y="0" width="72" height="72" patternTransform="translate(-4885.24 -2481.7) scale(.56 .82)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <g>
+        <rect class="st0" width="72" height="72"/>
+        <g>
+          <rect class="st0" width="72" height="72"/>
+          <rect class="st23" width="73" height="73"/>
+          <path class="st8" d="M-36,36L36-36M-30,42L42-30M-24,48L48-24M-18,54L54-18M-12,60L60-12M-6,66L66-6M0,72L72,0M6,78L78,6M12,84L84,12M18,90L90,18M24,96L96,24M30,102L102,30M36,108L108,36"/>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="he711ab00941" data-name="he711ab0094" patternTransform="translate(-4932.77 -2404.61) scale(.56 .83)" xlink:href="#he711ab0094"/>
+    <pattern id="he6286a7c14" x="0" y="0" width="72" height="72" patternTransform="translate(-4912.48 -6353.73) scale(.56 .47)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <g>
+        <rect class="st0" width="72" height="72"/>
+        <g>
+          <rect class="st0" width="72" height="72"/>
+          <rect class="st3" width="73" height="73"/>
+          <path class="st8" d="M-36,36L36-36M-30,42L42-30M-24,48L48-24M-18,54L54-18M-12,60L60-12M-6,66L66-6M0,72L72,0M6,78L78,6M12,84L84,12M18,90L90,18M24,96L96,24M30,102L102,30M36,108L108,36"/>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="he6286a7c141" data-name="he6286a7c14" patternTransform="translate(-4879.01 -6107.44) scale(.56 .54)" xlink:href="#he6286a7c14"/>
+    <pattern id="h31c60da1ef" x="0" y="0" width="72" height="72" patternTransform="translate(-4919.28 -6667.72) scale(.56 .43)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <g>
+        <rect class="st0" width="72" height="72"/>
+        <g>
+          <rect class="st0" width="72" height="72"/>
+          <rect class="st32" width="73" height="73"/>
+          <path class="st8" d="M-36,36L36-36M-30,42L42-30M-24,48L48-24M-18,54L54-18M-12,60L60-12M-6,66L66-6M0,72L72,0M6,78L78,6M12,84L84,12M18,90L90,18M24,96L96,24M30,102L102,30M36,108L108,36"/>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="h31c60da1ef1" data-name="h31c60da1ef" patternTransform="translate(-4905.45 -6546.49) scale(.57 .48)" xlink:href="#h31c60da1ef"/>
+    <pattern id="h1118e69537" x="0" y="0" width="72" height="72" patternTransform="translate(-4900.28 -2634.13) scale(.55 .8)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <g>
+        <rect class="st0" width="72" height="72"/>
+        <g>
+          <rect class="st0" width="72" height="72"/>
+          <rect class="st31" width="73" height="73"/>
+          <path class="st8" d="M-36,36L36-36M-30,42L42-30M-24,48L48-24M-18,54L54-18M-12,60L60-12M-6,66L66-6M0,72L72,0M6,78L78,6M12,84L84,12M18,90L90,18M24,96L96,24M30,102L102,30M36,108L108,36"/>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="h1118e695371" data-name="h1118e69537" patternTransform="translate(-4903.46 -2389.5) scale(.56 .83)" xlink:href="#h1118e69537"/>
+    <clipPath id="clippath">
+      <rect class="st0" x="66.31" y="27.61" width="444.27" height="266.15"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" x="66.31" y="27.61" width="444.27" height="266.15"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st0" x="66.31" y="27.61" width="444.27" height="266.15"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st0" x="66.31" y="27.61" width="444.27" height="266.15"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st0" x="66.31" y="27.61" width="444.27" height="266.15"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st0" x="66.31" y="27.61" width="444.27" height="266.15"/>
+    </clipPath>
+    <pattern id="uuid-a19c3146-b1b0-4d8c-b359-52a06296bae1" data-name="h1118e695371" x="0" y="0" width="72" height="72" patternTransform="translate(-3360.5 -3354.85) scale(.64 .66)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <g>
+        <rect class="st0" width="72" height="72"/>
+        <g>
+          <rect class="st0" width="72" height="72"/>
+          <rect class="st31" width="73" height="73"/>
+          <path class="st8" d="M-36,36L36-36M-30,42L42-30M-24,48L48-24M-18,54L54-18M-12,60L60-12M-6,66L66-6M0,72L72,0M6,78L78,6M12,84L84,12M18,90L90,18M24,96L96,24M30,102L102,30M36,108L108,36"/>
+        </g>
+      </g>
+    </pattern>
+    <pattern id="uuid-6ec0e6f0-ed38-4897-aa1e-8d36c8f4367c" data-name="h1118e695371" patternTransform="translate(-3360.43 -3342.96) scale(.64 .66)" xlink:href="#uuid-a19c3146-b1b0-4d8c-b359-52a06296bae1"/>
+  </defs>
+  <path class="st14" d="M430.67,293.76h33.47V117.58h-33.47v176.18Z"/>
+  <path class="st12" d="M464.14,294.04h33.47V111.09h-33.47v182.94Z"/>
+  <path class="st6" d="M345.04,294h33.47V80.41h-33.47v213.6h0Z"/>
+  <path class="st16" d="M378.51,294h33.47V77.1h-33.47v216.92h0Z"/>
+  <path class="st13" d="M256.42,293.76h33.47v-159.75h-33.47v159.75Z"/>
+  <path class="st9" d="M289.89,293.76h33.47V110.09h-33.47v183.67Z"/>
+  <path class="st10" d="M170.5,294h33v-155h-33v155Z"/>
+  <path class="st4" d="M203.5,294h33.75V120.66h-33.75v173.34Z"/>
+  <path class="st7" d="M114.88,293.76h33V85.08h-33v208.68h0Z"/>
+  <path class="st5" d="M81.28,293.83h33.6V77.1h-33.6v216.74h0Z"/>
+  <g class="st33">
+    <path class="st1" d="M66.31,293.76h444.27"/>
+  </g>
+  <path id="m5607f780c7" class="st30" d="M66.31,293.76h-3.5"/>
+  <g class="st24">
+    <path class="st1" d="M66.31,243.07h444.27"/>
+  </g>
+  <path id="m5607f780c71" class="st30" d="M66.31,243.07h-3.5"/>
+  <g id="line2d_10">
+    <g class="st27">
+      <path class="st1" d="M66.31,192.37h444.27"/>
+    </g>
+  </g>
+  <g id="line2d_11">
+    <path id="m5607f780c72" class="st30" d="M66.31,192.37h-3.5"/>
+  </g>
+  <g class="st25">
+    <path class="st1" d="M66.31,141.67h444.27"/>
+  </g>
+  <path id="m5607f780c73" class="st30" d="M66.31,141.67h-3.5"/>
+  <g class="st26">
+    <path class="st1" d="M66.31,90.98h444.27"/>
+  </g>
+  <path id="m5607f780c74" class="st30" d="M66.31,90.98h-3.5"/>
+  <g class="st28">
+    <path class="st1" d="M66.31,40.28h444.27"/>
+  </g>
+  <path id="m5607f780c75" class="st30" d="M66.31,40.28h-3.5"/>
+  <g id="patch_13">
+    <path class="st2" d="M66.31,293.76V40.28"/>
+  </g>
+  <g id="patch_14">
+    <path class="st2" d="M510.58,293.02V40.28"/>
+  </g>
+  <g id="patch_15">
+    <path class="st2" d="M66.31,293.76h444.27"/>
+  </g>
+  <g id="patch_16">
+    <path class="st2" d="M66.31,40.28h444.27"/>
+  </g>
+  <path class="st18" d="M520.29,76.63h64.01c1.1,0,1.65-.45,1.65-1.35v-33.66c0-.9-.55-1.35-1.65-1.35h-64.01c-1.1,0-1.65.45-1.65,1.35v33.66c0,.9.55,1.35,1.65,1.35Z"/>
+  <g>
+    <path id="DejaVuSans-46" d="M522.43,43.19h4.49v.89h-3.43v2.3h3.1v.89h-3.1v3.73h-1.06s0-7.81,0-7.81Z"/>
+    <path id="DejaVuSans-65" d="M532.98,47.83v.47h-4.43c.04.66.24,1.17.6,1.52.36.35.86.52,1.49.52.37,0,.73-.05,1.08-.14s.69-.23,1.03-.41v.91c-.35.15-.7.26-1.06.33s-.73.12-1.1.12c-.94,0-1.68-.27-2.22-.82-.55-.54-.82-1.28-.82-2.21s.26-1.72.78-2.28c.52-.56,1.22-.85,2.1-.85.79,0,1.41.25,1.87.76s.69,1.2.69,2.07h-.01ZM532.02,47.55c0-.53-.15-.95-.44-1.26-.29-.31-.67-.47-1.14-.47-.54,0-.97.15-1.29.46s-.51.73-.56,1.28h3.43Z"/>
+    <path id="DejaVuSans-61" d="M537.22,48.06c-.78,0-1.32.09-1.62.27s-.45.48-.45.91c0,.34.11.61.34.81.23.2.53.3.92.3.53,0,.96-.19,1.29-.57s.48-.88.48-1.51v-.21h-.96,0ZM539.14,47.66v3.34h-.96v-.89c-.22.35-.49.62-.82.79-.33.17-.73.25-1.2.25-.6,0-1.08-.17-1.43-.51s-.53-.79-.53-1.35c0-.66.22-1.16.66-1.49s1.1-.5,1.98-.5h1.35v-.1c0-.44-.15-.79-.44-1.03s-.7-.36-1.23-.36c-.33,0-.66.04-.98.12-.32.08-.62.2-.91.36v-.89c.35-.14.69-.24,1.02-.3.33-.07.65-.1.97-.1.85,0,1.48.22,1.9.66.42.44.63,1.1.63,2h0Z"/>
+    <path id="DejaVuSans-74" d="M542.08,43.48v1.66h1.98v.75h-1.98v3.18c0,.48.07.78.2.92s.4.2.8.2h.99v.81h-.99c-.74,0-1.26-.14-1.54-.42-.28-.28-.42-.78-.42-1.52v-3.18h-.71v-.75h.71v-1.66h.97-.01Z"/>
+    <path id="DejaVuSans-75" d="M545.23,48.69v-3.55h.96v3.51c0,.55.11.97.32,1.25.22.28.54.42.97.42.52,0,.93-.17,1.23-.5s.45-.78.45-1.36v-3.32h.96v5.86h-.96v-.9c-.23.36-.5.62-.81.79-.31.17-.67.26-1.08.26-.67,0-1.18-.21-1.53-.63-.35-.42-.52-1.03-.52-1.84h.01ZM547.65,45h0Z"/>
+    <path id="DejaVuSans-72" d="M555.52,46.04c-.11-.06-.23-.11-.35-.14-.13-.03-.27-.05-.42-.05-.54,0-.96.18-1.25.53s-.44.86-.44,1.53v3.09h-.97v-5.86h.97v.91c.2-.36.47-.62.79-.79.32-.17.72-.26,1.18-.26.07,0,.14,0,.22,0,.08,0,.17.02.27.04v.99Z"/>
+    <path id="DejaVuSans-651" d="M561.3,47.83v.47h-4.43c.04.66.24,1.17.6,1.52.36.35.86.52,1.49.52.37,0,.73-.05,1.08-.14s.69-.23,1.03-.41v.91c-.35.15-.7.26-1.06.33s-.73.12-1.1.12c-.94,0-1.68-.27-2.22-.82-.55-.54-.82-1.28-.82-2.21s.26-1.72.78-2.28c.52-.56,1.22-.85,2.1-.85.79,0,1.41.25,1.87.76s.69,1.2.69,2.07h-.01ZM560.34,47.55c0-.53-.15-.95-.44-1.26-.29-.31-.67-.47-1.14-.47-.54,0-.97.15-1.29.46s-.51.73-.56,1.28h3.43Z"/>
+    <path id="DejaVuSans-73" d="M566.61,45.32v.91c-.27-.14-.55-.24-.85-.31-.29-.07-.6-.11-.91-.11-.48,0-.84.07-1.08.22s-.36.37-.36.66c0,.22.09.4.26.53s.51.25,1.03.36l.33.07c.68.15,1.17.35,1.46.62s.43.64.43,1.12c0,.54-.22.98-.65,1.29-.43.32-1.02.48-1.78.48-.31,0-.64-.03-.98-.09-.34-.06-.7-.15-1.08-.27v-.99c.36.19.71.32,1.05.42.34.09.69.14,1.03.14.45,0,.8-.08,1.04-.23.24-.16.37-.37.37-.66,0-.26-.09-.46-.26-.6-.18-.14-.56-.27-1.16-.4l-.33-.08c-.6-.13-1.03-.32-1.29-.58-.26-.26-.4-.62-.4-1.07,0-.55.2-.98.59-1.28s.95-.45,1.66-.45c.35,0,.69.03,1,.08.31.05.6.13.87.23h0Z"/>
+  </g>
+  <g>
+    <path id="DejaVuSans-66" d="M545.01,56.17v.67h-.77c-.29,0-.49.06-.6.18s-.17.33-.17.63v.43h1.33v.63h-1.33v4.29h-.81v-4.29h-.77v-.63h.77v-.34c0-.55.13-.95.38-1.2.26-.25.66-.38,1.21-.38h.77-.01Z"/>
+    <path id="DejaVuSans-6c" d="M545.69,56.17h.81v6.84h-.81v-6.84Z"/>
+    <path id="DejaVuSans-611" d="M550.43,60.54c-.65,0-1.11.07-1.36.22s-.38.4-.38.77c0,.29.09.51.28.68.19.17.45.25.77.25.45,0,.81-.16,1.08-.48s.41-.74.41-1.27v-.18h-.8ZM552.04,60.21v2.81h-.81v-.75c-.18.3-.41.52-.69.66s-.61.21-1.01.21c-.5,0-.9-.14-1.2-.42s-.45-.66-.45-1.14c0-.55.19-.97.56-1.25s.92-.42,1.66-.42h1.14v-.08c0-.37-.12-.66-.37-.86s-.59-.31-1.03-.31c-.28,0-.56.03-.82.1-.27.07-.52.17-.77.3v-.75c.3-.11.58-.2.86-.26.28-.06.55-.09.81-.09.71,0,1.24.18,1.6.55.35.37.53.93.53,1.68v.02Z"/>
+    <path id="DejaVuSans-741" d="M554.51,56.69v1.4h1.67v.63h-1.67v2.67c0,.4.05.66.16.77s.33.17.67.17h.83v.68h-.83c-.62,0-1.06-.12-1.29-.35-.24-.23-.36-.66-.36-1.27v-2.67h-.59v-.63h.59v-1.4h.82Z"/>
+  </g>
+  <g>
+    <path id="DejaVuSans-742" d="M543.06,67.66v1.36h1.62v.61h-1.62v2.6c0,.39.05.64.16.75s.32.17.65.17h.81v.66h-.81c-.61,0-1.03-.11-1.26-.34-.23-.23-.35-.64-.35-1.24v-2.6h-.58v-.61h.58v-1.36h.8Z"/>
+    <path id="DejaVuSans-652" d="M549.81,71.22v.38h-3.62c.03.54.2.95.49,1.24.29.28.7.43,1.22.43.3,0,.59-.04.88-.11s.57-.19.85-.33v.74c-.28.12-.57.21-.87.27s-.6.09-.9.09c-.76,0-1.37-.22-1.82-.67s-.67-1.05-.67-1.81.21-1.41.63-1.86c.42-.46.99-.69,1.71-.69.64,0,1.15.21,1.53.62.37.41.56.98.56,1.69h.01ZM549.03,70.99c0-.43-.13-.77-.36-1.03-.24-.26-.55-.39-.93-.39-.44,0-.79.12-1.05.37s-.42.6-.46,1.05c0,0,2.8,0,2.8,0Z"/>
+    <path id="DejaVuSans-6d" d="M554.83,69.94c.2-.35.43-.61.71-.78s.6-.25.97-.25c.5,0,.88.17,1.15.52s.41.84.41,1.49v2.89h-.79v-2.86c0-.46-.08-.8-.24-1.02-.16-.22-.41-.33-.74-.33-.41,0-.73.14-.97.41-.24.27-.35.64-.35,1.11v2.71h-.79v-2.86c0-.46-.08-.8-.24-1.02s-.41-.33-.75-.33c-.4,0-.72.14-.96.41-.24.27-.35.64-.35,1.11v2.71h-.79v-4.79h.79v.74c.18-.29.39-.51.65-.65s.55-.21.89-.21.64.09.89.27c.24.18.42.43.54.77l-.03-.04Z"/>
+    <path id="DejaVuSans-70" d="M560.39,73.09v2.54h-.79v-6.61h.79v.73c.17-.28.37-.5.63-.63.25-.14.55-.21.9-.21.58,0,1.05.23,1.42.69.36.46.55,1.07.55,1.82s-.18,1.36-.55,1.82c-.36.46-.84.69-1.42.69-.35,0-.65-.07-.9-.21s-.46-.35-.63-.63h0ZM563.07,71.42c0-.58-.12-1.03-.36-1.36s-.57-.49-.98-.49-.74.16-.98.49-.36.78-.36,1.36.12,1.03.36,1.36.57.49.98.49.74-.16.98-.49c.24-.33.36-.78.36-1.36Z"/>
+    <path id="DejaVuSans-6f" d="M567.04,69.58c-.42,0-.75.16-1,.49s-.37.78-.37,1.35.12,1.02.37,1.35c.24.33.58.49,1,.49s.75-.17,1-.5.37-.78.37-1.35-.12-1.02-.37-1.35c-.24-.33-.58-.5-1-.5v.02ZM567.04,68.91c.68,0,1.22.22,1.61.67.39.44.59,1.06.59,1.85s-.2,1.4-.59,1.85-.93.67-1.61.67-1.22-.22-1.61-.67-.58-1.06-.58-1.85.19-1.4.58-1.85.93-.67,1.61-.67Z"/>
+    <path id="DejaVuSans-721" d="M573.32,69.76c-.09-.05-.18-.09-.29-.11-.1-.02-.22-.04-.34-.04-.45,0-.79.14-1.02.43s-.36.7-.36,1.25v2.52h-.79v-4.79h.79v.74c.17-.29.38-.51.65-.65s.59-.21.97-.21c.05,0,.11,0,.18.01.07,0,.14.02.22.03v.81h0Z"/>
+    <path id="DejaVuSans-612" d="M576.32,71.41c-.64,0-1.08.07-1.32.22s-.37.39-.37.74c0,.28.09.5.28.66.18.16.43.24.75.24.44,0,.79-.15,1.05-.46s.4-.72.4-1.23v-.18h-.79ZM577.89,71.08v2.73h-.79v-.73c-.18.29-.4.5-.67.64-.27.14-.6.21-.98.21-.49,0-.88-.14-1.17-.41-.29-.28-.43-.64-.43-1.11,0-.54.18-.94.54-1.22.36-.27.9-.41,1.61-.41h1.1v-.08c0-.36-.12-.64-.36-.84s-.57-.3-1-.3c-.27,0-.54.03-.8.1s-.51.16-.75.3v-.73c.29-.11.57-.19.84-.25s.53-.08.79-.08c.69,0,1.21.18,1.55.54.34.36.51.9.51,1.63h0Z"/>
+    <path id="DejaVuSans-6c1" d="M579.51,67.16h.79v6.65h-.79v-6.65Z"/>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st22" transform="translate(48.69 298.19)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st22" transform="translate(37.18 248.66)"><tspan x="0" y="0">0.2</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st22" transform="translate(36.86 197.25)"><tspan x="0" y="0">0.4</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st22" transform="translate(37.45 145.48)"><tspan x="0" y="0">0.6</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st22" transform="translate(38.04 96.86)"><tspan x="0" y="0">0.8</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st22" transform="translate(37.63 47.29)"><tspan x="0" y="0">1.0</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st21" transform="translate(21.93 218.82) rotate(-90)"><tspan x="0" y="0">Test Accuracy</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st19" transform="translate(94.57 327.79) rotate(-30)"><tspan x="0" y="0">Logistic</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st19" transform="translate(172.54 341.34) rotate(-30)"><tspan x="0" y="0">Linear SVM</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st19" transform="translate(272.97 322.46) rotate(-30)"><tspan x="0" y="0">Ridge</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st19" transform="translate(361.78 322.46) rotate(-30)"><tspan x="0" y="0">SVM</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st19" transform="translate(450.84 322.46) rotate(-30)"><tspan x="0" y="0">MLP</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st21" transform="translate(238.76 355.52)"><tspan x="0" y="0">Model Type</tspan></text>
+    </g>
+  </g>
+  <g class="st20">
+    <g class="st20">
+      <text class="st21" transform="translate(217.55 30.44)"><tspan x="0" y="0">Split: Random Trials</tspan></text>
+    </g>
+  </g>
+  <g id="patch_181">
+    <path class="st15" d="M522.61,62.41h15.26v-5.12h-15.26v5.12Z"/>
+  </g>
+  <g id="patch_1811" data-name="patch_181" class="st17">
+    <path class="st11" d="M522.68,74.3h15.26v-5.12h-15.26v5.12Z"/>
+  </g>
+</svg>

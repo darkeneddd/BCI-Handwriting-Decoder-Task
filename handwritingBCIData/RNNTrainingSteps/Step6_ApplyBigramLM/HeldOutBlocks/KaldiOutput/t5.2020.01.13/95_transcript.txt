@@ -1,0 +1,10 @@
+95-1  z o o <space> a n i m a l 
+95-2 , <space> z o o <space> a n i m a l 
+95-3  z o o <space> a n i m a l . 
+95-4  z o o <space> a n i m a l s 
+95-5  z o o <space> a n d <space> m a l 
+95-6  z o o <space> a n i m a l ? 
+95-7 , <space> z o o <space> a n i m a l . 
+95-8 , <space> z o o <space> a n i m a l s 
+95-9 , <space> z o o <space> a n d <space> m a l 
+95-10 , <space> z o o <space> a n i m a l ? 

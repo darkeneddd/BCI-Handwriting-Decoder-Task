@@ -1,0 +1,12 @@
+57-1  l i v e <space> i n <space> n e w <space> y o r k . 
+57-2  l i v e <space> i n <space> n e w <space> y o r k ? 
+57-3  l i v e <space> i n <space> n e w <space> y o r k 
+57-4 , <space> l i v e <space> i n <space> n e w <space> y o r k . 
+57-5 , <space> l i v e <space> i n <space> n e w <space> y o r k ? 
+57-6 , <space> l i v e <space> i n <space> n e w <space> y o r k 
+57-7 ' <space> l i v e <space> i n <space> n e w <space> y o r k . 
+57-8  a l i v e <space> i n <space> n e w <space> y o r k . 
+57-9 ' <space> l i v e <space> i n <space> n e w <space> y o r k ? 
+57-10  a l i v e <space> i n <space> n e w <space> y o r k ? 
+57-11 ' <space> l i v e <space> i n <space> n e w <space> y o r k 
+57-12  a l i v e <space> i n <space> n e w <space> y o r k 

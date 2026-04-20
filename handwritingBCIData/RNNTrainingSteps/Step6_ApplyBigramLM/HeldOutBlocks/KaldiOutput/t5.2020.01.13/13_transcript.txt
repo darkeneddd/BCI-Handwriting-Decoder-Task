@@ -1,0 +1,7 @@
+13-1  s u r p r i s e <space> m e 
+13-2 , <space> s u r p r i s e <space> m e 
+13-3 ' <space> s u r p r i s e <space> m e 
+13-4  s u r p r i s e <space> m e . 
+13-5  s u r p r i s e s <space> m e 
+13-6 , <space> s u r p r i s e <space> m e . 
+13-7 ' <space> s u r p r i s e <space> m e . 

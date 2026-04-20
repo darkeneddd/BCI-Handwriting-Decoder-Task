@@ -1,0 +1,135 @@
+# ─── Paths ───────────────────────────────────────────────────────────────────
+dataset_root: /Users/yang/Desktop/py/3803/handwritingBCIData/Datasets
+
+processed_dir: processed
+metadata_dir:  metadata
+results_dir:   results
+figures_dir:   results/figures
+tables_dir:    results/tables
+models_dir:    results/models
+reports_dir:   results/reports
+
+# ─── Dataset ──────────────────────────────────────────────────────────────────
+# Sessions that contain singleLetters.mat
+sessions:
+  - t5.2019.05.08
+  - t5.2019.11.25
+  - t5.2019.12.09
+  - t5.2019.12.11
+  - t5.2019.12.18
+  - t5.2019.12.20
+  - t5.2020.01.06
+  - t5.2020.01.08
+  - t5.2020.01.13
+  - t5.2020.01.15
+
+# All 31 character classes present in the dataset
+characters:
+  - a
+  - b
+  - c
+  - d
+  - e
+  - f
+  - g
+  - h
+  - i
+  - j
+  - k
+  - l
+  - m
+  - n
+  - o
+  - p
+  - q
+  - r
+  - s
+  - t
+  - u
+  - v
+  - w
+  - x
+  - y
+  - z
+  - greaterThan
+  - comma
+  - apostrophe
+  - tilde
+  - questionMark
+
+# ─── Preprocessing (notebook-matching) ────────────────────────────────────────
+# Raw cube shape per trial: (n_reps, T_raw, C)
+T_raw: 201          # raw time bins in the pre-cut cube
+n_channels: 192     # expected number of neural channels
+
+# Gaussian smoothing parameters
+sigma_ms: 20.0      # smoothing kernel in milliseconds
+dt_ms: 10.0         # assumed bin duration in ms (10 ms bins)
+# sigma_bins = sigma_ms / dt_ms = 2.0
+
+# Movement-window extraction (relative to trial start of pre-cut cube)
+# bin 51 = go-cue aligned movement onset reference
+# window [51, 151) => 100 bins = 1000 ms of movement activity
+go_bin: 51
+move_win_start: 51
+move_win_end: 151
+T_fixed: 100        # time bins after window extraction
+
+# Epsilon for safe division during normalization
+norm_epsilon: 1.0e-8
+
+# ─── Splits ───────────────────────────────────────────────────────────────────
+random_seed: 42
+
+# block_aware | random_trial
+split_strategy: block_aware
+
+# Fraction of blocks (per session) held out for test and validation
+block_test_frac: 0.25
+block_val_frac:  0.25
+
+# ─── Feature extraction ───────────────────────────────────────────────────────
+# Temporal windows for "temporal" features (bins within [0, T_fixed=100))
+temporal_windows:
+  early:  [0,  33]
+  middle: [33, 66]
+  late:   [66, 100]
+
+# ─── Linear models ────────────────────────────────────────────────────────────
+linear_models:
+  LogisticRegression:
+    C: [0.01, 0.1, 1.0, 10.0]
+    max_iter: 2000
+    solver: lbfgs
+  LinearSVC:
+    C: [0.01, 0.1, 1.0, 10.0]
+    max_iter: 3000
+  RidgeClassifier:
+    alpha: [0.1, 1.0, 10.0]
+
+# ─── Non-linear models ────────────────────────────────────────────────────────
+svc_rbf_models:
+  C: [0.1, 1.0, 10.0, 100.0]
+  gamma: [scale, auto]
+
+mlp_models:
+  hidden_layer_sizes:
+    - [128]
+    - [256]
+    - [256, 128]
+  alpha: [0.0001, 0.001, 0.01]
+  learning_rate_init: [0.0001, 0.001]
+  max_iter: 500
+  early_stopping: true
+  validation_fraction: 0.1
+  n_iter_no_change: 15
+
+# ─── PCA experiments ──────────────────────────────────────────────────────────
+# Components to sweep for Q3 (flat_pca classification)
+pca_components: [20, 50, 100, 200]
+
+# Components for trajectory visualization (PCA-B)
+pca_trajectory_components: 3
+
+# Characters highlighted in trajectory plots
+highlight_chars: [a, b, e, t, m, o, s, r]

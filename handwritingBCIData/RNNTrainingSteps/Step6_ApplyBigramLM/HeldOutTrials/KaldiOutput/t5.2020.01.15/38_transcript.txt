@@ -1,0 +1,15 @@
+38-1  l e a v e <space> h e r <space> a l o n e . 
+38-2 , <space> l e a v e <space> h e r <space> a l o n e . 
+38-3  l e a v e <space> h e r <space> a l o n e 
+38-4  l e a v e <space> h e r e <space> a l o n e . 
+38-5 ' <space> l e a v e <space> h e r <space> a l o n e . 
+38-6 , <space> l e a v e <space> h e r <space> a l o n e 
+38-7  l e a v e <space> h e r <space> a l o n g . 
+38-8 , <space> l e a v e <space> h e r e <space> a l o n e . 
+38-9  l e a v e <space> h e r e <space> a l o n e 
+38-10 ' <space> l e a v e <space> h e r <space> a l o n e 
+38-11 , <space> l e a v e <space> h e r <space> a l o n g . 
+38-12 ' <space> l e a v e <space> h e r e <space> a l o n e . 
+38-13 , <space> l e a v e <space> h e r e <space> a l o n e 
+38-14 ' <space> l e a v e <space> h e r <space> a l o n g . 
+38-15 ' <space> l e a v e <space> h e r e <space> a l o n e 

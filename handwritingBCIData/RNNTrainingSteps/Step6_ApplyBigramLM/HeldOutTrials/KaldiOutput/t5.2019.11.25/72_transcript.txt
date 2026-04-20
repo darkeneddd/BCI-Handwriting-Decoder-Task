@@ -1,0 +1,128 @@
+72-1 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-2  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-3 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-4  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-5 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-6  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-7 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-8  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-9 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e <space> w 
+72-10  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e <space> w 
+72-11 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e <space> w 
+72-12  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e <space> w 
+72-13 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e 
+72-14  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e 
+72-15 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e <space> w 
+72-16 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-17 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e <space> w 
+72-18  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e <space> w 
+72-19  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-20 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e <space> w 
+72-21  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e <space> w 
+72-22  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e <space> w 
+72-23 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e 
+72-24  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e 
+72-25 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-26 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e e 
+72-27 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-28  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e e 
+72-29 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> h e 
+72-30  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-31  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> h e 
+72-32 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> t h e 
+72-33 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-34  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> t h e 
+72-35 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e 
+72-36  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-37  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e 
+72-38 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-39 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> e e 
+72-40 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> s e e 
+72-41  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> e e 
+72-42 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> t h e <space> w 
+72-43  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> s e e 
+72-44  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> t h e <space> w 
+72-45 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> o n e 
+72-46 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> l e e 
+72-47 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-48  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> o n e 
+72-49  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> l e e 
+72-50 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> e e <space> w 
+72-51  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> e e <space> w 
+72-52 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-53 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e 
+72-54 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e e 
+72-55  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-56 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e e 
+72-57  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e 
+72-58  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e e 
+72-59  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e e 
+72-60 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e r e 
+72-61  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e r e 
+72-62 , <space> b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-63 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e e <space> w 
+72-64 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e e <space> w 
+72-65  b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-66  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e e <space> w 
+72-67  b u t t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-68  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e e <space> w 
+72-69 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-70 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> s h e 
+72-71  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> s h e 
+72-72 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e <space> w 
+72-73  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e <space> w 
+72-74 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> s e e <space> w 
+72-75 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e <space> w 
+72-76  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> s e e <space> w 
+72-77 , <space> b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-78 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e w 
+72-79 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> h e <space> w 
+72-80  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e <space> w 
+72-81  b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-82  b u t t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e 
+72-83  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e w 
+72-84  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> h e <space> w 
+72-85 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e 
+72-86 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e <space> w w 
+72-87 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> e e 
+72-88  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e 
+72-89 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e e 
+72-90  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e <space> w w 
+72-91  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> e e 
+72-92  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e e 
+72-93 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> l e e <space> w 
+72-94 , <space> b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-95 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e <space> w 
+72-96  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> l e e <space> w 
+72-97  b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-98  b u t t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e 
+72-99 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e <space> w 
+72-100 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> e e <space> w 
+72-101 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e <space> w 
+72-102  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e <space> w 
+72-103 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e e <space> w 
+72-104 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> h e <space> w 
+72-105 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e <space> w 
+72-106  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> e e <space> w 
+72-107  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e <space> w 
+72-108  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e e <space> w 
+72-109 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e e <space> w 
+72-110  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e <space> w 
+72-111 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e 
+72-112  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e e <space> w 
+72-113 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e 
+72-114  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e 
+72-115 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> e e <space> w 
+72-116 ' <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e <space> w 
+72-117 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e e 
+72-118 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> n e <space> w 
+72-119 , <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e <space> w 
+72-120  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e e 
+72-121 , <space> b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-122 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e <space> w 
+72-123 , <space> b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> h e 
+72-124  b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> h e <space> w 
+72-125  b u t <space> t h e n <space> t h e <space> n o o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-126  b u t t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , <space> n e e 
+72-127  b u t <space> t h e n <space> t h e <space> n o s e <space> b e c a m e <space> s o <space> u n b e a r a b l e , , <space> h e 
+72-128 ' <space> b u t <space> t h e n <space> t h e <space> n o i s e <space> b e c a m e <space> s o <space> u n b e a r a b l e <space> n e 

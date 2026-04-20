@@ -1,0 +1,9 @@
+54-1  s m a l l <space> s u i t c a s e . 
+54-2 , <space> s m a l l <space> s u i t c a s e . 
+54-3  s m a l l <space> s u i t c a s e s . 
+54-4 ' <space> s m a l l <space> s u i t c a s e . 
+54-5  s m a l l <space> s u i t c a s e 
+54-6 , <space> s m a l l <space> s u i t c a s e s . 
+54-7 , <space> s m a l l <space> s u i t c a s e 
+54-8 ' <space> s m a l l <space> s u i t c a s e s . 
+54-9 ' <space> s m a l l <space> s u i t c a s e 

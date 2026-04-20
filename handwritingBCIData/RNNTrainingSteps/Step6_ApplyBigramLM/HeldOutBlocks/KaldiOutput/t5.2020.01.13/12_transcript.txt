@@ -1,0 +1,49 @@
+12-1  l o n g <space> j o u r n e y 
+12-2 , <space> o g g <space> j o u r n e y 
+12-3 , <space> l o n g <space> j o u r n e y 
+12-4  a <space> l o n g <space> j o u r n e y 
+12-5  l o n g <space> j o u r n e y . 
+12-6 , <space> o g g <space> j o u r n e y . 
+12-7 ' <space> l o n g <space> j o u r n e y 
+12-8 , <space> o g <space> j o u r n e y 
+12-9 , <space> o g g <space> j o a n n e . 
+12-10  l o g <space> j o u r n e y 
+12-11 ' <space> o g g <space> j o u r n e y 
+12-12 ' s <space> l o n g <space> j o u r n e y 
+12-13 , <space> l o n g <space> j o u r n e y . 
+12-14  t r o g g <space> j o u r n e y 
+12-15 , <space> l o g <space> j o u r n e y 
+12-16  t <space> o g g <space> j o u r n e y 
+12-17 , <space> m o g g <space> j o u r n e y 
+12-18 , <space> h o g g <space> j o u r n e y 
+12-19  d o g g <space> j o u r n e y 
+12-20 , <space> o n g <space> j o u r n e y 
+12-21 , , <space> o g g <space> j o u r n e y 
+12-22  h o g g <space> j o u r n e y 
+12-23 , <space> o g g <space> j o a n n e 
+12-24  a <space> l o n g <space> j o u r n e y . 
+12-25 ' s <space> o g g <space> j o u r n e y 
+12-26  m <space> l o n g <space> j o u r n e y 
+12-27  a <space> o g g <space> j o u r n e y 
+12-28 ' m <space> o g g <space> j o u r n e y 
+12-29 ' <space> l o n g <space> j o u r n e y . 
+12-30 ' <space> o g g <space> j o u r n e y . 
+12-31 ' s <space> l o n g <space> j o u r n e y . 
+12-32 ' <space> o g g <space> j o a n n e . 
+12-33  t <space> o g g <space> j o u r n e y . 
+12-34  t <space> o g g <space> j o a n n e . 
+12-35 , , <space> o g g <space> j o u r n e y . 
+12-36 ' s <space> o g g <space> j o u r n e y . 
+12-37  m <space> l o n g <space> j o u r n e y . 
+12-38  a <space> o g g <space> j o u r n e y . 
+12-39 ' m <space> o g g <space> j o u r n e y . 
+12-40 , , <space> o g g <space> j o a n n e . 
+12-41 ' s <space> o g g <space> j o a n n e . 
+12-42  a <space> o g g <space> j o a n n e . 
+12-43 ' m <space> o g g <space> j o a n n e . 
+12-44 ' <space> o g g <space> j o a n n e 
+12-45  t <space> o g g <space> j o a n n e 
+12-46 , , <space> o g g <space> j o a n n e 
+12-47 ' s <space> o g g <space> j o a n n e 
+12-48  a <space> o g g <space> j o a n n e 
+12-49 ' m <space> o g g <space> j o a n n e 

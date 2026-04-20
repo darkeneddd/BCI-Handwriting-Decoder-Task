@@ -1,0 +1,10 @@
+43-1  b o b <space> s a y s 
+43-2 , <space> b o b <space> s a y s 
+43-3 ' <space> b o b <space> s a y s 
+43-4  b o b <space> s a y s . 
+43-5  b o o b <space> s a y s 
+43-6 , <space> b o o b <space> s a y s 
+43-7 , <space> b o b <space> s a y s . 
+43-8 ' <space> b o b <space> s a y s . 
+43-9  b o o b <space> s a y s . 
+43-10 , <space> b o o b <space> s a y s . 

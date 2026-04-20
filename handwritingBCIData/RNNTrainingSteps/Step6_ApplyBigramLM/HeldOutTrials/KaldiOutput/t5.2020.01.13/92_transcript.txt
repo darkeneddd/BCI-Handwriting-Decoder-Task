@@ -1,0 +1,24 @@
+92-1  h e <space> a l w a y s . 
+92-2 , <space> h e <space> a l w a y s . 
+92-3  h e <space> a l w a y s 
+92-4  s h e <space> a l w a y s . 
+92-5  t h e <space> a l w a y s . 
+92-6 ' r e <space> a l w a y s . 
+92-7 , <space> h e <space> a l w a y s 
+92-8 ' <space> h e <space> a l w a y s . 
+92-9  o n e <space> a l w a y s . 
+92-10  h e <space> a l w a y s ? 
+92-11  a r e <space> a l w a y s . 
+92-12  s h e <space> a l w a y s 
+92-13  t h e <space> a l w a y s 
+92-14 ' r e <space> a l w a y s 
+92-15 ' <space> h e <space> a l w a y s 
+92-16  o n e <space> a l w a y s 
+92-17 , <space> h e <space> a l w a y s ? 
+92-18  a r e <space> a l w a y s 
+92-19  s h e <space> a l w a y s ? 
+92-20  t h e <space> a l w a y s ? 
+92-21 ' r e <space> a l w a y s ? 
+92-22 ' <space> h e <space> a l w a y s ? 
+92-23  o n e <space> a l w a y s ? 
+92-24  a r e <space> a l w a y s ? 

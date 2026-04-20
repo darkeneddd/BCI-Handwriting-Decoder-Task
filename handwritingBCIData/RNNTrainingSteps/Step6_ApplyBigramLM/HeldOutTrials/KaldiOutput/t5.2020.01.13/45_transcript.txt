@@ -1,0 +1,15 @@
+45-1  l o n g <space> d i s t a n c e <space> c a l l . 
+45-2  l o n g <space> d i s t a n c e <space> c a l l 
+45-3  l o n g <space> d i s t a n c e <space> c a l . 
+45-4 , <space> l o n g <space> d i s t a n c e <space> c a l l . 
+45-5  l o n g <space> d i s t a n c e <space> c a l l ? 
+45-6 , <space> l o n g <space> d i s t a n c e <space> c a l l 
+45-7 , <space> l o n g <space> d i s t a n c e <space> c a l . 
+45-8 ' <space> l o n g <space> d i s t a n c e <space> c a l l . 
+45-9  l o n g <space> d i s t a n c e <space> c o a l . 
+45-10 ' <space> l o n g <space> d i s t a n c e <space> c a l l 
+45-11 , <space> l o n g <space> d i s t a n c e <space> c a l l ? 
+45-12 ' <space> l o n g <space> d i s t a n c e <space> c a l . 
+45-13 ' <space> l o n g <space> d i s t a n c e <space> c a l l ? 
+45-14 , <space> l o n g <space> d i s t a n c e <space> c o a l . 
+45-15 ' <space> l o n g <space> d i s t a n c e <space> c o a l . 

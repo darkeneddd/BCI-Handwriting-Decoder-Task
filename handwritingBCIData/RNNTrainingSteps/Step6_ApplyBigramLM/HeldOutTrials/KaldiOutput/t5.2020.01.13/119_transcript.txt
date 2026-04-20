@@ -1,0 +1,11 @@
+119-1  i ' m <space> m a r r i e d . 
+119-2  i ' m <space> m a r r i e d 
+119-3 , <space> i ' m <space> m a r r i e d . 
+119-4 , <space> i ' m <space> m a r r i e d 
+119-5  i ' m <space> m a r r i e d ? 
+119-6  i <space> a m <space> m a r r i e d . 
+119-7  i <space> a m <space> m a r r i e d 
+119-8 ' <space> i ' m <space> m a r r i e d . 
+119-9 ' <space> i ' m <space> m a r r i e d 
+119-10 , <space> i ' m <space> m a r r i e d ? 
+119-11 ' <space> i ' m <space> m a r r i e d ? 

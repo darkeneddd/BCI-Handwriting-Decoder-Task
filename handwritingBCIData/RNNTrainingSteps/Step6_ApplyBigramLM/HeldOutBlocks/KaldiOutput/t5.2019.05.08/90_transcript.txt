@@ -1,0 +1,56 @@
+90-1  w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-2 , <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-3  w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-4  w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-5  w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-6  w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-7  w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-8 ' <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-9 , <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-10  w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-11  w h e a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-12 , <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-13 , <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-14 , <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-15 , <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-16  w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-17  w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-18  w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-19 , <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-20 ' <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-21  w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-22  w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-23  w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-24  w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-25  w h e a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-26 ' <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-27 ' <space> w h a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-28  w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-29 ' <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-30  w h e a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-31 , <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-32  w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-33 ' <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-34  w h e a t <space> r e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-35 , <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-36 , <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-37  w h e a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-38 , <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-39 , <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-40 ' <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? 
+90-41 , <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-42 , <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-43 , <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-44 , <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-45 ' <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-46 ' <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-47 ' <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-48  w h e a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-49 ' <space> w h a t <space> e v e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-50 ' <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-51 ' <space> w h a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-52 ' <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g ? ? 
+90-53  w h e a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-54  w h e a t <space> r e n t <space> d o o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 
+90-55 ' <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g 
+90-56 ' <space> w h a t <space> r e c e n t <space> d o <space> y o u <space> p a y <space> f o r <space> y o u r <space> h o u s i n g . 

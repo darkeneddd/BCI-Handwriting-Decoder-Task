@@ -1,0 +1,8 @@
+83-1  n o t <space> s u r e 
+83-2 , <space> n o t <space> s u r e 
+83-3  n o t <space> s u r e . 
+83-4 , <space> n o t <space> s u r e . 
+83-5 ' <space> n o t <space> s u r e 
+83-6 ' m <space> n o t <space> s u r e 
+83-7 ' <space> n o t <space> s u r e . 
+83-8 ' m <space> n o t <space> s u r e . 

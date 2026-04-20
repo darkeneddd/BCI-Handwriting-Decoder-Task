@@ -1,0 +1,42 @@
+6-1  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e <space> j u d g e . 
+6-2  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e <space> j u d g e . 
+6-3  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e e <space> j u d g e . 
+6-4  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h r e e <space> j u d g e . 
+6-5 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e <space> j u d g e . 
+6-6 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e <space> j u d g e . 
+6-7 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e e <space> j u d g e . 
+6-8  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t r e e <space> j u d g e . 
+6-9 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h r e e <space> j u d g e . 
+6-10 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e <space> j u d g e . 
+6-11  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e n <space> j u d g e . 
+6-12 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e <space> j u d g e . 
+6-13  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e <space> j u d g e . 
+6-14  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e s e <space> j u d g e . 
+6-15  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e <space> j u d g e . 
+6-16 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e e <space> j u d g e . 
+6-17  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e e <space> j u d g e . 
+6-18 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t r e e <space> j u d g e . 
+6-19 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h r e e <space> j u d g e . 
+6-20  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h r e e <space> j u d g e . 
+6-21 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e n <space> j u d g e . 
+6-22 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e <space> j u d g e . 
+6-23 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e s e <space> j u d g e . 
+6-24 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e <space> j u d g e . 
+6-25 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e e <space> j u d g e . 
+6-26 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t r e e <space> j u d g e . 
+6-27  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t r e e <space> j u d g e . 
+6-28 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h r e e <space> j u d g e . 
+6-29 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e n <space> j u d g e . 
+6-30 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e <space> j u d g e . 
+6-31 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e s e <space> j u d g e . 
+6-32  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e n <space> j u d g e . 
+6-33 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e <space> j u d g e . 
+6-34  a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e s e <space> j u d g e . 
+6-35 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e e <space> j u d g e . 
+6-36 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t r e e <space> j u d g e . 
+6-37 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h r e e <space> j u d g e . 
+6-38 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e n <space> j u d g e . 
+6-39 , <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e s e <space> j u d g e . 
+6-40 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t r e e <space> j u d g e . 
+6-41 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t e e n <space> j u d g e . 
+6-42 ' <space> a l l <space> q u e s t i o n s <space> a s k e d <space> b y <space> t h e e <space> f i v e <space> w a t c h <space> e x p e r t s <space> a m a z e d <space> t h e s e <space> j u d g e . 

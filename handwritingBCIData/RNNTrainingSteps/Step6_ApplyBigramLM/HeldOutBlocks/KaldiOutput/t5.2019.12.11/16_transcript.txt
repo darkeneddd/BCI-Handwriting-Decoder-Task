@@ -1,0 +1,6 @@
+16-1  f i n a n c i a l <space> c o n t r o l <space> m a y <space> h a v e <space> b e e n <space> a <space> v i t a l <space> w e a p o n . 
+16-2 , <space> f i n a n c i a l <space> c o n t r o l <space> m a y <space> h a v e <space> b e e n <space> a <space> v i t a l <space> w e a p o n . 
+16-3 ' <space> f i n a n c i a l <space> c o n t r o l <space> m a y <space> h a v e <space> b e e n <space> a <space> v i t a l <space> w e a p o n . 
+16-4  f i n a n c i a l <space> c o n t r o l <space> m a y <space> h a v e <space> b e e n <space> v i t a l <space> w e a p o n . 
+16-5 , <space> f i n a n c i a l <space> c o n t r o l <space> m a y <space> h a v e <space> b e e n <space> v i t a l <space> w e a p o n . 
+16-6 ' <space> f i n a n c i a l <space> c o n t r o l <space> m a y <space> h a v e <space> b e e n <space> v i t a l <space> w e a p o n . 

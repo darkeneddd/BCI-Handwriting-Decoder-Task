@@ -1,0 +1,18 @@
+4-1 , <space> w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r 
+4-2  w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r 
+4-3 , <space> w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r 
+4-4  w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r 
+4-5 , <space> w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r ? 
+4-6  w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r ? 
+4-7 , <space> w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r . 
+4-8  w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r . 
+4-9 ' <space> w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r 
+4-10 , <space> w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r ? 
+4-11  w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r ? 
+4-12 , <space> w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r . 
+4-13  w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r . 
+4-14 ' <space> w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r 
+4-15 ' <space> w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r ? 
+4-16 ' <space> w h i c h <space> o f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r . 
+4-17 ' <space> w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r ? 
+4-18 ' <space> w h i c h <space> o f f <space> t h e <space> f o l l o w i n g <space> d o e s <space> n o t <space> p o l l u t e <space> i n d o o r <space> a i r . 

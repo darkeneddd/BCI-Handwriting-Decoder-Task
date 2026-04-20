@@ -1,0 +1,6 @@
+120-1  s h e <space> r a n <space> u p s t a i r s , <space> b u s i l y <space> c h e w i n g <space> t o a s t . 
+120-2 , <space> s h e <space> r a n <space> u p s t a i r s , <space> b u s i l y <space> c h e w i n g <space> t o a s t . 
+120-3  s h e <space> r a n <space> u p s t a i r s , , <space> b u s i l y <space> c h e w i n g <space> t o a s t . 
+120-4 ' <space> s h e <space> r a n <space> u p s t a i r s , <space> b u s i l y <space> c h e w i n g <space> t o a s t . 
+120-5 , <space> s h e <space> r a n <space> u p s t a i r s , , <space> b u s i l y <space> c h e w i n g <space> t o a s t . 
+120-6 ' <space> s h e <space> r a n <space> u p s t a i r s , , <space> b u s i l y <space> c h e w i n g <space> t o a s t . 

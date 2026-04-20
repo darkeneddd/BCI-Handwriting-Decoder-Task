@@ -1,0 +1,24 @@
+41-1  i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-2 , <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-3  i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-4  i i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-5  i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-6 ' <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-7  i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r . 
+41-8  i t <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r . 
+41-9 , <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-10 , <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r . 
+41-11  i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-12  i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r . 
+41-13  i i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-14 ' <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-15  i i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r . 
+41-16  i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-17  i t <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-18 ' <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r . 
+41-19  i t <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r . 
+41-20 , <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-21  i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-22  i i i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-23 ' <space> i <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r r . 
+41-24  i t <space> w a s <space> k e e p i n g <space> i t <space> f o r <space> a <space> c l e a n i n g <space> t h e <space> c a r r . 

@@ -1,0 +1,15 @@
+58-1  s o <space> c h i l d i s h . 
+58-2  s o <space> c h i l d i s h ? 
+58-3 , <space> s o <space> c h i l d i s h . 
+58-4  s o <space> c h i l d i s h 
+58-5 , <space> s o <space> c h i l d i s h ? 
+58-6 , <space> s o <space> c h i l d i s h 
+58-7  s o o <space> c h i l d i s h . 
+58-8 ' <space> s o <space> c h i l d i s h . 
+58-9  s o o <space> c h i l d i s h ? 
+58-10 ' <space> s o <space> c h i l d i s h ? 
+58-11  s o o <space> c h i l d i s h 
+58-12 ' <space> s o <space> c h i l d i s h 
+58-13  i s o <space> c h i l d i s h . 
+58-14  i s o <space> c h i l d i s h ? 
+58-15  i s o <space> c h i l d i s h 

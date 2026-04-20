@@ -1,0 +1,48 @@
+45-1  m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-2 , <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-3  m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-4  m a n n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-5  m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-6  m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-7 , <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-8 ' <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-9  m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-10 , <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-11  m a n n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-12 , <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-13  m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-14  m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-15 , <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-16 ' <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-17  m a n n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-18  m a n n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-19  m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-20 , <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-21  m a n n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-22 ' <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-23 , <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-24  m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-25 ' <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-26  m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-27 ' <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-28  m a n n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-29 , <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-30  m a n n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-31  m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-32 , <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-33 ' <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-34 , <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-35 ' <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-36  m a n n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-37  m a n n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-38 , <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-39  m a n n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-40 ' <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . 
+45-41  m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-42 ' <space> m a n y <space> g i v e <space> u p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-43 ' <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-44  m a n n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-45 , <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-46 ' <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f <space> t h i s . . 
+45-47  m a n n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 
+45-48 ' <space> m a n y <space> g i v e <space> p p <space> f l y i n g <space> a l l <space> t o g e t h e r <space> b e c a u s e <space> o f f <space> t h i s . 

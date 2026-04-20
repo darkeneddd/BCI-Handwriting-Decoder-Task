@@ -1,0 +1,6 @@
+44-1  f o o t b a l l 
+44-2  f o o t b a l l . 
+44-3  f o o t b a l l ? 
+44-4 , <space> f o o t b a l l 
+44-5 ' <space> f o o t b a l l 
+44-6 , <space> f o o t b a l l . 

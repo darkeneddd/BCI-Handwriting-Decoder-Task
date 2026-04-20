@@ -1,0 +1,6 @@
+42-1  g r e a t <space> s u i t 
+42-2 , <space> g r e a t <space> s u i t 
+42-3  g r e a t <space> s u i t . 
+42-4 ' <space> g r e a t <space> s u i t 
+42-5 , <space> g r e a t <space> s u i t . 
+42-6 ' <space> g r e a t <space> s u i t . 

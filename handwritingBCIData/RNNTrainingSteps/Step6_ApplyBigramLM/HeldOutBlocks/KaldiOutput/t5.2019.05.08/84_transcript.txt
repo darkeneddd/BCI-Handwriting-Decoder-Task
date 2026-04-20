@@ -1,0 +1,24 @@
+84-1  t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-2 , <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-3  t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-4  t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-5  t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-6 ' <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-7  t h u s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-8 , <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-9 , <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-10  t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-11 , <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-12 ' <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-13  t h u s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-14  t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-15 ' <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-16  t h u s <space> w a s <space> c a p t u r e d <space> b y <space> t h e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-17 , <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-18 ' <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-19  t h u s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-20 , <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-21 ' <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-22  t h u s <space> w a s <space> c a p t u r e d <space> b y <space> t h e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-23 ' <space> t h i s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 
+84-24  t h u s <space> w a s <space> c a p t u r e d <space> b y <space> t e e <space> i c o n <space> o f f <space> a <space> c i t y <space> u p o n <space> a <space> h i l l . 

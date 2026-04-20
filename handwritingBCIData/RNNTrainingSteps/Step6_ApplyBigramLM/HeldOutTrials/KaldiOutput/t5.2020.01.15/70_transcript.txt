@@ -1,0 +1,6 @@
+70-1  c a n <space> s o m e b o d y <space> p a s s <space> m e <space> a <space> t o w e l <space> p l e a s e ? 
+70-2  c a n <space> s o m e b o d y <space> p a s s <space> m e <space> a <space> t o w e l <space> p l e a s e ? ? 
+70-3 , <space> c a n <space> s o m e b o d y <space> p a s s <space> m e <space> a <space> t o w e l <space> p l e a s e ? 
+70-4  c a n <space> s o m e b o d y <space> p a s s <space> m e <space> a <space> t o w e l <space> p l e a s e . 
+70-5 , <space> c a n <space> s o m e b o d y <space> p a s s <space> m e <space> a <space> t o w e l <space> p l e a s e ? ? 
+70-6 , <space> c a n <space> s o m e b o d y <space> p a s s <space> m e <space> a <space> t o w e l <space> p l e a s e . 

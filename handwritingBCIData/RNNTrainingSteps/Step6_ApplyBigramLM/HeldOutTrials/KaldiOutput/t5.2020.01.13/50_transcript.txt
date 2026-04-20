@@ -1,0 +1,6 @@
+50-1  f a r <space> a w a y 
+50-2  f a r <space> a w a y . 
+50-3 , <space> f a r <space> a w a y 
+50-4  f a n <space> a w a y 
+50-5 , <space> f a r <space> a w a y . 
+50-6  f a n <space> a w a y . 

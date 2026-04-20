@@ -1,0 +1,9 @@
+72-1  t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-2 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-3  t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-4 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . 
+72-5  t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . . . 
+72-6 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-7 , <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . . . 
+72-8 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t t . 
+72-9 ' <space> t h e <space> r u b y <space> i n <space> h e r <space> b e l l y <space> b u t t o n <space> s t a y e d <space> p u t . . . 

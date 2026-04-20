@@ -1,0 +1,10 @@
+80-1  h e <space> f e l l <space> b e h i n d 
+80-2 , <space> h e <space> f e l l <space> b e h i n d 
+80-3  s h e <space> f e l l <space> b e h i n d 
+80-4 ' <space> h e <space> f e l l <space> b e h i n d 
+80-5  h e <space> f e l l <space> b e h i n d . 
+80-6  t h e <space> f e l l <space> b e h i n d 
+80-7 , <space> h e <space> f e l l <space> b e h i n d . 
+80-8  s h e <space> f e l l <space> b e h i n d . 
+80-9 ' <space> h e <space> f e l l <space> b e h i n d . 
+80-10  t h e <space> f e l l <space> b e h i n d . 

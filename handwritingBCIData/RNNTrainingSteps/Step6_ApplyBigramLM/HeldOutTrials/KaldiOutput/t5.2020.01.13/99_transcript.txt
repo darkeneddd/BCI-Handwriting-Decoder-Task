@@ -1,0 +1,15 @@
+99-1  i <space> c a n <space> h e l p 
+99-2  i <space> c a n <space> h e l p . 
+99-3 , <space> i <space> c a n <space> h e l p 
+99-4  i <space> c a n <space> h e l p ? 
+99-5 , <space> i <space> c a n <space> h e l p . 
+99-6 , <space> i <space> c a n <space> h e l p ? 
+99-7 ' <space> i <space> c a n <space> h e l p 
+99-8  i i <space> c a n <space> h e l p 
+99-9  i i i <space> c a n <space> h e l p 
+99-10 ' <space> i <space> c a n <space> h e l p . 
+99-11  i i <space> c a n <space> h e l p . 
+99-12  i i i <space> c a n <space> h e l p . 
+99-13 ' <space> i <space> c a n <space> h e l p ? 
+99-14  i i <space> c a n <space> h e l p ? 
+99-15  i i i <space> c a n <space> h e l p ? 

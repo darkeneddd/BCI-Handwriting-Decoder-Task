@@ -1,0 +1,21 @@
+66-1  t h e y <space> h a d <space> a <space> b a b y 
+66-2  t h e y <space> h a d <space> a <space> b o o b y 
+66-3  t h e y <space> h a d <space> a <space> b o b b y 
+66-4 , <space> t h e y <space> h a d <space> a <space> b a b y 
+66-5 , <space> t h e y <space> h a d <space> a <space> b o o b y 
+66-6 , <space> t h e y <space> h a d <space> a <space> b o b b y 
+66-7  t h e y <space> h a d <space> a <space> b o <space> b y 
+66-8  t h e y <space> h a d <space> a <space> b o o <space> b y 
+66-9 ' <space> t h e y <space> h a d <space> a <space> b a b y 
+66-10  t h e y <space> h a d <space> a <space> b o a <space> b y 
+66-11  t h e y <space> h a d <space> a <space> b o o b 
+66-12 ' <space> t h e y <space> h a d <space> a <space> b o o b y 
+66-13 ' <space> t h e y <space> h a d <space> a <space> b o b b y 
+66-14 , <space> t h e y <space> h a d <space> a <space> b o <space> b y 
+66-15 , <space> t h e y <space> h a d <space> a <space> b o o <space> b y 
+66-16 , <space> t h e y <space> h a d <space> a <space> b o a <space> b y 
+66-17 , <space> t h e y <space> h a d <space> a <space> b o o b 
+66-18 ' <space> t h e y <space> h a d <space> a <space> b o <space> b y 
+66-19 ' <space> t h e y <space> h a d <space> a <space> b o o <space> b y 
+66-20 ' <space> t h e y <space> h a d <space> a <space> b o a <space> b y 
+66-21 ' <space> t h e y <space> h a d <space> a <space> b o o b 

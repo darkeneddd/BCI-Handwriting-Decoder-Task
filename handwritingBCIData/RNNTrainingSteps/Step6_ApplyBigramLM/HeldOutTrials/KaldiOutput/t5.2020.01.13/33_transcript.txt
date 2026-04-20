@@ -1,0 +1,15 @@
+33-1  i <space> l o s t <space> i t 
+33-2 , <space> i <space> l o s t <space> i t 
+33-3  i <space> l o s t <space> i t . 
+33-4  i i <space> l o s t <space> i t 
+33-5 ' <space> i <space> l o s t <space> i t 
+33-6  i <space> l o s t <space> i t ? 
+33-7 , <space> i <space> l o s t <space> i t . 
+33-8  i t <space> l o s t <space> i t 
+33-9 , <space> i <space> l o s t <space> i t ? 
+33-10  i i <space> l o s t <space> i t . 
+33-11 ' <space> i <space> l o s t <space> i t . 
+33-12  i t <space> l o s t <space> i t . 
+33-13  i i <space> l o s t <space> i t ? 
+33-14 ' <space> i <space> l o s t <space> i t ? 
+33-15  i t <space> l o s t <space> i t ? 

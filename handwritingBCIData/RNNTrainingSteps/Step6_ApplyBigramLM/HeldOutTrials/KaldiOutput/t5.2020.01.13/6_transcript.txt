@@ -1,0 +1,17 @@
+6-1  e a s t <space> o f <space> c h i n a . 
+6-2 , <space> e a s t <space> o f <space> c h i n a . 
+6-3  l e a s t <space> o f <space> c h i n a . 
+6-4  b e a s t <space> o f <space> c h i n a . 
+6-5  f e a s t <space> o f <space> c h i n a . 
+6-6  e a s t <space> o f <space> c h i n . 
+6-7  e a s t <space> o f f <space> c h i n a . 
+6-8 ' <space> e a s t <space> o f <space> c h i n a . 
+6-9  y e a s t <space> o f <space> c h i n a . 
+6-10 , <space> e a s t <space> o f <space> c h i n . 
+6-11 , <space> e a s t <space> o f f <space> c h i n a . 
+6-12  l e a s t <space> o f <space> c h i n . 
+6-13  b e a s t <space> o f <space> c h i n . 
+6-14  f e a s t <space> o f <space> c h i n . 
+6-15 ' <space> e a s t <space> o f <space> c h i n . 
+6-16 ' <space> e a s t <space> o f f <space> c h i n a . 
+6-17  y e a s t <space> o f <space> c h i n . 

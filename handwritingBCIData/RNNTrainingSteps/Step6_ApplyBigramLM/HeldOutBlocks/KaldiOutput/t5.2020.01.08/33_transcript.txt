@@ -1,0 +1,6 @@
+33-1  p e r h a p s <space> t h e y <space> w o u l d <space> a c c e p t <space> h i s <space> o l d <space> c u r r e n c y . 
+33-2 , <space> p e r h a p s <space> t h e y <space> w o u l d <space> a c c e p t <space> h i s <space> o l d <space> c u r r e n c y . 
+33-3 ' <space> p e r h a p s <space> t h e y <space> w o u l d <space> a c c e p t <space> h i s <space> o l d <space> c u r r e n c y . 
+33-4  p e r h a p s <space> t h e y <space> w o u l d <space> a c c e p t <space> t h i s <space> o l d <space> c u r r e n c y . 
+33-5 , <space> p e r h a p s <space> t h e y <space> w o u l d <space> a c c e p t <space> t h i s <space> o l d <space> c u r r e n c y . 
+33-6 ' <space> p e r h a p s <space> t h e y <space> w o u l d <space> a c c e p t <space> t h i s <space> o l d <space> c u r r e n c y . 

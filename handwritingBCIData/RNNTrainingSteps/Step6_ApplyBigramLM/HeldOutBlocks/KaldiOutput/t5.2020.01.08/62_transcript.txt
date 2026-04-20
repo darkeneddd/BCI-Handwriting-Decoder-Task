@@ -1,0 +1,24 @@
+62-1 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d 
+62-2  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d 
+62-3 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d 
+62-4  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d 
+62-5 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d ? 
+62-6  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d ? 
+62-7 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d 
+62-8 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d . 
+62-9  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d . 
+62-10 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> c o l l e c t e d 
+62-11  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> c o l l e c t e d 
+62-12 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d ? 
+62-13  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d ? 
+62-14 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d 
+62-15 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d ? 
+62-16 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d . 
+62-17  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d . 
+62-18 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> s e l e c t e d . 
+62-19 , <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> c o l l e c t e d 
+62-20  w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> c o l l e c t e d 
+62-21 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t r y <space> w i l l <space> b e <space> c o l l e c t e d 
+62-22 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d ? 
+62-23 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> s e l e c t e d . 
+62-24 ' <space> w h i c h <space> m a r k e t <space> s e g m e n t s <space> i n <space> e a c h <space> c o u n t y <space> w i l l <space> b e <space> c o l l e c t e d 

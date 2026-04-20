@@ -1,0 +1,6 @@
+73-1  f i v e <space> m i n u t e s <space> p a s s e d <space> b e f o r e <space> c o n t a c t <space> w a s <space> m a d e . 
+73-2 , <space> f i v e <space> m i n u t e s <space> p a s s e d <space> b e f o r e <space> c o n t a c t <space> w a s <space> m a d e . 
+73-3  f i v e <space> m i n u t e s <space> p a s s e d <space> b e f o r e <space> c o n t a c t <space> w a s <space> m a d e 
+73-4 ' <space> f i v e <space> m i n u t e s <space> p a s s e d <space> b e f o r e <space> c o n t a c t <space> w a s <space> m a d e . 
+73-5 , <space> f i v e <space> m i n u t e s <space> p a s s e d <space> b e f o r e <space> c o n t a c t <space> w a s <space> m a d e 
+73-6 ' <space> f i v e <space> m i n u t e s <space> p a s s e d <space> b e f o r e <space> c o n t a c t <space> w a s <space> m a d e 

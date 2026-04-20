@@ -1,0 +1,15 @@
+10-1  n e e d <space> t o <space> k n o w . 
+10-2  n e e d <space> t o <space> k n o w 
+10-3  h e e d <space> t o <space> k n o w . 
+10-4  h e e d <space> t o <space> k n o w 
+10-5 , <space> n e e d <space> t o <space> k n o w . 
+10-6 , <space> n e e d <space> t o <space> k n o w 
+10-7  n e e d <space> t o <space> k n o w . . 
+10-8 , <space> h e e d <space> t o <space> k n o w . 
+10-9 ' <space> n e e d <space> t o <space> k n o w . 
+10-10 , <space> h e e d <space> t o <space> k n o w 
+10-11 ' <space> n e e d <space> t o <space> k n o w 
+10-12  h e e d <space> t o <space> k n o w . . 
+10-13 , <space> n e e d <space> t o <space> k n o w . . 
+10-14 , <space> h e e d <space> t o <space> k n o w . . 
+10-15 ' <space> n e e d <space> t o <space> k n o w . . 

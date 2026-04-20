@@ -1,0 +1,10 @@
+24-1  s o <space> w i t h i n <space> e a c h <space> c o m p a n y , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-2 , <space> s o <space> w i t h i n <space> e a c h <space> c o m p a n y , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-3  s o <space> w i t h i n <space> e a c h <space> c o m p a n y , , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-4  s o o <space> w i t h i n <space> e a c h <space> c o m p a n y , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-5 , <space> s o <space> w i t h i n <space> e a c h <space> c o m p a n y , , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-6 ' <space> s o <space> w i t h i n <space> e a c h <space> c o m p a n y , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-7  i s o <space> w i t h i n <space> e a c h <space> c o m p a n y , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-8  s o o <space> w i t h i n <space> e a c h <space> c o m p a n y , , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-9 ' <space> s o <space> w i t h i n <space> e a c h <space> c o m p a n y , , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 
+24-10  i s o <space> w i t h i n <space> e a c h <space> c o m p a n y , , <space> t h e <space> r e s u l t s <space> s h o u l d <space> b e <space> e x a c t l y <space> t h e <space> s a m e . 

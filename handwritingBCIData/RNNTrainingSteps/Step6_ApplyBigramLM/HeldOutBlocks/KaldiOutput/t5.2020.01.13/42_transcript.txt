@@ -1,0 +1,22 @@
+42-1  h a p p y <space> c a t s 
+42-2 , <space> h a p p y <space> c a t s 
+42-3  h a p p y <space> c a t 
+42-4 ' <space> h a p p y <space> c a t s 
+42-5  h a p p y <space> c a t s . 
+42-6  u n h a p p y <space> c a t s 
+42-7 ' m <space> h a p p y <space> c a t s 
+42-8  h a p p y <space> c o a t s 
+42-9  h a p p y <space> c a t . 
+42-10 , <space> h a p p y <space> c a t 
+42-11 , <space> h a p p y <space> c a t s . 
+42-12 , <space> h a p p y <space> c o a t s 
+42-13 , <space> h a p p y <space> c a t . 
+42-14 ' <space> h a p p y <space> c a t 
+42-15 ' m <space> h a p p y <space> c a t 
+42-16 ' <space> h a p p y <space> c a t s . 
+42-17  u n h a p p y <space> c a t s . 
+42-18 ' m <space> h a p p y <space> c a t s . 
+42-19 ' <space> h a p p y <space> c o a t s 
+42-20 ' <space> h a p p y <space> c a t . 
+42-21 ' m <space> h a p p y <space> c o a t s 
+42-22 ' m <space> h a p p y <space> c a t . 

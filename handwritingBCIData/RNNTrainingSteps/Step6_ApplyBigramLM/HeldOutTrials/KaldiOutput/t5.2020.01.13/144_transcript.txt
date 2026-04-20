@@ -1,0 +1,57 @@
+144-1  b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-2  e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-3  b e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-4 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-5 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-6  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-7  e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-8 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-9 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-10  b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-11  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-12  m e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-13  h e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-14  w e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-15  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-16 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-17  e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-18  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-19 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-20  e e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-21  r e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-22 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-23 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-24 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-25  e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-26  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-27  m e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-28 ' r e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-29  h e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-30  w e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-31  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-32  e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-33 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-34  e e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-35  r e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-36 , <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-37 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-38  b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-39 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-40 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-41 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g e t <space> b e t t e r . 
+144-42 , <space> e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-43  t h e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-44  m e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-45  h e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-46  w e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-47  b e e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-48 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-49  e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-50 ' r e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-51  e e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-52  r e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-53 ' <space> b e <space> p a t i e n t , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-54 , <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-55 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> g o t <space> b e t t e r . 
+144-56 , <space> e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 
+144-57 ' <space> b e <space> p a t i e n t , , <space> i t <space> w i l l <space> i <space> g o t <space> b e t t e r . 

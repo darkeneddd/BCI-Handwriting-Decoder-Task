@@ -1,0 +1,12 @@
+75-1  t h e <space> f a m i l y <space> s e e m e d <space> t o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p i n k . 
+75-2 , <space> t h e <space> f a m i l y <space> s e e m e d <space> t o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p i n k . 
+75-3  t h e <space> f a m i l y <space> s e e m e d <space> t o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p u n k . 
+75-4  t h e <space> f a m i l y <space> s e e m e d <space> t o o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p i n k . 
+75-5 ' <space> t h e <space> f a m i l y <space> s e e m e d <space> t o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p i n k . 
+75-6 , <space> t h e <space> f a m i l y <space> s e e m e d <space> t o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p u n k . 
+75-7 , <space> t h e <space> f a m i l y <space> s e e m e d <space> t o o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p i n k . 
+75-8  t h e <space> f a m i l y <space> s e e m e d <space> t o o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p u n k . 
+75-9 ' <space> t h e <space> f a m i l y <space> s e e m e d <space> t o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p u n k . 
+75-10 ' <space> t h e <space> f a m i l y <space> s e e m e d <space> t o o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p i n k . 
+75-11 , <space> t h e <space> f a m i l y <space> s e e m e d <space> t o o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p u n k . 
+75-12 ' <space> t h e <space> f a m i l y <space> s e e m e d <space> t o o <space> h a v e <space> a <space> b i a s <space> t o w a r d s <space> p u n k . 

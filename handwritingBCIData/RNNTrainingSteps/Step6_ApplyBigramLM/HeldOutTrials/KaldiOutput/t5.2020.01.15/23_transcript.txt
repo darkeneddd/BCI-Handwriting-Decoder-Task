@@ -1,0 +1,6 @@
+23-1  t h e r e <space> w e r e <space> w i r e s <space> r u n n i n g <space> d o w n <space> t o w a r d s <space> t h e <space> f l o o r . 
+23-2 , <space> t h e r e <space> w e r e <space> w i r e s <space> r u n n i n g <space> d o w n <space> t o w a r d s <space> t h e <space> f l o o r . 
+23-3 ' <space> t h e r e <space> w e r e <space> w i r e s <space> r u n n i n g <space> d o w n <space> t o w a r d s <space> t h e <space> f l o o r . 
+23-4  t h e r e <space> w e r e <space> w i r e s <space> r u n n i n g <space> d o w n <space> t o w a r d s <space> t h e e <space> f l o o r . 
+23-5 , <space> t h e r e <space> w e r e <space> w i r e s <space> r u n n i n g <space> d o w n <space> t o w a r d s <space> t h e e <space> f l o o r . 
+23-6 ' <space> t h e r e <space> w e r e <space> w i r e s <space> r u n n i n g <space> d o w n <space> t o w a r d s <space> t h e e <space> f l o o r . 

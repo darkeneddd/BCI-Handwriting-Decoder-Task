@@ -1,0 +1,6 @@
+78-1  p e o p l e <space> f o r g e t <space> t h a t <space> t h e <space> i n t e r n e t <space> i s <space> a <space> p h y s i c a l <space> t h i n g . 
+78-2 , <space> p e o p l e <space> f o r g e t <space> t h a t <space> t h e <space> i n t e r n e t <space> i s <space> a <space> p h y s i c a l <space> t h i n g . 
+78-3  p e o p l e <space> f o r g e t <space> t h a t <space> t h e <space> i n t e r n e t <space> i s <space> a <space> p h y s i c a l <space> t h i n g . . 
+78-4 ' <space> p e o p l e <space> f o r g e t <space> t h a t <space> t h e <space> i n t e r n e t <space> i s <space> a <space> p h y s i c a l <space> t h i n g . 
+78-5 , <space> p e o p l e <space> f o r g e t <space> t h a t <space> t h e <space> i n t e r n e t <space> i s <space> a <space> p h y s i c a l <space> t h i n g . . 
+78-6 ' <space> p e o p l e <space> f o r g e t <space> t h a t <space> t h e <space> i n t e r n e t <space> i s <space> a <space> p h y s i c a l <space> t h i n g . . 

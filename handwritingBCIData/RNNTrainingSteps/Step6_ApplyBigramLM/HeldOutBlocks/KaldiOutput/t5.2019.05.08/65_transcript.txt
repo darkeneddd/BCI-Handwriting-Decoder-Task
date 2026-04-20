@@ -1,0 +1,6 @@
+65-1  i <space> t h i n k <space> i t <space> w a s <space> w e l l <space> w o r t h <space> i t . 
+65-2 , <space> i <space> t h i n k <space> i t <space> w a s <space> w e l l <space> w o r t h <space> i t . 
+65-3  i <space> t h i n k <space> i t <space> w a s <space> w e l l <space> w o r t h <space> i t . . 
+65-4 , <space> i <space> t h i n k <space> i t <space> w a s <space> w e l l <space> w o r t h <space> i t . . 
+65-5 ' <space> i <space> t h i n k <space> i t <space> w a s <space> w e l l <space> w o r t h <space> i t . 
+65-6 ' <space> i <space> t h i n k <space> i t <space> w a s <space> w e l l <space> w o r t h <space> i t . . 

@@ -1,0 +1,120 @@
+38-1  t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-2 , <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-3  t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-4  t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-5  t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-6  t h r e e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-7 , <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-8  t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-9 , <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-10 ' <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-11  t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-12  t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-13  t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-14  t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-15  t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-16 , <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-17  t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-18 , <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-19  t h r e e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-20  t h r e e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-21 , <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-22 , <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-23 , <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-24 , <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-25 , <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-26  t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-27 ' <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-28  t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-29  t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-30 ' <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-31  t h r e e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-32  t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-33  t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-34  t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-35 , <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-36 ' <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-37  t h r e e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-38  t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-39  t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-40 , <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-41  t h r e e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-42  t h r e e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-43  t h r e e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-44  t h r e e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-45 ' <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-46  t h r e e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-47 , <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-48 , <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-49  t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-50  t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-51 , <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-52 , <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-53 , <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-54 ' <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-55 ' <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-56 ' <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . 
+38-57 ' <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-58 ' <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-59  t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-60  t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-61  t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-62  t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-63  t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-64  t h r e e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-65 , <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-66 , <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-67 ' <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-68  t h r e e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-69 , <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-70  t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-71  t h r e e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-72 , <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-73  t h r e e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-74  t h r e e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-75  t h r e e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-76 ' <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-77  t h r e e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-78 , <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-79 , <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-80 , <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-81 , <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-82 , <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-83 ' <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-84  t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-85 ' <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-86 ' <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-87 ' <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . 
+38-88 ' <space> t h e r e <space> a r e <space> n o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-89  t h r e e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-90  t h r e e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-91  t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-92  t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-93 , <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-94 ' <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-95 ' <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-96  t h r e e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-97  t h r e e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-98 , <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-99  t h r e e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-100  t h r e e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-101  t h r e e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-102  t h r e e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-103  t h r e e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-104 ' <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-105 ' <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-106 , <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-107 , <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-108 ' <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-109 ' <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l i k e . 
+38-110 ' <space> t h e r e <space> a r e <space> o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-111 ' <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-112 ' <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , <space> l u k e . . . 
+38-113  t h r e e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-114 ' <space> t h e r e <space> a r e <space> n o n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-115  t h r e e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-116  t h r e e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-117  t h r e e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-118 ' <space> t h e r e <space> a r e <space> o <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-119 ' <space> t h e r e <space> a r e <space> n o w <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 
+38-120 ' <space> t h e r e <space> a r e <space> n <space> r u l e s <space> a n y m o r e , , <space> l u k e . . . 

@@ -1,0 +1,128 @@
+59-1  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a n d . 
+59-2  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> h i s <space> h a n d . 
+59-3  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> h i s <space> h a n d . 
+59-4  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s w i s s <space> h a n d . 
+59-5  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a r d . 
+59-6  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> h i s <space> h a n d . 
+59-7  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f f <space> h i s <space> h a n d . 
+59-8  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i t s <space> h a n d . 
+59-9  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f n s <space> h a n d . 
+59-10  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i m s <space> h a n d . 
+59-11  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s f <space> h i s <space> h a n d . 
+59-12  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i s <space> h a n d . 
+59-13  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i n s <space> h a n d . 
+59-14  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f a n s <space> h a n d . 
+59-15  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s m s <space> h a n d . 
+59-16  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s t i s <space> h a n d . 
+59-17  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i n s <space> h a n d . 
+59-18  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h e s <space> h a n d . 
+59-19  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i t s <space> h a n d . 
+59-20  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s s <space> h i s <space> h a n d . 
+59-21  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s n s <space> h a n d . 
+59-22  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s w i s s <space> h a n d e d . 
+59-23  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> o f <space> h i s <space> h a n d . 
+59-24  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s w i s s <space> h a r d . 
+59-25  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f s <space> h i s <space> h a n d . 
+59-26  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i n e s <space> h a n d e d . 
+59-27  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a n d e d . 
+59-28  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s k i s <space> h a n d . 
+59-29  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> i s <space> h a n d . 
+59-30  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s s r i s <space> h a n d . 
+59-31  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> a <space> h i s <space> h a n d . 
+59-32  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f a n s <space> h a r d . 
+59-33  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> a s <space> h i s <space> h a n d . 
+59-34  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i n n s <space> h a n d . 
+59-35 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a n d . 
+59-36  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h o t s <space> h a n d . 
+59-37 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> h i s <space> h a n d . 
+59-38 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> h i s <space> h a n d . 
+59-39  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f n s <space> h a n d e d . 
+59-40  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i m s <space> h a n d . 
+59-41  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f n s <space> h a r d . 
+59-42  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i m s <space> h a n d e d . 
+59-43  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> h i s <space> h a r d . 
+59-44  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i m s <space> h a r d . 
+59-45  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> h i s <space> h a r d . 
+59-46  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i s <space> h a n d e d . 
+59-47  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i n s <space> h a n d e d . 
+59-48  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h o w s <space> h a n d . 
+59-49  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i s <space> h a r d . 
+59-50  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i n s <space> h a r d . 
+59-51  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i n s <space> h a n d . 
+59-52  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> i s <space> h a n d . 
+59-53  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t <space> h i s <space> h a n d . 
+59-54  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i k h s <space> h a n d . 
+59-55  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f a n s <space> h a n d e d . 
+59-56  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i n s <space> a n d . 
+59-57  n e w m a n <space> h o l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a n d . 
+59-58  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> f f <space> f f <space> h i s <space> h a n d . 
+59-59  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s m s <space> h a n d e d . 
+59-60  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s t i s <space> h a n d e d . 
+59-61  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s k i n s <space> h a n d . 
+59-62  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i n s <space> h a n d e d . 
+59-63  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s m s <space> h a r d . 
+59-64  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h e s <space> h a n d e d . 
+59-65  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s t i s <space> h a r d . 
+59-66  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i t s <space> h a n d e d . 
+59-67  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i n s <space> h a r d . 
+59-68  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i s h <space> h a n d . 
+59-69  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h e s <space> h a r d . 
+59-70  n e w m a n <space> h o l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> h i s <space> h a n d . 
+59-71  n e w m a n <space> h o l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> h i s <space> h a n d . 
+59-72  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i t s <space> h a r d . 
+59-73  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f f <space> o f <space> h i s <space> h a n d . 
+59-74 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s w i s s <space> h a n d . 
+59-75  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s n s <space> h a n d e d . 
+59-76 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a r d . 
+59-77  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f a n s <space> a n d . 
+59-78  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> i s <space> h a n d e d . 
+59-79  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> o f f <space> h i s <space> h a n d . 
+59-80  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> r a n d . 
+59-81  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s n s <space> h a r d . 
+59-82  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i l m s <space> h a n d . 
+59-83 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> h i s <space> h a n d . 
+59-84 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f f <space> h i s <space> h a n d . 
+59-85  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> a n d . 
+59-86  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i t s <space> h a n d . 
+59-87  n e w m a n <space> h e a l e d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a n d . 
+59-88  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s k i s <space> h a n d e d . 
+59-89  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i t s <space> h a n d e d . 
+59-90  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s s r i s <space> h a n d e d . 
+59-91  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s w i s s <space> a n d . 
+59-92  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> h i s <space> h a r d . 
+59-93  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f f <space> h i s <space> h a r d . 
+59-94  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i n s <space> a n d . 
+59-95  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i t s <space> h a r d . 
+59-96  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i t s <space> a n d . 
+59-97  n e w m a n <space> h e a l e d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> h i s <space> h a n d . 
+59-98  n e w m a n <space> h e a l e d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> h i s <space> h a n d . 
+59-99  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i n n s <space> h a n d e d . 
+59-100  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> e <space> h i s <space> h a n d . 
+59-101  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> t h i s <space> h a n d . 
+59-102  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s t <space> h i s <space> h a n d . 
+59-103 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f i t s <space> h a n d . 
+59-104  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h o t s <space> h a n d e d . 
+59-105  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f f <space> s i s <space> h a n d . 
+59-106  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h o t s <space> h a r d . 
+59-107 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f n s <space> h a n d . 
+59-108  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> c <space> h i s <space> h a n d . 
+59-109  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f a n s <space> h a d . 
+59-110  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i s <space> a n d . 
+59-111  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i m s <space> h a n d e d . 
+59-112  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> i s <space> h a n d e d . 
+59-113  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> a n a n d . 
+59-114 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i m s <space> h a n d . 
+59-115  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f f <space> t h i s <space> h a n d . 
+59-116  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> t h i s <space> h a n d . 
+59-117  n e w m a n <space> h e l d <space> t e e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a n d . 
+59-118  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f f <space> i s <space> h a n d . 
+59-119  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> z <space> h i s <space> h a n d . 
+59-120  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s <space> h i s <space> h e a d . 
+59-121  n e w m a n <space> h o l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s w i s s <space> h a n d . 
+59-122  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> f <space> h i s <space> h e a d . 
+59-123  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> i f <space> h i s <space> h a n d . 
+59-124 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s f <space> h i s <space> h a n d . 
+59-125  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n n <space> t h e <space> p a l m <space> o f <space> t h i s <space> h a n d . 
+59-126 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i s <space> h a n d . 
+59-127 , <space> n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s i n s <space> h a n d . 
+59-128  n e w m a n <space> h e l d <space> t h e <space> a u t o m a t i c <space> i n <space> t h e <space> p a l m <space> o f <space> s h i m s <space> a n d . 

@@ -1,0 +1,20 @@
+133-1  h e l p i n g <space> p e o p l e 
+133-2 , <space> h e l p i n g <space> p e o p l e 
+133-3  h e l p i n g <space> p e o p l e . 
+133-4  h e l p i n g <space> p e p p e r 
+133-5 ' <space> h e l p i n g <space> p e o p l e 
+133-6 , <space> h e l p i n g <space> p e o p l e . 
+133-7  h o p i n g <space> p e o p l e 
+133-8  h e l p i n g <space> p o p p e r 
+133-9 , <space> h e l p i n g <space> p e p p e r 
+133-10  h e l p i n g <space> p o p p e d 
+133-11  h o p p i n g <space> p e o p l e 
+133-12  h e l p i n g <space> p o p e 
+133-13 , <space> h e l p i n g <space> p o p p e r 
+133-14 , <space> h e l p i n g <space> p o p p e d 
+133-15 , <space> h e l p i n g <space> p o p e 
+133-16 ' <space> h e l p i n g <space> p e o p l e . 
+133-17 ' <space> h e l p i n g <space> p e p p e r 
+133-18 ' <space> h e l p i n g <space> p o p p e r 
+133-19 ' <space> h e l p i n g <space> p o p p e d 
+133-20 ' <space> h e l p i n g <space> p o p e 

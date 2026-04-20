@@ -1,0 +1,30 @@
+61-1  p l a n k <space> m i n d 
+61-2  b l a n k <space> m i n d 
+61-3  p l a n k <space> m i n d . 
+61-4 , <space> p l a n k <space> m i n d 
+61-5  p l a n c k <space> m i n d 
+61-6  b l a n k <space> m i n d . 
+61-7 , <space> b l a n k <space> m i n d 
+61-8  p l a n k <space> m i n d ? 
+61-9  p l a n k <space> m i n . 
+61-10 , <space> p l a n k <space> m i n d . 
+61-11 ' <space> b l a n k <space> m i n d 
+61-12 ' <space> p l a n k <space> m i n d 
+61-13  p l a n c k <space> m i n d . 
+61-14  b l a n k <space> m i n d ? 
+61-15 , <space> b l a n k <space> m i n d . 
+61-16  p l a n k <space> m i n 
+61-17  b l a n k <space> m i n . 
+61-18 , <space> p l a n k <space> m i n d ? 
+61-19 ' <space> b l a n k <space> m i n d . 
+61-20 , <space> p l a n k <space> m i n . 
+61-21 ' <space> p l a n k <space> m i n d . 
+61-22  p l a n c k <space> m i n d ? 
+61-23 , <space> b l a n k <space> m i n d ? 
+61-24 , <space> b l a n k <space> m i n . 
+61-25 , <space> p l a n k <space> m i n 
+61-26 ' <space> b l a n k <space> m i n d ? 
+61-27 ' <space> b l a n k <space> m i n . 
+61-28 ' <space> p l a n k <space> m i n d ? 
+61-29 ' <space> p l a n k <space> m i n . 
+61-30 ' <space> p l a n k <space> m i n 

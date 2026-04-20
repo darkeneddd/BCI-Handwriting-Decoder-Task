@@ -1,0 +1,15 @@
+98-1  t h r o w <space> a <space> p a r t y 
+98-2 , <space> t h r o w <space> a <space> p a r t y 
+98-3  t h r o w <space> a <space> p a r t y . 
+98-4  t h r o w <space> a <space> p a r t . 
+98-5 ' <space> t h r o w <space> a <space> p a r t y 
+98-6  t h r o w <space> a <space> p a r t 
+98-7  t h r o w <space> a <space> p a t t y 
+98-8 , <space> t h r o w <space> a <space> p a r t y . 
+98-9 , <space> t h r o w <space> a <space> p a r t . 
+98-10 , <space> t h r o w <space> a <space> p a r t 
+98-11 ' <space> t h r o w <space> a <space> p a r t y . 
+98-12 , <space> t h r o w <space> a <space> p a t t y 
+98-13 ' <space> t h r o w <space> a <space> p a r t . 
+98-14 ' <space> t h r o w <space> a <space> p a r t 
+98-15 ' <space> t h r o w <space> a <space> p a t t y 

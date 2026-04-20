@@ -1,0 +1,72 @@
+21-1  h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-2 , <space> h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-3  s h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-4 ' <space> h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-5  t h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-6  h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-7  h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-8  h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-9  h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-10  h e e l <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-11  h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-12 , <space> h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-13 , <space> h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-14 , <space> h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-15 , <space> h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-16 , <space> h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-17  s h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-18  s h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-19  s h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-20 ' <space> h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-21  t h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-22 ' <space> h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-23 ' <space> h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-24 ' <space> h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-25  t h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-26  t h e <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-27  h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-28  h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-29 ' <space> h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w . 
+21-30  h e e l <space> l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-31  h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-32  h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-33  h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-34  h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-35  h e e l <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-36  h e e l <space> l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-37  h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-38  h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-39 , <space> h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-40 , <space> h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-41 , <space> h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-42 , <space> h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-43 , <space> h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-44 , <space> h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-45 , <space> h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-46 , <space> h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-47  s h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-48  s h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-49 ' <space> h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-50 ' <space> h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-51  t h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-52 ' <space> h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-53 ' <space> h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-54 ' <space> h e <space> l e a r n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-55 ' <space> h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> s a a b <space> w i n d o w . 
+21-56  t h e <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-57  h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-58 ' <space> h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w . 
+21-59 ' <space> h e <space> c l e a n e d <space> o u t <space> o f <space> t h e <space> c a b <space> w i n d o w 
+21-60  h e e l <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-61  h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-62  h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-63  h e e l <space> l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-64  h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-65 , <space> h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-66 , <space> h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-67 , <space> h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-68 , <space> h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-69 ' <space> h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-70 ' <space> h e <space> l e a r n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 
+21-71 ' <space> h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> s a a b <space> w i n d o w . 
+21-72 ' <space> h e <space> c l e a n e d <space> o u t <space> o f f <space> t h e <space> c a b <space> w i n d o w 

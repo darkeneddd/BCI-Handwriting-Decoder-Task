@@ -1,0 +1,26 @@
+101-1  t h i n k <space> b e f o r e <space> y o u <space> a t 
+101-2  t h i n k <space> b e f o r e <space> y o u <space> a . 
+101-3  t h i n k <space> b e f o r e <space> y o u <space> a t . 
+101-4  t h i n k <space> b e f o r e <space> y o u <space> a c t 
+101-5  t h i n k <space> b e f o r e <space> y o u <space> a t t 
+101-6 , <space> t h i n k <space> b e f o r e <space> y o u <space> a t 
+101-7  t h i n k <space> b e f o r e <space> y o u <space> a 
+101-8  t h i n k <space> b e f o r e <space> y o u <space> e a t 
+101-9  t h i n k <space> b e f o r e <space> y o u <space> w a n t 
+101-10  t h i n k <space> b e f o r e <space> y o u <space> a r t 
+101-11  t h i n k <space> b e f o r e <space> y o u <space> a a . 
+101-12  t h i n k <space> b e f o r e <space> y o u <space> a n . 
+101-13  t h i n k <space> b e f o r e <space> y o u <space> a c t . 
+101-14  t h i n k <space> b e f o r e <space> y o u <space> a n t 
+101-15 , <space> t h i n k <space> b e f o r e <space> y o u <space> a . 
+101-16 , <space> t h i n k <space> b e f o r e <space> y o u <space> a t . 
+101-17 , <space> t h i n k <space> b e f o r e <space> y o u <space> a c t 
+101-18 , <space> t h i n k <space> b e f o r e <space> y o u <space> a t t 
+101-19 , <space> t h i n k <space> b e f o r e <space> y o u <space> a 
+101-20 , <space> t h i n k <space> b e f o r e <space> y o u <space> e a t 
+101-21 , <space> t h i n k <space> b e f o r e <space> y o u <space> w a n t 
+101-22 , <space> t h i n k <space> b e f o r e <space> y o u <space> a r t 
+101-23 , <space> t h i n k <space> b e f o r e <space> y o u <space> a a . 
+101-24 , <space> t h i n k <space> b e f o r e <space> y o u <space> a n . 
+101-25 , <space> t h i n k <space> b e f o r e <space> y o u <space> a c t . 
+101-26 , <space> t h i n k <space> b e f o r e <space> y o u <space> a n t 

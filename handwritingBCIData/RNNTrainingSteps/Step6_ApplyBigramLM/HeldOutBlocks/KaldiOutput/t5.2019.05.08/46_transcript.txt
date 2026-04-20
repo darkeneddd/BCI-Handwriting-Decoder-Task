@@ -1,0 +1,18 @@
+46-1  i n <space> c o l l e g e <space> f o o t b a l l , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-2 , <space> i n <space> c o l l e g e <space> f o o t b a l l , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-3  o n <space> c o l l e g e <space> f o o t b a l l , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-4  i n <space> c o l l e g e <space> f o o t b a l l , , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-5  i n <space> c o l l e g e <space> f o o t b a l l <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-6  n <space> c o l l e g e <space> f o o t b a l l , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-7 ' <space> i n <space> c o l l e g e <space> f o o t b a l l , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-8  a n <space> c o l l e g e <space> f o o t b a l l , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-9 , <space> i n <space> c o l l e g e <space> f o o t b a l l , , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-10 , <space> i n <space> c o l l e g e <space> f o o t b a l l <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-11  o n <space> c o l l e g e <space> f o o t b a l l , , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-12  o n <space> c o l l e g e <space> f o o t b a l l <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-13  n <space> c o l l e g e <space> f o o t b a l l , , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-14  n <space> c o l l e g e <space> f o o t b a l l <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-15 ' <space> i n <space> c o l l e g e <space> f o o t b a l l , , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-16 ' <space> i n <space> c o l l e g e <space> f o o t b a l l <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-17  a n <space> c o l l e g e <space> f o o t b a l l , , <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 
+46-18  a n <space> c o l l e g e <space> f o o t b a l l <space> s a l t s <space> a r e <space> a l r e a d y <space> c o m m o n . 

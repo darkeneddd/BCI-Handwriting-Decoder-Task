@@ -1,0 +1,12 @@
+53-1  h e a v y <space> m e t a l 
+53-2  h e a v y <space> m e t a l . 
+53-3 , <space> h e a v y <space> m e t a l 
+53-4 , <space> h e a v y <space> m e t a l . 
+53-5  h e a v y <space> m e t a l ? 
+53-6 ' <space> h e a v y <space> m e t a l 
+53-7 , <space> h e a v y <space> m e t a l ? 
+53-8 ' <space> h e a v y <space> m e t a l . 
+53-9  h e a v y <space> m e t a . 
+53-10 ' <space> h e a v y <space> m e t a l ? 
+53-11 , <space> h e a v y <space> m e t a . 
+53-12 ' <space> h e a v y <space> m e t a . 

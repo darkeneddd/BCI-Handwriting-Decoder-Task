@@ -1,0 +1,128 @@
+43-1  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-2  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-3 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-4  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-5 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-6  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-7  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-8  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 
+43-9  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> h a r m a n . 
+43-10  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b <space> a m m a n . 
+43-11  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a m <space> m a n . 
+43-12  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a d <space> m a n . 
+43-13  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n n . 
+43-14  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-15 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-16  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b b <space> a m m a n . 
+43-17  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-18  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-19  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-20  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a u m a n . 
+43-21 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-22  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t <space> m a n . 
+43-23  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n . 
+43-24 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-25  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e a r <space> m a n . 
+43-26 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 
+43-27 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> h a r m a n . 
+43-28 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-29  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e e <space> b e r m a n . 
+43-30  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r n <space> m a n . 
+43-31  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n n . 
+43-32 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b <space> a m m a n . 
+43-33  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n a . 
+43-34 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-35  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a y <space> m a n . 
+43-36  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a <space> a m m a n . 
+43-37  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a g <space> m a n . 
+43-38  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> a m m a n . 
+43-39  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e e <space> b a t m a n . 
+43-40  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-41  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a c h m a n n . 
+43-42  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a <space> m a n . 
+43-43  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-44  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a a <space> m a n . 
+43-45  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b b b <space> a m m a n . 
+43-46  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m e a n . 
+43-47 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a m <space> m a n . 
+43-48  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a i <space> m a n . 
+43-49 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a d <space> m a n . 
+43-50 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n n . 
+43-51 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-52 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b b <space> a m m a n . 
+43-53  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-54 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-55 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-56  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-57 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t m a n . 
+43-58 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a u m a n . 
+43-59 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t <space> m a n . 
+43-60  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-61 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n . 
+43-62  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-63  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-64 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e a r <space> m a n . 
+43-65  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-66  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 
+43-67  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> h a r m a n . 
+43-68 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e e <space> b e r m a n . 
+43-69 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r n <space> m a n . 
+43-70 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n n . 
+43-71  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 
+43-72 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n a . 
+43-73 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-74  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b <space> a m m a n . 
+43-75  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> h a r m a n . 
+43-76 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a y <space> m a n . 
+43-77 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a <space> a m m a n . 
+43-78  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b <space> a m m a n . 
+43-79 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a g <space> m a n . 
+43-80 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> a m m a n . 
+43-81 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e e <space> b a t m a n . 
+43-82 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-83 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a c h m a n n . 
+43-84 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a <space> m a n . 
+43-85  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-86 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-87 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a a <space> m a n . 
+43-88 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b b b <space> a m m a n . 
+43-89 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m e a n . 
+43-90 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 
+43-91 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> h a r m a n . 
+43-92  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-93  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a m <space> m a n . 
+43-94 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a i <space> m a n . 
+43-95  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-96 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b <space> a m m a n . 
+43-97  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a m <space> m a n . 
+43-98  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a d <space> m a n . 
+43-99  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n n . 
+43-100  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a d <space> m a n . 
+43-101  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 
+43-102  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> h a r m a n . 
+43-103  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n n . 
+43-104 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-105  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b b <space> a m m a n . 
+43-106  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b <space> a m m a n . 
+43-107 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e r m a n . 
+43-108  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b b <space> a m m a n . 
+43-109  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a u m a n . 
+43-110 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-111  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t <space> m a n . 
+43-112 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a m <space> m a n . 
+43-113  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a u m a n . 
+43-114  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n . 
+43-115 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-116 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n n . 
+43-117  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t <space> m a n . 
+43-118 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a d <space> m a n . 
+43-119  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e a r <space> m a n . 
+43-120  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n . 
+43-121 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a n <space> m a n . 
+43-122 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r r <space> m a n n . 
+43-123 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 
+43-124  i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b e a r <space> m a n . 
+43-125 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> h a r m a n . 
+43-126  i i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a m <space> m a n . 
+43-127 ' <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r r <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a r <space> m a n . 
+43-128 , <space> i <space> w a l k e d <space> b a c k <space> t o <space> t h e <space> b a r n <space> a n d <space> w a s t e d <space> t i m e <space> w i t h <space> t h e <space> b a t s m a n . 

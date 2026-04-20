@@ -1,0 +1,6 @@
+39-1  h a m m e r 
+39-2 , <space> h a m m e r 
+39-3  h a m m e r . 
+39-4  h a m m e r s 
+39-5  h a m m e r , 
+39-6 ' <space> h a m m e r 

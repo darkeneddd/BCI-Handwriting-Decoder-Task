@@ -1,0 +1,12 @@
+70-1  t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a <space> y e l l <space> o f <space> p a i n . 
+70-2 , <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a <space> y e l l <space> o f <space> p a i n . 
+70-3  t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a <space> y e l l <space> o f f <space> p a i n . 
+70-4 ' <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a <space> y e l l <space> o f <space> p a i n . 
+70-5  t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a a <space> y e l l <space> o f <space> p a i n . 
+70-6 , <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a <space> y e l l <space> o f f <space> p a i n . 
+70-7 , <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a a <space> y e l l <space> o f <space> p a i n . 
+70-8 ' <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a <space> y e l l <space> o f f <space> p a i n . 
+70-9  t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a a <space> y e l l <space> o f f <space> p a i n . 
+70-10 ' <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a a <space> y e l l <space> o f <space> p a i n . 
+70-11 , <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a a <space> y e l l <space> o f f <space> p a i n . 
+70-12 ' <space> t h e <space> m a g i c i a n <space> w o k e <space> u p <space> w i t h <space> a a <space> y e l l <space> o f f <space> p a i n . 

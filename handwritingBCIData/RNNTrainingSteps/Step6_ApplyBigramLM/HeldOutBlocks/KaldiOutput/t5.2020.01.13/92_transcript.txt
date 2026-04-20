@@ -1,0 +1,39 @@
+92-1  h e <space> a l w a y s . 
+92-2 ' r e <space> a l w a y s . 
+92-3 , <space> h e <space> a l w a y s . 
+92-4  h e <space> a l w a y s 
+92-5  a r e <space> a l w a y s . 
+92-6  o n e <space> a l w a y s . 
+92-7 ' r e <space> a l w a y s 
+92-8 , <space> h e <space> a l w a y s 
+92-9  t h e <space> a l w a y s . 
+92-10  a r e <space> a l w a y s 
+92-11  s h e <space> a l w a y s . 
+92-12  o n e <space> a l w a y s 
+92-13  n e <space> a l w a y s . 
+92-14 ' <space> h e <space> a l w a y s . 
+92-15  n e e <space> a l w a y s . 
+92-16  n n e <space> a l w a y s . 
+92-17  r e <space> a l w a y s . 
+92-18 , <space> n e <space> a l w a y s . 
+92-19  t h e <space> a l w a y s 
+92-20  s h e <space> a l w a y s 
+92-21  h e <space> a l w a y s ? 
+92-22 ' r e <space> a l w a y s ? 
+92-23  n e <space> a l w a y s 
+92-24 ' <space> h e <space> a l w a y s 
+92-25  n e e <space> a l w a y s 
+92-26  n n e <space> a l w a y s 
+92-27  r e <space> a l w a y s 
+92-28 , <space> n e <space> a l w a y s 
+92-29 , <space> h e <space> a l w a y s ? 
+92-30  a r e <space> a l w a y s ? 
+92-31  o n e <space> a l w a y s ? 
+92-32  t h e <space> a l w a y s ? 
+92-33  s h e <space> a l w a y s ? 
+92-34  n e <space> a l w a y s ? 
+92-35 ' <space> h e <space> a l w a y s ? 
+92-36  n e e <space> a l w a y s ? 
+92-37  n n e <space> a l w a y s ? 
+92-38  r e <space> a l w a y s ? 
+92-39 , <space> n e <space> a l w a y s ? 

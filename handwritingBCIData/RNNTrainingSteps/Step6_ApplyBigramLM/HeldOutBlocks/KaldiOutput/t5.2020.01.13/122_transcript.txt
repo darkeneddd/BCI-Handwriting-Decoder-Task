@@ -1,0 +1,24 @@
+122-1  i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . 
+122-2 , <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . 
+122-3  i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . . 
+122-4  i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a l o t <space> m o r e . 
+122-5  i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o e . 
+122-6 , <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . . 
+122-7  i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . 
+122-8 ' <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . 
+122-9 , <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a l o t <space> m o r e . 
+122-10 , <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o e . 
+122-11 , <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . 
+122-12  i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . . 
+122-13 ' <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . . 
+122-14  i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a l o t <space> m o r e . 
+122-15 ' <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a l o t <space> m o r e . 
+122-16  i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o e . 
+122-17 ' <space> i <space> r e c k o n <space> i <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o e . 
+122-18 , <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . . 
+122-19 ' <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . 
+122-20 , <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a l o t <space> m o r e . 
+122-21 , <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o e . 
+122-22 ' <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o r e . . 
+122-23 ' <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a l o t <space> m o r e . 
+122-24 ' <space> i <space> r e c k o n <space> i t <space> c o u l d <space> l e a r n <space> a <space> l o t <space> m o e . 

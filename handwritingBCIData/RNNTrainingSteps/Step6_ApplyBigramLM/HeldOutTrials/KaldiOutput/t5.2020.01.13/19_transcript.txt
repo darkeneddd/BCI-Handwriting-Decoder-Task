@@ -1,0 +1,6 @@
+19-1  k e e p <space> i n <space> t o u c h 
+19-2 , <space> k e e p <space> i n <space> t o u c h 
+19-3  k e e p <space> i n <space> t o u c h . 
+19-4 ' <space> k e e p <space> i n <space> t o u c h 
+19-5 , <space> k e e p <space> i n <space> t o u c h . 
+19-6 ' <space> k e e p <space> i n <space> t o u c h . 

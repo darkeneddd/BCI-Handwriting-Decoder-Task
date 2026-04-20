@@ -1,0 +1,9 @@
+38-1  m a k e <space> m o n e y 
+38-2  m a k e <space> m o n e y . 
+38-3 , <space> m a k e <space> m o n e y 
+38-4 , <space> m a k e <space> m o n e y . 
+38-5  m a k e <space> m o n e y ? 
+38-6 ' <space> m a k e <space> m o n e y 
+38-7 , <space> m a k e <space> m o n e y ? 
+38-8 ' <space> m a k e <space> m o n e y . 
+38-9 ' <space> m a k e <space> m o n e y ? 

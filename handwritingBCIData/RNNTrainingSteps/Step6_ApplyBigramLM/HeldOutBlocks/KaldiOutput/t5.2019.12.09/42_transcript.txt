@@ -1,0 +1,9 @@
+42-1  d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d ? 
+42-2  d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d ? ? 
+42-3 , <space> d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d ? 
+42-4  d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d . 
+42-5 ' <space> d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d ? 
+42-6 , <space> d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d ? ? 
+42-7 , <space> d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d . 
+42-8 ' <space> d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d ? ? 
+42-9 ' <space> d o <space> y o u <space> w i s h <space> u s <space> t o <space> i n f o r m <space> y o u r <space> f a t h e r <space> a b o u t <space> w h a t ' s <space> h a p p e n e d . 

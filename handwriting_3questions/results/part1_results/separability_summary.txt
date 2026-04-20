@@ -1,0 +1,107 @@
+======================================================================
+Primary session : t5.2019.05.08
+All sessions    : 10
+Go cue bin      : 51  (= 510 ms)
+Movement window : bins [51, 151)  → 1000 ms
+Output dir      : /Users/yang/Desktop/py/3803/handwriting_3questions/results/part1_results
+======================================================================
+
+SECTION 1 — Dataset structure
+--------------------------------------------------
+Neural cubes   : 32 letters
+  example shape: (27, 201, 192)  (trials, time_bins, channels)
+  dtype        : uint8  range [0, 6]  (raw spike counts)
+Other fields:
+  arrayGeometryMap               shape=(10, 10)  dtype=int32
+  blockList                      shape=(9,)  dtype=uint8
+  blockNumsTimeSeries            shape=(336932,)  dtype=uint8
+  blockStartDates                shape=(9,)  dtype=object
+  characterCues                  shape=(864,)  dtype=object
+  clockTimeSeries                shape=(336932,)  dtype=float64
+  delayPeriodOnsetTimeBin        shape=(864,)  dtype=int32
+  goPeriodOnsetTimeBin           shape=(864,)  dtype=int32
+  meansPerBlock                  shape=(9, 192)  dtype=float64
+  neuralActivityTimeSeries       shape=(336932, 192)  dtype=uint8
+  stdAcrossAllData               shape=(192,)  dtype=float64
+
+SECTION 2 — Raw neural feature visualization
+--------------------------------------------------
+Most active channel : 96
+Channels ≥ 2 Hz     : 192 / 192
+Mean firing rate    : 19.0 Hz
+  [fig] sep_fig1_explore_raw_data.png / .svg
+
+SECTION 3 — Preprocessing
+--------------------------------------------------
+Loading & preprocessing t5.2019.05.08 …
+Preprocessed cube shape: (27, 201, 192)
+Value range (letter 'a'): [-2.14, 5.10]  mean=0.0051
+  [fig] sep_fig2_preprocess_comparison.png / .svg
+
+SECTION 4 — Trial-to-trial variability
+--------------------------------------------------
+  [fig] sep_fig3_trial_variability.png / .svg
+
+SECTION 5 — PCA neural trajectories
+--------------------------------------------------
+Explained variance (raw):   PC1=28.1%  PC2=9.8%  PC3=6.8%
+Loading warpedCubes from t5.2019.05.08_warpedCubes.mat …
+Explained variance (warped):PC1=21.2%  PC2=6.2%  PC3=5.3%
+warpedCubes NaN fraction ('a'): 4.6%
+  [fig] sep_fig4_pca_trajectories_3d.png / .svg
+  [fig] sep_fig5_pca_2d_all_letters.png / .svg
+
+SECTION 6 — Pen velocity ↔ neural activity
+--------------------------------------------------
+Velocity templates available: ['a', 'apostrophe', 'b', 'c', 'comma', 'd', 'e', 'f', 'g', 'greaterThan', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'questionMark', 'r', 's', 't', 'tilde', 'u', 'v', 'w', 'x', 'y', 'z']
+  [fig] sep_fig6_velocity_templates.png / .svg
+Mean per-letter R²  : 0.992
+Total neural var. explained by pen velocity: 45.2%  (paper ~30%)
+  [fig] sep_fig7_pen_velocity.png / .svg
+
+SECTION 7 — Load all sessions
+--------------------------------------------------
+  t5.2019.05.08: 702 trials
+  t5.2019.11.25: 260 trials
+  t5.2019.12.09: 260 trials
+  t5.2019.12.11: 260 trials
+  t5.2019.12.18: 260 trials
+  t5.2019.12.20: 260 trials
+  t5.2020.01.06: 260 trials
+  t5.2020.01.08: 260 trials
+  t5.2020.01.13: 260 trials
+  t5.2020.01.15: 260 trials
+
+Pooled: 3042 trials × 19200 features
+Trials per letter: {np.str_('a'): np.int64(117), np.str_('b'): np.int64(117), np.str_('c'): np.int64(117), np.str_('d'): np.int64(117), np.str_('e'): np.int64(117), np.str_('f'): np.int64(117), np.str_('g'): np.int64(117), np.str_('h'): np.int64(117), np.str_('i'): np.int64(117), np.str_('j'): np.int64(117), np.str_('k'): np.int64(117), np.str_('l'): np.int64(117), np.str_('m'): np.int64(117), np.str_('n'): np.int64(117), np.str_('o'): np.int64(117), np.str_('p'): np.int64(117), np.str_('q'): np.int64(117), np.str_('r'): np.int64(117), np.str_('s'): np.int64(117), np.str_('t'): np.int64(117), np.str_('u'): np.int64(117), np.str_('v'): np.int64(117), np.str_('w'): np.int64(117), np.str_('x'): np.int64(117), np.str_('y'): np.int64(117), np.str_('z'): np.int64(117)}
+
+SECTION 8 — t-SNE (PCA 30-D → t-SNE 2-D)
+--------------------------------------------------
+PCA 19200 → 30 …
+Running t-SNE (may take ~1 min) …
+t-SNE done.  KL divergence: 1.1664
+  [fig] sep_fig8_tsne.png / .svg
+
+SECTION 9 — k-NN (k=1, leave-one-out)
+--------------------------------------------------
+PCA 19200 → 100 …
+Running k-NN LOO (3042 trials) …
+k-NN LOO accuracy: 84.9%  (paper: 94.1%)
+Lowest-accuracy letters:
+  'q': 61.5%
+  'n': 65.8%
+  'h': 66.7%
+  'b': 73.5%
+  'y': 73.5%
+  [fig] sep_fig9_knn_accuracy.png / .svg
+
+SECTION 10 — Summary figure
+--------------------------------------------------
+  [fig] sep_fig0_summary.png / .svg
+
+======================================================================
+  k-NN LOO accuracy          : 84.9%  (paper: 94.1%)
+  Neural var. explained (vel): 45.2%  (paper: ~30%)
+  PCA explained var. (PC1-3) : 21.2% / 6.2% / 5.3%
+======================================================================
+All outputs in: /Users/yang/Desktop/py/3803/handwriting_3questions/results/part1_results

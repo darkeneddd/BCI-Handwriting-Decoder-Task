@@ -1,0 +1,6 @@
+108-1  n e x t <space> d o o r 
+108-2 , <space> n e x t <space> d o o r 
+108-3  n e x t <space> d o o r . 
+108-4 ' <space> n e x t <space> d o o r 
+108-5 , <space> n e x t <space> d o o r . 
+108-6 ' <space> n e x t <space> d o o r . 

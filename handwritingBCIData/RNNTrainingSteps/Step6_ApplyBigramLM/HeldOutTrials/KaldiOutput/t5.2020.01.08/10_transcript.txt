@@ -1,0 +1,6 @@
+10-1  w h a t e v e r <space> i t <space> i s <space> t h a t <space> y o u <space> w i s h , <space> i <space> a m <space> i n s t r u c t e d <space> t o <space> p r o v i d e . 
+10-2 , <space> w h a t e v e r <space> i t <space> i s <space> t h a t <space> y o u <space> w i s h , <space> i <space> a m <space> i n s t r u c t e d <space> t o <space> p r o v i d e . 
+10-3  w h a t e v e r <space> i t <space> i s <space> t h a t <space> y o u <space> w i s h , , <space> i <space> a m <space> i n s t r u c t e d <space> t o <space> p r o v i d e . 
+10-4 ' <space> w h a t e v e r <space> i t <space> i s <space> t h a t <space> y o u <space> w i s h , <space> i <space> a m <space> i n s t r u c t e d <space> t o <space> p r o v i d e . 
+10-5 , <space> w h a t e v e r <space> i t <space> i s <space> t h a t <space> y o u <space> w i s h , , <space> i <space> a m <space> i n s t r u c t e d <space> t o <space> p r o v i d e . 
+10-6 ' <space> w h a t e v e r <space> i t <space> i s <space> t h a t <space> y o u <space> w i s h , , <space> i <space> a m <space> i n s t r u c t e d <space> t o <space> p r o v i d e . 

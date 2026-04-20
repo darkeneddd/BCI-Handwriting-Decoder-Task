@@ -1,0 +1,128 @@
+49-1  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-2  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-3  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-4  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-5  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> r a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-6 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-7  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-8  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-9  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-10 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-11  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-12  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-13  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-14 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-15  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-16 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-17  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-18  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-19  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-20  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> l a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-21  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-22  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> w a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-23 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> r a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-24  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-25  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-26  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> h a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-27  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-28  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-29 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-30  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-31  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-32  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-33  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-34 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-35  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> r a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-36  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> a s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-37  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g a s h <space> e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-38  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-39 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-40  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-41  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-42  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-43  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s s e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-44  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-45 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-46 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-47  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-48  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> r a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-49  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-50 ' <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-51  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-52  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-53  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-54  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> l a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-55  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s h <space> e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-56 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-57  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-58  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a <space> s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-59  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d d <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-60 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-61  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-62  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-63  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> h a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-64  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s <space> h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-65  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> a s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-66 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-67  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> r a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-68 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-69  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-70 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-71  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g g g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-72  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-73  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> r a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-74 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> l a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-75  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-76  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-77 , <space> i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-78 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> w a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-79  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-80  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-81  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> c h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-82  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-83 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-84 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-85 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> h a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-86  i i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-87  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-88 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-89 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-90 ' <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-91  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> i s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-92 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-93  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e a s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-94 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-95  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g a s <space> h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-96  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g a s h <space> e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-97  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s s e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-98  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g g <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-99  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-100 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-101 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-102 ' <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-103  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-104 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> r a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-105 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> a s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-106 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g a s h <space> e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-107 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-108  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-109 ' <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-110  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s <space> h e s s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-111 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g a s <space> h e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-112 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-113 , <space> i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-114 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s s e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-115  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s <space> h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-116  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , <space> r e d <space> g a s h <space> e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-117  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-118  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> d a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-119  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> g a s h <space> e s s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-120  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> g g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-121 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-122  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d d <space> g a s <space> h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-123  i <space> s a w <space> s m a l l <space> w o u n d s , , <space> r e d <space> l a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-124  i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> g a <space> a s h e s , , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-125  i i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> d a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-126 ' <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d <space> r a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-127 , <space> i <space> s a w <space> s m a l l <space> w o u n d s , <space> r e d d <space> g a s s e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 
+49-128  i <space> s a w <space> a <space> s m a l l <space> w o u n d s , , <space> r e d <space> g <space> a s h e s , <space> h i g h <space> o n <space> t h e <space> c h e e k <space> b o n e s . 

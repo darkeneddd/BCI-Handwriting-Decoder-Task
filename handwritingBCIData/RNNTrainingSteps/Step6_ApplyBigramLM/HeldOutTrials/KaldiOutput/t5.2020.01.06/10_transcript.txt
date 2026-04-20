@@ -1,0 +1,24 @@
+10-1  i t <space> w a s <space> p r e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-2  i t <space> w a s <space> p u r e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-3 , <space> i t <space> w a s <space> p r e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-4  i t <space> w a s <space> p r e , , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-5 , <space> i t <space> w a s <space> p u r e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-6  i t <space> w a s <space> p u r e e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-7  i t <space> w a s <space> p r e y , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-8  i t <space> w a s <space> p u r e , , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-9  i t <space> w a s <space> p r e s , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-10 , <space> i t <space> w a s <space> p r e , , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-11 ' <space> i t <space> w a s <space> p r e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-12  i t <space> w a s <space> s p r e e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-13 , <space> i t <space> w a s <space> p u r e e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-14 , <space> i t <space> w a s <space> p r e y , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-15 , <space> i t <space> w a s <space> p u r e , , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-16 , <space> i t <space> w a s <space> p r e s , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-17 ' <space> i t <space> w a s <space> p u r e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-18 , <space> i t <space> w a s <space> s p r e e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-19 ' <space> i t <space> w a s <space> p r e , , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-20 ' <space> i t <space> w a s <space> p u r e e , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-21 ' <space> i t <space> w a s <space> p r e y , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-22 ' <space> i t <space> w a s <space> p u r e , , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-23 ' <space> i t <space> w a s <space> p r e s , <space> b l a t a n t <space> h a r a s s m e n t . 
+10-24 ' <space> i t <space> w a s <space> s p r e e , <space> b l a t a n t <space> h a r a s s m e n t . 

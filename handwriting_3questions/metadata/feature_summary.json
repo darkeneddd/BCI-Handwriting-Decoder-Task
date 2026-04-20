@@ -1,0 +1,88 @@
+{
+  "T_fixed": 100,
+  "n_channels": 192,
+  "flat_dim": 19200,
+  "temporal_dim": 576,
+  "temporal_windows": {
+    "early": [
+      0,
+      33
+    ],
+    "middle": [
+      33,
+      66
+    ],
+    "late": [
+      66,
+      100
+    ]
+  },
+  "classes": [
+    "a",
+    "apostrophe",
+    "b",
+    "c",
+    "comma",
+    "d",
+    "e",
+    "f",
+    "g",
+    "greaterThan",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "questionMark",
+    "r",
+    "s",
+    "t",
+    "tilde",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
+  ],
+  "n_classes": 31,
+  "splits": [
+    {
+      "split": "block_aware",
+      "feature_type": "flat",
+      "n_train": 1860,
+      "n_val": 186,
+      "n_test": 1581,
+      "feature_dim": 19200
+    },
+    {
+      "split": "block_aware",
+      "feature_type": "temporal",
+      "n_train": 1860,
+      "n_val": 186,
+      "n_test": 1581,
+      "feature_dim": 576
+    },
+    {
+      "split": "random_trial",
+      "feature_type": "flat",
+      "n_train": 1813,
+      "n_val": 907,
+      "n_test": 907,
+      "feature_dim": 19200
+    },
+    {
+      "split": "random_trial",
+      "feature_type": "temporal",
+      "n_train": 1813,
+      "n_val": 907,
+      "n_test": 907,
+      "feature_dim": 576
+    }
+  ]
+}

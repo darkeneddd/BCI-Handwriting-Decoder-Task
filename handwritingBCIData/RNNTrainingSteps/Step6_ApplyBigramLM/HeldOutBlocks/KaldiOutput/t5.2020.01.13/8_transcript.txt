@@ -1,0 +1,65 @@
+8-1  v e r y <space> c o o l 
+8-2  v e r y <space> c o o l . 
+8-3 , <space> v e r y <space> c o o l 
+8-4 , <space> v e r y <space> c o o l . 
+8-5  v e r y <space> c o l d . 
+8-6  v e r y <space> c o l l 
+8-7  v e r y <space> c o l 
+8-8  v e r y <space> c o o l ? 
+8-9  v e r y <space> c o l . 
+8-10  t e r r y <space> c o l l 
+8-11  t e r r y <space> c o l 
+8-12  t e r r y <space> c o l . 
+8-13  v e r y <space> c o l d 
+8-14  t e r r y <space> c o o l 
+8-15  t e r r y <space> c o o l . 
+8-16  e v e r y <space> c o l l 
+8-17  e v e r y <space> c o l 
+8-18  e v e r y <space> c o l . 
+8-19  v e r y <space> c o l l . 
+8-20  t e r r y <space> c o l l . 
+8-21  e v e r y <space> c o o l 
+8-22  e v e r y <space> c o o l . 
+8-23 , <space> v e r y <space> c o l d . 
+8-24 ' <space> v e r y <space> c o o l 
+8-25 ' <space> v e r y <space> c o o l . 
+8-26  t h e y <space> c o o l 
+8-27 , <space> v e r y <space> c o l l 
+8-28 ' m <space> v e r y <space> c o o l 
+8-29  t h e y <space> c o o l . 
+8-30 , <space> v e r y <space> c o l 
+8-31 , <space> v e r y <space> c o o l ? 
+8-32 ' m <space> v e r y <space> c o o l . 
+8-33  a <space> v e r y <space> c o o l 
+8-34 , <space> v e r y <space> c o l . 
+8-35  a <space> v e r y <space> c o o l . 
+8-36 , <space> t e r r y <space> c o l l 
+8-37 , <space> t e r r y <space> c o l 
+8-38 , <space> t e r r y <space> c o l . 
+8-39 , <space> v e r y <space> c o l d 
+8-40  e v e r y <space> c o l l . 
+8-41 , <space> t e r r y <space> c o o l 
+8-42 , <space> t e r r y <space> c o o l . 
+8-43 , <space> v e r y <space> c o l l . 
+8-44 , <space> t e r r y <space> c o l l . 
+8-45 ' <space> v e r y <space> c o l d . 
+8-46 ' m <space> v e r y <space> c o l d . 
+8-47 ' <space> v e r y <space> c o l l 
+8-48 ' <space> v e r y <space> c o l 
+8-49 ' <space> v e r y <space> c o o l ? 
+8-50 ' m <space> v e r y <space> c o l l 
+8-51  a <space> v e r y <space> c o l d . 
+8-52 ' m <space> v e r y <space> c o l 
+8-53 ' m <space> v e r y <space> c o o l ? 
+8-54 ' <space> v e r y <space> c o l . 
+8-55  a <space> v e r y <space> c o l l 
+8-56  a <space> v e r y <space> c o l 
+8-57  a <space> v e r y <space> c o o l ? 
+8-58 ' m <space> v e r y <space> c o l . 
+8-59  a <space> v e r y <space> c o l . 
+8-60 ' <space> v e r y <space> c o l d 
+8-61 ' m <space> v e r y <space> c o l d 
+8-62  a <space> v e r y <space> c o l d 
+8-63 ' <space> v e r y <space> c o l l . 
+8-64 ' m <space> v e r y <space> c o l l . 
+8-65  a <space> v e r y <space> c o l l . 

@@ -1,0 +1,12 @@
+56-1  t h i c k <space> w a l l s 
+56-2  t h i c k <space> w a l l s . 
+56-3 , <space> t h i c k <space> w a l l s 
+56-4 , <space> t h i c k <space> w a l l s . 
+56-5  t h i c k <space> w a l l s , 
+56-6  t h i c k <space> w a l l s ? 
+56-7 ' <space> t h i c k <space> w a l l s 
+56-8 ' <space> t h i c k <space> w a l l s . 
+56-9 , <space> t h i c k <space> w a l l s , 
+56-10 , <space> t h i c k <space> w a l l s ? 
+56-11 ' <space> t h i c k <space> w a l l s , 
+56-12 ' <space> t h i c k <space> w a l l s ? 

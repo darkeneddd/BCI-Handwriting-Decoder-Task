@@ -1,0 +1,45 @@
+48-1  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t o <space> s a y <space> g o o d b y e . 
+48-2  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t <space> t o <space> s a y <space> g o o d b y e . 
+48-3  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> i t <space> t o <space> s a y <space> g o o d b y e . 
+48-4 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t o <space> s a y <space> g o o d b y e . 
+48-5  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> i <space> t o <space> s a y <space> g o o d b y e . 
+48-6 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t <space> t o <space> s a y <space> g o o d b y e . 
+48-7 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> i t <space> t o <space> s a y <space> g o o d b y e . 
+48-8  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t o <space> t o <space> s a y <space> g o o d b y e . 
+48-9  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> h <space> t o <space> s a y <space> g o o d b y e . 
+48-10  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> a t <space> t o <space> s a y <space> g o o d b y e . 
+48-11  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> a <space> t o <space> s a y <space> g o o d b y e . 
+48-12  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> c <space> t o <space> s a y <space> g o o d b y e . 
+48-13 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> i <space> t o <space> s a y <space> g o o d b y e . 
+48-14 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t o <space> s a y <space> g o o d b y e . 
+48-15  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> f <space> t o <space> s a y <space> g o o d b y e . 
+48-16  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> s <space> t o <space> s a y <space> g o o d b y e . 
+48-17  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> r <space> t o <space> s a y <space> g o o d b y e . 
+48-18  i t ' s <space> g o i n g <space> t o <space> b e <space> h e a r d <space> i t <space> t o <space> s a y <space> g o o d b y e . 
+48-19  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> w <space> t o <space> s a y <space> g o o d b y e . 
+48-20  i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t t <space> t o <space> s a y <space> g o o d b y e . 
+48-21 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t o <space> t o <space> s a y <space> g o o d b y e . 
+48-22 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> h <space> t o <space> s a y <space> g o o d b y e . 
+48-23 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> a t <space> t o <space> s a y <space> g o o d b y e . 
+48-24 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t <space> t o <space> s a y <space> g o o d b y e . 
+48-25 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> i t <space> t o <space> s a y <space> g o o d b y e . 
+48-26 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> a <space> t o <space> s a y <space> g o o d b y e . 
+48-27 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> c <space> t o <space> s a y <space> g o o d b y e . 
+48-28 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> f <space> t o <space> s a y <space> g o o d b y e . 
+48-29 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> s <space> t o <space> s a y <space> g o o d b y e . 
+48-30 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> r <space> t o <space> s a y <space> g o o d b y e . 
+48-31 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h e a r d <space> i t <space> t o <space> s a y <space> g o o d b y e . 
+48-32 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> w <space> t o <space> s a y <space> g o o d b y e . 
+48-33 , <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t t <space> t o <space> s a y <space> g o o d b y e . 
+48-34 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> i <space> t o <space> s a y <space> g o o d b y e . 
+48-35 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t o <space> t o <space> s a y <space> g o o d b y e . 
+48-36 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> h <space> t o <space> s a y <space> g o o d b y e . 
+48-37 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> a t <space> t o <space> s a y <space> g o o d b y e . 
+48-38 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> a <space> t o <space> s a y <space> g o o d b y e . 
+48-39 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> c <space> t o <space> s a y <space> g o o d b y e . 
+48-40 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> f <space> t o <space> s a y <space> g o o d b y e . 
+48-41 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> s <space> t o <space> s a y <space> g o o d b y e . 
+48-42 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> r <space> t o <space> s a y <space> g o o d b y e . 
+48-43 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h e a r d <space> i t <space> t o <space> s a y <space> g o o d b y e . 
+48-44 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> w <space> t o <space> s a y <space> g o o d b y e . 
+48-45 ' <space> i t ' s <space> g o i n g <space> t o <space> b e <space> h a r d <space> t t <space> t o <space> s a y <space> g o o d b y e . 

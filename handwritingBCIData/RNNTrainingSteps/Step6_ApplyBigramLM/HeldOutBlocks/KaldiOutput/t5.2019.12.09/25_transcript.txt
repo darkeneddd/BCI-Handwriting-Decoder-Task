@@ -1,0 +1,24 @@
+25-1  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . 
+25-2 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . 
+25-3  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r e . 
+25-4  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . . 
+25-5  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . 
+25-6 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . 
+25-7 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r e . 
+25-8 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . . 
+25-9  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r r . 
+25-10 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . 
+25-11 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r r . 
+25-12  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r e . 
+25-13  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . . 
+25-14 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r e . 
+25-15 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . . 
+25-16 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . 
+25-17 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r e . 
+25-18 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . . 
+25-19  a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r r . 
+25-20 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u c k e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r r . 
+25-21 , <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r r . 
+25-22 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r e . 
+25-23 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r . . 
+25-24 ' <space> a <space> l o a f <space> o f <space> b r e a d <space> w a s <space> p l u n g e d <space> d o w n <space> n o t <space> f a r <space> f r o m <space> h e r r . 

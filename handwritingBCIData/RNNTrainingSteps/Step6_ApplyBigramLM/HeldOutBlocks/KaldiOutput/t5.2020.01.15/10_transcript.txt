@@ -1,0 +1,6 @@
+10-1  p o i n t l e s s 
+10-2 , <space> p o i n t l e s s 
+10-3  p o i n t l e s s . 
+10-4 , <space> p o i n t l e s s . 
+10-5 ' <space> p o i n t l e s s 
+10-6 ' <space> p o i n t l e s s . 

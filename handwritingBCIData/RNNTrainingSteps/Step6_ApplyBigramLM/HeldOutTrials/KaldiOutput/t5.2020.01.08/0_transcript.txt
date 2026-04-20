@@ -1,0 +1,12 @@
+0-1  i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? 
+0-2  i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? ? 
+0-3 , <space> i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? 
+0-4  m i s s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? 
+0-5 ' <space> i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? 
+0-6  i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d . 
+0-7 , <space> i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? ? 
+0-8  m i s s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? ? 
+0-9 ' <space> i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d ? ? 
+0-10 , <space> i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d . 
+0-11  m i s s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d . 
+0-12 ' <space> i s <space> i t <space> l i k e l y <space> t h a t <space> t h e y <space> w o u l d <space> h a v e <space> k i s s e d . 

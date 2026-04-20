@@ -1,0 +1,38 @@
+8-1  v e r y <space> c o o l 
+8-2  v e r y <space> c o o l . 
+8-3  t e r r y <space> c o l l 
+8-4  v e r y <space> c o o l ? 
+8-5  v e r y <space> c o l l 
+8-6 , <space> v e r y <space> c o o l 
+8-7  t e r r y <space> c o l 
+8-8  v e r y <space> c o l 
+8-9  t e r r y <space> c o o l 
+8-10 , <space> v e r y <space> c o o l . 
+8-11  e v e r y <space> c o l l 
+8-12  t e r r y <space> c o l . 
+8-13  v e r y <space> c o l d 
+8-14 , <space> t e r r y <space> c o l l 
+8-15 , <space> v e r y <space> c o o l ? 
+8-16  v e r y <space> c o l . 
+8-17  t e r r y <space> c o o l . 
+8-18  e v e r y <space> c o l 
+8-19 , <space> v e r y <space> c o l l 
+8-20  e v e r y <space> c o o l 
+8-21 , <space> t e r r y <space> c o l 
+8-22  t e r r y <space> c o o l ? 
+8-23 ' <space> v e r y <space> c o o l 
+8-24  e v e r y <space> c o l . 
+8-25 , <space> v e r y <space> c o l 
+8-26 , <space> t e r r y <space> c o o l 
+8-27  e v e r y <space> c o o l . 
+8-28 , <space> t e r r y <space> c o l . 
+8-29 ' <space> v e r y <space> c o o l . 
+8-30 , <space> v e r y <space> c o l d 
+8-31 , <space> v e r y <space> c o l . 
+8-32 , <space> t e r r y <space> c o o l . 
+8-33 ' <space> v e r y <space> c o o l ? 
+8-34 , <space> t e r r y <space> c o o l ? 
+8-35 ' <space> v e r y <space> c o l l 
+8-36 ' <space> v e r y <space> c o l 
+8-37 ' <space> v e r y <space> c o l d 
+8-38 ' <space> v e r y <space> c o l . 

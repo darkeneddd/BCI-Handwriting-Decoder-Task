@@ -1,0 +1,24 @@
+64-1  c a t s <space> a n d <space> d o g s 
+64-2  c a t s <space> a n d <space> d o g s . 
+64-3 , <space> c a t s <space> a n d <space> d o g s 
+64-4  c a t s <space> a n d <space> d o g . 
+64-5  c a t s <space> a n d <space> d o g 
+64-6  c a t s <space> a n d <space> d o g s ? 
+64-7 , <space> c a t s <space> a n d <space> d o g s . 
+64-8  c a t s <space> a n d <space> d o g ? 
+64-9  c o a t s <space> a n d <space> d o g s 
+64-10 , <space> c a t s <space> a n d <space> d o g . 
+64-11 , <space> c a t s <space> a n d <space> d o g 
+64-12 ' <space> c a t s <space> a n d <space> d o g s 
+64-13 , <space> c a t s <space> a n d <space> d o g s ? 
+64-14 , <space> c a t s <space> a n d <space> d o g ? 
+64-15  c o a t s <space> a n d <space> d o g s . 
+64-16  c o a t s <space> a n d <space> d o g . 
+64-17  c o a t s <space> a n d <space> d o g 
+64-18 ' <space> c a t s <space> a n d <space> d o g s . 
+64-19 ' <space> c a t s <space> a n d <space> d o g . 
+64-20 ' <space> c a t s <space> a n d <space> d o g 
+64-21  c o a t s <space> a n d <space> d o g s ? 
+64-22  c o a t s <space> a n d <space> d o g ? 
+64-23 ' <space> c a t s <space> a n d <space> d o g s ? 
+64-24 ' <space> c a t s <space> a n d <space> d o g ? 

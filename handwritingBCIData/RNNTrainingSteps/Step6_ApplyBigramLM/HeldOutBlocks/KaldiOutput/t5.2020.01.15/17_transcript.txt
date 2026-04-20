@@ -1,0 +1,12 @@
+17-1  m o n e y <space> i s n ' t <space> e v e r y t h i n g 
+17-2  m o n e y <space> i s n ' t <space> e v e r y t h i n g . 
+17-3  m o o n e y <space> i s n ' t <space> e v e r y t h i n g 
+17-4 , <space> m o n e y <space> i s n ' t <space> e v e r y t h i n g 
+17-5 ' <space> m o n e y <space> i s n ' t <space> e v e r y t h i n g 
+17-6  m o o n e y <space> i s n ' t <space> e v e r y t h i n g . 
+17-7 , <space> m o o n e y <space> i s n ' t <space> e v e r y t h i n g 
+17-8 , <space> m o n e y <space> i s n ' t <space> e v e r y t h i n g . 
+17-9  m o n e y , <space> i s n ' t <space> e v e r y t h i n g 
+17-10 ' <space> m o n e y <space> i s n ' t <space> e v e r y t h i n g . 
+17-11 , <space> m o o n e y <space> i s n ' t <space> e v e r y t h i n g . 
+17-12  m o n e y , <space> i s n ' t <space> e v e r y t h i n g . 

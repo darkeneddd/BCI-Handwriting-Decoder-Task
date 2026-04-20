@@ -1,0 +1,15 @@
+3-1  i t <space> r a i n e d <space> a l l <space> d a y 
+3-2 , <space> i t <space> r a i n e d <space> a l l <space> d a y 
+3-3  i t <space> r a i n e d <space> a l l <space> d a 
+3-4 , <space> i t <space> r a i n e d <space> a l l <space> d a 
+3-5  i t <space> r a i n e d <space> a l <space> d a 
+3-6 ' <space> i t <space> r a i n e d <space> a l l <space> d a y 
+3-7  i t <space> r a i n e d <space> a l l <space> d d a 
+3-8  i t <space> r a i n e d <space> a l l <space> d a y . 
+3-9 , <space> i t <space> r a i n e d <space> a l <space> d a 
+3-10 , <space> i t <space> r a i n e d <space> a l l <space> d d a 
+3-11 ' <space> i t <space> r a i n e d <space> a l l <space> d a 
+3-12 , <space> i t <space> r a i n e d <space> a l l <space> d a y . 
+3-13 ' <space> i t <space> r a i n e d <space> a l <space> d a 
+3-14 ' <space> i t <space> r a i n e d <space> a l l <space> d d a 
+3-15 ' <space> i t <space> r a i n e d <space> a l l <space> d a y . 

@@ -1,0 +1,128 @@
+82-1  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-2  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-3  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-4  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-5 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-6 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-7  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-8  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-9  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-10 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-11 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-12  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-13  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-14  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-15  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-16  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-17  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-18  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t o n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-19  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-20  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-21 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-22  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-23 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-24  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-25 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-26 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-27  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-28  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-29  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r , <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-30  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-31  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-32  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e r , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-33 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-34  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s n o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-35 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-36  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e d , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-37  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-38  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-39  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-40  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t o n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-41  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e 
+82-42  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e 
+82-43 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-44 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-45 , <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-46  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-47 , <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-48 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-49 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-50 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-51  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-52 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t o n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-53  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-54  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r , <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-55 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-56 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-57  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e r , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-58 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-59  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s n o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-60 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-61  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e d , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-62  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-63 , <space> i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-64  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-65 , <space> i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-66 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r , <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-67 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-68 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-69 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e r , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-70 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s n o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-71  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-72 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e d , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-73 , <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-74 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-75  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-76 , <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-77  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-78 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-79 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-80 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t o n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-81  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-82  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-83 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-84  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-85  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r , <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-86 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e 
+82-87  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-88 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e 
+82-89  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-90 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-91 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-92  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-93  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-94  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-95 , <space> i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-96  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-97  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-98 , <space> i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-99  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-100 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r , <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-101  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t o n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-102  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-103  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-104 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e r , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-105 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s n o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-106  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-107 ' <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-108  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-109 ' <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-110 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-111 , <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e d , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-112 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-113  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-114 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-115 , <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-116 , <space> i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-117 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t o n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-118  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-119  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r , <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-120  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r , <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o <space> d a n c e . 
+82-121 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-122  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-123  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e 
+82-124  i f <space> t h e y <space> r e p l a y i n g <space> a n o t h e r <space> s h o w <space> t u n e , , <space> i ' d <space> l i k e <space> t o <space> d a n c e 
+82-125 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i d <space> l i k e <space> t o <space> d a n c e . 
+82-126  i f <space> t h e y r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-127  i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s l o w <space> t u n e s , <space> i ' d <space> l i k e <space> t o o <space> d a n c e . 
+82-128 ' <space> i f <space> t h e y ' r e <space> p l a y i n g <space> a n o t h e r <space> s o w <space> t u n e , <space> i ' d <space> l i k e <space> t o <space> d a n c e 

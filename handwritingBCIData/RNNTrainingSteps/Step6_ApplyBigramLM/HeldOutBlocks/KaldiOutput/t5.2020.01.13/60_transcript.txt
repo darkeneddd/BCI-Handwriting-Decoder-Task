@@ -1,0 +1,8 @@
+60-1  l o t s <space> o f <space> q u e s t i o n s 
+60-2 , <space> l o t s <space> o f <space> q u e s t i o n s 
+60-3  l o t s <space> o f <space> q u e s t i o n s . 
+60-4  p l o t s <space> o f <space> q u e s t i o n s 
+60-5 , <space> l o t s <space> o f <space> q u e s t i o n s . 
+60-6 ' <space> l o t s <space> o f <space> q u e s t i o n s 
+60-7  p l o t s <space> o f <space> q u e s t i o n s . 
+60-8 ' <space> l o t s <space> o f <space> q u e s t i o n s . 

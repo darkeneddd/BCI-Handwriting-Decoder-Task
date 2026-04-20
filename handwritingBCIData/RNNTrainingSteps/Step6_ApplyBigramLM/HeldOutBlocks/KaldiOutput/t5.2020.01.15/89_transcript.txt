@@ -1,0 +1,12 @@
+89-1  h e <space> w a s <space> q u i c k 
+89-2 , <space> h e <space> w a s <space> q u i c k 
+89-3 ' <space> h e <space> w a s <space> q u i c k 
+89-4  s h e <space> w a s <space> q u i c k 
+89-5  h e <space> w a s <space> q u i c k ? 
+89-6  h e <space> w a s <space> q u i c k . 
+89-7 , <space> h e <space> w a s <space> q u i c k ? 
+89-8 , <space> h e <space> w a s <space> q u i c k . 
+89-9 ' <space> h e <space> w a s <space> q u i c k ? 
+89-10  s h e <space> w a s <space> q u i c k ? 
+89-11 ' <space> h e <space> w a s <space> q u i c k . 
+89-12  s h e <space> w a s <space> q u i c k . 

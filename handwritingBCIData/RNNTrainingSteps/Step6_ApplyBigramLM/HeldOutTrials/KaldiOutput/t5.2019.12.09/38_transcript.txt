@@ -1,0 +1,12 @@
+38-1  t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , <space> s t r o n g l y <space> b l u e <space> a n d <space> v e r y <space> w i d e . 
+38-2 , <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , <space> s t r o n g l y <space> b l u e <space> a n d <space> v e r y <space> w i d e . 
+38-3  t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , , <space> s t r o n g l y <space> b l u e <space> a n d <space> v e r y <space> w i d e . 
+38-4 , <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , , <space> s t r o n g l y <space> b l u e <space> a n d <space> v e r y <space> w i d e . 
+38-5 ' <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , <space> s t r o n g l y <space> b l u e <space> a n d <space> v e r y <space> w i d e . 
+38-6  t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , <space> s t r o n g l y <space> b l e <space> a n d <space> v e r y <space> w i d e . 
+38-7 , <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , <space> s t r o n g l y <space> b l e <space> a n d <space> v e r y <space> w i d e . 
+38-8 ' <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , , <space> s t r o n g l y <space> b l u e <space> a n d <space> v e r y <space> w i d e . 
+38-9  t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , , <space> s t r o n g l y <space> b l e <space> a n d <space> v e r y <space> w i d e . 
+38-10 , <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , , <space> s t r o n g l y <space> b l e <space> a n d <space> v e r y <space> w i d e . 
+38-11 ' <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , <space> s t r o n g l y <space> b l e <space> a n d <space> v e r y <space> w i d e . 
+38-12 ' <space> t h e <space> e y e s <space> w e r e <space> s u d d e n l y <space> o p e n , , <space> s t r o n g l y <space> b l e <space> a n d <space> v e r y <space> w i d e . 

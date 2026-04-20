@@ -1,0 +1,18 @@
+60-1  w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e <space> a r m y <space> h a d <space> l a n d e d 
+60-2  w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e <space> a r m y <space> h a d <space> l a n d e d . 
+60-3 , <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e <space> a r m y <space> h a d <space> l a n d e d 
+60-4 , <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e <space> a r m y <space> h a d <space> l a n d e d . 
+60-5 ' <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e <space> a r m y <space> h a d <space> l a n d e d 
+60-6 ' <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e <space> a r m y <space> h a d <space> l a n d e d . 
+60-7  w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e e <space> a r m y <space> h a d <space> l a n d e d 
+60-8  w i t h i n <space> t h i r t y <space> s e c o n d s , <space> t h e <space> a r m y <space> h a d <space> l a n d e d 
+60-9  w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e e <space> a r m y <space> h a d <space> l a n d e d . 
+60-10  w i t h i n <space> t h i r t y <space> s e c o n d s , <space> t h e <space> a r m y <space> h a d <space> l a n d e d . 
+60-11 , <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e e <space> a r m y <space> h a d <space> l a n d e d 
+60-12 , <space> w i t h i n <space> t h i r t y <space> s e c o n d s , <space> t h e <space> a r m y <space> h a d <space> l a n d e d 
+60-13 , <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e e <space> a r m y <space> h a d <space> l a n d e d . 
+60-14 , <space> w i t h i n <space> t h i r t y <space> s e c o n d s , <space> t h e <space> a r m y <space> h a d <space> l a n d e d . 
+60-15 ' <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e e <space> a r m y <space> h a d <space> l a n d e d 
+60-16 ' <space> w i t h i n <space> t h i r t y <space> s e c o n d s , <space> t h e <space> a r m y <space> h a d <space> l a n d e d 
+60-17 ' <space> w i t h i n <space> t h i r t y <space> s e c o n d s <space> t h e e <space> a r m y <space> h a d <space> l a n d e d . 
+60-18 ' <space> w i t h i n <space> t h i r t y <space> s e c o n d s , <space> t h e <space> a r m y <space> h a d <space> l a n d e d . 

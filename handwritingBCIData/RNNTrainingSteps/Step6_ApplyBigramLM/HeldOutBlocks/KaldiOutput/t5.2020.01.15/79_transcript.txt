@@ -1,0 +1,128 @@
+79-1  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-2  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-3  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-4 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-5  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-6 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-7  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-8 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-9  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-10  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-11  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-12  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-13  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y <space> h a l l . 
+79-14  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-15  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y <space> h a l l . 
+79-16 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-17  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-18  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-19  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , <space> u g l y , <space> h a l l . 
+79-20 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-21  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r g e , <space> u g l y <space> h a l l . 
+79-22  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e n , <space> u g l y <space> h a l l . 
+79-23  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r n , , <space> u g l y <space> h a l l . 
+79-24  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-25  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-26  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-27 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-28  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-29  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-30  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , <space> u g l y , <space> h a l l . 
+79-31 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-32 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-33 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-34  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-35 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-36 , <space> a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-37  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-38  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-39 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y <space> h a l l . 
+79-40 , <space> a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-41 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y <space> h a l l . 
+79-42  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-43 , <space> a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-44  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-45  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y , <space> h a l l . 
+79-46 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , <space> u g l y , <space> h a l l . 
+79-47 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-48 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r g e , <space> u g l y <space> h a l l . 
+79-49 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e n , <space> u g l y <space> h a l l . 
+79-50  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-51 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r n , , <space> u g l y <space> h a l l . 
+79-52  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-53  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-54 , <space> a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-55 , <space> a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-56 , <space> a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-57  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-58  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-59  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y , <space> h a l l . 
+79-60 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-61 , <space> a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-62 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , <space> u g l y , <space> h a l l . 
+79-63  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-64  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-65  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-66 , <space> a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-67 , <space> a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r e , <space> u g l y <space> h a l l . 
+79-68  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-69 , <space> a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-70  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-71  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , <space> u g l y , <space> h a l l . 
+79-72  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-73 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-74  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-75  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-76  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-77 , <space> a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-78  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-79 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y , <space> h a l l . 
+79-80  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y <space> h a l l . 
+79-81  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-82  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r r e , <space> u g l y <space> h a l l . 
+79-83  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-84  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y <space> h a l l . 
+79-85  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-86  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y , <space> h a l l . 
+79-87 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-88  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y <space> h a l l . 
+79-89  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-90 , <space> a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-91  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-92  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-93  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r , , <space> u g l y , <space> h a l l . 
+79-94  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-95  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y <space> h a l l . 
+79-96  m a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-97  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , <space> u g l y , <space> h a l l . 
+79-98 , <space> a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-99 , <space> a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r e , , <space> u g l y <space> h a l l . 
+79-100  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y , <space> h a l l . 
+79-101  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y <space> h a l l . 
+79-102 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-103 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-104 ' <space> a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-105  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r g e , <space> u g l y <space> h a l l . 
+79-106  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y <space> h a l l . 
+79-107  m a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-108  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y , <space> h a l l . 
+79-109  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , , <space> u g l y , <space> h a l l . 
+79-110 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r r e , , <space> u g l y <space> h a l l . 
+79-111  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r r e l , <space> u g l y <space> h a l l . 
+79-112 ' <space> a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-113  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r g e , <space> u g l y <space> h a l l . 
+79-114  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r r e n , <space> u g l y <space> h a l l . 
+79-115  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y <space> h a l l . 
+79-116 , <space> a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , , , <space> u g l y <space> h a l l . 
+79-117  a <space> d o o r <space> l e e d <space> i n t o <space> a <space> b a r n , , <space> u g l y <space> h a l l . 
+79-118  m a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y <space> h a l l . 
+79-119  a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y , <space> h a l l . 
+79-120  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r r e n , <space> u g l y <space> h a l l . 
+79-121  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r r , , <space> u g l y <space> h a l l . 
+79-122  m a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 
+79-123 , <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r , , , <space> u g l y , <space> h a l l . 
+79-124  a <space> d o o r <space> f l e d <space> i n t o <space> a <space> b a r , <space> u g l y <space> h a l l . 
+79-125  a <space> d o o r <space> b l e d <space> i n t o <space> a <space> b a r n , , <space> u g l y <space> h a l l . 
+79-126  a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y , <space> h a l l . 
+79-127 ' <space> a <space> d o o r <space> l e d <space> i n t o <space> a <space> b a r e , , , <space> u g l y <space> h a l l . 
+79-128 ' <space> a <space> d o o r <space> b l e e d <space> i n t o <space> a <space> b a r , , <space> u g l y <space> h a l l . 

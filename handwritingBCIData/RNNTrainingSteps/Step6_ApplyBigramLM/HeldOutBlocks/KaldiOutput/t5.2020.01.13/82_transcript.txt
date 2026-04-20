@@ -1,0 +1,20 @@
+82-1  w e a r <space> a <space> c o a t 
+82-2 , <space> w e a r <space> a <space> c o a t 
+82-3  w e a r <space> a <space> c o a t . 
+82-4  w e a r <space> a <space> c o a t ? 
+82-5  s w e a r <space> a <space> c o a t 
+82-6  w e a r <space> a <space> c o a s t 
+82-7 ' <space> w e a r <space> a <space> c o a t 
+82-8  w e a r s <space> a <space> c o a t 
+82-9 , <space> w e a r <space> a <space> c o a t . 
+82-10 , <space> w e a r <space> a <space> c o a t ? 
+82-11 , <space> w e a r <space> a <space> c o a s t 
+82-12  s w e a r <space> a <space> c o a t . 
+82-13 ' <space> w e a r <space> a <space> c o a t . 
+82-14  w e a r s <space> a <space> c o a t . 
+82-15  s w e a r <space> a <space> c o a t ? 
+82-16 ' <space> w e a r <space> a <space> c o a t ? 
+82-17  s w e a r <space> a <space> c o a s t 
+82-18  w e a r s <space> a <space> c o a t ? 
+82-19 ' <space> w e a r <space> a <space> c o a s t 
+82-20  w e a r s <space> a <space> c o a s t 

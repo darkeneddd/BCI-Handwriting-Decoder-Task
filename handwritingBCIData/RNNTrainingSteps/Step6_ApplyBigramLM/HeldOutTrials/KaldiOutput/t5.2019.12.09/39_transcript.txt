@@ -1,0 +1,30 @@
+39-1  i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-2  i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-3 , <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-4  i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-5 , <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-6  i i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-7 , <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-8 ' <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-9  i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-10  i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-11  i i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-12 ' <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-13  i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-14  i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-15  i i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-16 , <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-17 ' <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-18  i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-19  i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-20 , <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-21  i i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-22 , <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-23 ' <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-24  i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a <space> d e v e l o p m e n t . 
+39-25  i i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-26 ' <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-27  i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a a <space> d e v e l o p m e n t . 
+39-28  i i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-29 ' <space> i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a <space> d e v e l o p m e n t . 
+39-30  i i <space> a c c e p t <space> t h a t <space> i t <space> p r e c l u d e s <space> a <space> c l a s s <space> a a <space> d e v e l o p m e n t . 

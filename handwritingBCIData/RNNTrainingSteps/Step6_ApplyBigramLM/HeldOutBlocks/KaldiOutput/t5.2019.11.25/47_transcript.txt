@@ -1,0 +1,9 @@
+47-1  n o , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-2 , <space> n o , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-3  n o , , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-4  o n o , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-5 ' <space> n o , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-6 , <space> n o , , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-7  u n o , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-8  e n o , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 
+47-9 ' <space> n o , , <space> i t ' s <space> s o m e t h i n g <space> s t u c k <space> i n <space> m y <space> t h r o a t . 

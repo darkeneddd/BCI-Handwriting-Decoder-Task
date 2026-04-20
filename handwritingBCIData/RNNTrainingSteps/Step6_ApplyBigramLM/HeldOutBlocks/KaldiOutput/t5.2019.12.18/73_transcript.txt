@@ -1,0 +1,18 @@
+73-1  a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-2 , <space> a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-3  a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-4  a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-5 , <space> a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-6 ' <space> a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-7 , <space> a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-8  a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-9 , <space> a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-10 ' <space> a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-11 ' <space> a l t h o u g h <space> s p e e c h <space> i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-12  a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-13  a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-14 , <space> a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-15 ' <space> a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-16 , <space> a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-17 ' <space> a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e , , <space> i t <space> l a c k s <space> p e r m a n e n c e . 
+73-18 ' <space> a l t h o u g h <space> s p e e c h <space> h i s <space> i m m e d i a t e <space> a n d <space> f l e x i b l e <space> i t <space> l a c k s <space> p e r m a n e n c e . 

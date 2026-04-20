@@ -1,0 +1,13 @@
+100-1  f o x 
+100-2  f o r 
+100-3 , <space> f o x 
+100-4  f o x x 
+100-5  f o x . 
+100-6  f o x ? 
+100-7 , <space> f o r 
+100-8 ' <space> f o x 
+100-9  f o r ? 
+100-10 , <space> f o x x 
+100-11  f o o t 
+100-12  f o r . 
+100-13  f o o 

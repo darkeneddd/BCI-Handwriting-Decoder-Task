@@ -1,0 +1,128 @@
+47-1  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-2 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-3  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-4  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-5  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-6  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-7 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-8  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-9 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-10  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-11 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-12  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-13 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-14  w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-15  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-16  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-17  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-18  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-19  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-20  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-21 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-22  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-23 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-24 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-25 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-26 , <space> w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-27 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-28  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-29 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-30 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-31  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-32 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-33  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-34 , <space> w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-35  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-36  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-37 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-38  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? ? 
+47-39 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-40  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-41  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-42 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-43  w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-44  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-45  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-46 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-47  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-48  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-49  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-50  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-51  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-52  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-53  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? ? 
+47-54  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-55  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-56 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-57  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-58 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-59  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-60  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-61 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-62 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-63  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-64 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-65  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-66 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-67 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-68  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-69 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-70 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? ? 
+47-71  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-72 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-73  w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-74  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-75 , <space> w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-76 , <space> w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-77 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-78 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-79  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e . 
+47-80 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-81 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-82  w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-83 ' <space> w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-84  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-85 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-86 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-87  w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-88  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-89  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-90 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-91 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-92  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-93  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? ? 
+47-94 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-95 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-96  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-97 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-98  w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-99  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-100  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-101 , <space> w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-102  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-103 ' <space> w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-104  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-105 , <space> w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-106  w h y <space> g o o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-107  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-108  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-109  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-110 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? ? 
+47-111  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-112 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-113  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-114  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-115  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e . 
+47-116 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-117  w h y <space> g o <space> f o r <space> t h e e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-118  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s , <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-119  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? ? 
+47-120 ' <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-121  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-122  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s <space> s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? ? 
+47-123 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c h a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? 
+47-124  w h y <space> g o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 
+47-125 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e e <space> s t a r r i n g <space> r o l e ? 
+47-126  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t e e <space> s t a r r i n g <space> r o l e ? 
+47-127 , <space> w h y <space> g o <space> f o r <space> t h e <space> c h o r u s ' s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e . 
+47-128  w h y <space> g o o <space> f o r <space> t h e <space> c h o r u s e s <space> w h e n <space> y o u <space> c a n <space> h a v e <space> t h e <space> s t a r r i n g <space> r o l e ? ? 

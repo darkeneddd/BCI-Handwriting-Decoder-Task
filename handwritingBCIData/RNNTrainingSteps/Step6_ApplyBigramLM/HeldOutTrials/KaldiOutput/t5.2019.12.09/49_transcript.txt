@@ -1,0 +1,12 @@
+49-1  o n <space> t h e <space> s y s t e m . 
+49-2  o n <space> t h e <space> s y s t e m 
+49-3  o n <space> t h e <space> s y s t e m ? 
+49-4 , <space> o n <space> t h e <space> s y s t e m . 
+49-5  w o n <space> t h e <space> s y s t e m . 
+49-6 , <space> o n <space> t h e <space> s y s t e m 
+49-7 , <space> o n <space> t h e <space> s y s t e m ? 
+49-8 ' <space> o n <space> t h e <space> s y s t e m . 
+49-9  w o n <space> t h e <space> s y s t e m 
+49-10  w o n <space> t h e <space> s y s t e m ? 
+49-11 ' <space> o n <space> t h e <space> s y s t e m 
+49-12 ' <space> o n <space> t h e <space> s y s t e m ? 

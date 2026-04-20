@@ -1,0 +1,78 @@
+41-1  s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-2  s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-3  s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-4 , <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-5 , <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-6 , <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-7  s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-8 ' <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-9  s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-10 , <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-11  s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-12 ' <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-13 ' <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-14  s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-15  s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-16  s h e <space> e x c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-17 , <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-18  s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-19  s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-20  s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-21 , <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-22 , <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-23 , <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-24  s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-25  s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-26 , <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-27 , <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-28 ' <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-29 , <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-30  s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-31 ' <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-32  s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-33 , <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-34 , <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-35 ' <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-36 , <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-37  s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-38 ' <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-39 ' <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-40  s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-41  s h e <space> e x c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-42 , <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-43 ' <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-44 ' <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-45 ' <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-46  s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-47  s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-48  s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-49  s h e <space> e x c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-50 , <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-51 , <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-52 ' <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-53 ' <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-54  s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-55  s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-56  s h e <space> e x c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-57 , <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-58 , <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-59 ' <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-60 , <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-61 ' <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-62  s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-63 , <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-64 , <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-65 ' <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-66 ' <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . 
+41-67  s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-68 , <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-69 ' <space> s h e <space> c u r s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-70 ' <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-71 ' <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-72  s h e <space> e x c u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-73 , <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-74 ' <space> s h e <space> c r o s s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-75 ' <space> s h e <space> a c c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-76  s h e <space> e x c u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-77 ' <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p i l l i n g <space> t h e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 
+41-78 ' <space> s h e <space> c a u s e d <space> h e r s e l f <space> f o r <space> s p o i l i n g <space> t e e <space> c l o s e n e s s <space> b e t w e e n <space> t h e m . . 

@@ -1,0 +1,128 @@
+74-1  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-2 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-3  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-4  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-5  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-6  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-7  h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-8  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-9 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-10  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-11 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-12 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-13  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-14 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-15  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-16  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-17 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-18 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-19  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-20  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-21  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-22  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-23  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-24  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-25  h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-26  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-27 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-28  s h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-29  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-30 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-31  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-32 ' <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-33  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-34  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-35 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-36  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-37  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-38  h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-39 ' <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-40  h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-41 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-42  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-43 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-44 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-45 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-46 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-47  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-48 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-49  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-50 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-51  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-52  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-53  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-54  h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-55  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-56 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-57 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-58  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-59  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-60  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-61 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-62  h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-63  s h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-64  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-65 ' <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-66  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-67 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-68  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-69  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-70  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-71  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-72  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-73  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-74  h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-75 ' <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . 
+74-76  h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-77 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-78  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-79 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-80  s h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-81 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-82 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-83  s h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-84 , <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-85 ' <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-86 ' <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-87 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-88 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-89  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-90  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-91  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-92  t h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-93 ' <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-94 ' <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-95 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-96 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-97  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-98  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-99  s h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-100  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-101 ' <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-102  h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-103  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-104  s h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-105  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-106  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-107  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-108  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-109  h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-110 ' <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . 
+74-111  h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-112 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-113  s h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-114 ' <space> h e <space> d a s h e d , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-115  s h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-116 ' <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-117 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-118 ' <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-119 , <space> h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-120 ' <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> h i s <space> w a y . . 
+74-121 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-122 ' <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> l a m p <space> t o o <space> l i g h t <space> t h i s <space> w a y . 
+74-123 , <space> h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-124  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-125  t h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-126  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 
+74-127  s h e <space> d a s h e d , , <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> t h i s <space> w a y . 
+74-128  t h e <space> d a s h e d <space> w i t h o u t <space> a <space> c l a m p <space> t o <space> l i g h t <space> h i s <space> w a y . . 

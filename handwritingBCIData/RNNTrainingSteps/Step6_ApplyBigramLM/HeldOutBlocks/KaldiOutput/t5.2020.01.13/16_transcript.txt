@@ -1,0 +1,7 @@
+16-1  a l l <space> a f t e r n o o n 
+16-2  a l l <space> a f t e r n o o n . 
+16-3 , <space> a l l <space> a f t e r n o o n 
+16-4 , <space> a l l <space> a f t e r n o o n . 
+16-5 ' <space> a l l <space> a f t e r n o o n 
+16-6  f a l l <space> a f t e r n o o n 
+16-7 ' <space> a l l <space> a f t e r n o o n . 

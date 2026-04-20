@@ -1,0 +1,12 @@
+63-1  s o o n <space> t h e <space> b a s k e t s <space> w e r e <space> u n p a c k e d . 
+63-2 , <space> s o o n <space> t h e <space> b a s k e t s <space> w e r e <space> u n p a c k e d . 
+63-3  s o o n <space> t h e <space> b a s k e t s <space> w e r e <space> u n p a c k e d 
+63-4  s o o n <space> t h e e <space> b a s k e t s <space> w e r e <space> u n p a c k e d . 
+63-5 ' <space> s o o n <space> t h e <space> b a s k e t s <space> w e r e <space> u n p a c k e d . 
+63-6 , <space> s o o n <space> t h e <space> b a s k e t s <space> w e r e <space> u n p a c k e d 
+63-7 , <space> s o o n <space> t h e e <space> b a s k e t s <space> w e r e <space> u n p a c k e d . 
+63-8  s o o n <space> t h e e <space> b a s k e t s <space> w e r e <space> u n p a c k e d 
+63-9 ' <space> s o o n <space> t h e <space> b a s k e t s <space> w e r e <space> u n p a c k e d 
+63-10 ' <space> s o o n <space> t h e e <space> b a s k e t s <space> w e r e <space> u n p a c k e d . 
+63-11 , <space> s o o n <space> t h e e <space> b a s k e t s <space> w e r e <space> u n p a c k e d 
+63-12 ' <space> s o o n <space> t h e e <space> b a s k e t s <space> w e r e <space> u n p a c k e d 

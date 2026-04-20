@@ -1,0 +1,6 @@
+0-1  s t r o n g <space> b r e e z e 
+0-2  s t r o n g <space> b r e e z e . 
+0-3 , <space> s t r o n g <space> b r e e z e 
+0-4 , <space> s t r o n g <space> b r e e z e . 
+0-5 ' <space> s t r o n g <space> b r e e z e 
+0-6 ' <space> s t r o n g <space> b r e e z e . 

@@ -1,0 +1,6 @@
+88-1  c l o t h e s 
+88-2 , <space> c l o t h e s 
+88-3 ' <space> c l o t h e s 
+88-4  c l o t h e s . 
+88-5 , <space> c l o t h e s . 
+88-6 ' <space> c l o t h e s . 

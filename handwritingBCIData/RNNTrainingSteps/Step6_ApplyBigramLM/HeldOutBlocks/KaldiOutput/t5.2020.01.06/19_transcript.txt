@@ -1,0 +1,128 @@
+19-1  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-2  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-3 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-4 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-5  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-6  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-7  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-8  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-9  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-10  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-11  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-12  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-13 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-14  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-15 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-16  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-17  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-18 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-19  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-20  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-21 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-22  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-23 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-24  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-25  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-26 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-27 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-28 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-29 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-30 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-31 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-32 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-33 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-34 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-35  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-36 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-37 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-38 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-39  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-40 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-41  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-42  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-43  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-44  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-45  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-46  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-47 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-48 ' <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-49  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-50 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-51 ' <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-52  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-53  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-54  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-55  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-56 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-57 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-58  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-59  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-60  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-61 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-62  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-63 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-64 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-65  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-66  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-67  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-68 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-69  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-70  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-71  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-72 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-73  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-74  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-75  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-76 ' <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-77 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-78  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-79 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-80 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-81  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-82  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-83  b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-84 ' <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-85 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-86 ' <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-87 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-88 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-89 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-90 ' <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-91 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-92  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-93  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-94 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-95 ' <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-96 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-97 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-98  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-99  b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-100 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-101  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-102  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-103 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-104 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-105 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-106  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-107 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-108  b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-109 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-110 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-111 , <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-112 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-113 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-114 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-115 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-116 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-117 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-118  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-119 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g 
+19-120 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-121 , <space> b a r r y <space> w o n <space> t h e e <space> w a v e <space> s k i d <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 
+19-122 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-123  b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-124 , <space> b a r r y <space> w o n <space> t h e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> a <space> t h i c k <space> f o g . 
+19-125 ' <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-126 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i t <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-127 , <space> b a r r y <space> w o n <space> t h r e e <space> w a v e <space> s k i p <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g 
+19-128 ' <space> b a r r y <space> w o n <space> t e e <space> w a v e <space> s k i n <space> s e c t i o n <space> d e s p i t e <space> t h i c k <space> f o g . 

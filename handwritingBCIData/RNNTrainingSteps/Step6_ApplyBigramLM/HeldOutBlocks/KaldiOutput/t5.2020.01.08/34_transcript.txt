@@ -1,0 +1,30 @@
+34-1  a l r e a d y <space> t h e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-2 , <space> a l r e a d y <space> t h e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-3  a l r e a d y <space> t h e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-4  a l r e a d y <space> t h e <space> g l a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-5  a l r e a d y <space> t e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-6  a l r e a d y <space> t h e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-7 ' <space> a l r e a d y <space> t h e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-8  a l r e a d y <space> t h e <space> g a s e s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-9 , <space> a l r e a d y <space> t h e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-10 , <space> a l r e a d y <space> t h e <space> g l a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-11 , <space> a l r e a d y <space> t e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-12 , <space> a l r e a d y <space> t h e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-13 , <space> a l r e a d y <space> t h e <space> g a s e s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-14  a l r e a d y <space> t h e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-15 ' <space> a l r e a d y <space> t h e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-16  a l r e a d y <space> t h e <space> g l a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-17  a l r e a d y <space> t e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-18 ' <space> a l r e a d y <space> t h e <space> g l a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-19 ' <space> a l r e a d y <space> t e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-20 ' <space> a l r e a d y <space> t h e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-21  a l r e a d y <space> t h e <space> g a s e s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-22 ' <space> a l r e a d y <space> t h e <space> g a s e s <space> w a s <space> b e c o m i n g <space> c r i s p <space> w i t h <space> f r o s t . 
+34-23 , <space> a l r e a d y <space> t h e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-24 , <space> a l r e a d y <space> t h e <space> g l a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-25 , <space> a l r e a d y <space> t e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-26 , <space> a l r e a d y <space> t h e <space> g a s e s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-27 ' <space> a l r e a d y <space> t h e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-28 ' <space> a l r e a d y <space> t h e <space> g l a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-29 ' <space> a l r e a d y <space> t e e <space> g r a s s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 
+34-30 ' <space> a l r e a d y <space> t h e <space> g a s e s <space> w a s <space> b e c o m i n g <space> a <space> c r i s p <space> w i t h <space> f r o s t . 

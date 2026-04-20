@@ -1,0 +1,12 @@
+81-1  t h r e e <space> w i s h e s 
+81-2  t h r e e <space> w i s h e s . 
+81-3 , <space> t h r e e <space> w i s h e s 
+81-4  t h e e <space> w i s h e s 
+81-5 , <space> t h r e e <space> w i s h e s . 
+81-6 ' <space> t h r e e <space> w i s h e s 
+81-7  t h r e e <space> w i s h e s ? 
+81-8  t h e e <space> w i s h e s . 
+81-9 ' <space> t h r e e <space> w i s h e s . 
+81-10 , <space> t h r e e <space> w i s h e s ? 
+81-11  t h e e <space> w i s h e s ? 
+81-12 ' <space> t h r e e <space> w i s h e s ? 

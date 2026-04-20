@@ -1,0 +1,7 @@
+104-1  i <space> c a n ' t 
+104-2 , <space> i <space> c a n ' t 
+104-3  i <space> c a n t 
+104-4 ' <space> i <space> c a n ' t 
+104-5  i i <space> c a n ' t 
+104-6 , <space> i <space> c a n t 
+104-7 ' <space> i <space> c a n t 

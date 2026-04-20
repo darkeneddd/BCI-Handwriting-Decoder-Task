@@ -1,0 +1,6 @@
+36-1  g o o d <space> m o r n i n g , <space> e v e r y o n e . 
+36-2 , <space> g o o d <space> m o r n i n g , <space> e v e r y o n e . 
+36-3  g o o d <space> m o r n i n g , , <space> e v e r y o n e . 
+36-4 ' <space> g o o d <space> m o r n i n g , <space> e v e r y o n e . 
+36-5 , <space> g o o d <space> m o r n i n g , , <space> e v e r y o n e . 
+36-6 ' <space> g o o d <space> m o r n i n g , , <space> e v e r y o n e . 

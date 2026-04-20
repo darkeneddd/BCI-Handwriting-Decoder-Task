@@ -1,0 +1,72 @@
+21-1  a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-2 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-3  a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-4  a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-5  a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e 
+21-6  a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-7  a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-8  a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-9 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-10 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-11  a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-12 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-13 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e 
+21-14 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-15 , <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-16  a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-17  a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e 
+21-18 , <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-19  a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-20 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-21  a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e . 
+21-22  a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t . 
+21-23  a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-24 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-25  a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-26  a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-27  a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-28 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-29 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-30 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e 
+21-31 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e 
+21-32  a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t 
+21-33  a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-34 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-35 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-36 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e . 
+21-37 ' <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-38  a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-39 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t . 
+21-40 , <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-41 ' <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r a t e 
+21-42  a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-43 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-44 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-45  a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e . 
+21-46 , <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-47 , <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-48  a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t . 
+21-49 , <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t 
+21-50 , <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-51 , <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-52 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-53 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e 
+21-54  a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t 
+21-55 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-56 , <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-57 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e . 
+21-58 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e . 
+21-59 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t . 
+21-60 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t . 
+21-61 ' <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-62 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-63 ' <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-64 ' <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r a t e . 
+21-65 , <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t 
+21-66 ' <space> a <space> s m a l l <space> c o a l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t 
+21-67 ' <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r e a t . 
+21-68 ' <space> a <space> s m a l l <space> c o a l <space> f i r e s <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-69 ' <space> a <space> s m a l l <space> c o a l <space> f r e e <space> b u r n e d <space> i n <space> t h e <space> g r e a t 
+21-70 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r a t e . 
+21-71 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t . 
+21-72 ' <space> a <space> s m a l l <space> c o o l <space> f i r e <space> b r e e d <space> i n <space> t h e <space> g r e a t 

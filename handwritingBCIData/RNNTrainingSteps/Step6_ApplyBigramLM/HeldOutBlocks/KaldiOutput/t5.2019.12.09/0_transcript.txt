@@ -1,0 +1,10 @@
+0-1  h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . 
+0-2 , <space> h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . 
+0-3  h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . . 
+0-4  s h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . 
+0-5 ' <space> h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . 
+0-6 , <space> h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . . 
+0-7  t h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . 
+0-8  s h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . . 
+0-9 ' <space> h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . . 
+0-10  t h e <space> s t o o d <space> l o o k i n g <space> d o w n <space> f o r <space> s o m e <space> t i m e . . 

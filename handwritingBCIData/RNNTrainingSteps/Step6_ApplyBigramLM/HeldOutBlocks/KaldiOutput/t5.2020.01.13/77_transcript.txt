@@ -1,0 +1,60 @@
+77-1  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-2 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-3  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-4  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-5  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-6 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-7  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-8 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-9  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-10  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-11  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-12 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-13  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-14 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-15 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-16  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-17 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-18 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-19  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-20  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-21  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-22  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-23 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-24  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-25  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t . 
+77-26  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-27  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-28 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-29  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-30  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-31  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-32 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-33  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-34 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-35  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-36  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t . 
+77-37  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-38 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-39  i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-40  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-41  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-42 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-43 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-44 , <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-45  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-46 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-47  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-48  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-49  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-50 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-51  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-52  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p p <space> i n <space> t h i s <space> e n v i r o n m e n t 
+77-53  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-54 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-55  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-56  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> u p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-57  i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-58 ' <space> i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-59  i t <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t 
+77-60  i i i <space> w o u l d n ' t <space> l e t <space> t h e <space> c h i l d r e n <space> g r o w <space> p p <space> i n n <space> t h i s <space> e n v i r o n m e n t 

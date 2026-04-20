@@ -1,0 +1,14 @@
+94-1  n o t <space> j i m 
+94-2  n e t <space> j i m 
+94-3 , <space> n o t <space> j i m 
+94-4  n e e t <space> j i m 
+94-5 , <space> n e t <space> j i m 
+94-6  n e a t <space> j i m 
+94-7 ' m <space> n o t <space> j i m 
+94-8 ' <space> n e t <space> j i m 
+94-9 ' <space> n o t <space> j i m 
+94-10  n a t <space> j i m 
+94-11  n o t <space> j i m . 
+94-12 , <space> n o t <space> j i m . 
+94-13 ' m <space> n o t <space> j i m . 
+94-14 ' <space> n o t <space> j i m . 

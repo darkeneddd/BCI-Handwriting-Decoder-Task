@@ -1,0 +1,68 @@
+26-1  d i d <space> t h e <space> t a l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-2  d i d <space> t h e <space> t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-3  d i d <space> t h e <space> t r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-4  d i d <space> t h e <space> t a b l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-5  d i d <space> t h e <space> t a l e s <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-6  d i d <space> t h e <space> t a l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-7 , <space> d i d <space> t h e <space> t a l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-8  d i d <space> t h e <space> t a <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-9  d i d <space> t h e <space> t h r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-10  d i d <space> t h e <space> t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-11 , <space> d i d <space> t h e <space> t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-12  d i d <space> t h e <space> t t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-13  d i d <space> t h e <space> t a l l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-14  d i d <space> t h e <space> t h e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-15  d i d <space> t h e <space> t r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-16  d i d <space> t h e <space> t a b l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-17  d i d <space> t h e <space> t a l l e r <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-18  d i d <space> t h e <space> t a <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-19  d i d <space> t h e <space> t a l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-20  d i d <space> t h e <space> t e l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-21  d i d <space> t h e <space> t a l e s <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-22  d i d <space> t h e <space> t a l <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-23  d i d <space> t h e <space> t o <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-24  d i d <space> t h e <space> t a l l e s t <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-25 , <space> d i d <space> t h e <space> t r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-26 , <space> d i d <space> t h e <space> t a b l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-27 , <space> d i d <space> t h e <space> t a l e s <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-28 , <space> d i d <space> t h e <space> t a l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-29  d i d <space> t h e <space> t a <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-30  d i d <space> t h e <space> t h r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-31 , <space> d i d <space> t h e <space> t a <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-32 , <space> d i d <space> t h e <space> t h r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-33 , <space> d i d <space> t h e <space> t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-34  d i d <space> t h e <space> t t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-35  d i d <space> t h e <space> t a l l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-36 , <space> d i d <space> t h e <space> t t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-37 , <space> d i d <space> t h e <space> t a l l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-38  d i d <space> t h e <space> t h e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-39  d i d <space> t h e <space> t a l l e r <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-40  d i d <space> t h e <space> t a <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-41  d i d <space> t h e <space> t a l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-42  d i d <space> t h e <space> t e l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-43  d i d <space> t h e <space> t a l <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-44  d i d <space> t h e <space> t o <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-45 , <space> d i d <space> t h e <space> t h e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-46  d i d <space> t h e <space> t a l l e s t <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-47 , <space> d i d <space> t h e <space> t r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-48 , <space> d i d <space> t h e <space> t a b l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-49 , <space> d i d <space> t h e <space> t a l l e r <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-50 , <space> d i d <space> t h e <space> t a <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-51 , <space> d i d <space> t h e <space> t a l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-52 , <space> d i d <space> t h e <space> t e l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-53 , <space> d i d <space> t h e <space> t a l e s <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-54 , <space> d i d <space> t h e <space> t a l <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-55 , <space> d i d <space> t h e <space> t o <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-56 , <space> d i d <space> t h e <space> t a l l e s t <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? 
+26-57 , <space> d i d <space> t h e <space> t a <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-58 , <space> d i d <space> t h e <space> t h r e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-59 , <space> d i d <space> t h e <space> t t <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-60 , <space> d i d <space> t h e <space> t a l l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-61 , <space> d i d <space> t h e <space> t h e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-62 , <space> d i d <space> t h e <space> t a l l e r <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-63 , <space> d i d <space> t h e <space> t a <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-64 , <space> d i d <space> t h e <space> t a l <space> e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-65 , <space> d i d <space> t h e <space> t e l e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-66 , <space> d i d <space> t h e <space> t a l <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-67 , <space> d i d <space> t h e <space> t o <space> l e e <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 
+26-68 , <space> d i d <space> t h e <space> t a l l e s t <space> e x i s t <space> b e f o r e <space> i <space> w r o t e <space> i t ? ? 

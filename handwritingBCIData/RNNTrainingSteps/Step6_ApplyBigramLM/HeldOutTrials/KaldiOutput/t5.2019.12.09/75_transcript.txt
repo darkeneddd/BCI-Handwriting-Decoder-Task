@@ -1,0 +1,6 @@
+75-1  i ' l l <space> h a v e <space> t o <space> p r a y <space> f o r <space> g u i d a n c e . 
+75-2 , <space> i ' l l <space> h a v e <space> t o <space> p r a y <space> f o r <space> g u i d a n c e . 
+75-3 ' <space> i ' l l <space> h a v e <space> t o <space> p r a y <space> f o r <space> g u i d a n c e . 
+75-4  i ' l l <space> h a v e <space> t o <space> i <space> p r a y <space> f o r <space> g u i d a n c e . 
+75-5 , <space> i ' l l <space> h a v e <space> t o <space> i <space> p r a y <space> f o r <space> g u i d a n c e . 
+75-6 ' <space> i ' l l <space> h a v e <space> t o <space> i <space> p r a y <space> f o r <space> g u i d a n c e . 

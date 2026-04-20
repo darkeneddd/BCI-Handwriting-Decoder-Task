@@ -1,0 +1,20 @@
+105-1  c a n c e r <space> i s <space> d e a d l y 
+105-2  c a n c e r <space> i s <space> d e a d l y . 
+105-3 , <space> c a n c e r <space> i s <space> d e a d l y 
+105-4  c a n c e r <space> i s <space> d e a d . 
+105-5  c a n c e r <space> i s <space> d e a d 
+105-6 ' <space> c a n c e r <space> i s <space> d e a d l y 
+105-7 , <space> c a n c e r <space> i s <space> d e a d l y . 
+105-8  c a n c e r <space> i s <space> d e a d <space> y 
+105-9  c a n <space> c a r <space> i s <space> d e a d l y 
+105-10 , <space> c a n c e r <space> i s <space> d e a d . 
+105-11 , <space> c a n c e r <space> i s <space> d e a d 
+105-12 ' <space> c a n c e r <space> i s <space> d e a d l y . 
+105-13 , <space> c a n c e r <space> i s <space> d e a d <space> y 
+105-14  c a n <space> c a r <space> i s <space> d e a d l y . 
+105-15 ' <space> c a n c e r <space> i s <space> d e a d . 
+105-16 ' <space> c a n c e r <space> i s <space> d e a d 
+105-17  c a n <space> c a r <space> i s <space> d e a d . 
+105-18  c a n <space> c a r <space> i s <space> d e a d 
+105-19 ' <space> c a n c e r <space> i s <space> d e a d <space> y 
+105-20  c a n <space> c a r <space> i s <space> d e a d <space> y 

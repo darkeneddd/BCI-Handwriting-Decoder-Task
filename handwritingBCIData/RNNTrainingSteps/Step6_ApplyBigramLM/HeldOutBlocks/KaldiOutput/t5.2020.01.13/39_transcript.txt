@@ -1,0 +1,15 @@
+39-1  t o o t h <space> f a i r y 
+39-2  t o o t h <space> f a i r y . 
+39-3 , <space> t o o t h <space> f a i r y 
+39-4  t o o t h <space> f a i r y ? 
+39-5  t o o t h <space> f a n n y 
+39-6 , <space> t o o t h <space> f a i r y . 
+39-7 ' <space> t o o t h <space> f a i r y 
+39-8  t o o t h <space> f a i r y , 
+39-9 , <space> t o o t h <space> f a i r y ? 
+39-10 , <space> t o o t h <space> f a n n y 
+39-11 ' <space> t o o t h <space> f a i r y . 
+39-12 , <space> t o o t h <space> f a i r y , 
+39-13 ' <space> t o o t h <space> f a i r y ? 
+39-14 ' <space> t o o t h <space> f a n n y 
+39-15 ' <space> t o o t h <space> f a i r y , 

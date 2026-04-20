@@ -1,0 +1,3 @@
+40-1  h e r <space> m o u t h <space> w a s <space> c o m p r e s s e d <space> i n t o <space> a <space> t i g h t <space> l i n e . 
+40-2 , <space> h e r <space> m o u t h <space> w a s <space> c o m p r e s s e d <space> i n t o <space> a <space> t i g h t <space> l i n e . 
+40-3 ' <space> h e r <space> m o u t h <space> w a s <space> c o m p r e s s e d <space> i n t o <space> a <space> t i g h t <space> l i n e . 

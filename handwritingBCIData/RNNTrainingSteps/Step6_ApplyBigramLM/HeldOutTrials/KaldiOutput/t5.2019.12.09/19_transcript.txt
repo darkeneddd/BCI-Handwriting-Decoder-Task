@@ -1,0 +1,10 @@
+19-1  p u l l <space> y o u r s e l f <space> t o g e t h e r , <space> b e a n . 
+19-2  p u l l <space> y o u r s e l f <space> t o g e t h e r <space> b e a n . 
+19-3  p u l l <space> y o u r s e l f <space> t o g e t h e r , , <space> b e a n . 
+19-4 , <space> p u l l <space> y o u r s e l f <space> t o g e t h e r , <space> b e a n . 
+19-5 , <space> p u l l <space> y o u r s e l f <space> t o g e t h e r <space> b e a n . 
+19-6 , <space> p u l l <space> y o u r s e l f <space> t o g e t h e r , , <space> b e a n . 
+19-7  p u l l <space> y o u r s e l f <space> t o g e t h e r ' <space> b e a n . 
+19-8  p u l l <space> y o u r s e l f <space> t o g e t h e r , , , <space> b e a n . 
+19-9 , <space> p u l l <space> y o u r s e l f <space> t o g e t h e r ' <space> b e a n . 
+19-10 , <space> p u l l <space> y o u r s e l f <space> t o g e t h e r , , , <space> b e a n . 

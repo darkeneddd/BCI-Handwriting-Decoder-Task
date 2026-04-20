@@ -1,0 +1,6 @@
+40-1  t h a n k s 
+40-2  t h a n k s . 
+40-3 , <space> t h a n k s 
+40-4  t h a n k . 
+40-5 , <space> t h a n k s . 
+40-6 ' <space> t h a n k s 

@@ -1,0 +1,20 @@
+79-1  a <space> b i g <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-2 , <space> a <space> b i g <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-3  a <space> b i g <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-4 ' <space> a <space> b i g <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-5  a <space> b i g <space> d o w n p o u r s <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-6  a <space> b i g <space> a <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-7  a a <space> b i g <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-8 , <space> a <space> b i g <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-9 , <space> a <space> b i g <space> d o w n p o u r s <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-10 , <space> a <space> b i g <space> a <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-11 ' <space> a <space> b i g <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-12 ' <space> a <space> b i g <space> d o w n p o u r s <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-13  a <space> b i g <space> a <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-14 ' <space> a <space> b i g <space> a <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-15  a a <space> b i g <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-16  a a <space> b i g <space> d o w n p o u r s <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-17  a a <space> b i g <space> a <space> d o w n p o u r <space> l e f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-18 , <space> a <space> b i g <space> a <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-19 ' <space> a <space> b i g <space> a <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 
+79-20  a a <space> b i g <space> a <space> d o w n p o u r <space> l o f t <space> a <space> p u d d l e <space> i n <space> t h e <space> l i v i n g <space> r o o m . 

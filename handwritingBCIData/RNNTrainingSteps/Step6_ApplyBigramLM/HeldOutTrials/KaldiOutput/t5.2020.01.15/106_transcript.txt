@@ -1,0 +1,54 @@
+106-1  a <space> t r a i n <space> h a s <space> a r r i v e d 
+106-2  a <space> t r a i n <space> a s s <space> a r r i v e d 
+106-3 , <space> a <space> t r a i n <space> h a s <space> a r r i v e d 
+106-4  a <space> t r a i n <space> h a s <space> a r r i v e d . 
+106-5  a <space> t r a i n <space> h a s s <space> a r r i v e d 
+106-6  a <space> t r a i n <space> a s s <space> a r r i v e . 
+106-7 , <space> a <space> t r a i n <space> a s s <space> a r r i v e d 
+106-8  a <space> t r a i n <space> a s s <space> a r r i v e d . 
+106-9 , <space> a <space> t r a i n <space> h a s <space> a r r i v e d . 
+106-10  a <space> t r a i n <space> h a s <space> a r r i v e . 
+106-11  a <space> t r a i n <space> h a a s <space> a r r i v e d 
+106-12  a <space> t r a i n <space> h a s s <space> a r r i v e . 
+106-13 ' <space> a <space> t r a i n <space> h a s <space> a r r i v e d 
+106-14 , <space> a <space> t r a i n <space> h a s s <space> a r r i v e d 
+106-15  a <space> t r a i n <space> a a s <space> a r r i v e d 
+106-16  a <space> t r a i n <space> h a s <space> a r r i v e d ? 
+106-17  a <space> s t a i n <space> h a s <space> a r r i v e d 
+106-18  a <space> t r a i n <space> h a s s <space> a r r i v e d . 
+106-19 , <space> a <space> t r a i n <space> a s s <space> a r r i v e . 
+106-20 , <space> a <space> t r a i n <space> a s s <space> a r r i v e d . 
+106-21 , <space> a <space> t r a i n <space> h a s <space> a r r i v e . 
+106-22 , <space> a <space> t r a i n <space> h a a s <space> a r r i v e d 
+106-23 , <space> a <space> t r a i n <space> h a s s <space> a r r i v e . 
+106-24 ' <space> a <space> t r a i n <space> a s s <space> a r r i v e d 
+106-25  a <space> t r a i n <space> a s s <space> a r r i v e d ? 
+106-26 , <space> a <space> t r a i n <space> a a s <space> a r r i v e d 
+106-27 , <space> a <space> t r a i n <space> h a s <space> a r r i v e d ? 
+106-28 , <space> a <space> s t a i n <space> h a s <space> a r r i v e d 
+106-29 ' <space> a <space> t r a i n <space> h a s <space> a r r i v e d . 
+106-30 , <space> a <space> t r a i n <space> h a s s <space> a r r i v e d . 
+106-31  a <space> s t a i n <space> h a s <space> a r r i v e d . 
+106-32 ' <space> a <space> t r a i n <space> h a s s <space> a r r i v e d 
+106-33  a <space> t r a i n <space> h a s s <space> a r r i v e d ? 
+106-34 ' <space> a <space> t r a i n <space> a s s <space> a r r i v e . 
+106-35 , <space> a <space> t r a i n <space> a s s <space> a r r i v e d ? 
+106-36 ' <space> a <space> t r a i n <space> a s s <space> a r r i v e d . 
+106-37 , <space> a <space> s t a i n <space> h a s <space> a r r i v e d . 
+106-38 ' <space> a <space> t r a i n <space> h a s <space> a r r i v e . 
+106-39 ' <space> a <space> t r a i n <space> h a a s <space> a r r i v e d 
+106-40  a <space> s t a i n <space> h a s <space> a r r i v e . 
+106-41 ' <space> a <space> t r a i n <space> h a s s <space> a r r i v e . 
+106-42 ' <space> a <space> t r a i n <space> a a s <space> a r r i v e d 
+106-43 ' <space> a <space> t r a i n <space> h a s <space> a r r i v e d ? 
+106-44 ' <space> a <space> s t a i n <space> h a s <space> a r r i v e d 
+106-45 , <space> a <space> t r a i n <space> h a s s <space> a r r i v e d ? 
+106-46 ' <space> a <space> t r a i n <space> h a s s <space> a r r i v e d . 
+106-47  a <space> s t a i n <space> h a s <space> a r r i v e d ? 
+106-48 , <space> a <space> s t a i n <space> h a s <space> a r r i v e . 
+106-49 ' <space> a <space> t r a i n <space> a s s <space> a r r i v e d ? 
+106-50 , <space> a <space> s t a i n <space> h a s <space> a r r i v e d ? 
+106-51 ' <space> a <space> s t a i n <space> h a s <space> a r r i v e d . 
+106-52 ' <space> a <space> t r a i n <space> h a s s <space> a r r i v e d ? 
+106-53 ' <space> a <space> s t a i n <space> h a s <space> a r r i v e . 
+106-54 ' <space> a <space> s t a i n <space> h a s <space> a r r i v e d ? 

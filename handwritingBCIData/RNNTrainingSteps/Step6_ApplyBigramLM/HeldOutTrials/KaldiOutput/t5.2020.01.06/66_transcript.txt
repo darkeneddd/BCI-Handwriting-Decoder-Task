@@ -1,0 +1,33 @@
+66-1  t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-2  t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-3 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-4  t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-5  t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-6 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-7 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-8  t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o t t <space> i n <space> t h e <space> r a n k s . 
+66-9  t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-10  t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-11 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-12 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-13 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-14  t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-15 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o t t <space> i n <space> t h e <space> r a n k s . 
+66-16 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-17  t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-18 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-19 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n <space> t h e <space> r a n k s . 
+66-20  t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-21 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-22 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-23 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o t t <space> i n <space> t h e <space> r a n k s . 
+66-24 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o k e <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-25  t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o t t <space> i n <space> t h e e <space> r a n k s . 
+66-26 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-27 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-28 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-29 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-30 , <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o t t <space> i n <space> t h e e <space> r a n k s . 
+66-31 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n n <space> t h e <space> r a n k s . 
+66-32 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b o o k e d <space> o u t <space> i n <space> t h e e <space> r a n k s . 
+66-33 ' <space> t h i s <space> t i m e <space> c h e e r i n g <space> b r o o k e <space> o t t <space> i n <space> t h e e <space> r a n k s . 

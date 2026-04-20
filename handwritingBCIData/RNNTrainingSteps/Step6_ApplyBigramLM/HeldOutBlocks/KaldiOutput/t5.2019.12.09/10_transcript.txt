@@ -1,0 +1,36 @@
+10-1  o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-2 , <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-3  o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-4  n o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-5  l o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-6  z o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-7  b o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-8  o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-9  t o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-10 ' <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-11  g o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-12 , <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-13 , <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-14  n o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-15  l o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-16  z o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-17  b o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-18  o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-19  t o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-20 ' <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-21  n o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-22  l o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-23  g o n e <space> j a n u a r y <space> m o r n i n g <space> i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-24  z o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-25  b o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-26  t o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-27 ' <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-28  g o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t e . 
+10-29 , <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-30  n o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-31  l o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-32  z o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-33  b o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-34  t o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-35 ' <space> o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 
+10-36  g o n e <space> j a n u a r y <space> m o r n i n g <space> i i <space> a r r i v e d <space> a t <space> w o r k <space> l a t t e . 

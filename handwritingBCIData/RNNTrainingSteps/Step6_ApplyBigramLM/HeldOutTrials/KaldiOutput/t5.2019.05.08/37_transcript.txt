@@ -1,0 +1,18 @@
+37-1  b a s i c a l l y , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-2 , <space> b a s i c a l l y , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-3  b a s i c a l l y <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-4  b a s i c a l l y , , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-5 ' <space> b a s i c a l l y , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-6 , <space> b a s i c a l l y <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-7 , <space> b a s i c a l l y , , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-8  b a s i c a l l y , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-9 , <space> b a s i c a l l y , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-10 ' <space> b a s i c a l l y <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-11 ' <space> b a s i c a l l y , , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h a d . 
+37-12  b a s i c a l l y <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-13  b a s i c a l l y , , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-14 ' <space> b a s i c a l l y , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-15 , <space> b a s i c a l l y <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-16 , <space> b a s i c a l l y , , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-17 ' <space> b a s i c a l l y <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 
+37-18 ' <space> b a s i c a l l y , , <space> m e n <space> w e r e <space> l y i n g <space> a b o u t <space> h o w <space> m u c h <space> e x p e r i e n c e <space> t h e y <space> h e a d . 

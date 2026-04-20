@@ -1,0 +1,15 @@
+53-1  w e <space> a r e <space> f r i e n d s 
+53-2  w e <space> a r e <space> f r i e n d s . 
+53-3 , <space> w e <space> a r e <space> f r i e n d s 
+53-4  w e <space> a r e <space> f r i e n d . 
+53-5 , <space> w e <space> a r e <space> f r i e n d s . 
+53-6  w e <space> a r e <space> f r i e n d s ? 
+53-7 , <space> w e <space> a r e <space> f r i e n d . 
+53-8 ' <space> w e <space> a r e <space> f r i e n d s 
+53-9  w e <space> a e <space> f r i e n d s 
+53-10 ' <space> w e <space> a r e <space> f r i e n d s . 
+53-11 , <space> w e <space> a r e <space> f r i e n d s ? 
+53-12 , <space> w e <space> a e <space> f r i e n d s 
+53-13 ' <space> w e <space> a r e <space> f r i e n d . 
+53-14 ' <space> w e <space> a r e <space> f r i e n d s ? 
+53-15 ' <space> w e <space> a e <space> f r i e n d s 

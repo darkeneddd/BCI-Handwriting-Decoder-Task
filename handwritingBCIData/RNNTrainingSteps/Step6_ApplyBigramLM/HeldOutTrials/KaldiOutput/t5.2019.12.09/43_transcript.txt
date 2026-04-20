@@ -1,0 +1,20 @@
+43-1  n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-2 , <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-3  k n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-4  n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-5 ' <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-6 , <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-7  n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-8  s n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? 
+43-9  k n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-10  n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? ? 
+43-11 ' <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-12 , <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-13 , <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? ? 
+43-14  k n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-15  s n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? 
+43-16  k n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? ? 
+43-17 ' <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-18 ' <space> n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? ? 
+43-19  s n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y . 
+43-20  s n o w <space> w h o <space> t h e <space> h e l l <space> w a s <space> t h i s <space> g u y ? ? ? 

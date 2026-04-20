@@ -1,0 +1,38 @@
+48-1  p a r d o n <space> m e 
+48-2  p a r d o n <space> m a 
+48-3  p a r d o n <space> m e . 
+48-4  p a r d o n <space> m m a 
+48-5 , <space> p a r d o n <space> m e 
+48-6  p a r d o n <space> m . 
+48-7 , <space> p a r d o n <space> m a 
+48-8 , <space> p a r d o n <space> m e . 
+48-9  p a r d o n <space> m a . 
+48-10  p a r d o n <space> m 
+48-11  p a r d o n <space> m m . 
+48-12  p a r d o n <space> m m a . 
+48-13  p a r d o n <space> m y 
+48-14  p a r d o n <space> m e a 
+48-15  p a r d o n <space> m m 
+48-16 , <space> p a r d o n <space> m m a 
+48-17 , <space> p a r d o n <space> m . 
+48-18  p a r d o n <space> m e ? 
+48-19  p a r d o n <space> m a l 
+48-20  p a r d o n <space> m a y 
+48-21  p a r d o n <space> m a n 
+48-22  p a r d o n <space> m l 
+48-23  p a r d o n <space> m a e 
+48-24  p a r d o n <space> m o 
+48-25 , <space> p a r d o n <space> m a . 
+48-26 , <space> p a r d o n <space> m 
+48-27 , <space> p a r d o n <space> m m . 
+48-28 , <space> p a r d o n <space> m m a . 
+48-29 , <space> p a r d o n <space> m y 
+48-30 , <space> p a r d o n <space> m e a 
+48-31 , <space> p a r d o n <space> m m 
+48-32 , <space> p a r d o n <space> m e ? 
+48-33 , <space> p a r d o n <space> m a l 
+48-34 , <space> p a r d o n <space> m a y 
+48-35 , <space> p a r d o n <space> m a n 
+48-36 , <space> p a r d o n <space> m l 
+48-37 , <space> p a r d o n <space> m a e 
+48-38 , <space> p a r d o n <space> m o 

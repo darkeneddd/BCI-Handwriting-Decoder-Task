@@ -1,0 +1,18 @@
+32-1  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? 
+32-2 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? 
+32-3  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d . 
+32-4  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? ? 
+32-5  y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d 
+32-6  y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? 
+32-7 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d . 
+32-8 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? ? 
+32-9 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? 
+32-10 , <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d 
+32-11 , <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? 
+32-12  y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? ? 
+32-13 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d . 
+32-14 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d ? ? 
+32-15 ' <space> y e t <space> h a d <space> i t <space> e v e r <space> e x i s t e d 
+32-16 , <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? ? 
+32-17 ' <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? 
+32-18 ' <space> y e t <space> h a d <space> i t <space> n e v e r <space> e x i s t e d ? ? 

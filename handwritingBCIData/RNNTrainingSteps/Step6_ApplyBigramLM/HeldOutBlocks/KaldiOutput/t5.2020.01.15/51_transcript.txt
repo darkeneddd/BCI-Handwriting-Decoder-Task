@@ -1,0 +1,7 @@
+51-1  t e l l <space> m e 
+51-2 , <space> t e l l <space> m e 
+51-3 ' <space> t e l l <space> m e 
+51-4  t e l l <space> m e . 
+51-5  t e l l s <space> m e 
+51-6 , <space> t e l l <space> m e . 
+51-7 ' <space> t e l l <space> m e . 

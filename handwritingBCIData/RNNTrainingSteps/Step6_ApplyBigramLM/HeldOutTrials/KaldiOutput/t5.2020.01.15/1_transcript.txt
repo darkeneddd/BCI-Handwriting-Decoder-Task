@@ -1,0 +1,21 @@
+1-1  f i v e <space> z e b r a s . 
+1-2  f i v e <space> z e b r a s 
+1-3  f i v e <space> z e b r a . 
+1-4 , <space> f i v e <space> z e b r a s . 
+1-5 , <space> f i v e <space> z e b r a s 
+1-6  f i v e <space> z e b r a 
+1-7 , <space> f i v e <space> z e b r a . 
+1-8  f i v e <space> z e b r a s ? 
+1-9 ' <space> f i v e <space> z e b r a s . 
+1-10  f i v e <space> z e b r a ? 
+1-11 ' <space> f i v e <space> z e b r a s 
+1-12  f i v e <space> z e b r a s ' 
+1-13 , <space> f i v e <space> z e b r a 
+1-14 ' <space> f i v e <space> z e b r a . 
+1-15 , <space> f i v e <space> z e b r a s ? 
+1-16 , <space> f i v e <space> z e b r a ? 
+1-17 , <space> f i v e <space> z e b r a s ' 
+1-18 ' <space> f i v e <space> z e b r a 
+1-19 ' <space> f i v e <space> z e b r a s ? 
+1-20 ' <space> f i v e <space> z e b r a ? 
+1-21 ' <space> f i v e <space> z e b r a s ' 

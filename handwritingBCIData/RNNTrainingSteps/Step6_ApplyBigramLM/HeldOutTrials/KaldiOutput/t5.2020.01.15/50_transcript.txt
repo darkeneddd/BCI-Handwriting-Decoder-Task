@@ -1,0 +1,15 @@
+50-1  s w a n <space> l a k e . 
+50-2  s w a n <space> l a k e 
+50-3 , <space> s w a n <space> l a k e . 
+50-4 , <space> s w a n <space> l a k e 
+50-5  s w a n n <space> l a k e . 
+50-6 ' <space> s w a n <space> l a k e . 
+50-7  s w a n <space> l a k e s . 
+50-8  s w a n n <space> l a k e s . 
+50-9  s w a n n <space> l a k e 
+50-10 ' <space> s w a n <space> l a k e 
+50-11  s w a n <space> l a k e s 
+50-12 , <space> s w a n <space> l a k e s . 
+50-13 , <space> s w a n <space> l a k e s 
+50-14 ' <space> s w a n <space> l a k e s . 
+50-15 ' <space> s w a n <space> l a k e s 

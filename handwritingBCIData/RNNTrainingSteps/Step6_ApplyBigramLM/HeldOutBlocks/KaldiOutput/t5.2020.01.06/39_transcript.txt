@@ -1,0 +1,128 @@
+39-1  s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g . 
+39-2  s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g 
+39-3  s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-4 , <space> s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g . 
+39-5  s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g . 
+39-6  s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-7 , <space> s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g 
+39-8  s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g 
+39-9  s h a m e <space> o n <space> s s s <space> f o r <space> n o t <space> c a r i n g . 
+39-10  s h a m e <space> o n <space> a s s <space> f o r <space> n o t <space> c a r i n g . 
+39-11 , <space> s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-12  s h a m e <space> o n <space> s s <space> f r <space> n o t <space> c a r i n g . 
+39-13 , <space> s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g . 
+39-14  s h a m e <space> o n <space> s s s <space> f o r <space> n o t <space> c a r i n g 
+39-15  s h a m e <space> o n <space> u s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-16  s h a m e <space> o n <space> i s s <space> f o r <space> n o t <space> c a r i n g . 
+39-17  s h a m e <space> o n <space> a s s <space> f o r <space> n o t <space> c a r i n g 
+39-18 , <space> s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-19  s h a m e <space> o n <space> s s <space> f r <space> n o t <space> c a r i n g 
+39-20  s h a m e <space> o n <space> u s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-21 , <space> s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g 
+39-22  s h a m e <space> o n <space> u s <space> f r <space> n o t <space> c a r i n g . 
+39-23 , <space> s h a m e <space> o n <space> s s s <space> f o r <space> n o t <space> c a r i n g . 
+39-24 ' <space> s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g . 
+39-25  s h a m e <space> a n n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-26  s h a m e <space> o n <space> r s s <space> f o r <space> n o t <space> c a r i n g . 
+39-27  s h a m e <space> o n <space> s s <space> f r <space> m <space> n o t <space> c a r i n g . 
+39-28 , <space> s h a m e <space> o n <space> a s s <space> f o r <space> n o t <space> c a r i n g . 
+39-29  s h a m e <space> o n <space> u s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-30  s h a m e <space> o n <space> u s s <space> f r <space> n o t <space> c a r i n g . 
+39-31  s h a m e <space> o n <space> i s s <space> f o r <space> n o t <space> c a r i n g 
+39-32  s h a m e <space> o n <space> a s <space> f o r <space> n o t <space> c a r i n g . 
+39-33  s h a m e <space> o n <space> u s <space> f r o m <space> n o t <space> c a r i n g . 
+39-34  s h a m e <space> a n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-35  a <space> s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g . 
+39-36 , <space> s h a m e <space> o n <space> s s <space> f r <space> n o t <space> c a r i n g . 
+39-37  s h a m e <space> o n <space> u s <space> f o r <space> a <space> n o t <space> c a r i n g . 
+39-38  s h a m e <space> o n <space> s s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-39  s h a m e <space> o n <space> u s <space> f o r <space> m <space> n o t <space> c a r i n g 
+39-40  s h a m e <space> o n <space> u s <space> f r <space> n o t <space> c a r i n g 
+39-41 , <space> s h a m e <space> o n <space> s s s <space> f o r <space> n o t <space> c a r i n g 
+39-42 ' <space> s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g 
+39-43 , <space> s h a m e <space> o n <space> u s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-44  s h a m e <space> a n n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-45  s h a m e <space> o n <space> r s s <space> f o r <space> n o t <space> c a r i n g 
+39-46 , <space> s h a m e <space> o n <space> i s s <space> f o r <space> n o t <space> c a r i n g . 
+39-47  s h a m e <space> o n <space> s s <space> f r <space> m <space> n o t <space> c a r i n g 
+39-48 , <space> s h a m e <space> o n <space> a s s <space> f o r <space> n o t <space> c a r i n g 
+39-49  s h a m e <space> o n <space> u s s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-50  s h a m e <space> o n <space> s s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-51  s h a m e <space> o n <space> u s s <space> f r <space> n o t <space> c a r i n g 
+39-52  s h a m e <space> o n <space> a s <space> f o r <space> n o t <space> c a r i n g 
+39-53  s h a m e <space> o n <space> u s <space> f r o m <space> n o t <space> c a r i n g 
+39-54  s h a m e <space> a n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-55 ' <space> s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-56  a <space> s h a m e <space> o n <space> u s <space> f o r <space> n o t <space> c a r i n g 
+39-57 , <space> s h a m e <space> o n <space> s s <space> f r <space> n o t <space> c a r i n g 
+39-58 , <space> s h a m e <space> o n <space> u s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-59  s h a m e <space> o n <space> u s <space> f o r <space> a <space> n o t <space> c a r i n g 
+39-60 , <space> s h a m e <space> o n <space> u s <space> f r <space> n o t <space> c a r i n g . 
+39-61  s h a m e <space> o n <space> u s s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-62  s h a m e <space> o n <space> s s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-63 , <space> s h a m e <space> a n n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-64 , <space> s h a m e <space> o n <space> r s s <space> f o r <space> n o t <space> c a r i n g . 
+39-65 , <space> s h a m e <space> o n <space> s s <space> f r <space> m <space> n o t <space> c a r i n g . 
+39-66 ' <space> s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g . 
+39-67 , <space> s h a m e <space> o n <space> u s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-68  s h a m e <space> a n n <space> s s <space> f r <space> n o t <space> c a r i n g . 
+39-69  a <space> s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-70  s h a m e <space> o n <space> s s <space> f o r <space> a <space> n o t <space> c a r i n g . 
+39-71 , <space> s h a m e <space> o n <space> u s s <space> f r <space> n o t <space> c a r i n g . 
+39-72 , <space> s h a m e <space> o n <space> i s s <space> f o r <space> n o t <space> c a r i n g 
+39-73 , <space> s h a m e <space> o n <space> a s <space> f o r <space> n o t <space> c a r i n g . 
+39-74  s h a m e <space> o n <space> u s s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-75  s h a m e <space> o n <space> s s s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-76 , <space> s h a m e <space> o n <space> u s <space> f r o m <space> n o t <space> c a r i n g . 
+39-77 , <space> s h a m e <space> a n <space> s s <space> f o r <space> n o t <space> c a r i n g . 
+39-78  s h a m e <space> o n <space> s s <space> f o r <space> m <space> n o t <space> c a r i n g 
+39-79 , <space> s h a m e <space> o n <space> u s <space> f o r <space> a <space> n o t <space> c a r i n g . 
+39-80  s h a m e <space> o n <space> a s s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-81  a <space> s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g . 
+39-82  s h a m e <space> a n <space> s s <space> f r <space> n o t <space> c a r i n g . 
+39-83  s h a m e <space> o n <space> u s s <space> f o r <space> a <space> n o t <space> c a r i n g . 
+39-84 ' <space> s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-85 , <space> s h a m e <space> o n <space> s s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-86 , <space> s h a m e <space> o n <space> u s <space> f o r <space> m <space> n o t <space> c a r i n g 
+39-87 , <space> s h a m e <space> o n <space> u s <space> f r <space> n o t <space> c a r i n g 
+39-88  s h a m e <space> o n <space> u s s <space> f o r <space> m <space> n o t <space> c a r i n g 
+39-89  s h a m e <space> o n <space> s s s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-90 , <space> s h a m e <space> a n n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-91 , <space> s h a m e <space> o n <space> r s s <space> f o r <space> n o t <space> c a r i n g 
+39-92 , <space> s h a m e <space> o n <space> s s <space> f r <space> m <space> n o t <space> c a r i n g 
+39-93 ' <space> s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g 
+39-94 , <space> s h a m e <space> o n <space> u s s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-95 ' <space> s h a m e <space> o n <space> s s s <space> f o r <space> n o t <space> c a r i n g . 
+39-96  s h a m e <space> o n <space> a s s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-97  s h a m e <space> a n n <space> s s <space> f r <space> n o t <space> c a r i n g 
+39-98  a <space> s h a m e <space> o n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-99 , <space> s h a m e <space> o n <space> s s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-100  s h a m e <space> o n <space> s s <space> f o r <space> a <space> n o t <space> c a r i n g 
+39-101 , <space> s h a m e <space> o n <space> u s s <space> f r <space> n o t <space> c a r i n g 
+39-102 , <space> s h a m e <space> o n <space> a s <space> f o r <space> n o t <space> c a r i n g 
+39-103 ' <space> s h a m e <space> o n <space> a s s <space> f o r <space> n o t <space> c a r i n g . 
+39-104  s h a m e <space> o n <space> s s s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-105 , <space> s h a m e <space> o n <space> u s <space> f r o m <space> n o t <space> c a r i n g 
+39-106 , <space> s h a m e <space> a n <space> s s <space> f o r <space> n o t <space> c a r i n g 
+39-107 , <space> s h a m e <space> o n <space> u s <space> f o r <space> a <space> n o t <space> c a r i n g 
+39-108  s h a m e <space> o n <space> i s s <space> f o r <space> n <space> n o t <space> c a r i n g . 
+39-109  s h a m e <space> a n n <space> s s <space> f r <space> m <space> n o t <space> c a r i n g . 
+39-110  s h a m e <space> o n <space> a s s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-111  a <space> s h a m e <space> o n <space> u s s <space> f o r <space> n o t <space> c a r i n g 
+39-112  s h a m e <space> a n <space> s s <space> f r <space> n o t <space> c a r i n g 
+39-113  a <space> s h a m e <space> o n <space> s s s <space> f o r <space> n o t <space> c a r i n g . 
+39-114 , <space> s h a m e <space> o n <space> u s s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-115  s h a m e <space> o n <space> u s s <space> f o r <space> a <space> n o t <space> c a r i n g 
+39-116 ' <space> s h a m e <space> o n <space> s s <space> f r <space> n o t <space> c a r i n g . 
+39-117 , <space> s h a m e <space> o n <space> s s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-118  s h a m e <space> o n <space> s s s <space> f o r <space> a <space> n o t <space> c a r i n g . 
+39-119  a <space> s h a m e <space> o n <space> a s s <space> f o r <space> n o t <space> c a r i n g . 
+39-120  s h a m e <space> o n <space> a s s <space> f o r <space> a <space> n o t <space> c a r i n g . 
+39-121  s h a m e <space> o n <space> s s s <space> f o r <space> m <space> n o t <space> c a r i n g 
+39-122 , <space> s h a m e <space> a n n <space> s s <space> f r <space> n o t <space> c a r i n g . 
+39-123 , <space> s h a m e <space> o n <space> s s <space> f o r <space> a <space> n o t <space> c a r i n g . 
+39-124  s h a m e <space> a n <space> s s <space> f r <space> m <space> n o t <space> c a r i n g . 
+39-125  s h a m e <space> o n <space> i s s <space> f o r <space> m <space> n o t <space> c a r i n g . 
+39-126 , <space> s h a m e <space> o n <space> u s s <space> f o r <space> n <space> n o t <space> c a r i n g 
+39-127 ' <space> s h a m e <space> o n <space> s s s <space> f o r <space> n o t <space> c a r i n g 
+39-128 , <space> s h a m e <space> o n <space> s s s <space> f o r <space> n <space> n o t <space> c a r i n g . 

@@ -1,0 +1,7 @@
+67-1  q u i v e r . 
+67-2  q u i v e r 
+67-3 , <space> q u i v e r . 
+67-4  q u i v e r ? 
+67-5 , <space> q u i v e r 
+67-6 ' <space> q u i v e r . 
+67-7  a <space> q u i v e r . 

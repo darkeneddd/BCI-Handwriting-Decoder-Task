@@ -1,0 +1,15 @@
+64-1  c a t s <space> a n d <space> d o g s . 
+64-2  c a t s <space> a n d <space> d o g s 
+64-3 , <space> c a t s <space> a n d <space> d o g s . 
+64-4  c a t s <space> a n d <space> d o g . 
+64-5 , <space> c a t s <space> a n d <space> d o g s 
+64-6  c o a t s <space> a n d <space> d o g s . 
+64-7  c a t s <space> a n d <space> d o g s ? 
+64-8  c o a t s <space> a n d <space> d o g s 
+64-9  c a t s <space> a n d <space> d o g 
+64-10 , <space> c a t s <space> a n d <space> d o g . 
+64-11  c o a t s <space> a n d <space> d o g . 
+64-12 , <space> c a t s <space> a n d <space> d o g s ? 
+64-13 , <space> c a t s <space> a n d <space> d o g 
+64-14  c o a t s <space> a n d <space> d o g s ? 
+64-15  c o a t s <space> a n d <space> d o g 

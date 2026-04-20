@@ -1,0 +1,9 @@
+0-1  s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-2 , <space> s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-3  s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-4 , <space> s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-5 ' <space> s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-6  s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , , , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-7 ' <space> s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-8 , <space> s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , , , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 
+0-9 ' <space> s h e <space> f e l t <space> q u i t e <space> w e a k <space> a n d <space> b r e a t h l e s s , , , <space> a s <space> t h o u g h <space> s h e <space> h a d <space> b e e n <space> r u n n i n g . 

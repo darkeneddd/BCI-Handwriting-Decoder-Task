@@ -1,0 +1,9 @@
+102-1  w r o n g <space> n u m b e r 
+102-2  w r o n g <space> n u m b e r . 
+102-3 , <space> w r o n g <space> n u m b e r 
+102-4 , <space> w r o n g <space> n u m b e r . 
+102-5  w r o n g <space> n u m b e r ? 
+102-6 ' <space> w r o n g <space> n u m b e r 
+102-7 ' <space> w r o n g <space> n u m b e r . 
+102-8 , <space> w r o n g <space> n u m b e r ? 
+102-9 ' <space> w r o n g <space> n u m b e r ? 

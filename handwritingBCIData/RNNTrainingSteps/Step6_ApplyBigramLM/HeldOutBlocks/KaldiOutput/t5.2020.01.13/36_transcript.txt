@@ -1,0 +1,5 @@
+36-1  s p r i n g 
+36-2 , <space> s p r i n g 
+36-3 ' <space> s p r i n g 
+36-4  s p r i n g s 
+36-5  s p r i n g . 

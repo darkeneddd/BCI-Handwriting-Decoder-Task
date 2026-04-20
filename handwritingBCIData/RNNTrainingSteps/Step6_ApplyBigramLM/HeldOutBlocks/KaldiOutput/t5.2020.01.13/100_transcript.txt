@@ -1,0 +1,6 @@
+100-1  f o x 
+100-2 , <space> f o x 
+100-3  f o x x 
+100-4 ' <space> f o x 
+100-5  f o r 
+100-6 , <space> f o x x 

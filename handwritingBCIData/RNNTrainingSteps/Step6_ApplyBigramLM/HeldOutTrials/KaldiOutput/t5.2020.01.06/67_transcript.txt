@@ -1,0 +1,128 @@
+67-1  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-2  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-3  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n o f f <space> t h e <space> s h e e p . 
+67-4  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o <space> o f <space> t h e <space> s h e e p . 
+67-5 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-6 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-7  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c o o <space> o f <space> t h e <space> s h e e p . 
+67-8  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c <space> o f <space> t h e <space> s h e e p . 
+67-9  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f <space> t h e <space> s h e e p . 
+67-10  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n <space> o f <space> t h e <space> s h e e p . 
+67-11  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> s o <space> o f <space> t h e <space> s h e e p . 
+67-12  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c o <space> o f <space> t h e <space> s h e e p . 
+67-13  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-14  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-15  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> g o o f <space> t h e <space> s h e e p . 
+67-16  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> h o o f <space> t h e <space> s h e e p . 
+67-17  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o o <space> o f <space> t h e <space> s h e e p . 
+67-18  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o r <space> o f <space> t h e <space> s h e e p . 
+67-19 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n o f f <space> t h e <space> s h e e p . 
+67-20  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> p o o f <space> t h e <space> s h e e p . 
+67-21  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o <space> o f f <space> t h e <space> s h e e p . 
+67-22  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-23  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t e e <space> s h e e p . 
+67-24  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-25 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o <space> o f <space> t h e <space> s h e e p . 
+67-26  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a s <space> o f <space> t h e <space> s h e e p . 
+67-27  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o c <space> o f <space> t h e <space> s h e e p . 
+67-28  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-29  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-30  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o o o <space> o f <space> t h e <space> s h e e p . 
+67-31  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n <space> o f f <space> t h e <space> s h e e p . 
+67-32  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> n o <space> o f <space> t h e <space> s h e e p . 
+67-33  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a o <space> o f <space> t h e <space> s h e e p . 
+67-34  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> p r o o f <space> t h e <space> s h e e p . 
+67-35  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o n o f f <space> t h e <space> s h e e p . 
+67-36  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> g o <space> o f <space> t h e <space> s h e e p . 
+67-37  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t e <space> s h e e p . 
+67-38  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c c <space> o f <space> t h e <space> s h e e p . 
+67-39  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o r <space> o f f <space> t h e <space> s h e e p . 
+67-40  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> n <space> o f <space> t h e <space> s h e e p . 
+67-41  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a <space> o f <space> t h e <space> s h e e p . 
+67-42  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a c <space> o f <space> t h e <space> s h e e p . 
+67-43  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> w <space> o f <space> t h e <space> s h e e p . 
+67-44  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> s o <space> o f f <space> t h e <space> s h e e p . 
+67-45  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t h e e <space> s h e e p . 
+67-46  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> s <space> o f <space> t h e <space> s h e e p . 
+67-47  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o <space> o f <space> t h e <space> s h e e p . 
+67-48  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o <space> o f <space> t h e <space> s h e e p . 
+67-49  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o o <space> o f f <space> t h e <space> s h e e p . 
+67-50  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n o f f <space> t h e <space> s h e e p . 
+67-51 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c o o <space> o f <space> t h e <space> s h e e p . 
+67-52  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> g o <space> o f f <space> t h e <space> s h e e p . 
+67-53  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> e <space> o f <space> t h e <space> s h e e p . 
+67-54 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c <space> o f <space> t h e <space> s h e e p . 
+67-55  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> o n o f f <space> t h e <space> s h e e p . 
+67-56 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f <space> t h e <space> s h e e p . 
+67-57 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n <space> o f <space> t h e <space> s h e e p . 
+67-58  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> s p o o f <space> t h e <space> s h e e p . 
+67-59  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o <space> o f <space> t h e <space> s h e e p . 
+67-60  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l <space> e p p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-61  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r <space> o f <space> t h e <space> s h e e p . 
+67-62  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l <space> e p p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-63  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c o <space> o f f <space> t h e <space> s h e e p . 
+67-64 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> s o <space> o f <space> t h e <space> s h e e p . 
+67-65  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> o <space> o f <space> t h e <space> s h e e p . 
+67-66  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> n o <space> o f f <space> t h e <space> s h e e p . 
+67-67  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a n <space> o f f <space> t h e <space> s h e e p . 
+67-68  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o s <space> o f <space> t h e <space> s h e e p . 
+67-69  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n o f f <space> t e e <space> s h e e p . 
+67-70  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o o o <space> o f f <space> t h e <space> s h e e p . 
+67-71  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> g o o f <space> t e e <space> s h e e p . 
+67-72 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c o <space> o f <space> t h e <space> s h e e p . 
+67-73  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f <space> o f <space> t h e <space> s h e e p . 
+67-74 ' <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-75  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> h o o f <space> t e e <space> s h e e p . 
+67-76 ' <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-77  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l e <space> e p p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-78  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l e <space> e p p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-79 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-80  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o c <space> o f f <space> t h e <space> s h e e p . 
+67-81 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-82 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> g o o f <space> t h e <space> s h e e p . 
+67-83 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> h o o f <space> t h e <space> s h e e p . 
+67-84  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a o <space> o f f <space> t h e <space> s h e e p . 
+67-85  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> c o o <space> o f <space> t h e <space> s h e e p . 
+67-86 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o o <space> o f <space> t h e <space> s h e e p . 
+67-87  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> t o <space> o f <space> t h e <space> s h e e p . 
+67-88  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o <space> o <space> o f <space> t h e <space> s h e e p . 
+67-89  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> c <space> o f <space> t h e <space> s h e e p . 
+67-90 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o r <space> o f <space> t h e <space> s h e e p . 
+67-91 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> p o o f <space> t h e <space> s h e e p . 
+67-92  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c <space> o f f <space> t h e <space> s h e e p . 
+67-93  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> d o <space> o f <space> t h e <space> s h e e p . 
+67-94  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o f <space> t h e <space> s h e e p . 
+67-95  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o n <space> o f <space> t h e <space> s h e e p . 
+67-96  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> i n <space> o f <space> t h e <space> s h e e p . 
+67-97 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o <space> o f f <space> t h e <space> s h e e p . 
+67-98  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> s o <space> o f <space> t h e <space> s h e e p . 
+67-99 , <space> t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-100 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t e e <space> s h e e p . 
+67-101 , <space> t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-102 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a s <space> o f <space> t h e <space> s h e e p . 
+67-103 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o c <space> o f <space> t h e <space> s h e e p . 
+67-104  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c o o <space> o f <space> t h e <space> s h e e p . 
+67-105  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> c <space> o f <space> t h e <space> s h e e p . 
+67-106 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> o f f <space> t h e <space> s h e e p . 
+67-107 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> r o o f <space> t h e <space> s h e e p . 
+67-108  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> c o <space> o f <space> t h e <space> s h e e p . 
+67-109 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o o o <space> o f <space> t h e <space> s h e e p . 
+67-110 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n <space> o f f <space> t h e <space> s h e e p . 
+67-111 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> n o <space> o f <space> t h e <space> s h e e p . 
+67-112  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> c o o <space> o f <space> t h e <space> s h e e p . 
+67-113  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o f <space> t h e <space> s h e e p . 
+67-114  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n <space> o f <space> t h e <space> s h e e p . 
+67-115  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> c <space> o f <space> t h e <space> s h e e p . 
+67-116  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> g o o f <space> t h e <space> s h e e p . 
+67-117  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> h o o f <space> t h e <space> s h e e p . 
+67-118  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o o <space> o f <space> t h e <space> s h e e p . 
+67-119 ' <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> o n o f f <space> t h e <space> s h e e p . 
+67-120 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> a o <space> o f <space> t h e <space> s h e e p . 
+67-121  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o r <space> o f <space> t h e <space> s h e e p . 
+67-122  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> o f <space> t h e <space> s h e e p . 
+67-123  t h e <space> g r o u n d <space> w a s <space> s p e a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> s o <space> o f <space> t h e <space> s h e e p . 
+67-124 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> p r o o f <space> t h e <space> s h e e p . 
+67-125  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t e e <space> g a l l o p i n g <space> o n <space> o f <space> t h e <space> s h e e p . 
+67-126 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> o n o f f <space> t h e <space> s h e e p . 
+67-127 , <space> t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e <space> g a l l o p i n g <space> g o <space> o f <space> t h e <space> s h e e p . 
+67-128  t h e <space> g r o u n d <space> w a s <space> s h a k i n g <space> w i t h <space> t h e e <space> g a l l o p i n g <space> p o o f <space> t h e <space> s h e e p . 

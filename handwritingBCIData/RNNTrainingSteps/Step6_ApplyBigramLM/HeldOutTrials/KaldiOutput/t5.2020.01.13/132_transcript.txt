@@ -1,0 +1,51 @@
+132-1  t h e r e <space> w a s <space> w a r m <space> c l e a r <space> w a t e r 
+132-2  t h e r e <space> w a s <space> w a r m <space> c l e a r <space> w a t e r . 
+132-3  t h e r e <space> w a s <space> w a r m <space> c l e a n e r <space> w a t e r 
+132-4  t h e r e <space> w a s <space> w a r m <space> c l e a n e r <space> w a t e r . 
+132-5 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a r <space> w a t e r 
+132-6  t h e r e <space> w a s <space> w a r m <space> l e a n e r <space> w a t e r 
+132-7  t h e r e <space> w a s <space> w a r m <space> c l e a r e r <space> w a t e r 
+132-8  t h e r e <space> w a s <space> w a r m <space> c l e a n <space> w a t e r 
+132-9  t h e r e <space> w a s <space> w a r m <space> l e a r <space> w a t e r 
+132-10  t h e r e <space> w a s <space> w a r m <space> l e a r n <space> w a t e r 
+132-11 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a r <space> w a t e r . 
+132-12  t h e r e <space> w a s <space> w a r m <space> l e a n e r <space> w a t e r . 
+132-13 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a n e r <space> w a t e r 
+132-14  t h e r e <space> w a s <space> w a r m <space> c l e a r e r <space> w a t e r . 
+132-15  t h e r e <space> w a s <space> w a r m <space> c l e a n <space> w a t e r . 
+132-16  t h e r e <space> w a s <space> w a r m <space> l e a r <space> w a t e r . 
+132-17  t h e r e <space> w a s <space> w a r m <space> l e a r n <space> w a t e r . 
+132-18  t h e r e <space> w a s <space> w a r m <space> l e a d e r <space> w a t e r 
+132-19 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a n e r <space> w a t e r . 
+132-20  t h e r e <space> w a s <space> w a r m <space> l e a d e r <space> w a t e r . 
+132-21 , <space> t h e r e <space> w a s <space> w a r m <space> l e a n e r <space> w a t e r 
+132-22 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a r e r <space> w a t e r 
+132-23 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a n <space> w a t e r 
+132-24 , <space> t h e r e <space> w a s <space> w a r m <space> l e a r <space> w a t e r 
+132-25 , <space> t h e r e <space> w a s <space> w a r m <space> l e a r n <space> w a t e r 
+132-26 , <space> t h e r e <space> w a s <space> w a r m <space> l e a n e r <space> w a t e r . 
+132-27 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a r <space> w a t e r 
+132-28  t h e r e <space> w a s <space> w a r m <space> l e a r n e r <space> w a t e r 
+132-29 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a r e r <space> w a t e r . 
+132-30 , <space> t h e r e <space> w a s <space> w a r m <space> c l e a n <space> w a t e r . 
+132-31 , <space> t h e r e <space> w a s <space> w a r m <space> l e a r <space> w a t e r . 
+132-32 , <space> t h e r e <space> w a s <space> w a r m <space> l e a r n <space> w a t e r . 
+132-33 , <space> t h e r e <space> w a s <space> w a r m <space> l e a d e r <space> w a t e r 
+132-34 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a r <space> w a t e r . 
+132-35 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a n e r <space> w a t e r 
+132-36 , <space> t h e r e <space> w a s <space> w a r m <space> l e a d e r <space> w a t e r . 
+132-37 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a n e r <space> w a t e r . 
+132-38 , <space> t h e r e <space> w a s <space> w a r m <space> l e a r n e r <space> w a t e r 
+132-39 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a n e r <space> w a t e r 
+132-40 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a r e r <space> w a t e r 
+132-41 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a n <space> w a t e r 
+132-42 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a r <space> w a t e r 
+132-43 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a r n <space> w a t e r 
+132-44 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a n e r <space> w a t e r . 
+132-45 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a r e r <space> w a t e r . 
+132-46 ' <space> t h e r e <space> w a s <space> w a r m <space> c l e a n <space> w a t e r . 
+132-47 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a r <space> w a t e r . 
+132-48 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a r n <space> w a t e r . 
+132-49 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a d e r <space> w a t e r 
+132-50 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a d e r <space> w a t e r . 
+132-51 ' <space> t h e r e <space> w a s <space> w a r m <space> l e a r n e r <space> w a t e r 

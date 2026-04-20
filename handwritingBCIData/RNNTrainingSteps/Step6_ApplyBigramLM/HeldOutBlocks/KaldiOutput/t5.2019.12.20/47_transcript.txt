@@ -1,0 +1,24 @@
+47-1  c a r r o t s <space> a n d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-2  c a r r o t s <space> a d d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-3 , <space> c a r r o t s <space> a n d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-4 , <space> c a r r o t s <space> a d d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-5  c a r r o t s <space> a d d s <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-6  c a r r o t s <space> a n d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-7 ' <space> c a r r o t s <space> a n d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-8 , <space> c a r r o t s <space> a d d s <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-9  c a r r o t s <space> a d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-10  c a r r o t s <space> a d d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-11 ' <space> c a r r o t s <space> a d d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-12 , <space> c a r r o t s <space> a n d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-13 , <space> c a r r o t s <space> a d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-14 , <space> c a r r o t s <space> a d d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-15  c a r r o t s <space> a d d s <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-16 ' <space> c a r r o t s <space> a d d s <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-17 ' <space> c a r r o t s <space> a n d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-18 , <space> c a r r o t s <space> a d d s <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-19  c a r r o t s <space> a d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-20 ' <space> c a r r o t s <space> a d <space> s t i c k s <space> a r e <space> r e l a t i v e . 
+47-21 ' <space> c a r r o t s <space> a d d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-22 , <space> c a r r o t s <space> a d <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-23 ' <space> c a r r o t s <space> a d d s <space> s t i c k s <space> a r e <space> r e l a t i v e 
+47-24 ' <space> c a r r o t s <space> a d <space> s t i c k s <space> a r e <space> r e l a t i v e 

@@ -1,0 +1,8 @@
+64-1  y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g ? 
+64-2 , <space> y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g ? 
+64-3  y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g ? ? 
+64-4  y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g 
+64-5  y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g . 
+64-6 , <space> y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g ? ? 
+64-7 , <space> y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g 
+64-8 , <space> y o u <space> w i s h <space> t o <space> p u r c h a s e <space> s o m e t h i n g . 

@@ -1,0 +1,12 @@
+60-1  w e l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e 
+60-2 , <space> w e l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e 
+60-3  w e l l , <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e 
+60-4 ' <space> w e l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e 
+60-5  w e l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e . 
+60-6 , <space> w e l l , <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e 
+60-7  w e ' l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e 
+60-8 , <space> w e l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e . 
+60-9  w e l l , <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e . 
+60-10 ' <space> w e l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e . 
+60-11 , <space> w e l l , <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e . 
+60-12  w e ' l l <space> t h e y ' v e <space> g o t <space> n o <space> c h o i c e . 

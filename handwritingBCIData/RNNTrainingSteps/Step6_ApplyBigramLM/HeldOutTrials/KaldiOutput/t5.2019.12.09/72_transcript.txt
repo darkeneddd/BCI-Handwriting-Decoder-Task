@@ -1,0 +1,12 @@
+72-1  w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-2 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-3 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-4  w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-5  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-6 , <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-7 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-8 ' <space> w i t h <space> t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-9 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-10  w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-11 , <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 
+72-12 ' <space> w i t h <space> a t y p i c a l <space> b a d <space> g r a c e s <space> t h e y <space> d i d <space> n o t <space> a t t e n d <space> t h e <space> b a r b e c u e . 

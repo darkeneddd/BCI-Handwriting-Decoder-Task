@@ -1,0 +1,20 @@
+41-1  w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-2 , <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-3  w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-4 , <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-5 ' <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-6  w e l l , <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-7  w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-8  w e ' l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-9 ' <space> w e l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-10  w e l l , <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-11 , <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-12  w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-13  w e ' l l <space> l e t ' s <space> d e c i d e <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-14 , <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-15 ' <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-16  w e l l , <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-17  w e ' l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . 
+41-18 ' <space> w e l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-19  w e l l , <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 
+41-20  w e ' l l <space> l e t ' s <space> d e c i d e d <space> a n d <space> l o o k <space> a t <space> t h a t <space> t h e n . . 

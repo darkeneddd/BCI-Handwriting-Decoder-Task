@@ -1,0 +1,6 @@
+112-1  z e r o <space> d o l l a r s 
+112-2 , <space> z e r o <space> d o l l a r s 
+112-3  z e r o <space> d o l l a r s . 
+112-4 ' <space> z e r o <space> d o l l a r s 
+112-5 , <space> z e r o <space> d o l l a r s . 
+112-6 ' <space> z e r o <space> d o l l a r s . 

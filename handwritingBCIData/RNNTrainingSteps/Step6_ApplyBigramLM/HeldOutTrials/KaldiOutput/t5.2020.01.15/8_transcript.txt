@@ -1,0 +1,12 @@
+8-1  y o u <space> l o o k <space> t i r e d 
+8-2  y o u <space> l o o k <space> t i r e d . 
+8-3 , <space> y o u <space> l o o k <space> t i r e d 
+8-4 , <space> y o u <space> l o o k <space> t i r e d . 
+8-5  y o u <space> l o o k <space> t i r e d ? 
+8-6  y o u <space> l o o k <space> t i r e . 
+8-7 ' <space> y o u <space> l o o k <space> t i r e d 
+8-8 , <space> y o u <space> l o o k <space> t i r e d ? 
+8-9 ' <space> y o u <space> l o o k <space> t i r e d . 
+8-10 , <space> y o u <space> l o o k <space> t i r e . 
+8-11 ' <space> y o u <space> l o o k <space> t i r e d ? 
+8-12 ' <space> y o u <space> l o o k <space> t i r e . 

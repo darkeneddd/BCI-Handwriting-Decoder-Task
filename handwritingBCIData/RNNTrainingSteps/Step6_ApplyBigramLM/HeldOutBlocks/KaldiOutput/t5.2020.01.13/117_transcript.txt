@@ -1,0 +1,20 @@
+117-1  o n e . 
+117-2 , <space> o n e . 
+117-3  o n c e . 
+117-4  n o n e . 
+117-5  b o n e . 
+117-6  o x e n . 
+117-7  o n e . . 
+117-8 , <space> o x e n . 
+117-9  t o n e . 
+117-10  g o n e . 
+117-11 ' <space> o n e . 
+117-12  o n e ? 
+117-13  o x e n 
+117-14  b o x e s . 
+117-15  b o x e r . 
+117-16 , <space> o n c e . 
+117-17 , <space> o x e n 
+117-18  a x e . 
+117-19  m o r e . 
+117-20  d o n e . 

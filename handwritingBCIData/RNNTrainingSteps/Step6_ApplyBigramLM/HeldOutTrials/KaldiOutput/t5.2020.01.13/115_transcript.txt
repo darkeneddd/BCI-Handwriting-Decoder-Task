@@ -1,0 +1,22 @@
+115-1  a t <space> h o m e . 
+115-2  a t <space> h o m e 
+115-3 , <space> a t <space> h o m e . 
+115-4 , <space> a t <space> h o m e 
+115-5  a t <space> h a m . 
+115-6  e a t <space> h a m . 
+115-7  a t <space> h a r m . 
+115-8 ' <space> a t <space> h o m e . 
+115-9 ' <space> a t <space> h o m e 
+115-10  a t <space> h m m . 
+115-11  a t <space> h a m m . 
+115-12  a t <space> h o m e ? 
+115-13 , <space> a t <space> h a m . 
+115-14 , <space> a t <space> h a r m . 
+115-15 , <space> a t <space> h m m . 
+115-16 , <space> a t <space> h a m m . 
+115-17 , <space> a t <space> h o m e ? 
+115-18 ' <space> a t <space> h a m . 
+115-19 ' <space> a t <space> h a r m . 
+115-20 ' <space> a t <space> h m m . 
+115-21 ' <space> a t <space> h a m m . 
+115-22 ' <space> a t <space> h o m e ? 

@@ -1,0 +1,128 @@
+20-1  h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-2  h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-3 , <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-4  h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-5 , <space> h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-6  h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-7  h e r <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-8  h e r <space> p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-9  h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-10  h e r <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-11  h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-12  h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-13  h e r <space> p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-14 , <space> h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-15 ' <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-16 , <space> h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-17 , <space> h e r <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-18  h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-19  h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-20 , <space> h e r <space> p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-21 ' <space> h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-22  h e r <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-23  h e r <space> p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-24  h e r <space> p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-25  h e r <space> p p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-26  h e r <space> p p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-27 , <space> h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-28 , <space> h e r <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-29 , <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-30 , <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-31 , <space> h e r <space> p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-32  h e r <space> p p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-33  h e r <space> p p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-34  h e r <space> p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-35  h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-36  h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-37 , <space> h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-38 , <space> h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-39 ' <space> h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-40 , <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-41  h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-42  h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-43 , <space> h e r <space> p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-44  h e r <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-45  h e r <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-46 ' <space> h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-47 , <space> h e r <space> p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-48 , <space> h e r <space> p p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-49 ' <space> h e r <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-50  h e r <space> p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-51  h e r <space> p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-52 ' <space> h e r <space> p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-53  h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-54 , <space> h e r <space> p p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-55  h e r <space> p p p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-56  h e r <space> p p p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-57  h e r <space> p p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-58  h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-59  h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-60 ' <space> h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-61 , <space> h e r <space> p p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-62  h e r <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-63  h e r <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-64 , <space> h e r <space> p p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-65 , <space> h e r <space> p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-66 ' <space> h e r <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-67  h e r <space> p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-68  h e r <space> p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-69 , <space> h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-70 , <space> h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-71 ' <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-72 ' <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-73 ' <space> h e r <space> p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-74  h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-75 , <space> h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-76 , <space> h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-77 , <space> h e r <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-78 , <space> h e r <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-79 , <space> h e r <space> p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-80 , <space> h e r <space> p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-81 ' <space> h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-82 ' <space> h e r <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-83  h e r <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-84  h e r <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-85 , <space> h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-86 ' <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-87  h e r <space> p p p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-88  h e r <space> p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-89  h e r <space> p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-90  h e r <space> p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-91  h e r <space> p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-92  h e r <space> p p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-93 ' <space> h e r <space> p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-94  h e r <space> p p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-95 ' <space> h e r <space> p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-96 ' <space> h e r <space> p p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-97 , <space> h e r <space> p p p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-98 , <space> h e r <space> p p p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-99 , <space> h e r <space> p p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-100  h e r <space> p p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-101  h e r <space> p p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-102 ' <space> h e r <space> p p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-103 , <space> h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-104 , <space> h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-105  h e r <space> p p p <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-106 , <space> h e r <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-107 , <space> h e r <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-108 , <space> h e r <space> p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-109 , <space> h e r <space> p p <space> p a r t n e r <space> s w o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-110 , <space> h e r <space> p p <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-111  h e r <space> p p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-112  h e r <space> p p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-113  h e r <space> p p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-114  h e r <space> p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-115  h e r <space> p p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-116 ' <space> h e r <space> p p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-117  h e r <space> p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-118 ' <space> h e r <space> p p <space> p a r t n e r <space> s c o o p e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-119 ' <space> h e r <space> p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-120 ' <space> h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-121 ' <space> h e r <space> p <space> p a r t n e r <space> s t o p p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-122 , <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-123 , <space> h e r <space> p a r t n e r <space> s t o p p e d <space> t o o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-124 , <space> h e r <space> p p p <space> p a r t n e r <space> s t o o p <space> e d <space> t o <space> c l a i m <space> h i s <space> g o o d n i g h t <space> k i s s . 
+20-125 , <space> h e r <space> p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-126 , <space> h e r <space> p <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 
+20-127 ' <space> h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> t h i s <space> g o o d n i g h t <space> k i s s . 
+20-128 ' <space> h e r <space> p a r t n e r <space> s t o m p e d <space> t o <space> c l a i m <space> h i s s <space> g o o d n i g h t <space> k i s s . 

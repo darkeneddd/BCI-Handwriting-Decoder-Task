@@ -1,0 +1,100 @@
+73-1  i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-2  i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-3  h i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-4  h i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-5  i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-6 , <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-7  i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-8  i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-9  i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-10 , <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-11  i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-12  i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-13  h i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-14  i s s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-15  i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-16  h i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-17 ' <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-18  i i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-19  i s s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-20  i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-21  i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-22 , <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-23  h i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-24  h i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-25 ' <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-26  i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-27  i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-28 , <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-29  i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-30 , <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-31 , <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-32  i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-33  i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-34  i s s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-35  i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-36  h i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-37 , <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-38 , <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-39 ' <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-40  h i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-41  i i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-42  h i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-43  i s s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-44 , <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-45  h i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-46  i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-47  i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-48  i s s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-49 , <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-50 , <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-51 ' <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-52  i i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-53  i s s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-54 ' <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-55 ' <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-56  i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-57  i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-58 , <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-59 , <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-60 ' <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-61 ' <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . 
+73-62  i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-63  i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-64 , <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-65 ' <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-66  i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-67  i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-68  i s s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-69 , <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-70 , <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-71  i s s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-72 ' <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-73  i i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-74  i s s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-75 , <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-76 ' <space> i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-77  i i s <space> t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-78  i s s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-79 , <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-80 , <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-81 ' <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-82 ' <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-83 ' <space> i s <space> t o e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-84 ' <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-85 ' <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i t . . 
+73-86 , <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-87 , <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-88 ' <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-89 , <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-90 , <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-91 , <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-92 , <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-93 ' <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-94 ' <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o o <space> i t . 
+73-95 ' <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-96 ' <space> i s <space> s t o n e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-97 ' <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-98 ' <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> h i t . 
+73-99 ' <space> i s <space> t o r e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 
+73-100 ' <space> i s <space> t o <space> e e <space> h a d <space> d e v e l o p e d <space> a n <space> e d g e <space> t o <space> i i t . 

@@ -1,0 +1,9 @@
+77-1  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+77-2 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+77-3  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> c o v e r <space> t h e <space> l a z y <space> d o g 
+77-4 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> o v e r <space> t h e <space> l a z y <space> d o g 
+77-5  t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p e d <space> o v e r <space> t h e <space> l a z y <space> d o g 
+77-6 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> c o v e r <space> t h e <space> l a z y <space> d o g 
+77-7 , <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p e d <space> o v e r <space> t h e <space> l a z y <space> d o g 
+77-8 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p s <space> c o v e r <space> t h e <space> l a z y <space> d o g 
+77-9 ' <space> t h e <space> q u i c k <space> b r o w n <space> f o x <space> j u m p e d <space> o v e r <space> t h e <space> l a z y <space> d o g 

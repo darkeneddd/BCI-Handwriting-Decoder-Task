@@ -1,0 +1,9 @@
+2-1  c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? 
+2-2  c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? ? 
+2-3 , <space> c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? 
+2-4  c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? ? ? 
+2-5 ' <space> c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? 
+2-6 , <space> c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? ? 
+2-7 ' <space> c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? ? 
+2-8 , <space> c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? ? ? 
+2-9 ' <space> c o u l d <space> t h e r e <space> b e <space> a <space> f o r e i g n <space> b o d y <space> i n <space> t h e r e ? ? ? 

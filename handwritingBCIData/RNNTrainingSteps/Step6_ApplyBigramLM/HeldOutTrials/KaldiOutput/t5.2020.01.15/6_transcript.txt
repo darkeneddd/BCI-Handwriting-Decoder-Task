@@ -1,0 +1,12 @@
+6-1  y o u <space> l o o k <space> p a l e . 
+6-2 , <space> y o u <space> l o o k <space> p a l e . 
+6-3  y o u <space> l o o k <space> p a l e 
+6-4  y o u <space> l o o k <space> p a g e . 
+6-5  y o u <space> l o o k <space> p a l e ? 
+6-6 , <space> y o u <space> l o o k <space> p a l e 
+6-7 ' <space> y o u <space> l o o k <space> p a l e . 
+6-8 , <space> y o u <space> l o o k <space> p a g e . 
+6-9 , <space> y o u <space> l o o k <space> p a l e ? 
+6-10 ' <space> y o u <space> l o o k <space> p a l e 
+6-11 ' <space> y o u <space> l o o k <space> p a g e . 
+6-12 ' <space> y o u <space> l o o k <space> p a l e ? 

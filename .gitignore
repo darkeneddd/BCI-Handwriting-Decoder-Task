@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebook/checkpoint/cache
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Large intermediate outputs (optional but recommended)
+**/results/models/
+**/src/__pycache__/

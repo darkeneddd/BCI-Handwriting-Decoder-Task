@@ -1,0 +1,25 @@
+74-1  t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r . 
+74-2  t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r 
+74-3  t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r . 
+74-4  t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r 
+74-5 , <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r . 
+74-6 , <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r 
+74-7 , <space> t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r . 
+74-8 , <space> t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r 
+74-9  t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r ? 
+74-10  t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r , 
+74-11  t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t i o n . 
+74-12 ' <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r . 
+74-13 ' <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r 
+74-14  t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r ? 
+74-15 , <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r ? 
+74-16  t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r , 
+74-17 , <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r , 
+74-18  t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t i o n . 
+74-19 , <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t i o n . 
+74-20 , <space> t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r ? 
+74-21 , <space> t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r , 
+74-22 , <space> t h e r e s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t i o n . 
+74-23 ' <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r ? 
+74-24 ' <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t o r , 
+74-25 ' <space> t h e r e ' s <space> a <space> p i n e a p p l e <space> i n <space> t h e <space> r e f r i g e r a t i o n . 

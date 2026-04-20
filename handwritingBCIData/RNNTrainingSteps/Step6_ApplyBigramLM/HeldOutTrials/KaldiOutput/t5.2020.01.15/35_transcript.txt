@@ -1,0 +1,6 @@
+35-1  e a t <space> b r e a k f a s t 
+35-2 , <space> e a t <space> b r e a k f a s t 
+35-3  e a t <space> b r e a k f a s t . 
+35-4 ' <space> e a t <space> b r e a k f a s t 
+35-5 , <space> e a t <space> b r e a k f a s t . 
+35-6 ' <space> e a t <space> b r e a k f a s t . 

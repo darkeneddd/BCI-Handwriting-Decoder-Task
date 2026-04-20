@@ -1,0 +1,12 @@
+3-1  a <space> n e w <space> p h a s e <space> o f <space> t h e <space> c a m p a i g n <space> b e g a n . 
+3-2 , <space> a <space> n e w <space> p h a s e <space> o f <space> t h e <space> c a m p a i g n <space> b e g a n . 
+3-3  a <space> n e w <space> p h a s e <space> o f f <space> t h e <space> c a m p a i g n <space> b e g a n . 
+3-4  a <space> n e w <space> p h a s e <space> o f <space> t h e e <space> c a m p a i g n <space> b e g a n . 
+3-5 , <space> a <space> n e w <space> p h a s e <space> o f f <space> t h e <space> c a m p a i g n <space> b e g a n . 
+3-6  a <space> n e w <space> p h a s e <space> o f <space> t e e <space> c a m p a i g n <space> b e g a n . 
+3-7 ' <space> a <space> n e w <space> p h a s e <space> o f <space> t h e <space> c a m p a i g n <space> b e g a n . 
+3-8 , <space> a <space> n e w <space> p h a s e <space> o f <space> t h e e <space> c a m p a i g n <space> b e g a n . 
+3-9 , <space> a <space> n e w <space> p h a s e <space> o f <space> t e e <space> c a m p a i g n <space> b e g a n . 
+3-10 ' <space> a <space> n e w <space> p h a s e <space> o f f <space> t h e <space> c a m p a i g n <space> b e g a n . 
+3-11 ' <space> a <space> n e w <space> p h a s e <space> o f <space> t h e e <space> c a m p a i g n <space> b e g a n . 
+3-12 ' <space> a <space> n e w <space> p h a s e <space> o f <space> t e e <space> c a m p a i g n <space> b e g a n . 

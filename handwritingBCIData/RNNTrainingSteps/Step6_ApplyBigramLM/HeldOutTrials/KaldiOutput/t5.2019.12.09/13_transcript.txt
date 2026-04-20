@@ -1,0 +1,3 @@
+13-1  a n d <space> t h e <space> o f f i c e r s <space> t o o k <space> o v e r <space> t h e <space> h o u s e . 
+13-2 , <space> a n d <space> t h e <space> o f f i c e r s <space> t o o k <space> o v e r <space> t h e <space> h o u s e . 
+13-3 ' <space> a n d <space> t h e <space> o f f i c e r s <space> t o o k <space> o v e r <space> t h e <space> h o u s e . 

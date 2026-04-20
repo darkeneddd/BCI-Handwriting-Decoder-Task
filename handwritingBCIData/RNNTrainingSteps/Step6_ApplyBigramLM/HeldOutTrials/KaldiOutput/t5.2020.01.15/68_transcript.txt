@@ -1,0 +1,9 @@
+68-1  n a n c y 
+68-2  n a n c y . 
+68-3 , <space> n a n c y 
+68-4 , <space> n a n c y . 
+68-5 ' <space> n a n c y 
+68-6 ' <space> n a n c y . 
+68-7  n a n c e . 
+68-8  n a n c y ? 
+68-9 , <space> n a n c y ? 

@@ -1,0 +1,24 @@
+31-1  h o w <space> d o <space> y o u <space> f e e l 
+31-2  h o w <space> d o <space> y o u <space> f e e l . 
+31-3  h o w <space> d o <space> y o u <space> f e e l ? 
+31-4 , <space> h o w <space> d o <space> y o u <space> f e e l 
+31-5 , <space> h o w <space> d o <space> y o u <space> f e e l . 
+31-6  h o w <space> d o <space> y o u <space> f e e . 
+31-7 , <space> h o w <space> d o <space> y o u <space> f e e l ? 
+31-8  h o w <space> d o <space> y o u <space> f e e d 
+31-9 ' <space> h o w <space> d o <space> y o u <space> f e e l 
+31-10 ' <space> h o w <space> d o <space> y o u <space> f e e l . 
+31-11  h o w <space> d o <space> y o u <space> f e e d . 
+31-12  s h o w <space> d o <space> y o u <space> f e e l 
+31-13  s h o w <space> d o <space> y o u <space> f e e l . 
+31-14 , <space> h o w <space> d o <space> y o u <space> f e e . 
+31-15 , <space> h o w <space> d o <space> y o u <space> f e e d 
+31-16 ' <space> h o w <space> d o <space> y o u <space> f e e l ? 
+31-17  s h o w <space> d o <space> y o u <space> f e e l ? 
+31-18 , <space> h o w <space> d o <space> y o u <space> f e e d . 
+31-19 ' <space> h o w <space> d o <space> y o u <space> f e e . 
+31-20  s h o w <space> d o <space> y o u <space> f e e . 
+31-21 ' <space> h o w <space> d o <space> y o u <space> f e e d 
+31-22  s h o w <space> d o <space> y o u <space> f e e d 
+31-23 ' <space> h o w <space> d o <space> y o u <space> f e e d . 
+31-24  s h o w <space> d o <space> y o u <space> f e e d . 

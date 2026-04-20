@@ -1,0 +1,18 @@
+20-1  t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> r u s h e d <space> o f f . 
+20-2 , <space> t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> r u s h e d <space> o f f . 
+20-3  t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> b r u s h e d <space> o f f . 
+20-4  t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> r u s h e d <space> o f f . 
+20-5  t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> p u s h e d <space> o f f . 
+20-6 ' <space> t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> r u s h e d <space> o f f . 
+20-7 , <space> t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> b r u s h e d <space> o f f . 
+20-8 , <space> t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> r u s h e d <space> o f f . 
+20-9 , <space> t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> p u s h e d <space> o f f . 
+20-10  t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> b r u s h e d <space> o f f . 
+20-11  t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> p u s h e d <space> o f f . 
+20-12 ' <space> t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> b r u s h e d <space> o f f . 
+20-13 ' <space> t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> r u s h e d <space> o f f . 
+20-14 ' <space> t h e <space> m i n u t e <space> i <space> a r r i v e d <space> h e <space> p u s h e d <space> o f f . 
+20-15 , <space> t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> b r u s h e d <space> o f f . 
+20-16 , <space> t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> p u s h e d <space> o f f . 
+20-17 ' <space> t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> b r u s h e d <space> o f f . 
+20-18 ' <space> t h e <space> m i n u t e <space> i i <space> a r r i v e d <space> h e <space> p u s h e d <space> o f f . 

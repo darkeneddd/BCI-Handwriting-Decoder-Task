@@ -1,0 +1,9 @@
+108-1  s e e <space> a <space> d o c t o r . 
+108-2  s e e <space> a <space> d o c t o r 
+108-3 , <space> s e e <space> a <space> d o c t o r . 
+108-4  s e e <space> a <space> d o c t o r ? 
+108-5 , <space> s e e <space> a <space> d o c t o r 
+108-6 ' <space> s e e <space> a <space> d o c t o r . 
+108-7 , <space> s e e <space> a <space> d o c t o r ? 
+108-8 ' <space> s e e <space> a <space> d o c t o r 
+108-9 ' <space> s e e <space> a <space> d o c t o r ? 

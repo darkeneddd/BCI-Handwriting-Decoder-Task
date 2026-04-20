@@ -1,0 +1,6 @@
+89-1  e x a c t 
+89-2  e x a c t . 
+89-3 , <space> e x a c t 
+89-4  e n a c t 
+89-5  e x p e c t 
+89-6 ' <space> e x a c t 

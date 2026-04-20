@@ -1,0 +1,11 @@
+45-1  h i s <space> f a t h e r . 
+45-2  h i s <space> f a t h e r 
+45-3 , <space> h i s <space> f a t h e r . 
+45-4 , <space> h i s <space> f a t h e r 
+45-5  h i s <space> f a t h e r ? 
+45-6 ' <space> h i s <space> f a t h e r . 
+45-7  t h i s <space> f a t h e r . 
+45-8 ' <space> h i s <space> f a t h e r 
+45-9  t h i s <space> f a t h e r 
+45-10 , <space> h i s <space> f a t h e r ? 
+45-11 ' <space> h i s <space> f a t h e r ? 

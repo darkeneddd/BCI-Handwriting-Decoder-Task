@@ -1,0 +1,15 @@
+6-1  m u s i c <space> t r u m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-2  m u s i c <space> t h u m p <space> e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-3  m u s i c <space> t h <space> a m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-4 , <space> m u s i c <space> t r u m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-5 , <space> m u s i c <space> t h u m p <space> e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-6 , <space> m u s i c <space> t h <space> a m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-7 ' <space> m u s i c <space> t r u m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-8  m u s i c <space> t h <space> p u m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-9  m u s i c <space> t h e <space> a m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-10 ' <space> m u s i c <space> t h u m p <space> e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-11 ' <space> m u s i c <space> t h <space> a m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-12 , <space> m u s i c <space> t h <space> p u m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-13 , <space> m u s i c <space> t h e <space> a m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-14 ' <space> m u s i c <space> t h <space> p u m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 
+6-15 ' <space> m u s i c <space> t h e <space> a m p e d <space> f r o m <space> a <space> c l u b <space> t w o <space> b l o c k s <space> a w a y . 

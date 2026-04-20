@@ -1,0 +1,18 @@
+74-1  y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-2 , <space> y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-3  e y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-4  y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-5  y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-6 ' <space> y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-7 , <space> y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-8 , <space> y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-9  d y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-10  e y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-11  e y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-12  y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-13 ' <space> y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-14 ' <space> y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-15 , <space> y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-16  d y e s , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-17  e y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 
+74-18 ' <space> y e s , , <space> h e <space> w a s <space> m e d i c a l l y <space> q u a l i f i e d , , <space> a s <space> w e l l <space> a s <space> b e i n g <space> a <space> b i o l o g i s t . 

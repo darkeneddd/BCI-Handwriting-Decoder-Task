@@ -1,0 +1,15 @@
+112-1  i <space> d o n ' t <space> u n d e r s t a n d 
+112-2  i <space> d o n ' t <space> u n d e r s t a n d . 
+112-3 , <space> i <space> d o n ' t <space> u n d e r s t a n d 
+112-4 , <space> i <space> d o n ' t <space> u n d e r s t a n d . 
+112-5  i <space> d o n t <space> u n d e r s t a n d 
+112-6 ' <space> i <space> d o n ' t <space> u n d e r s t a n d 
+112-7  i <space> d o n ' t <space> u n d e r s t a n d ? 
+112-8  i <space> d o n t <space> u n d e r s t a n d . 
+112-9 ' <space> i <space> d o n ' t <space> u n d e r s t a n d . 
+112-10 , <space> i <space> d o n t <space> u n d e r s t a n d 
+112-11 , <space> i <space> d o n ' t <space> u n d e r s t a n d ? 
+112-12 , <space> i <space> d o n t <space> u n d e r s t a n d . 
+112-13 ' <space> i <space> d o n t <space> u n d e r s t a n d 
+112-14 ' <space> i <space> d o n ' t <space> u n d e r s t a n d ? 
+112-15 ' <space> i <space> d o n t <space> u n d e r s t a n d . 

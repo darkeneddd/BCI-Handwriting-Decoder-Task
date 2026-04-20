@@ -1,0 +1,9 @@
+29-1  a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> o f <space> s t o n e s . 
+29-2  a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> o f f <space> s t o n e s . 
+29-3 , <space> a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> o f <space> s t o n e s . 
+29-4 , <space> a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> o f f <space> s t o n e s . 
+29-5  a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> f f <space> s t o n e s . 
+29-6 ' <space> a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> o f <space> s t o n e s . 
+29-7 , <space> a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> f f <space> s t o n e s . 
+29-8 ' <space> a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> o f f <space> s t o n e s . 
+29-9 ' <space> a <space> b o n f i r e <space> b l a z e d <space> i n s i d e <space> a <space> s m a l l <space> c i r c l e <space> f f <space> s t o n e s . 

@@ -1,0 +1,128 @@
+70-1  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-2  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-3 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-4  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-5  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-6  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-7  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-8  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-9 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-10  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-11  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-12 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-13  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-14  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f f <space> c o w s . 
+70-15  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-16  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f f <space> c o w s . 
+70-17  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-18  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h a n d <space> o f <space> c o w s . 
+70-19  o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-20  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h e r d <space> o f <space> c o w s . 
+70-21 , <space> o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-22  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a l l <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-23  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> l a n d <space> o f <space> c o w s . 
+70-24  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-25  o n <space> t h e <space> l o w e r <space> s l o p e s , <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-26 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-27  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c r o w s . 
+70-28  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-29  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f f <space> c o w s . 
+70-30  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-31 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-32 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-33 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-34  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-35  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-36  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f f <space> c o w s . 
+70-37  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-38  w o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-39 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-40 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-41  o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-42  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c r o w s . 
+70-43 ' <space> o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-44  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-45  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-46 , <space> o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-47 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f f <space> c o w s . 
+70-48 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-49  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-50 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f f <space> c o w s . 
+70-51  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-52  o n <space> t h e <space> l o w e r <space> s l o p e s , <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-53  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f f <space> c o w s . 
+70-54 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-55  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-56 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h a n d <space> o f <space> c o w s . 
+70-57  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f f <space> c o w s . 
+70-58 , <space> o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-59  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-60 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h e r d <space> o f <space> c o w s . 
+70-61 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-62  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> h a n d <space> o f <space> c o w s . 
+70-63  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c r o w s . 
+70-64  o n <space> t h e e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-65 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a l l <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-66  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> h e r d <space> o f <space> c o w s . 
+70-67 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> l a n d <space> o f <space> c o w s . 
+70-68  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a l l <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-69  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> l a n d <space> o f <space> c o w s . 
+70-70 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-71 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s , <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-72  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-73  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-74  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-75 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-76  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f <space> c r o w s . 
+70-77  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f <space> c r o w s . 
+70-78 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-79  o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-80 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c r o w s . 
+70-81  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> a n d <space> o f f <space> c o w s . 
+70-82 , <space> o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-83  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c r o w s . 
+70-84 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f f <space> c o w s . 
+70-85  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-86  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-87  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> a g e <space> e n d <space> o f <space> c r o w s . 
+70-88  o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f f <space> c o w s . 
+70-89  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-90  o n <space> t h e <space> l o w e r <space> s l o p e s , <space> w a s <space> a <space> l a r g e <space> a n d <space> o f <space> c o w s . 
+70-91  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a a <space> l a n g e <space> e n d <space> o f <space> c r o w s . 
+70-92  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f f <space> c o w s . 
+70-93 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-94 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-95  w o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-96  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h a n d <space> o f <space> c r o w s . 
+70-97  o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-98  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a a <space> l a n g e <space> a n d <space> o f f <space> c o w s . 
+70-99  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h e r d <space> o f <space> c r o w s . 
+70-100  o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-101  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f f <space> c o w s . 
+70-102  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-103 , <space> o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-104 ' <space> o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-105  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a l l <space> a g e <space> e n d <space> o f <space> c r o w s . 
+70-106 , <space> o n <space> t h e <space> l o w e r <space> s c o p e s <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-107  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f f <space> c o w s . 
+70-108  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> l a n d <space> o f <space> c r o w s . 
+70-109  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-110 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> a n d <space> o f f <space> c o w s . 
+70-111 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-112  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h a n d <space> o f <space> c o w s . 
+70-113  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-114 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f f <space> c o w s . 
+70-115  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h e r d <space> o f <space> c o w s . 
+70-116  o n <space> t h e <space> l o w e r <space> s l o p e s , <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c r o w s . 
+70-117  o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f f <space> c o w s . 
+70-118 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-119  o n <space> t h e <space> l o w e r <space> s l o p e s , <space> w a s <space> a <space> r a n g e <space> e n d <space> o f <space> c o w s . 
+70-120 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> e n d <space> o f f <space> c o w s . 
+70-121 , <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-122 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h a n d <space> o f <space> c o w s . 
+70-123  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a l l <space> a g e <space> e n d <space> o f <space> c o w s . 
+70-124 ' <space> o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> e n d <space> o f <space> c o w s . 
+70-125  o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a n g e <space> a n d <space> o f <space> c o w s . 
+70-126  w o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> l a n d <space> o f <space> c o w s . 
+70-127  o n <space> t h e e <space> l o w e r <space> s l o p e s <space> w a s <space> a a <space> l a n g e <space> e n d <space> o f <space> c o w s . 
+70-128 ' <space> o n <space> t h e <space> l o w e r <space> s l o p e s <space> w a s <space> a <space> l a r g e <space> h e r d <space> o f <space> c o w s . 

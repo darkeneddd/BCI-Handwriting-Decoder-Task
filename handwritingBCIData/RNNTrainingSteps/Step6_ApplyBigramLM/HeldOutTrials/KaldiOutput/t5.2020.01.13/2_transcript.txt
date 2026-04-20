@@ -1,0 +1,12 @@
+2-1  m a k e <space> s e n s e 
+2-2  m a k e <space> s e n s e . 
+2-3 , <space> m a k e <space> s e n s e 
+2-4  m a k e s <space> s e n s e 
+2-5 , <space> m a k e <space> s e n s e . 
+2-6  m a k e s <space> s e n s e . 
+2-7 ' <space> m a k e <space> s e n s e 
+2-8  m a k e <space> s e n s . 
+2-9  m a l e <space> s e n s e 
+2-10 ' <space> m a k e <space> s e n s e . 
+2-11 , <space> m a k e <space> s e n s . 
+2-12 ' <space> m a k e <space> s e n s . 

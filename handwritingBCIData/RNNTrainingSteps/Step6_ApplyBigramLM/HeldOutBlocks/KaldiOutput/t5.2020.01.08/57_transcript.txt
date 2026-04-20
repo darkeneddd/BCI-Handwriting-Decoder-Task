@@ -1,0 +1,128 @@
+57-1  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-2 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-3  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-4  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-5  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-6  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-7  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-8  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-9 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-10  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-11  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-12  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-13 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-14  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-15  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-16  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-17 ' <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-18  t h e s e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-19  t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-20  t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-21 , <space> t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-22  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-23 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-24  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-25  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-26  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-27 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-28  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-29 , <space> t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-30 , <space> t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-31  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-32  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-33 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-34  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-35  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-36 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-37 , <space> t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-38 , <space> t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-39  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-40  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-41  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-42  t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-43 ' <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-44  t h e s e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-45  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-46  t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-47  t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-48  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-49 , <space> t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-50  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-51  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-52  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-53  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-54 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-55  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-56  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-57 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-58  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-59  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-60 ' <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-61  t h e s e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-62 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-63  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-64  t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-65  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-66  t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-67 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-68 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-69  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-70 , <space> t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-71 , <space> t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-72  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-73 , <space> t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-74  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-75  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-76 , <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-77 ' <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-78  t h e s e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-79  t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-80 ' <space> t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-81  t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-82 ' <space> t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-83  t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-84  t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-85 ' <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-86  t h e s e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-87 , <space> t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-88 , <space> t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-89 , <space> t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t 
+57-90  t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-91  t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-92 ' <space> t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-93 , <space> t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-94 ' <space> t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e a t h e r <space> j a c k e t . 
+57-95  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-96  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-97  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-98  t h r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-99 , <space> t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-100  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-101 , <space> t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-102  t r e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-103 , <space> t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-104 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-105 , <space> t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-106 , <space> t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-107 , <space> t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t . 
+57-108  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-109  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-110 , <space> t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-111 , <space> t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-112 ' <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-113  t h e s e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-114 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-115 , <space> t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-116 , <space> t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t . 
+57-117  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-118  t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-119  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-120  t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-121 , <space> t e e <space> w a t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-122 , <space> t h e <space> w a i t e r <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-123 , <space> t h e <space> w a t e r <space> i <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t . 
+57-124 , <space> t h e e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e c t e r n <space> j a c k e t 
+57-125  t h e <space> w a t e r , <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-126  t h e <space> w a t e r s <space> w a s <space> r u i n i n g <space> t h i s <space> l e a t h e r <space> j a c k e t 
+57-127 ' <space> t h e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 
+57-128  t h e s e <space> w a t e r <space> w a s <space> r u i n i n g <space> h i s <space> l e t t e r <space> j a c k e t 

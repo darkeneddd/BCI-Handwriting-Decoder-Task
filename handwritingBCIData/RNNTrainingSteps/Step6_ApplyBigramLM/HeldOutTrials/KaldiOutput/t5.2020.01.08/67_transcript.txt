@@ -1,0 +1,48 @@
+67-1  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-2 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-3  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-4  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-5 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-6  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-7 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-8  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-9  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-10 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-11 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-12 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-13  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-14 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-15  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-16  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-17  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-18 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-19  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-20 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-21  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-22 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-23  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-24 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-25  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-26 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-27  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-28 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-29 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-30  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-31 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-32 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-33  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-34 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-35  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-36  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-37 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-38  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-39  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-40 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e s o r t . 
+67-41 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-42 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-43  h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-44 , <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-45  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-46 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> e s c o r t . 
+67-47  s h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 
+67-48 ' <space> h e ' d <space> s p e n t <space> t h e <space> l a s t <space> f e w <space> d a y s , <space> b o u n c i n g <space> f r o m <space> m <space> r e s o r t <space> t o <space> r e p o r t . 

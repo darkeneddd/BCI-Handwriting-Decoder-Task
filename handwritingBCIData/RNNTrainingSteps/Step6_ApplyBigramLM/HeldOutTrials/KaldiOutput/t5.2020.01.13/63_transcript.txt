@@ -1,0 +1,30 @@
+63-1  i <space> w a s <space> f r a m e d 
+63-2  i <space> w a s <space> f r a m e d . 
+63-3 , <space> i <space> w a s <space> f r a m e d 
+63-4  i <space> w a s <space> f r a m e . 
+63-5 , <space> i <space> w a s <space> f r a m e d . 
+63-6  i i <space> w a s <space> f r a m e d 
+63-7 , <space> i <space> w a s <space> f r a m e . 
+63-8  i <space> w a s <space> f r a m e d ? 
+63-9  i i i <space> w a s <space> f r a m e d 
+63-10 ' <space> i <space> w a s <space> f r a m e d 
+63-11  i <space> w a s <space> f r a m e ? 
+63-12  i t <space> w a s <space> f r a m e d 
+63-13  i i <space> w a s <space> f r a m e d . 
+63-14  i i <space> w a s <space> f r a m e . 
+63-15  i i i <space> w a s <space> f r a m e d . 
+63-16 , <space> i <space> w a s <space> f r a m e d ? 
+63-17  i i i <space> w a s <space> f r a m e . 
+63-18 ' <space> i <space> w a s <space> f r a m e d . 
+63-19 ' <space> i <space> w a s <space> f r a m e . 
+63-20  i t <space> w a s <space> f r a m e d . 
+63-21 , <space> i <space> w a s <space> f r a m e ? 
+63-22  i t <space> w a s <space> f r a m e . 
+63-23  i i <space> w a s <space> f r a m e d ? 
+63-24  i i i <space> w a s <space> f r a m e d ? 
+63-25  i i <space> w a s <space> f r a m e ? 
+63-26 ' <space> i <space> w a s <space> f r a m e d ? 
+63-27  i i i <space> w a s <space> f r a m e ? 
+63-28  i t <space> w a s <space> f r a m e d ? 
+63-29 ' <space> i <space> w a s <space> f r a m e ? 
+63-30  i t <space> w a s <space> f r a m e ? 

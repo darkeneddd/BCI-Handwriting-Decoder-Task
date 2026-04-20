@@ -1,0 +1,3 @@
+70-1  t h e <space> i n c o m e <space> i t s e l f <space> w a s <space> n o t <space> g r a n d <space> b y <space> a n y <space> s t a n d a r d . 
+70-2 , <space> t h e <space> i n c o m e <space> i t s e l f <space> w a s <space> n o t <space> g r a n d <space> b y <space> a n y <space> s t a n d a r d . 
+70-3 ' <space> t h e <space> i n c o m e <space> i t s e l f <space> w a s <space> n o t <space> g r a n d <space> b y <space> a n y <space> s t a n d a r d . 

@@ -1,0 +1,85 @@
+82-1  w e a r <space> a <space> c o a t 
+82-2  w e a r <space> a <space> c o a t . 
+82-3  w e a r <space> a <space> c o a s t 
+82-4 , <space> w e a r <space> a <space> c o a t 
+82-5  w e a r <space> a <space> c o s t 
+82-6  w e a r <space> a <space> c o s t . 
+82-7  w e a r <space> a <space> c o a t ? 
+82-8  w e a r <space> a <space> c o a . 
+82-9  w e a r s <space> a <space> c o a t 
+82-10  w e a r <space> a <space> c o o l . 
+82-11  s w e a r <space> a <space> c o a t 
+82-12  w e a r <space> a <space> c o u r t 
+82-13 , <space> w e a r <space> a <space> c o a t . 
+82-14  w e a r <space> a <space> c o u n t 
+82-15  w e a r <space> a <space> c o a l . 
+82-16  w e a r <space> a <space> c o . 
+82-17  w e a r <space> a <space> c o s t ? 
+82-18  w e a r <space> a <space> c o t 
+82-19 ' <space> w e a r <space> a <space> c o a t 
+82-20  w e a r <space> a <space> c o o l 
+82-21  w e a r <space> a <space> c o t . 
+82-22 , <space> w e a r <space> a <space> c o a s t 
+82-23  w e a r <space> a <space> c o a s t . 
+82-24 , <space> w e a r <space> a <space> c o s t 
+82-25  w e a r s <space> a <space> c o a t . 
+82-26  s w e a r <space> a <space> c o a t . 
+82-27 , <space> w e a r <space> a <space> c o s t . 
+82-28 , <space> w e a r <space> a <space> c o a t ? 
+82-29 , <space> w e a r <space> a <space> c o a . 
+82-30  w e a r s <space> a <space> c o a s t 
+82-31 , <space> w e a r <space> a <space> c o o l . 
+82-32  s w e a r <space> a <space> c o a s t 
+82-33 , <space> w e a r <space> a <space> c o u r t 
+82-34 ' <space> w e a r <space> a <space> c o a t . 
+82-35  w e a r s <space> a <space> c o s t 
+82-36  s w e a r <space> a <space> c o s t 
+82-37 , <space> w e a r <space> a <space> c o u n t 
+82-38 , <space> w e a r <space> a <space> c o a l . 
+82-39 , <space> w e a r <space> a <space> c o . 
+82-40 , <space> w e a r <space> a <space> c o s t ? 
+82-41 ' <space> w e a r <space> a <space> c o a s t 
+82-42 , <space> w e a r <space> a <space> c o t 
+82-43 , <space> w e a r <space> a <space> c o o l 
+82-44 , <space> w e a r <space> a <space> c o t . 
+82-45 , <space> w e a r <space> a <space> c o a s t . 
+82-46  w e a r s <space> a <space> c o s t . 
+82-47  w e a r s <space> a <space> c o a t ? 
+82-48 ' <space> w e a r <space> a <space> c o s t 
+82-49  w e a r s <space> a <space> c o a . 
+82-50  s w e a r <space> a <space> c o s t . 
+82-51  s w e a r <space> a <space> c o a t ? 
+82-52  w e a r s <space> a <space> c o o l . 
+82-53  s w e a r <space> a <space> c o a . 
+82-54  w e a r s <space> a <space> c o u r t 
+82-55  s w e a r <space> a <space> c o o l . 
+82-56  s w e a r <space> a <space> c o u r t 
+82-57 ' <space> w e a r <space> a <space> c o s t . 
+82-58  w e a r s <space> a <space> c o u n t 
+82-59 ' <space> w e a r <space> a <space> c o a t ? 
+82-60  w e a r s <space> a <space> c o a l . 
+82-61  w e a r s <space> a <space> c o . 
+82-62 ' <space> w e a r <space> a <space> c o a . 
+82-63  s w e a r <space> a <space> c o u n t 
+82-64  w e a r s <space> a <space> c o s t ? 
+82-65  w e a r s <space> a <space> c o t 
+82-66  s w e a r <space> a <space> c o a l . 
+82-67 ' <space> w e a r <space> a <space> c o o l . 
+82-68  w e a r s <space> a <space> c o o l 
+82-69  w e a r s <space> a <space> c o t . 
+82-70  s w e a r <space> a <space> c o . 
+82-71  w e a r s <space> a <space> c o a s t . 
+82-72  s w e a r <space> a <space> c o s t ? 
+82-73  s w e a r <space> a <space> c o t 
+82-74 ' <space> w e a r <space> a <space> c o u r t 
+82-75  s w e a r <space> a <space> c o o l 
+82-76  s w e a r <space> a <space> c o t . 
+82-77  s w e a r <space> a <space> c o a s t . 
+82-78 ' <space> w e a r <space> a <space> c o u n t 
+82-79 ' <space> w e a r <space> a <space> c o a l . 
+82-80 ' <space> w e a r <space> a <space> c o . 
+82-81 ' <space> w e a r <space> a <space> c o s t ? 
+82-82 ' <space> w e a r <space> a <space> c o t 
+82-83 ' <space> w e a r <space> a <space> c o o l 
+82-84 ' <space> w e a r <space> a <space> c o t . 
+82-85 ' <space> w e a r <space> a <space> c o a s t . 

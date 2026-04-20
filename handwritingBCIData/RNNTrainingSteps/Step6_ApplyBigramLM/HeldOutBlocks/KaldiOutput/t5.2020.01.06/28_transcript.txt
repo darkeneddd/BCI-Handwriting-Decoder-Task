@@ -1,0 +1,16 @@
+28-1  i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? 
+28-2  i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? ? 
+28-3 , <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? 
+28-4  i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y . 
+28-5  i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y 
+28-6  m i s s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? 
+28-7 ' <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? 
+28-8 , <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? ? 
+28-9 , <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y . 
+28-10 , <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y 
+28-11  m i s s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? ? 
+28-12 ' <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y ? ? 
+28-13  m i s s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y . 
+28-14 ' <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y . 
+28-15  m i s s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y 
+28-16 ' <space> i s <space> t h e <space> b a b y <space> c o m i n g <space> d o w n <space> w i t h <space> s o m e t h i n g <space> n a s t y 

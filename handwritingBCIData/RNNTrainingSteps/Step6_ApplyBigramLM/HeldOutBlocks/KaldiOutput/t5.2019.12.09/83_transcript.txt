@@ -1,0 +1,128 @@
+83-1  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-2  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-3 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-4  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-5  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-6  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-7  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-8  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-9 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-10  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-11 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-12 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-13  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-14  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-15  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-16  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-17  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-18  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-19  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-20  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-21  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-22  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-23  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-24  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-25  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-26 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-27 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-28  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-29  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-30  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-31  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-32  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-33  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-34  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-35 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-36 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-37 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-38 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-39 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-40  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-41  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-42  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-43 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-44  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-45  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-46  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-47 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-48  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-49 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-50  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-51  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-52  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-53  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-54  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-55  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-56 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-57 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-58 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-59  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-60  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-61  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-62  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-63  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-64  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-65  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-66 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-67  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-68 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-69 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-70  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-71  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-72  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-73 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-74 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-75  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-76  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-77 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-78  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-79 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-80 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-81 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-82  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-83 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-84  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-85  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-86 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-87 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-88 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-89  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-90  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-91  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-92  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-93  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-94  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-95 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-96  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-97  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-98  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-99  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-100 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-101 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-102  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-103 , <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-104  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-105 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-106 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-107 ' <space> h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-108  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-109  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-110 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-111  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-112  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o o <space> r i g h t 
+83-113  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-114  t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-115  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> h i g h 
+83-116  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-117 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-118  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-119  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-120  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-121  s h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> n i g h t 
+83-122  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t . 
+83-123  h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> l i g h t 
+83-124  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e s <space> t o <space> l e f t <space> a n d <space> t o <space> r i g h t 
+83-125  o n e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o o <space> l e f t <space> a n d <space> t o <space> r i g h t ? 
+83-126  h e e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-127  a r e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o o <space> h i g h 
+83-128 , <space> t h e <space> c a s t <space> a <space> f u r t i v e <space> g l a n c e <space> t o <space> l e f t <space> a n d <space> t o <space> n i g h t 

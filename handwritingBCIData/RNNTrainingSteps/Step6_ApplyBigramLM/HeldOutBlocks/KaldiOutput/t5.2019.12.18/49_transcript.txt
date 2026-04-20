@@ -1,0 +1,128 @@
+49-1  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-2  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-3  e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-4  e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-5 , <space> e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-6  n e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-7  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-8 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-9 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-10  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-11  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-12  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-13  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-14  e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-15 , <space> e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-16  n e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-17  e a r l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-18  e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-19  y e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-20 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-21  y e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-22  y e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-23  e a r l y <space> f e m a l e <space> a v i a t o r <space> a s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-24  e a r l y <space> f e m a l e <space> a v i a t o r <space> e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-25 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-26 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-27  r e a l l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-28  y e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-29  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-30  e a r l y <space> f e m a l e <space> a v i a t o r <space> r s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-31  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-32  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-33  r e a l l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-34  r e a l l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-35 ' <space> e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-36  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-37  e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-38  e a r l y <space> f e m a l e <space> a v i a t o r <space> i s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-39  e a r l y <space> f e m a l e <space> a v i a t o r <space> s e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-40  e a r l y <space> f e m a l e <space> a v i a t o r <space> r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-41  e a r l y <space> f e m a l e <space> a v i a t o r <space> g s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-42  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-43  e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-44  r e a l l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-45 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-46  e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-47 , <space> e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-48  e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-49  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-50  n e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-51  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-52 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-53 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-54  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-55  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-56 , <space> e a r l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-57 , <space> e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-58  n e a r l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-59  n e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-60  e a r l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-61  y e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-62  y e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-63 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> a s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-64 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-65 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-66  n e a r l y <space> f e m a l e <space> a v i a t o r <space> a s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-67 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-68  y e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-69  y e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-70  n e a r l y <space> f e m a l e <space> a v i a t o r <space> e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-71 , <space> e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-72  e a r l y <space> f e m a l e <space> a v i a t o r <space> a s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-73 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> r s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-74  e a r l y <space> f e m a l e <space> a v i a t o r <space> e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-75 , <space> e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-76 , <space> e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-77  r e a l l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-78  n e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-79 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-80 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-81  n e a r l y <space> f e m a l e <space> a v i a t o r <space> r s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-82  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-83  y e a r l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-84  r e a l l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-85 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-86 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-87 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> i s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-88  y e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-89 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-90  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r 
+49-91 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-92  n e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-93  e a r l y <space> f e m a l e <space> a v i a t o r <space> r s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-94 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> g s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-95  n e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-96  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-97 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-98 , <space> e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-99  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-100  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-101  n e a r l y <space> f e m a l e <space> a v i a t o r <space> i s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-102  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-103  e a r l y <space> f e m a l e <space> a v i a t o r ' s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r 
+49-104  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-105  n e a r l y <space> f e m a l e <space> a v i a t o r <space> r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-106 ' <space> e a r l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-107  n e a r l y <space> f e m a l e <space> a v i a t o r <space> g s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-108  r e a l l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-109  r e a l l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-110 ' <space> e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-111  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r 
+49-112  e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r 
+49-113  e a r l y <space> f e m a l e <space> a v i a t o r <space> i s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-114  e a r l y <space> f e m a l e <space> a v i a t o r <space> s e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-115  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-116 , <space> e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-117  n e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-118  e a r l y <space> f e m a l e <space> a v i a t o r <space> r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-119  e a r l y <space> f e m a l e <space> a v i a t o r <space> g s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 
+49-120  e a r l y <space> f e m a l e <space> a v i a t o r <space> s s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r 
+49-121  y e a r l y <space> f e m a l e <space> a v i a t o r <space> a s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-122  e a r l y <space> f e m a l e <space> a v i a t o r <space> s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r 
+49-123 , <space> e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> a <space> g l a m o u r <space> e i t h e r . 
+49-124  n e a r l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-125  y e a r l y <space> f e m a l e <space> a v i a t o r <space> e s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-126  r e a l l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r . 
+49-127  e a r l y <space> f e m a l e <space> a v i a t o r , <space> w e r e <space> n o t <space> s h o r t <space> o n e <space> g l a m o u r <space> e i t h e r . 
+49-128  r e a l l y <space> f e m a l e <space> n a v i g a t o r s <space> w e r e <space> n o t <space> s h o r t <space> o n <space> g l a m o u r <space> e i t h e r 

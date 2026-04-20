@@ -1,0 +1,15 @@
+18-1  e v e r y o n e <space> k n o w s . 
+18-2  e v e r y o n e <space> k n o w s 
+18-3  e v e r y o n e <space> k n o w . 
+18-4 , <space> e v e r y o n e <space> k n o w s . 
+18-5 , <space> e v e r y o n e <space> k n o w s 
+18-6 , <space> e v e r y o n e <space> k n o w . 
+18-7  e v e r y o n e <space> k n o w s ? 
+18-8 ' <space> e v e r y o n e <space> k n o w s . 
+18-9 ' <space> e v e r y o n e <space> k n o w s 
+18-10  e v e r y o n e <space> k n o w 
+18-11 ' <space> e v e r y o n e <space> k n o w . 
+18-12 , <space> e v e r y o n e <space> k n o w s ? 
+18-13 , <space> e v e r y o n e <space> k n o w 
+18-14 ' <space> e v e r y o n e <space> k n o w s ? 
+18-15 ' <space> e v e r y o n e <space> k n o w 

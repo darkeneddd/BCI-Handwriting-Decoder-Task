@@ -1,0 +1,11 @@
+100-1  g o <space> b a c k 
+100-2  g o <space> b a c k . 
+100-3 , <space> g o <space> b a c k 
+100-4 , <space> g o <space> b a c k . 
+100-5  g o <space> b a c k ? 
+100-6  g o t <space> b a c k 
+100-7 ' <space> g o <space> b a c k 
+100-8 , <space> g o <space> b a c k ? 
+100-9  g o t <space> b a c k . 
+100-10 ' <space> g o <space> b a c k . 
+100-11 ' <space> g o <space> b a c k ? 

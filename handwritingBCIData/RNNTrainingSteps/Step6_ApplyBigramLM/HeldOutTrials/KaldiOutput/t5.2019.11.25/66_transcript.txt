@@ -1,0 +1,6 @@
+66-1  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y . 
+66-2 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y . 
+66-3  i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y . 
+66-4 , <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y . 
+66-5 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , <space> a c t u a l l y . 
+66-6 ' <space> i t ' s <space> q u i t e <space> a <space> w i d e <space> b r i e f , , <space> a c t u a l l y . 

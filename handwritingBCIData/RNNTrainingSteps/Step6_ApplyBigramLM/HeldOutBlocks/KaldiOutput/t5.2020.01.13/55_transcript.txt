@@ -1,0 +1,44 @@
+55-1  h a n g <space> u p 
+55-2 , <space> h a n g <space> u p 
+55-3  r a n g <space> u p 
+55-4  h a n g <space> p p 
+55-5  b r a g g <space> p p 
+55-6  h o g g <space> p p 
+55-7  g r e g g <space> p p 
+55-8  h a n g <space> a p p 
+55-9  b r a g g <space> a p p 
+55-10  b r a g g <space> u p 
+55-11  h o g g <space> a p p 
+55-12  h a g <space> p p 
+55-13  h o g g <space> u p 
+55-14  g r e g g <space> a p p 
+55-15  g r e g g <space> u p 
+55-16  h e n g <space> p p 
+55-17  h a g <space> a p p 
+55-18  h a g <space> u p 
+55-19  h e n g <space> a p p 
+55-20  h e n g <space> u p 
+55-21 ' <space> h a n g <space> u p 
+55-22  s h a g g y <space> p p 
+55-23  s h a g g y <space> a p p 
+55-24  s h a g g y <space> u p 
+55-25  h a n g <space> u p s 
+55-26 , <space> h a n g <space> p p 
+55-27  r e g <space> p p 
+55-28  p e g g <space> p p 
+55-29  r a g <space> p p 
+55-30 , <space> h a g <space> p p 
+55-31  h a n g <space> o p p 
+55-32  b r a g g <space> o p p 
+55-33 , <space> h a n g <space> a p p 
+55-34  r e g <space> a p p 
+55-35  h o g g <space> o p p 
+55-36  p e g g <space> a p p 
+55-37 , <space> h a g <space> a p p 
+55-38 , <space> h a g <space> u p 
+55-39 , <space> h a n g <space> u p s 
+55-40 , <space> h a n g <space> o p p 
+55-41 ' <space> h a n g <space> p p 
+55-42 ' <space> h a n g <space> a p p 
+55-43 ' <space> h a n g <space> u p s 
+55-44 ' <space> h a n g <space> o p p 

@@ -1,0 +1,27 @@
+12-1  p o l i s h e d <space> g r a n i t e <space> i 
+12-2 , <space> p o l i s h e d <space> g r a n i t e <space> i 
+12-3  p o l i s h e d <space> g r a n i t e <space> i i 
+12-4 , <space> p o l i s h e d <space> g r a n i t e <space> i i 
+12-5 ' <space> p o l i s h e d <space> g r a n i t e <space> i 
+12-6  p o l i s h e d <space> g r a n i t e <space> j 
+12-7  p o l i s h e d <space> g r a n i t e <space> n 
+12-8  p o l i s h e d <space> g r a n i t e <space> i i i 
+12-9  p o l i s h e d <space> g r a n i t e 
+12-10  p o l i s h e d <space> g r a n i t e , <space> i 
+12-11  p o l i s h e d <space> g r a n i t e <space> x 
+12-12  p o l i s h e d <space> g r a n i t e <space> u 
+12-13 , <space> p o l i s h e d <space> g r a n i t e <space> j 
+12-14 , <space> p o l i s h e d <space> g r a n i t e <space> n 
+12-15 ' <space> p o l i s h e d <space> g r a n i t e <space> i i 
+12-16 , <space> p o l i s h e d <space> g r a n i t e <space> i i i 
+12-17 , <space> p o l i s h e d <space> g r a n i t e 
+12-18 , <space> p o l i s h e d <space> g r a n i t e , <space> i 
+12-19 , <space> p o l i s h e d <space> g r a n i t e <space> x 
+12-20 , <space> p o l i s h e d <space> g r a n i t e <space> u 
+12-21 ' <space> p o l i s h e d <space> g r a n i t e <space> j 
+12-22 ' <space> p o l i s h e d <space> g r a n i t e <space> n 
+12-23 ' <space> p o l i s h e d <space> g r a n i t e <space> i i i 
+12-24 ' <space> p o l i s h e d <space> g r a n i t e 
+12-25 ' <space> p o l i s h e d <space> g r a n i t e , <space> i 
+12-26 ' <space> p o l i s h e d <space> g r a n i t e <space> x 
+12-27 ' <space> p o l i s h e d <space> g r a n i t e <space> u 

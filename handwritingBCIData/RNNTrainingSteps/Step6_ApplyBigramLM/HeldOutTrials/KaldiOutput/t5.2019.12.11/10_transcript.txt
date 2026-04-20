@@ -1,0 +1,9 @@
+10-1  i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o <space> r e a d . 
+10-2 , <space> i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o <space> r e a d . 
+10-3  i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o o <space> r e a d . 
+10-4 ' <space> i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o <space> r e a d . 
+10-5  i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o <space> r e r e a d . 
+10-6 , <space> i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o o <space> r e a d . 
+10-7 , <space> i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o <space> r e r e a d . 
+10-8 ' <space> i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o o <space> r e a d . 
+10-9 ' <space> i <space> g o t <space> b o o k s <space> f r o m <space> t h e <space> l i b r a r y <space> t o <space> r e r e a d . 

@@ -1,0 +1,128 @@
+146-1  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-2 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-3  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-4  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-5  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-6  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-7  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-8  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-9 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-10  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-11  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-12 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-13 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-14 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-15  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-16  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-17  t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-18 , <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-19  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-20 , <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-21  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-22 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-23 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-24  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-25 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-26 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-27  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-28  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-29  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-30 ' <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-31 ' <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-32  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-33  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-34  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-35  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-36 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-37 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-38 , <space> t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-39  t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-40  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-41 ' <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-42  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-43  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-44  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-45 ' <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-46  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-47  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-48 , <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-49 , <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-50 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-51 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-52  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-53 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-54  t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-55 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-56 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-57 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-58 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-59 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-60 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-61  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-62  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-63 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-64 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-65 ' <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-66 ' <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-67  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-68  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-69  t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-70 ' <space> t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-71  t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-72  t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-73 , <space> t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-74 , <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-75 , <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-76  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-77 , <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-78 , <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-79 ' <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-80  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-81 , <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-82  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-83 , <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-84 ' <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-85  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-86 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-87 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-88 , <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-89 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-90 ' <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-91 ' <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-92 ' <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-93 ' <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-94  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-95  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-96 ' <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-97 ' <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-98  t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-99  t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-100 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-101 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-102 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-103 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-104 , <space> t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-105 , <space> t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-106  t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-107 , <space> t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-108 ' <space> t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-109  t w o <space> e g g s , , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-110 ' <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-111 ' <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-112  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-113 ' <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t . 
+146-114 ' <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-115  t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-116 ' <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t . 
+146-117  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-118 , <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-119 ' <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-120  t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-121 , <space> t w o <space> e g g s , <space> t o <space> c a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-122 , <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 
+146-123 , <space> t w o <space> e g g s , <space> t o a s t s , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t 
+146-124 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-125 ' <space> t w o <space> e g g s , <space> t o a s t , <space> h a s h <space> b r o w n s <space> a r e <space> t e e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-126 , <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-127 , <space> t w o <space> e g g s , <space> t o a s t , , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t ? 
+146-128 ' <space> t w o <space> e g g s , , <space> t o a s t , <space> h a s h <space> b r o w n s <space> n e e <space> t h e <space> p e r f e c t <space> b r e a k f a s t 

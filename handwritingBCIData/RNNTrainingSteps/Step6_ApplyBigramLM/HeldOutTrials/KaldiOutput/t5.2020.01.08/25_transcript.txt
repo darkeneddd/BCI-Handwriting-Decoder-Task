@@ -1,0 +1,6 @@
+25-1  i t <space> w a s <space> a <space> t y p i c a l <space> s u m m e r <space> e v e n i n g <space> i n <space> j u n e . 
+25-2 , <space> i t <space> w a s <space> a <space> t y p i c a l <space> s u m m e r <space> e v e n i n g <space> i n <space> j u n e . 
+25-3 ' <space> i t <space> w a s <space> a <space> t y p i c a l <space> s u m m e r <space> e v e n i n g <space> i n <space> j u n e . 
+25-4  i t <space> w a s <space> a <space> t y p i c a l <space> s u m m e r <space> e v e n i n g <space> i n <space> j u n e 
+25-5 , <space> i t <space> w a s <space> a <space> t y p i c a l <space> s u m m e r <space> e v e n i n g <space> i n <space> j u n e 
+25-6 ' <space> i t <space> w a s <space> a <space> t y p i c a l <space> s u m m e r <space> e v e n i n g <space> i n <space> j u n e 

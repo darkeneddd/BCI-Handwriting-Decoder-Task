@@ -1,0 +1,128 @@
+20-1  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-2  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-3 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-4 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-5  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-6  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-7  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-8  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-9  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-10  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-11 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-12 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-13 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-14  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-15 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-16  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-17  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-18  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-19  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-20 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-21 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-22  a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-23  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-24 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-25 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-26  a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-27 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-28 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-29 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-30 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-31 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-32 , <space> a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-33 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-34  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-35  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-36 , <space> a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-37  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-38  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-39 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-40 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-41  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-42  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-43  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-44 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-45 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-46  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-47 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-48 ' <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-49 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-50 ' <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-51  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-52  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-53 ' <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-54 ' <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-55  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-56  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-57  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-58  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-59  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-60  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-61  a s s u m i n g <space> h e e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-62  a s s u m i n g <space> e e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-63 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-64 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-65 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-66  a s s u m i n g <space> h e e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-67  a s s u m i n g <space> e e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-68 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-69  a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c u r s e . 
+20-70 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-71 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-72 ' <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-73 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-74 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-75  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-76 ' <space> a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-77 ' <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-78 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-79 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-80  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-81  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-82  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-83 ' <space> a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-84 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-85 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-86 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-87 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-88 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-89 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-90  a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f <space> c u r s e . 
+20-91  a s s u m i n g <space> h e r e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-92  a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-93 , <space> a s s u m i n g <space> h e e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-94 , <space> a s s u m i n g <space> e e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-95  a s s u m i n g <space> h e r e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-96 , <space> a s s u m i n g <space> h e e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-97 , <space> a s s u m i n g <space> e e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-98 , <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c u r s e . 
+20-99 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-100 ' <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-101 ' <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-102 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 
+20-103 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> f f <space> c o u r s e . 
+20-104 , <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-105 ' <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-106 ' <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-107 , <space> a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f <space> c u r s e . 
+20-108 , <space> a s s u m i n g <space> h e r e ' s <space> e a r l y <space> d e a d , <space> o f <space> c o u r s e . 
+20-109 , <space> a s s u m i n g <space> h e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c u r s e . 
+20-110  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-111  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-112  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-113  a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-114 , <space> a s s u m i n g <space> h e r e ' s <space> e a r l y <space> d e a d , <space> o f f <space> c o u r s e . 
+20-115 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-116 ' <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c o u r s e . 
+20-117 ' <space> a s s u m i n g <space> h e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-118 ' <space> a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c o u r s e . 
+20-119  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-120  a s s u m i n g <space> h e r e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-121 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-122 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f <space> c u r s e . 
+20-123 ' <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-124 ' <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c o u r s e . 
+20-125 , <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-126 , <space> a s s u m i n g <space> e e ' s <space> r e a l l y <space> d e a d , , <space> o f f <space> c u r s e . 
+20-127  a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d <space> o f f <space> c u r s e . 
+20-128 ' <space> a s s u m i n g <space> h e e ' s <space> r e a l l y <space> d e a d , <space> o f <space> c u r s e . 

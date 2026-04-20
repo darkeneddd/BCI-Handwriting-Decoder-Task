@@ -1,0 +1,42 @@
+75-1  w h e n <space> w e r e <space> y o u <space> p r e g n a n t ? 
+75-2 , <space> w h e n <space> w e r e <space> y o u <space> p r e g n a n t ? 
+75-3  w h e n <space> w e e <space> y o u <space> p r e g n a n t ? 
+75-4  w h e n <space> w e r e <space> y o u <space> p r e g n a n t ? ? 
+75-5  w h e n <space> w e r e <space> y o u r <space> p r e g n a n t ? 
+75-6 ' <space> w h e n <space> w e r e <space> y o u <space> p r e g n a n t ? 
+75-7  w h e n <space> w e r e <space> y o u <space> p r e g n a n t . 
+75-8 , <space> w h e n <space> w e e <space> y o u <space> p r e g n a n t ? 
+75-9 , <space> w h e n <space> w e r e <space> y o u <space> p r e g n a n t ? ? 
+75-10 , <space> w h e n <space> w e r e <space> y o u r <space> p r e g n a n t ? 
+75-11  w h e n <space> w e r e <space> y o u <space> p e e <space> g r a n t ? 
+75-12  w h e n <space> w e e <space> y o u r <space> p r e g n a n t ? 
+75-13 , <space> w h e n <space> w e r e <space> y o u <space> p r e g n a n t . 
+75-14  w h e n <space> w e e <space> y o u <space> p r e g n a n t ? ? 
+75-15  w h e n <space> w e r e <space> y o u r <space> p r e g n a n t ? ? 
+75-16 , <space> w h e n <space> w e r e <space> y o u <space> p e e <space> g r a n t ? 
+75-17 ' <space> w h e n <space> w e e <space> y o u <space> p r e g n a n t ? 
+75-18 , <space> w h e n <space> w e e <space> y o u r <space> p r e g n a n t ? 
+75-19  w h e n <space> w e e <space> y o u <space> p r e g n a n t . 
+75-20 ' <space> w h e n <space> w e r e <space> y o u <space> p r e g n a n t ? ? 
+75-21 ' <space> w h e n <space> w e r e <space> y o u r <space> p r e g n a n t ? 
+75-22  w h e n <space> w e r e <space> y o u r <space> p r e g n a n t . 
+75-23 , <space> w h e n <space> w e e <space> y o u <space> p r e g n a n t ? ? 
+75-24 , <space> w h e n <space> w e r e <space> y o u r <space> p r e g n a n t ? ? 
+75-25  w h e n <space> w e e <space> y o u <space> p e e <space> g r a n t ? 
+75-26 ' <space> w h e n <space> w e r e <space> y o u <space> p r e g n a n t . 
+75-27  w h e n <space> w e e <space> y o u r <space> p r e g n a n t ? ? 
+75-28 , <space> w h e n <space> w e e <space> y o u <space> p r e g n a n t . 
+75-29 , <space> w h e n <space> w e r e <space> y o u r <space> p r e g n a n t . 
+75-30 ' <space> w h e n <space> w e r e <space> y o u <space> p e e <space> g r a n t ? 
+75-31 ' <space> w h e n <space> w e e <space> y o u r <space> p r e g n a n t ? 
+75-32 , <space> w h e n <space> w e e <space> y o u <space> p e e <space> g r a n t ? 
+75-33  w h e n <space> w e e <space> y o u r <space> p r e g n a n t . 
+75-34 ' <space> w h e n <space> w e e <space> y o u <space> p r e g n a n t ? ? 
+75-35 , <space> w h e n <space> w e e <space> y o u r <space> p r e g n a n t ? ? 
+75-36 ' <space> w h e n <space> w e r e <space> y o u r <space> p r e g n a n t ? ? 
+75-37 ' <space> w h e n <space> w e e <space> y o u <space> p r e g n a n t . 
+75-38 , <space> w h e n <space> w e e <space> y o u r <space> p r e g n a n t . 
+75-39 ' <space> w h e n <space> w e r e <space> y o u r <space> p r e g n a n t . 
+75-40 ' <space> w h e n <space> w e e <space> y o u <space> p e e <space> g r a n t ? 
+75-41 ' <space> w h e n <space> w e e <space> y o u r <space> p r e g n a n t ? ? 
+75-42 ' <space> w h e n <space> w e e <space> y o u r <space> p r e g n a n t . 

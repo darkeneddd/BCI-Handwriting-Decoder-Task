@@ -1,0 +1,31 @@
+111-1  s e v e r <space> a x e s 
+111-2  s e v e r <space> a x e 
+111-3  s e v e r e <space> a x e s 
+111-4 , <space> s e v e r <space> a x e s 
+111-5  s e v e r <space> a x e . 
+111-6  s e v e r <space> a x e s . 
+111-7  s e v e n <space> a x e s 
+111-8  s e v e r e <space> a x e 
+111-9  s e r v e r <space> a x e s 
+111-10 , <space> s e v e r <space> a x e 
+111-11 , <space> s e v e r e <space> a x e s 
+111-12  s e r v e r <space> a x e 
+111-13 ' s <space> e v e r <space> a x e s 
+111-14  s e v e r <space> w a x e s 
+111-15 ' <space> s e v e r <space> a x e s 
+111-16  s e v e r e <space> a x e . 
+111-17  s e v e r e <space> a x e s . 
+111-18 , <space> s e v e r e <space> a x e 
+111-19 , <space> s e v e r <space> a x e . 
+111-20 , <space> s e v e r <space> a x e s . 
+111-21 ' s <space> e v e r <space> a x e 
+111-22 ' <space> s e v e r <space> a x e 
+111-23  s e v e n <space> a x e s . 
+111-24  s e r v e r <space> a x e s . 
+111-25 , <space> s e v e r e <space> a x e . 
+111-26 , <space> s e v e r e <space> a x e s . 
+111-27 , <space> s e v e r <space> w a x e s 
+111-28 ' s <space> e v e r <space> a x e s . 
+111-29 ' <space> s e v e r <space> a x e . 
+111-30 ' <space> s e v e r <space> a x e s . 
+111-31 ' <space> s e v e r <space> w a x e s 

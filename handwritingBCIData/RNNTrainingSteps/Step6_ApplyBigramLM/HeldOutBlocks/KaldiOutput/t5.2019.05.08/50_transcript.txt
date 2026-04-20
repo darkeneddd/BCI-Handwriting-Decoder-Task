@@ -1,0 +1,6 @@
+50-1  i t <space> f i t <space> e a s i l y <space> i n t o <space> m y <space> p o c k e t <space> a n d <space> w a s <space> a <space> s n a p <space> t o <space> u n f o l d . 
+50-2 , <space> i t <space> f i t <space> e a s i l y <space> i n t o <space> m y <space> p o c k e t <space> a n d <space> w a s <space> a <space> s n a p <space> t o <space> u n f o l d . 
+50-3  i t <space> f i t <space> e a s i l y <space> i n t o <space> m y <space> p o c k e t <space> a n d <space> w a s <space> a <space> s n a p <space> t o o <space> u n f o l d . 
+50-4 ' <space> i t <space> f i t <space> e a s i l y <space> i n t o <space> m y <space> p o c k e t <space> a n d <space> w a s <space> a <space> s n a p <space> t o <space> u n f o l d . 
+50-5 , <space> i t <space> f i t <space> e a s i l y <space> i n t o <space> m y <space> p o c k e t <space> a n d <space> w a s <space> a <space> s n a p <space> t o o <space> u n f o l d . 
+50-6 ' <space> i t <space> f i t <space> e a s i l y <space> i n t o <space> m y <space> p o c k e t <space> a n d <space> w a s <space> a <space> s n a p <space> t o o <space> u n f o l d . 

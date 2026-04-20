@@ -1,0 +1,6 @@
+3-1  i t <space> r a i n e d <space> a l l <space> d a y 
+3-2 , <space> i t <space> r a i n e d <space> a l l <space> d a y 
+3-3  i t <space> r a i n e d <space> a l l <space> d a 
+3-4 , <space> i t <space> r a i n e d <space> a l l <space> d a 
+3-5 ' <space> i t <space> r a i n e d <space> a l l <space> d a y 
+3-6 ' <space> i t <space> r a i n e d <space> a l l <space> d a 

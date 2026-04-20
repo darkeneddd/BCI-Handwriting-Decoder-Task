@@ -1,0 +1,33 @@
+30-1  s h e <space> l i k e s <space> m e . 
+30-2 , <space> s h e <space> l i k e s <space> m e . 
+30-3  s h e <space> l i k e s <space> m e 
+30-4 , <space> s h e <space> l i k e s <space> m e 
+30-5  s h e <space> l i k e s <space> m e ? 
+30-6  s h e <space> l i k e s <space> m . 
+30-7 ' <space> s h e <space> l i k e s <space> m e . 
+30-8 , <space> s h e <space> l i k e s <space> m e ? 
+30-9  s h e <space> l i k e s <space> m a . 
+30-10 , <space> s h e <space> l i k e s <space> m . 
+30-11  s h e <space> l i k e s <space> m m . 
+30-12  s h e <space> l i k e s <space> m s . 
+30-13  s h e <space> l i k e s <space> m m a . 
+30-14 ' <space> s h e <space> l i k e s <space> m e 
+30-15  s h e <space> l i k e s <space> m o . 
+30-16  s h e <space> l i k e s <space> m r . 
+30-17  s h e <space> l i k e s <space> m a 
+30-18 , <space> s h e <space> l i k e s <space> m a . 
+30-19 , <space> s h e <space> l i k e s <space> m m . 
+30-20 , <space> s h e <space> l i k e s <space> m s . 
+30-21 , <space> s h e <space> l i k e s <space> m m a . 
+30-22 ' <space> s h e <space> l i k e s <space> m e ? 
+30-23 , <space> s h e <space> l i k e s <space> m o . 
+30-24 , <space> s h e <space> l i k e s <space> m r . 
+30-25 , <space> s h e <space> l i k e s <space> m a 
+30-26 ' <space> s h e <space> l i k e s <space> m . 
+30-27 ' <space> s h e <space> l i k e s <space> m a . 
+30-28 ' <space> s h e <space> l i k e s <space> m m . 
+30-29 ' <space> s h e <space> l i k e s <space> m s . 
+30-30 ' <space> s h e <space> l i k e s <space> m m a . 
+30-31 ' <space> s h e <space> l i k e s <space> m o . 
+30-32 ' <space> s h e <space> l i k e s <space> m r . 
+30-33 ' <space> s h e <space> l i k e s <space> m a 

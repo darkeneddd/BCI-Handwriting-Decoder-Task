@@ -1,0 +1,90 @@
+75-1  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-2  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-3 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-4 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-5 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-6  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-7  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-8  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-9  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-10  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-11 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-12  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-13  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-14  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-15  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-16  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-17  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-18 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-19 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-20 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-21 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-22 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-23 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-24 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-25 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-26  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-27  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-28 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-29  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-30  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-31 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-32  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-33  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-34  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-35  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-36 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-37 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-38  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-39  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-40  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-41  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n . 
+75-42  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-43  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-44 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-45  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-46  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-47  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-48  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-49 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-50  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-51  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n 
+75-52  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-53 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-54 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-55 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-56 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-57 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-58 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-59 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-60 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-61  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-62 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-63  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-64  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-65  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-66 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-67  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-68  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-69  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-70 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-71  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-72 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-73 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-74  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r l y <space> m y <space> o w n ? 
+75-75  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-76  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-77  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n . 
+75-78  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-79  i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-80 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-81  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-82  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n 
+75-83 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-84 , <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-85 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-86  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-87  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> a s s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-88 ' <space> i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-89  i s <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 
+75-90  i i <space> s t i l l <space> r e c o g n i z e <space> t h a t <space> p o e m <space> w a s <space> b e i n g <space> u t t e r <space> m y <space> o w n ? 

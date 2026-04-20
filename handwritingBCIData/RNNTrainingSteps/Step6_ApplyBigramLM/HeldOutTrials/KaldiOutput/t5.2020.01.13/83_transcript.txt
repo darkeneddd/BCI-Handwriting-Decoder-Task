@@ -1,0 +1,6 @@
+83-1  e x c u s e <space> m e 
+83-2 , <space> e x c u s e <space> m e 
+83-3  e x c u s e <space> m e . 
+83-4 ' <space> e x c u s e <space> m e 
+83-5 , <space> e x c u s e <space> m e . 
+83-6 ' <space> e x c u s e <space> m e . 

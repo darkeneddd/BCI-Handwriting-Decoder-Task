@@ -1,0 +1,16 @@
+84-1  s h e <space> i s <space> h e a l t h y 
+84-2 , <space> s h e <space> i s <space> h e a l t h y 
+84-3  s h e <space> i s <space> h e a l t h y . 
+84-4  s h e <space> i s <space> h e a l t h . 
+84-5 ' <space> s h e <space> i s <space> h e a l t h y 
+84-6 , <space> s h e <space> i s <space> h e a l t h y . 
+84-7 , <space> s h e <space> i s <space> h e a l t h . 
+84-8  s e e <space> i s <space> h e a l t h y 
+84-9  s h e <space> i s <space> a <space> h e a l t h y 
+84-10 , <space> s h e <space> i s <space> a <space> h e a l t h y 
+84-11 ' <space> s h e <space> i s <space> h e a l t h y . 
+84-12 ' <space> s h e <space> i s <space> h e a l t h . 
+84-13  s e e <space> i s <space> h e a l t h y . 
+84-14  s e e <space> i s <space> h e a l t h . 
+84-15 ' <space> s h e <space> i s <space> a <space> h e a l t h y 
+84-16  s e e <space> i s <space> a <space> h e a l t h y 

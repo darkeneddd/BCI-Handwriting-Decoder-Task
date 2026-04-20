@@ -1,0 +1,12 @@
+15-1  s o <space> f a r , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . 
+15-2 , <space> s o <space> f a r , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . 
+15-3  s o <space> f a r , , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . 
+15-4  s o <space> f a r , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . . 
+15-5 , <space> s o <space> f a r , , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . 
+15-6 ' <space> s o <space> f a r , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . 
+15-7 , <space> s o <space> f a r , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . . 
+15-8  s o <space> f a r , , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . . 
+15-9 ' <space> s o <space> f a r , , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . 
+15-10 , <space> s o <space> f a r , , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . . 
+15-11 ' <space> s o <space> f a r , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . . 
+15-12 ' <space> s o <space> f a r , , <space> i <space> h a v e n ' t <space> h a d <space> a <space> l o t <space> o f <space> l u c k <space> w i t h <space> t h a t . . 

@@ -1,0 +1,10 @@
+2-1  y o u <space> w a n t <space> m e <space> t o <space> s i n g ? 
+2-2 , <space> y o u <space> w a n t <space> m e <space> t o <space> s i n g ? 
+2-3  y o u <space> w a n t <space> m e <space> t o <space> s i n g . 
+2-4  y o u <space> w a n t <space> m e <space> t o <space> s i n g 
+2-5  y o u <space> w a n t <space> m e <space> t o <space> s i n g ? ? 
+2-6  y o u <space> w a n t <space> m e <space> t o o <space> s i n g ? 
+2-7 , <space> y o u <space> w a n t <space> m e <space> t o <space> s i n g . 
+2-8 , <space> y o u <space> w a n t <space> m e <space> t o <space> s i n g 
+2-9 , <space> y o u <space> w a n t <space> m e <space> t o <space> s i n g ? ? 
+2-10 , <space> y o u <space> w a n t <space> m e <space> t o o <space> s i n g ? 

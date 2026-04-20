@@ -1,0 +1,3 @@
+80-1  i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-2 , <space> i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 
+80-3 ' <space> i <space> h e a r d <space> m y <space> f r i e n d <space> i s <space> g o i n g <space> i n t o <space> t o w n <space> t o d a y 

@@ -1,0 +1,12 @@
+104-1  j u m p <space> h i g h e r 
+104-2  j u m p <space> h i g h e r . 
+104-3 , <space> j u m p <space> h i g h e r 
+104-4 , <space> j u m p <space> h i g h e r . 
+104-5  j u m p <space> h i g h e r ? 
+104-6 ' <space> j u m p <space> h i g h e r 
+104-7  j u m p <space> h i g h . 
+104-8 ' <space> j u m p <space> h i g h e r . 
+104-9 , <space> j u m p <space> h i g h e r ? 
+104-10 , <space> j u m p <space> h i g h . 
+104-11 ' <space> j u m p <space> h i g h e r ? 
+104-12 ' <space> j u m p <space> h i g h . 

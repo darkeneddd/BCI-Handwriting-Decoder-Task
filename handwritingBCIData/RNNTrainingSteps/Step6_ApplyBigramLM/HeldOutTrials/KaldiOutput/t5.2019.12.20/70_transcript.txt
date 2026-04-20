@@ -1,0 +1,22 @@
+70-1  h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c . 
+70-2 , <space> h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c . 
+70-3  h i s <space> g o d d e s s <space> w e r e <space> q u i t e <space> s p e c i f i c . 
+70-4  t h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c . 
+70-5 ' <space> h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c . 
+70-6  h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c . 
+70-7  h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c 
+70-8 , <space> h i s <space> g o d d e s s <space> w e r e <space> q u i t e <space> s p e c i f i c . 
+70-9 , <space> h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c . 
+70-10 , <space> h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c 
+70-11 ' <space> h i s <space> g o d d e s s <space> w e r e <space> q u i t e <space> s p e c i f i c . 
+70-12  h i s <space> g o d d e s s <space> w e r e <space> q u i t e <space> s p e c i f i c 
+70-13  t h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c . 
+70-14  t h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c 
+70-15 ' <space> h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c . 
+70-16 ' <space> h i s <space> o r d e r s <space> w e r e <space> q u i t e <space> s p e c i f i c 
+70-17  h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c 
+70-18 , <space> h i s <space> g o d d e s s <space> w e r e <space> q u i t e <space> s p e c i f i c 
+70-19 , <space> h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c 
+70-20 ' <space> h i s <space> g o d d e s s <space> w e r e <space> q u i t e <space> s p e c i f i c 
+70-21  t h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c 
+70-22 ' <space> h i s <space> o r d e r s <space> w e e <space> q u i t e <space> s p e c i f i c 

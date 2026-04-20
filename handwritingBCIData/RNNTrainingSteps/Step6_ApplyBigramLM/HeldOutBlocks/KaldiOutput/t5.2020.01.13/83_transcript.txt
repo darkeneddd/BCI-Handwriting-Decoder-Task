@@ -1,0 +1,12 @@
+83-1  e x c u s e <space> m e . 
+83-2  e x c u s e <space> m e 
+83-3 , <space> e x c u s e <space> m e . 
+83-4 , <space> e x c u s e <space> m e 
+83-5 ' <space> e x c u s e <space> m e . 
+83-6  e x c u s e <space> m e ? 
+83-7 ' <space> e x c u s e <space> m e 
+83-8  e x c u s e <space> m . 
+83-9 , <space> e x c u s e <space> m e ? 
+83-10 , <space> e x c u s e <space> m . 
+83-11 ' <space> e x c u s e <space> m e ? 
+83-12 ' <space> e x c u s e <space> m . 

@@ -1,0 +1,10 @@
+130-1  i <space> l i k e <space> m e x i c a n <space> f o o d 
+130-2 , <space> i <space> l i k e <space> m e x i c a n <space> f o o d 
+130-3  i <space> l i k e <space> m e x i c a n <space> f o o d . 
+130-4  i i <space> l i k e <space> m e x i c a n <space> f o o d 
+130-5 ' <space> i <space> l i k e <space> m e x i c a n <space> f o o d 
+130-6  i i i <space> l i k e <space> m e x i c a n <space> f o o d 
+130-7 , <space> i <space> l i k e <space> m e x i c a n <space> f o o d . 
+130-8  i i <space> l i k e <space> m e x i c a n <space> f o o d . 
+130-9 ' <space> i <space> l i k e <space> m e x i c a n <space> f o o d . 
+130-10  i i i <space> l i k e <space> m e x i c a n <space> f o o d . 

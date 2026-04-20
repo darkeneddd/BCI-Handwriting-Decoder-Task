@@ -1,0 +1,24 @@
+64-1  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? 
+64-2  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? ? 
+64-3 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? 
+64-4  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n 
+64-5  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n . 
+64-6  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? 
+64-7 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? 
+64-8 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? ? 
+64-9 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n 
+64-10  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? ? 
+64-11 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n . 
+64-12 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? 
+64-13 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? ? 
+64-14  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n 
+64-15 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n 
+64-16  w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n . 
+64-17 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u <space> s o m e <space> e g g s <space> a n d <space> b a c o n . 
+64-18 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? 
+64-19 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? ? 
+64-20 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n 
+64-21 , <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n . 
+64-22 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n ? ? 
+64-23 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n 
+64-24 ' <space> w o u l d <space> y o u <space> l i k e <space> m e <space> t o <space> m a k e <space> y o u r <space> s o m e <space> e g g s <space> a n d <space> b a c o n . 

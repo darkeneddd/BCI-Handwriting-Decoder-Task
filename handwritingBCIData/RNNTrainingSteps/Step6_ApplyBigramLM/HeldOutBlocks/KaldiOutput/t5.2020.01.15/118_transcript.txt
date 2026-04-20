@@ -1,0 +1,18 @@
+118-1  t h e <space> s u n . 
+118-2  t h e <space> s u n 
+118-3 , <space> t h e <space> s u n . 
+118-4  t h e <space> s u m . 
+118-5  t h e <space> s u . 
+118-6 , <space> t h e <space> s u n 
+118-7  t h e <space> s u n ? 
+118-8 , <space> t h e <space> s u m . 
+118-9 , <space> t h e <space> s u . 
+118-10  t h e <space> s u m 
+118-11 ' <space> t h e <space> s u n . 
+118-12 , <space> t h e <space> s u n ? 
+118-13 , <space> t h e <space> s u m 
+118-14 ' <space> t h e <space> s u n 
+118-15 ' <space> t h e <space> s u m . 
+118-16 ' <space> t h e <space> s u . 
+118-17 ' <space> t h e <space> s u n ? 
+118-18 ' <space> t h e <space> s u m 

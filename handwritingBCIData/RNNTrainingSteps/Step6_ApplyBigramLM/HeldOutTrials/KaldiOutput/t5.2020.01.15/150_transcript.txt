@@ -1,0 +1,58 @@
+150-1  a u s t r i a <space> l y e . 
+150-2  a u s t r i a n <space> l y e . 
+150-3 , <space> a u s t r i a <space> l y e . 
+150-4  a u s t r i a <space> y e . 
+150-5  a u s t r i a n <space> y e . 
+150-6 , <space> a u s t r i a n <space> l y e . 
+150-7  a u s t r i a n s <space> l y e . 
+150-8 , <space> a u s t r i a <space> y e . 
+150-9  a u s t r i a <space> y e e . 
+150-10  a u s t r i a n <space> y e e . 
+150-11  a u s t r i a <space> y a . 
+150-12  a u s t r i a <space> y e w . 
+150-13  a u s t r i a <space> l e e . 
+150-14  a u s t r i a <space> y e t . 
+150-15 , <space> a u s t r i a <space> y e e . 
+150-16  a u s t r i a n <space> y a . 
+150-17  a u s t r i a n <space> y e w . 
+150-18  a u s t r i a <space> y e s . 
+150-19  a u s t r i a <space> d y e . 
+150-20  a u s t r i a <space> y e a . 
+150-21  a u s t r i a n <space> l e e . 
+150-22  a u s t r i a n <space> y e t . 
+150-23  a u s t r i a <space> e y e . 
+150-24  a u s t r i a n <space> y e s . 
+150-25  a u s t r i a n <space> d y e . 
+150-26  a u s t r i a n <space> y e a . 
+150-27  a u s t r i a n <space> e y e . 
+150-28 ' <space> a u s t r i a <space> l y e . 
+150-29  a u s t r i a <space> y e a r . 
+150-30 , <space> a u s t r i a n <space> y e . 
+150-31 , <space> a u s t r i a <space> y a . 
+150-32 , <space> a u s t r i a <space> y e w . 
+150-33  a u s t r i a n s <space> y e . 
+150-34 , <space> a u s t r i a <space> l e e . 
+150-35  a u s t r i a <space> r y e . 
+150-36 , <space> a u s t r i a <space> y e t . 
+150-37  a u s t r i a <space> l y e . . . 
+150-38  a <space> s t r i c t l y <space> a . 
+150-39 , <space> a u s t r i a <space> y e s . 
+150-40 , <space> a u s t r i a <space> d y e . 
+150-41 , <space> a u s t r i a <space> y e a . 
+150-42  a u s t r i a n <space> l y e . . . 
+150-43 , <space> a u s t r i a <space> e y e . 
+150-44 , <space> a u s t r i a <space> y e a r . 
+150-45 , <space> a u s t r i a n <space> y e e . 
+150-46 , <space> a u s t r i a <space> r y e . 
+150-47 , <space> a u s t r i a <space> l y e . . . 
+150-48 , <space> a u s t r i a n <space> y a . 
+150-49 , <space> a u s t r i a n <space> y e w . 
+150-50 , <space> a u s t r i a n <space> l e e . 
+150-51 , <space> a u s t r i a n <space> y e t . 
+150-52 , <space> a u s t r i a n <space> y e s . 
+150-53 , <space> a u s t r i a n <space> d y e . 
+150-54 , <space> a u s t r i a n <space> y e a . 
+150-55 , <space> a u s t r i a n <space> e y e . 
+150-56 , <space> a u s t r i a n <space> l y e . . . 
+150-57  a u s t r i a n s <space> l y e . . . 
+150-58 ' <space> a u s t r i a <space> l y e . . . 

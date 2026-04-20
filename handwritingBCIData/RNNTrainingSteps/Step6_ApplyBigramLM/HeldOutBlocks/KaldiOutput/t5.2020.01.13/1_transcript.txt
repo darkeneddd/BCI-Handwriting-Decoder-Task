@@ -1,0 +1,29 @@
+1-1  l o o k <space> o u t 
+1-2  l o o k <space> o u t . 
+1-3 , <space> l o o k <space> o u t 
+1-4  l o o k <space> o u t ? 
+1-5 , <space> l o o k <space> o u t . 
+1-6  i <space> l o o k <space> o u t 
+1-7  t o o k <space> o u t 
+1-8  a <space> l o o k <space> o u t 
+1-9 ' <space> l o o k <space> o u t 
+1-10 , <space> t o o k <space> o u t 
+1-11  i <space> l o o k <space> o u t . 
+1-12  t o o k <space> o u t . 
+1-13  a <space> l o o k <space> o u t . 
+1-14  c o o k <space> o u t 
+1-15 ' s <space> l o o k <space> o u t 
+1-16 ' l l <space> l o o k <space> o u t 
+1-17  b o o k <space> o u t 
+1-18 , <space> l o o k <space> o u t ? 
+1-19 ' <space> l o o k <space> o u t . 
+1-20 , <space> t o o k <space> o u t . 
+1-21 ' s <space> l o o k <space> o u t . 
+1-22 ' l l <space> l o o k <space> o u t . 
+1-23  i <space> l o o k <space> o u t ? 
+1-24  t o o k <space> o u t ? 
+1-25  a <space> l o o k <space> o u t ? 
+1-26 ' <space> l o o k <space> o u t ? 
+1-27 , <space> t o o k <space> o u t ? 
+1-28 ' s <space> l o o k <space> o u t ? 
+1-29 ' l l <space> l o o k <space> o u t ? 

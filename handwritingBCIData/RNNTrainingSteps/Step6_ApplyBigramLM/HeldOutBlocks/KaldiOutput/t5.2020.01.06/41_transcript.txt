@@ -1,0 +1,128 @@
+41-1  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-2  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-3 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-4  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-5  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s . 
+41-6 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-7  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-8  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-9  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-10  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-11 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-12  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s . 
+41-13  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s . 
+41-14  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-15 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s . 
+41-16  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s . 
+41-17  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s 
+41-18  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-19  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s . 
+41-20 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-21 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-22 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-23  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-24 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-25  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> n <space> m i c r o w a v e <space> o v e n s . 
+41-26  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o u r <space> m i c r o w a v e <space> o v e n s . 
+41-27  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> r r <space> m i c r o w a v e <space> o v e n s . 
+41-28 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-29  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-30  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s 
+41-31  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s 
+41-32 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s . 
+41-33  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-34  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s . 
+41-35  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s 
+41-36 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s . 
+41-37 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-38 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s . 
+41-39 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-40  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s 
+41-41  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-42 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s 
+41-43 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-44 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s . 
+41-45  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-46  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s 
+41-47  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-48  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-49 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-50  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-51  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s 
+41-52 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> n <space> m i c r o w a v e <space> o v e n s . 
+41-53 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o u r <space> m i c r o w a v e <space> o v e n s . 
+41-54 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-55 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> r r <space> m i c r o w a v e <space> o v e n s . 
+41-56 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-57 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s 
+41-58  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-59 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s 
+41-60  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> n <space> m i c r o w a v e <space> o v e n s 
+41-61  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o u r <space> m i c r o w a v e <space> o v e n s 
+41-62  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> r r <space> m i c r o w a v e <space> o v e n s 
+41-63  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s . 
+41-64 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s . 
+41-65 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-66  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s . 
+41-67  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-68 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s . 
+41-69  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-70 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s 
+41-71  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s . 
+41-72  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-73  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s 
+41-74  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s . 
+41-75 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s 
+41-76 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-77 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-78 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-79 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-80 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-81 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s 
+41-82 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-83  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s . 
+41-84 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-85  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-86 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-87  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-88  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> n <space> m i c r o w a v e <space> o v e n s . 
+41-89  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o u r <space> m i c r o w a v e <space> o v e n s . 
+41-90  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> r r <space> m i c r o w a v e <space> o v e n s . 
+41-91 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-92 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s 
+41-93  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-94  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s 
+41-95  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s 
+41-96  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s . 
+41-97 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s 
+41-98 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s . 
+41-99 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> n <space> m i c r o w a v e <space> o v e n s 
+41-100  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s . 
+41-101 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o u r <space> m i c r o w a v e <space> o v e n s 
+41-102 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> r r <space> m i c r o w a v e <space> o v e n s 
+41-103 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s . 
+41-104  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s . 
+41-105  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s . 
+41-106 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s . 
+41-107 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 
+41-108  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> m <space> m i c r o w a v e <space> o v e n s 
+41-109 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s . 
+41-110 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s . 
+41-111 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s . 
+41-112  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s . 
+41-113 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s . 
+41-114  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> n <space> m i c r o w a v e <space> o v e n s . 
+41-115 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s . 
+41-116  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s . 
+41-117 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s 
+41-118 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s 
+41-119 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> a <space> m i c r o w a v e <space> o v e n s . 
+41-120 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s . 
+41-121  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> i <space> m i c r o w a v e <space> o v e n s 
+41-122  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> w <space> m i c r o w a v e <space> o v e n s 
+41-123 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r r <space> m i c r o w a v e <space> o v e n s 
+41-124  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> a <space> t e l e v i s i o n s <space> o r <space> r <space> m i c r o w a v e <space> o v e n s 
+41-125 , <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s . 
+41-126  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> e <space> m i c r o w a v e <space> o v e n s . 
+41-127  w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> t <space> t e l e v i s i o n s <space> o r <space> d <space> m i c r o w a v e <space> o v e n s 
+41-128 ' <space> w e <space> m u s t <space> l e a r n <space> t o <space> l i v e <space> w i t h o u t <space> d <space> t e l e v i s i o n s <space> o r <space> m i c r o w a v e <space> o v e n s . 

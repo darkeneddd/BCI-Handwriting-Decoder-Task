@@ -1,0 +1,6 @@
+90-1  s t a y <space> h o m e 
+90-2  s t a y <space> h o m e . 
+90-3 , <space> s t a y <space> h o m e 
+90-4 , <space> s t a y <space> h o m e . 
+90-5 ' <space> s t a y <space> h o m e 
+90-6 ' <space> s t a y <space> h o m e . 

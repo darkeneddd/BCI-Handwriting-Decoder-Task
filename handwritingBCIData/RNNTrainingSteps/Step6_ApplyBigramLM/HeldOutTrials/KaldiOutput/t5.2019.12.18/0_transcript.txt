@@ -1,0 +1,24 @@
+0-1  h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-2  n o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-3 , <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-4  h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-5  s h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-6 , <space> n o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-7  n o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-8  h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-9 ' <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-10 , <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-11  n o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-12  s h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-13 , <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-14 , <space> n o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-15  h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-16 ' <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-17  s h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-18 , <space> n o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-19  n o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-20 ' <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? 
+0-21 , <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-22  s h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-23 , <space> n o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 
+0-24 ' <space> h o w <space> a r e <space> c o m m u n i t y <space> c a r e e r <space> s e r v i c e s <space> c u r r e n t l y <space> o r g a n i z e d ? ? 

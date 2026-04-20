@@ -1,0 +1,3 @@
+20-1  s p e n c e r <space> s m i l e d <space> a n d <space> t u r n e d <space> b a c k <space> i n t o <space> t h e <space> r o o m . 
+20-2 , <space> s p e n c e r <space> s m i l e d <space> a n d <space> t u r n e d <space> b a c k <space> i n t o <space> t h e <space> r o o m . 
+20-3 ' <space> s p e n c e r <space> s m i l e d <space> a n d <space> t u r n e d <space> b a c k <space> i n t o <space> t h e <space> r o o m . 

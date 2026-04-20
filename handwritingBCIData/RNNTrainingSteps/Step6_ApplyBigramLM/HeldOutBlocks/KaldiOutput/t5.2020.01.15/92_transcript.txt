@@ -1,0 +1,128 @@
+92-1  m i s s <space> t h e <space> b u s s 
+92-2  m i s s <space> t h e <space> b u g s 
+92-3  m i s s <space> t h e <space> b u s 
+92-4  m i s s <space> t e e <space> b u s s 
+92-5  m i s s <space> t h e <space> b u s e s 
+92-6  m i s s <space> t e e <space> b u g s 
+92-7 , <space> m i s s <space> t h e <space> b u s s 
+92-8  m i s s <space> t h e e <space> b u s s 
+92-9  m i s s <space> t h e <space> b u s . 
+92-10 , <space> m i s s <space> t h e <space> b u g s 
+92-11 , <space> m i s s <space> t h e <space> b u s 
+92-12  m i s s <space> t h r e e <space> b u s s 
+92-13  m i s s <space> t e e <space> b u s 
+92-14  m i s s <space> t h e e <space> b u g s 
+92-15 , <space> m i s s <space> t e e <space> b u s s 
+92-16  m i s s <space> t h e <space> b u n s 
+92-17  m i s s <space> t h e s e <space> b u g s 
+92-18  m i s s <space> t h e <space> b a s s 
+92-19 , <space> m i s s <space> t h e <space> b u s e s 
+92-20  m i s s <space> t h e <space> b o s s 
+92-21 , <space> m i s s <space> t e e <space> b u g s 
+92-22  m i s s <space> t e e n <space> b u s s 
+92-23  m i s s <space> t e e <space> b u s e s 
+92-24 ' <space> m i s s <space> t h e <space> b u s s 
+92-25  m i s s <space> t h e <space> b u c s 
+92-26  m i s s <space> t h e <space> b u d s 
+92-27  m i s s <space> t h e e <space> b u s 
+92-28 , <space> m i s s <space> t h e e <space> b u s s 
+92-29 , <space> m i s s <space> t h e <space> b u s . 
+92-30  m i s s <space> t e e <space> b u y s 
+92-31  m i s s <space> t e e <space> b u s . 
+92-32 ' <space> m i s s <space> t h e <space> b u g s 
+92-33  m i s s <space> t e e <space> b u n s 
+92-34 ' <space> m i s s <space> t h e <space> b u s 
+92-35  m i s s <space> t h e e <space> b o s s 
+92-36  m i s s e s <space> t h e <space> b u s s 
+92-37  m i s s <space> t h e <space> b u s s . 
+92-38  m i s s <space> t r e e <space> b u s s 
+92-39  m i s s <space> t e e n <space> b u g s 
+92-40 ' <space> m i s s <space> t e e <space> b u s s 
+92-41  m i s s <space> t h r e e <space> b u g s 
+92-42  m i s s <space> t h e s e <space> b u s s 
+92-43 , <space> m i s s <space> t h r e e <space> b u s s 
+92-44 , <space> m i s s <space> t e e <space> b u s 
+92-45  m i s s <space> t e e <space> b a s s 
+92-46  m i s s <space> t e <space> b u s s 
+92-47  m i s s <space> t e e <space> b u d s 
+92-48  m i s s <space> t h e <space> b u s <space> s 
+92-49  m i s s <space> t h e <space> b r a s s 
+92-50 , <space> m i s s <space> t h e e <space> b u g s 
+92-51  m i s s <space> t h e <space> b u y s 
+92-52  m i s s e s <space> t h e <space> b u g s 
+92-53  m i s s <space> t h e e <space> b u s e s 
+92-54  m i s s <space> t h e <space> b u s t s 
+92-55  m i s s e s <space> t h e <space> b u s 
+92-56  m i s s <space> t h e <space> b u s h 
+92-57  m i s s <space> t e e <space> b o s s 
+92-58 , <space> m i s s <space> t h e <space> b u n s 
+92-59 ' <space> m i s s <space> t h e <space> b u s e s 
+92-60 , <space> m i s s <space> t h e s e <space> b u g s 
+92-61  m i s s <space> t h e <space> b u l l s 
+92-62  m i s s <space> t r e e <space> b u g s 
+92-63  m i s s <space> t h e <space> b u g 
+92-64  m i s s <space> t h r e e <space> b u s 
+92-65  m i s s <space> t h e e <space> b u y s 
+92-66  m i s s <space> t e e <space> b u s s . 
+92-67  m i s s <space> t h e e <space> b u s . 
+92-68  m i s s <space> t h e <space> e <space> b u s s 
+92-69  m i s s <space> t e e <space> b u s t s 
+92-70  m i s s e s <space> t e e <space> b u s s 
+92-71 ' <space> m i s s <space> t e e <space> b u g s 
+92-72 , <space> m i s s <space> t h e <space> b a s s 
+92-73  m i s s <space> t h r e e <space> b u s e s 
+92-74  m i s s <space> t h e e <space> b u n s 
+92-75  m i s s <space> t h e s e <space> b u s 
+92-76  m i s s <space> t h e <space> b u s t 
+92-77  m i s s <space> t e e n <space> b u s 
+92-78 , <space> m i s s <space> t h e <space> b o s s 
+92-79  m i s s <space> t e <space> b u g s 
+92-80 , <space> m i s s <space> t e e n <space> b u s s 
+92-81 , <space> m i s s <space> t e e <space> b u s e s 
+92-82 , <space> m i s s <space> t h e <space> b u c s 
+92-83 ' <space> m i s s <space> t h e e <space> b u s s 
+92-84 ' <space> m i s s <space> t h e <space> b u s . 
+92-85 , <space> m i s s <space> t h e <space> b u d s 
+92-86 , <space> m i s s <space> t h e e <space> b u s 
+92-87 , <space> m i s s <space> t e e <space> b u y s 
+92-88  m i s s e s <space> t e e <space> b u g s 
+92-89 , <space> m i s s <space> t e e <space> b u s . 
+92-90 , <space> m i s s <space> t e e <space> b u n s 
+92-91 , <space> m i s s <space> t h e e <space> b o s s 
+92-92 ' <space> m i s s <space> t h r e e <space> b u s s 
+92-93 ' <space> m i s s <space> t e e <space> b u s 
+92-94 , <space> m i s s <space> t h e <space> b u s s . 
+92-95 , <space> m i s s <space> t r e e <space> b u s s 
+92-96 , <space> m i s s <space> t e e n <space> b u g s 
+92-97  m i s s e s <space> t h e <space> b u s . 
+92-98 ' <space> m i s s <space> t h e e <space> b u g s 
+92-99 , <space> m i s s <space> t h r e e <space> b u g s 
+92-100 , <space> m i s s <space> t h e s e <space> b u s s 
+92-101 , <space> m i s s <space> t e e <space> b a s s 
+92-102 , <space> m i s s <space> t e <space> b u s s 
+92-103 , <space> m i s s <space> t e e <space> b u d s 
+92-104 , <space> m i s s <space> t h e <space> b u s <space> s 
+92-105 , <space> m i s s <space> t h e <space> b r a s s 
+92-106 , <space> m i s s <space> t h e <space> b u y s 
+92-107 ' <space> m i s s <space> t h e <space> b u n s 
+92-108 , <space> m i s s <space> t h e e <space> b u s e s 
+92-109 , <space> m i s s <space> t h e <space> b u s t s 
+92-110 ' <space> m i s s <space> t h e s e <space> b u g s 
+92-111 , <space> m i s s <space> t h e <space> b u s h 
+92-112 , <space> m i s s <space> t e e <space> b o s s 
+92-113 ' <space> m i s s <space> t h e <space> b a s s 
+92-114  m i s s e s <space> t e e <space> b u s 
+92-115 , <space> m i s s <space> t h e <space> b u l l s 
+92-116 , <space> m i s s <space> t r e e <space> b u g s 
+92-117 , <space> m i s s <space> t h e <space> b u g 
+92-118 ' <space> m i s s <space> t h e <space> b o s s 
+92-119 , <space> m i s s <space> t h r e e <space> b u s 
+92-120 , <space> m i s s <space> t h e e <space> b u y s 
+92-121 , <space> m i s s <space> t e e <space> b u s s . 
+92-122 , <space> m i s s <space> t h e e <space> b u s . 
+92-123 , <space> m i s s <space> t h e <space> e <space> b u s s 
+92-124 , <space> m i s s <space> t e e <space> b u s t s 
+92-125 , <space> m i s s <space> t h r e e <space> b u s e s 
+92-126 , <space> m i s s <space> t h e e <space> b u n s 
+92-127 ' <space> m i s s <space> t e e n <space> b u s s 
+92-128 , <space> m i s s <space> t h e s e <space> b u s 

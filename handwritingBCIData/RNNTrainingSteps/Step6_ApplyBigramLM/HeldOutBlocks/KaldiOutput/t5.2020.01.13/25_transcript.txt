@@ -1,0 +1,128 @@
+25-1  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v o w . 
+25-2  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w . 
+25-3  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n . 
+25-4 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v o w . 
+25-5  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> r o w . 
+25-6 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w . 
+25-7  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> l o w . 
+25-8  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . 
+25-9  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v o w . 
+25-10  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w . 
+25-11  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v w . 
+25-12  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n 
+25-13  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> w o w . 
+25-14  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> c o w . 
+25-15  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> t o w . 
+25-16 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n . 
+25-17 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> r o w . 
+25-18  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> b o w . 
+25-19 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> l o w . 
+25-20  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v o w . 
+25-21  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n . 
+25-22  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w . 
+25-23 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . 
+25-24 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v o w . 
+25-25 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v o w . 
+25-26  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> r o w . 
+25-27 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w . 
+25-28 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w . 
+25-29  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> l o w . 
+25-30  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> d o w . 
+25-31  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> h o w . 
+25-32 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v w . 
+25-33 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n 
+25-34 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> w o w . 
+25-35  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . . 
+25-36 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> c o w . 
+25-37 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> t o w . 
+25-38  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> n o w . 
+25-39 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> b o w . 
+25-40  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n . 
+25-41  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v w . 
+25-42  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n 
+25-43  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> w o w . 
+25-44  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> c o w . 
+25-45 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v o w . 
+25-46  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> t o w . 
+25-47  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> r o w . 
+25-48 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n . 
+25-49 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n . 
+25-50 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w . 
+25-51  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> l o w . 
+25-52 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> r o w . 
+25-53 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> r o w . 
+25-54  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> b o w . 
+25-55 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> l o w . 
+25-56 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> l o w . 
+25-57 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> d o w . 
+25-58 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> h o w . 
+25-59  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . 
+25-60  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v o w . 
+25-61 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . . 
+25-62  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w . 
+25-63 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> n o w . 
+25-64 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . 
+25-65  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v w . 
+25-66 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v o w . 
+25-67  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n 
+25-68  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> w o w . 
+25-69 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w . 
+25-70  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> c o w . 
+25-71  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> d o w . 
+25-72  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> t o w . 
+25-73  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> h o w . 
+25-74 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n . 
+25-75 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v w . 
+25-76 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v w . 
+25-77 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n 
+25-78 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n 
+25-79 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> w o w . 
+25-80 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> w o w . 
+25-81  s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> n o w . . 
+25-82 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> c o w . 
+25-83 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> c o w . 
+25-84 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> t o w . 
+25-85 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> t o w . 
+25-86 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> r o w . 
+25-87  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> b o w . 
+25-88 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> l o w . 
+25-89 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> b o w . 
+25-90 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> b o w . 
+25-91  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n . 
+25-92 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . 
+25-93 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v o w . 
+25-94 ' <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v o w . 
+25-95  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> r o w . 
+25-96 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n . 
+25-97 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w . 
+25-98 ' <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w . 
+25-99  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> l o w . 
+25-100  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> d o w . 
+25-101  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> h o w . 
+25-102 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> v w . 
+25-103 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n 
+25-104 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> r o w . 
+25-105 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> w o w . 
+25-106  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . . 
+25-107 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> l o w . 
+25-108 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> c o w . 
+25-109 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> d o w . 
+25-110 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> d o w . 
+25-111 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> t o w . 
+25-112 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> h o w . 
+25-113 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> h o w . 
+25-114  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> n o w . 
+25-115 , <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> n o w . . 
+25-116 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> n o w . . 
+25-117 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> n o w . 
+25-118 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> b o w . 
+25-119  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v w . 
+25-120  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n 
+25-121  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> w o w . 
+25-122  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> c o w . 
+25-123  s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> t o w . 
+25-124 , <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n . 
+25-125 ' <space> s p h i n x <space> o f f <space> b l a c k <space> q u a r t z , <space> j u d g e <space> m y <space> o w n . 
+25-126 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> v w . 
+25-127 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> o w n 
+25-128 ' <space> s p h i n x <space> o f <space> b l a c k <space> q u a r t z , , <space> j u d g e <space> m y <space> w o w . 
